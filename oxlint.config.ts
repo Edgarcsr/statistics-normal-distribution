@@ -6,5 +6,10 @@ import tanstack from 'ultracite/oxlint/tanstack'
 export default defineConfig({
   env: core.env,
   extends: [core, react, tanstack],
-  ignorePatterns: core.ignorePatterns,
+  ignorePatterns: [
+    ...(core.ignorePatterns ?? []),
+    'src/components/ui/**',
+    'src/hooks/**',
+    '.claude/**',
+  ],
 })
