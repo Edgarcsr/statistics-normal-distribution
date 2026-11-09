@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Banner</title>
+    <style>
+      :root {
+        --bg: #070707;
+        --fg: #ffffff;
+        --muted: #9a9a9a;
+        --accent: #f2b441;
+        --app-bg: #141415;
+        --app-panel: #0f0f10;
+        --app-card: #19191b;
+        --app-border: rgb(237 237 237 / 0.08);
+        --app-fg: #ededed;
+        --app-muted: #85858b;
+        --app-accent: #f2b441;
+        --font: 'Geist', system-ui, sans-serif;
+      }
+
+      @font-face {
+        font-family: 'Geist';
+        font-weight: 100 900;
+        src: url('./fonts/geist.woff2') format('woff2');
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+      }
+
+      html,
+      body {
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+        background: transparent;
+        color: var(--fg);
+        font-family: var(--font);
+      }
+
+      .banner {
+        position: relative;
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+        background: var(--bg);
+        border-radius: 16px;
+      }
+
+      #art {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+      }
+
+      .glow {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+        background:
+          radial-gradient(
+            55% 75% at 85% 30%,
+            rgb(160 100 10 / 0.35),
+            transparent 70%
+          ),
+          radial-gradient(
+            40% 50% at 95% 90%,
+            rgb(90 60 10 / 0.25),
+            transparent 70%
+          );
+      }
+
+      .brand {
+        position: absolute;
+        z-index: 2;
+        top: 66px;
+        left: 66px;
+        display: flex;
+        align-items: center;
+        gap: 18px;
+      }
+
+      .logo {
+        width: 56px;
+        height: 56px;
+        border-radius: 14px;
+        background: #f4f4f5;
+        color: #141415;
+        display: grid;
+        place-items: center;
+      }
+
+      .brand-name {
+        font-size: 44px;
+        font-weight: 600;
+        letter-spacing: -0.02em;
+        color: var(--accent);
+      }
+
+      .title {
+        position: absolute;
+        z-index: 2;
+        top: 138px;
+        left: 66px;
+        width: 700px;
+        font-size: 66px;
+        line-height: 1.12;
+        font-weight: 500;
+        letter-spacing: -0.03em;
+      }
+
+      .mockup {
+        position: absolute;
+        z-index: 3;
+        left: 56px;
+        top: 372px;
+        width: 1180px;
+        height: 420px;
+        border-radius: 30px 0 0 0;
+        border: 7px solid rgb(255 255 255 / 0.16);
+        border-bottom: 0;
+        border-right: 0;
+        background: var(--app-panel);
+        background-clip: padding-box;
+        padding: 4px 0 0 4px;
+        box-shadow:
+          0 0 0 1px rgb(255 255 255 / 0.07),
+          0 -20px 80px rgb(0 0 0 / 0.55);
+        font-size: 13px;
+        color: var(--app-fg);
+      }
+
+      .app {
+        display: grid;
+        grid-template-columns: 200px 1fr;
+        gap: 10px;
+        height: 100%;
+      }
+
+      .side {
+        padding: 14px 12px;
+      }
+
+      .side-head {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 14px;
+      }
+
+      .side-logo {
+        width: 28px;
+        height: 28px;
+        border-radius: 8px;
+        background: #f4f4f5;
+        color: #141415;
+        display: grid;
+        place-items: center;
+      }
+
+      .side-title {
+        font-weight: 500;
+        line-height: 1.2;
+      }
+
+      .side-title small {
+        display: block;
+        font-size: 11px;
+        color: var(--app-muted);
+        font-weight: 400;
+      }
+
+      .side-label {
+        font-size: 11px;
+        color: var(--app-muted);
+        margin: 10px 8px 4px;
+      }
+
+      .side-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 6px 8px;
+        border-radius: 8px;
+        color: #c9c9cc;
+      }
+
+      .side-item.active {
+        background: #232325;
+        color: var(--app-fg);
+      }
+
+      .dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        margin: 0 4px;
+      }
+
+      .main {
+        background: var(--app-bg);
+        border-radius: 18px 18px 0 0;
+        padding: 18px 28px;
+        overflow: hidden;
+      }
+
+      .page-title {
+        font-size: 24px;
+        font-weight: 400;
+        letter-spacing: -0.02em;
+        margin-bottom: 12px;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+        margin-bottom: 10px;
+      }
+
+      .stat {
+        background: var(--app-card);
+        border: 1px solid var(--app-border);
+        border-radius: 14px;
+        padding: 12px 14px;
+      }
+
+      .stat span {
+        display: block;
+        font-size: 12px;
+        color: var(--app-muted);
+        margin-bottom: 6px;
+      }
+
+      .stat b {
+        font-size: 22px;
+        font-weight: 500;
+      }
+
+      .chart {
+        background: var(--app-card);
+        border: 1px solid var(--app-border);
+        border-radius: 14px;
+        padding: 10px 14px 0;
+      }
+
+      .chart svg {
+        display: block;
+        width: 100%;
+        height: 150px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="banner">
+      <div class="glow"></div>
+      <canvas id="art" width="1200" height="630"></canvas>
+
+      <div class="brand">
+        <div class="logo">
+          <svg
+            width="30"
+            height="30"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path
+              d="M18 7V5a1 1 0 0 0-1-1H6.5a.5.5 0 0 0-.4.8l4.5 6a2 2 0 0 1 0 2.4l-4.5 6a.5.5 0 0 0 .4.8H17a1 1 0 0 0 1-1v-2"
+            />
+          </svg>
+        </div>
+        <div class="brand-name">Bell</div>
+      </div>
+      <h1 class="title">Qual a chance de um cliente gastar mais?</h1>
+
+      <div class="mockup">
+        <div class="app">
+          <aside class="side">
+            <div class="side-head">
+              <div class="side-logo">
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path
+                    d="M18 7V5a1 1 0 0 0-1-1H6.5a.5.5 0 0 0-.4.8l4.5 6a2 2 0 0 1 0 2.4l-4.5 6a.5.5 0 0 0 .4.8H17a1 1 0 0 0 1-1v-2"
+                  />
+                </svg>
+              </div>
+              <div class="side-title">Bell<small>Statistics</small></div>
+            </div>
+            <div class="side-label">Problemas</div>
+            <div class="side-item">
+              <span class="dot" style="background: #f2b441"></span>Cafeterias
+            </div>
+            <div class="side-item">
+              <span class="dot" style="background: #4ade80"></span>Academias
+            </div>
+            <div class="side-item active">
+              <span class="dot" style="background: #f472b6"></span>Streaming
+            </div>
+            <div class="side-item">
+              <span class="dot" style="background: #60a5fa"></span>Smartphones
+            </div>
+            <div class="side-item">
+              <span class="dot" style="background: #a78bfa"></span>Supermercado
+            </div>
+          </aside>
+          <main class="main">
+            <div class="page-title">
+              Streaming: qual a chance de um cliente gastar mais que um valor?
+            </div>
+            <div class="stats">
+              <div class="stat"><span>Média (μ)</span><b>R$ 172,72</b></div>
+              <div class="stat">
+                <span>Desvio padrão (σ)</span><b>R$ 27,63</b>
+              </div>
+              <div class="stat"><span>Escore Z</span><b>0,99</b></div>
+              <div class="stat"><span>P(X &gt; 200)</span><b>16,18%</b></div>
+            </div>
+            <div class="chart">
+              <svg
+                id="chart"
+                viewBox="0 0 700 150"
+                preserveAspectRatio="none"
+              ></svg>
+            </div>
+          </main>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // Histograma + curva normal + área P(X > x), como no gráfico do site.
+      ;(() => {
+        const W = 700
+        const H = 150
+        const pdf = (x) => Math.exp(-0.5 * x * x)
+        const px = (x) => ((x + 3.5) / 7) * W
+        const py = (d) => H - 4 - d * (H - 14)
+        const limite = 0.99
+        let bars = ''
+        const bins = 24
+        for (let i = 0; i < bins; i += 1) {
+          const x = -3.5 + ((i + 0.5) * 7) / bins
+          const d = pdf(x) * (1 + 0.08 * Math.sin(i * 2.3))
+          bars += `<rect x="${(i * W) / bins + 1}" y="${py(d)}" width="${W / bins - 2}" height="${H - 4 - py(d)}" fill="#85858b" fill-opacity="0.35"/>`
+        }
+        let curve = ''
+        let area = `${px(limite)},${py(0)} `
+        for (let i = 0; i <= 120; i += 1) {
+          const x = -3.5 + (i * 7) / 120
+          curve += `${px(x)},${py(pdf(x))} `
+          if (x >= limite) {
+            area += `${px(x)},${py(pdf(x))} `
+          }
+        }
+        area += `${px(3.5)},${py(0)}`
+        document.getElementById('chart').innerHTML =
+          bars +
+          `<polygon points="${area}" fill="#f472b6" fill-opacity="0.4"/>` +
+          `<polyline points="${curve}" fill="none" stroke="#ededed" stroke-width="2"/>` +
+          `<line x1="${px(limite)}" x2="${px(limite)}" y1="0" y2="${H - 4}" stroke="#f472b6" stroke-width="2"/>`
+      })()
+
+      // Arte: uma curva normal (sino) pontilhada, ligada ao tema do projeto.
+      window.BANNER_ART = {
+        style: 'shape',
+        shapePath: 'M0 60 C 22 60, 30 4, 50 4 C 70 4, 78 60, 100 60 Z',
+        shapeSize: [100, 60],
+        palette: ['#1a0f00', '#6b3f00', '#d98a12', '#ffe2a3'],
+        cx: 990,
+        cy: 205,
+        radius: 220,
+        cell: 3,
+      }
+    </script>
+    <script src="./dither.js"></script>
+  </body>
+</html>

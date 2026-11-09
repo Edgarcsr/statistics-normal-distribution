@@ -1,3 +1,15 @@
+<p align="center">
+  <img alt="Bell — qual a chance de um cliente gastar mais?" src="assets/banner/banner.png" />
+</p>
+
+<p align="center">
+  <img alt="React 19" src="https://shieldcn.dev/badge/React-19-f2b441.svg?variant=outline&amp;logo=react" />
+  <img alt="TypeScript 6" src="https://shieldcn.dev/badge/TypeScript-6-f2b441.svg?variant=outline&amp;logo=typescript" />
+  <img alt="Vite 8" src="https://shieldcn.dev/badge/Vite-8-f2b441.svg?variant=outline&amp;logo=vite" />
+  <img alt="Tailwind CSS 4" src="https://shieldcn.dev/badge/Tailwind_CSS-4-f2b441.svg?variant=outline&amp;logo=tailwindcss" />
+  <img alt="TanStack Router" src="https://shieldcn.dev/badge/TanStack_Router-1.170-f2b441.svg?variant=outline&amp;logo=reactrouter" />
+</p>
+
 # Distribuição normal: gasto mensal de clientes
 
 Trabalho de estatística sobre **distribuição normal**. O site responde, para cada setor pesquisado, a pergunta:
@@ -49,4 +61,5 @@ React 19, TanStack Router, Vite, Tailwind v4, shadcn/ui (Base UI) e Ultracite (o
 ## Skills usadas
 
 - **[unslop](https://github.com/heydamir/unslop)** (`.claude/skills/unslop`): guia o visual da interface (paleta grafite com um acento âmbar, tipografia Geist, sem enfeites de "UI genérica de IA").
+- **[banner](https://github.com/Edgarcsr/banner-skill)**: gerou o banner do topo (`assets/banner/`). Para refazer: `cd assets/banner && bun build.ts` e renderizar o `banner.html` com a skill.
 - **Ultracite** (`AGENTS.md`): regras de código e lint do projeto.
