@@ -1,0 +1,1201 @@
+﻿id,idade,genero,regiao,escolaridade,estado_civil,renda_mensal,classe_social,frequencia_uso_mes,gasto_mensal,canal_preferido,tempo_cliente_meses,programa_fidelidade,satisf_qualidade,satisf_preco,confianca_marca,influencia_redes_sociais,intencao_compra_futura,nps_recomendacao,modalidade_principal
+1,41,Masculino,Ferrazópolis,Superior completo,Casado(a),2190.00,D,14,214.57,Site,37,Sim,5,2,3,4,4,6,Musculação
+2,64,Feminino,Ferrazópolis,Pós-graduação,União estável,5370.00,C,15,350.03,Site,49,Não,3,5,3,3,3,5,Musculação
+3,40,Masculino,Nova Petrópolis,Fundamental,União estável,3410.00,C,9,287.98,Indicação,28,Não,3,2,4,5,3,6,Natação
+4,62,Masculino,Taboão,Superior completo,Casado(a),4010.00,C,6,278.71,Site,23,Sim,4,2,4,2,3,7,Natação
+5,53,Feminino,Jardim do Mar,Fundamental,Divorciado(a),2600.00,D,22,210.01,Unidade,24,Não,5,1,4,2,4,6,Pilates
+6,24,Masculino,Jardim do Mar,Superior completo,Divorciado(a),3520.00,C,15,264.43,Site,54,Não,3,2,2,4,2,4,Funcional
+7,66,Feminino,Jardim do Mar,Pós-graduação,Casado(a),6020.00,B,11,284.08,Unidade,15,Não,4,1,3,3,3,4,Funcional
+8,49,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),1510.00,D,12,227.98,Unidade,71,Sim,4,2,3,3,4,5,Musculação
+9,48,Feminino,Rudge Ramos,Fundamental,Casado(a),1790.00,D,12,198.90,Site,16,Sim,3,2,3,2,2,3,Crossfit
+10,54,Masculino,Ferrazópolis,Médio,Casado(a),2520.00,D,12,215.12,App,30,Não,3,1,4,2,3,6,Natação
+11,20,Feminino,Paulicéia,Superior incompleto,Divorciado(a),2800.00,D,6,216.84,App,72,Sim,4,1,5,4,4,7,Pilates
+12,31,Masculino,Baeta Neves,Superior completo,Casado(a),1300.00,D,15,167.35,Site,3,Sim,4,4,4,3,3,7,Crossfit
+13,60,Masculino,Rudge Ramos,Superior incompleto,Divorciado(a),1710.00,D,10,152.26,Unidade,25,Sim,3,3,3,2,3,6,Pilates
+14,51,Outro,Bairro Assunção,Superior incompleto,União estável,2880.00,D,9,239.09,Unidade,62,Sim,4,2,5,3,4,7,Pilates
+15,38,Masculino,Rudge Ramos,Superior completo,Casado(a),4890.00,C,7,236.12,App,23,Sim,3,3,3,2,3,3,Pilates
+16,42,Masculino,Rudge Ramos,Pós-graduação,Divorciado(a),2940.00,D,6,261.17,Unidade,20,Sim,5,1,2,4,3,5,Pilates
+17,50,Feminino,Rudge Ramos,Superior completo,Casado(a),2410.00,D,16,229.52,Site,1,Sim,4,2,3,5,3,2,Musculação
+18,43,Feminino,Demarchi,Fundamental,Casado(a),2800.00,D,9,250.48,Site,11,Sim,5,2,2,3,4,6,Natação
+19,42,Masculino,Demarchi,Fundamental,Casado(a),1900.00,D,12,226.53,Indicação,15,Sim,2,2,2,3,2,1,Musculação
+20,47,Masculino,Nova Petrópolis,Médio,União estável,3760.00,C,12,267.04,Unidade,64,Sim,4,3,4,3,4,8,Pilates
+21,32,Feminino,Demarchi,Médio,Divorciado(a),2160.00,D,15,244.77,Site,40,Sim,4,2,3,3,2,1,Pilates
+22,48,Masculino,Ferrazópolis,Superior completo,Casado(a),1960.00,D,12,213.74,Unidade,17,Sim,4,1,3,2,3,4,Musculação
+23,54,Feminino,Centro,Pós-graduação,Solteiro(a),7070.00,B,17,344.77,Site,59,Sim,3,5,2,5,3,4,Crossfit
+24,55,Masculino,Bairro Assunção,Superior incompleto,Casado(a),5140.00,C,9,338.34,Unidade,44,Não,4,4,4,3,4,7,Crossfit
+25,50,Feminino,Bairro Assunção,Pós-graduação,União estável,2390.00,D,13,261.00,Site,23,Sim,5,2,3,3,3,4,Crossfit
+26,41,Masculino,Centro,Superior incompleto,União estável,3330.00,C,12,235.44,Unidade,19,Sim,3,1,4,3,2,3,Crossfit
+27,52,Feminino,Rudge Ramos,Superior completo,Viúvo(a),2830.00,D,11,278.78,Unidade,16,Sim,5,1,4,3,4,8,Crossfit
+28,56,Feminino,Paulicéia,Superior completo,Casado(a),4410.00,C,14,290.32,App,52,Não,4,5,5,1,4,8,Pilates
+29,34,Masculino,Taboão,Médio,Casado(a),1620.00,D,13,176.53,App,52,Sim,4,2,3,4,3,4,Musculação
+30,43,Feminino,Rudge Ramos,Superior completo,Solteiro(a),4690.00,C,21,305.98,Indicação,47,Não,4,4,5,3,4,6,Musculação
+31,53,Feminino,Paulicéia,Superior incompleto,Casado(a),5000.00,C,10,365.50,Unidade,33,Sim,4,2,4,3,3,3,Pilates
+32,53,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),1910.00,D,7,273.62,Indicação,37,Sim,5,2,4,3,4,7,Crossfit
+33,44,Masculino,Rudge Ramos,Médio,União estável,2580.00,D,11,234.30,App,65,Sim,4,2,5,4,3,7,Pilates
+34,31,Masculino,Bairro Assunção,Médio,Solteiro(a),4100.00,C,16,293.15,Unidade,40,Sim,3,3,2,4,2,2,Musculação
+35,66,Feminino,Jardim do Mar,Pós-graduação,União estável,2490.00,D,16,226.66,Indicação,45,Não,3,2,3,4,3,3,Crossfit
+36,46,Feminino,Nova Petrópolis,Superior completo,Casado(a),2370.00,D,12,238.90,Site,17,Não,3,1,2,4,2,4,Crossfit
+37,46,Masculino,Paulicéia,Fundamental,Solteiro(a),3010.00,C,19,204.16,Indicação,33,Sim,2,2,1,3,2,0,Musculação
+38,42,Masculino,Baeta Neves,Superior incompleto,Casado(a),2600.00,D,12,220.74,Unidade,2,Sim,3,2,1,5,2,2,Pilates
+39,58,Masculino,Baeta Neves,Superior completo,Casado(a),1650.00,D,11,182.98,App,34,Não,4,1,4,3,3,5,Musculação
+40,34,Feminino,Taboão,Superior completo,Casado(a),2640.00,D,12,310.06,Unidade,58,Sim,5,1,3,3,4,6,Funcional
+41,67,Masculino,Jardim do Mar,Pós-graduação,Casado(a),8620.00,B,13,361.54,Site,49,Sim,5,3,4,2,4,5,Musculação
+42,21,Outro,Ferrazópolis,Superior completo,Casado(a),7330.00,B,17,386.74,Indicação,65,Sim,3,3,4,4,3,5,Musculação
+43,18,Feminino,Taboão,Fundamental,Solteiro(a),1500.00,D,17,213.82,Indicação,25,Sim,3,4,4,5,4,7,Pilates
+44,45,Masculino,Rudge Ramos,Superior incompleto,União estável,1880.00,D,15,182.05,Indicação,57,Não,3,1,4,3,2,4,Musculação
+45,63,Feminino,Jardim do Mar,Médio,Viúvo(a),2190.00,D,12,216.30,App,53,Sim,1,2,3,5,2,1,Natação
+46,18,Masculino,Rudge Ramos,Fundamental,Casado(a),4500.00,C,11,239.84,App,51,Não,4,1,5,4,4,9,Crossfit
+47,53,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),5430.00,C,9,336.42,Indicação,58,Não,5,3,3,3,4,6,Musculação
+48,38,Masculino,Taboão,Fundamental,Casado(a),4180.00,C,6,236.69,Indicação,34,Sim,4,2,4,2,3,5,Natação
+49,19,Masculino,Baeta Neves,Médio,Solteiro(a),3550.00,C,12,240.97,App,25,Sim,3,3,3,5,3,4,Musculação
+50,37,Feminino,Bairro Assunção,Médio,Viúvo(a),1340.00,D,9,145.13,App,43,Sim,3,3,3,2,3,6,Natação
+51,52,Masculino,Centro,Superior incompleto,Solteiro(a),1900.00,D,3,285.13,Unidade,28,Sim,4,3,2,5,3,3,Natação
+52,51,Feminino,Bairro Assunção,Superior completo,Solteiro(a),2390.00,D,10,241.69,Indicação,50,Sim,5,1,4,3,3,4,Crossfit
+53,62,Feminino,Taboão,Médio,Solteiro(a),2120.00,D,11,194.78,Unidade,63,Sim,4,3,3,1,3,5,Natação
+54,70,Masculino,Centro,Superior completo,Casado(a),2600.00,D,12,286.08,Site,2,Não,5,2,5,4,4,8,Musculação
+55,20,Masculino,Jardim do Mar,Fundamental,Casado(a),1560.00,D,17,196.82,App,45,Sim,4,3,3,4,3,3,Funcional
+56,63,Feminino,Paulicéia,Pós-graduação,Casado(a),5160.00,C,10,319.41,Site,31,Sim,4,5,2,2,4,6,Funcional
+57,18,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),3430.00,C,12,263.60,Indicação,8,Sim,3,5,3,5,2,3,Musculação
+58,69,Feminino,Paulicéia,Superior incompleto,União estável,5390.00,C,8,231.81,Indicação,17,Não,3,1,2,3,3,2,Pilates
+59,59,Feminino,Demarchi,Fundamental,Casado(a),2640.00,D,9,196.82,Indicação,60,Sim,3,2,3,3,1,2,Pilates
+60,68,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),2580.00,D,13,228.68,Site,27,Não,5,1,5,4,4,8,Natação
+61,21,Feminino,Demarchi,Superior completo,Casado(a),3160.00,C,10,273.10,App,7,Não,4,4,4,5,4,6,Crossfit
+62,21,Masculino,Centro,Superior completo,Casado(a),1470.00,D,11,148.80,Indicação,54,Não,1,4,2,5,2,3,Crossfit
+63,70,Feminino,Taboão,Médio,Casado(a),1300.00,D,4,145.47,Site,18,Não,4,3,4,2,4,7,Crossfit
+64,32,Masculino,Paulicéia,Superior incompleto,Solteiro(a),3590.00,C,7,280.09,App,27,Não,5,3,5,4,4,8,Funcional
+65,38,Feminino,Rudge Ramos,Superior incompleto,Casado(a),4350.00,C,7,253.39,Indicação,15,Sim,3,4,2,3,3,4,Pilates
+66,33,Feminino,Centro,Superior completo,Solteiro(a),3140.00,C,9,271.47,Indicação,54,Não,4,2,5,2,4,7,Natação
+67,26,Feminino,Baeta Neves,Médio,Casado(a),1950.00,D,17,282.40,App,67,Sim,4,2,3,4,4,6,Musculação
+68,21,Feminino,Baeta Neves,Superior incompleto,Casado(a),1410.00,D,12,189.93,Indicação,70,Sim,2,2,3,4,1,3,Musculação
+69,25,Masculino,Paulicéia,Pós-graduação,Casado(a),5610.00,C,13,360.13,App,6,Não,5,1,3,5,3,5,Funcional
+70,62,Feminino,Taboão,Superior incompleto,Solteiro(a),3780.00,C,18,203.36,App,67,Sim,4,2,4,1,2,3,Musculação
+71,19,Feminino,Centro,Superior incompleto,Solteiro(a),2910.00,D,15,298.01,Site,46,Sim,4,4,4,5,3,5,Natação
+72,65,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),3890.00,C,10,248.32,Site,60,Sim,3,3,4,2,3,7,Musculação
+73,29,Masculino,Demarchi,Pós-graduação,Casado(a),2730.00,D,17,260.96,Indicação,6,Sim,4,2,5,2,4,8,Pilates
+74,50,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),1750.00,D,10,188.59,Indicação,62,Não,4,2,3,2,3,4,Funcional
+75,31,Feminino,Jardim do Mar,Médio,Casado(a),2660.00,D,13,213.22,Indicação,24,Não,3,2,3,3,2,4,Pilates
+76,65,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1890.00,D,5,210.96,Site,29,Sim,5,2,5,3,4,7,Crossfit
+77,20,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),2690.00,D,14,311.34,Unidade,65,Sim,5,2,4,4,3,5,Musculação
+78,55,Outro,Ferrazópolis,Superior incompleto,Casado(a),6380.00,B,10,299.24,App,53,Sim,4,1,5,1,3,8,Crossfit
+79,67,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),3020.00,C,20,198.62,Unidade,37,Não,4,4,4,2,3,6,Funcional
+80,41,Feminino,Baeta Neves,Pós-graduação,Casado(a),1300.00,D,13,200.11,Unidade,49,Sim,3,4,3,2,3,6,Pilates
+81,41,Feminino,Paulicéia,Médio,Casado(a),1940.00,D,15,238.81,Site,26,Não,5,1,5,4,4,7,Pilates
+82,25,Masculino,Baeta Neves,Fundamental,Casado(a),1310.00,D,13,264.32,App,71,Sim,5,2,5,4,4,7,Natação
+83,64,Feminino,Ferrazópolis,Superior completo,Casado(a),3230.00,C,7,259.34,Unidade,6,Sim,4,5,3,3,4,7,Pilates
+84,68,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),2080.00,D,15,222.60,Unidade,42,Sim,3,1,2,1,3,1,Pilates
+85,44,Masculino,Demarchi,Fundamental,Solteiro(a),2690.00,D,11,231.38,Unidade,4,Sim,2,2,3,3,3,5,Musculação
+86,54,Feminino,Baeta Neves,Pós-graduação,Casado(a),3260.00,C,8,300.61,Unidade,31,Não,4,5,4,5,4,8,Pilates
+87,58,Masculino,Demarchi,Superior incompleto,União estável,2410.00,D,17,271.91,App,37,Sim,4,3,2,3,2,3,Crossfit
+88,36,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2920.00,D,5,265.29,Site,61,Não,5,2,4,3,3,3,Crossfit
+89,18,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3120.00,C,13,242.79,Indicação,68,Sim,5,4,4,3,4,5,Crossfit
+90,24,Feminino,Bairro Assunção,Médio,Casado(a),2170.00,D,11,209.70,App,54,Não,4,3,3,5,3,4,Musculação
+91,65,Feminino,Nova Petrópolis,Superior completo,Casado(a),3120.00,C,11,230.65,Site,70,Sim,4,2,3,4,3,5,Pilates
+92,60,Feminino,Nova Petrópolis,Fundamental,União estável,2340.00,D,8,218.00,Unidade,9,Sim,3,1,3,2,3,5,Musculação
+93,23,Masculino,Baeta Neves,Superior completo,Solteiro(a),3410.00,C,9,181.74,Unidade,38,Sim,5,4,4,3,4,6,Pilates
+94,60,Masculino,Baeta Neves,Fundamental,União estável,2610.00,D,11,225.62,App,43,Sim,4,3,3,3,3,5,Funcional
+95,64,Masculino,Bairro Assunção,Fundamental,Casado(a),3990.00,C,8,260.22,Site,6,Sim,5,3,3,3,4,6,Funcional
+96,46,Feminino,Nova Petrópolis,Médio,Casado(a),1970.00,D,8,282.89,Unidade,43,Sim,5,4,4,4,4,6,Funcional
+97,41,Feminino,Bairro Assunção,Médio,Solteiro(a),2750.00,D,8,236.51,Unidade,4,Sim,3,4,2,5,3,4,Musculação
+98,70,Feminino,Demarchi,Superior completo,Solteiro(a),10600.00,B,9,380.87,Site,46,Não,3,4,5,2,4,6,Funcional
+99,64,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),3810.00,C,9,311.68,App,16,Não,5,3,5,3,4,8,Funcional
+100,38,Feminino,Ferrazópolis,Pós-graduação,Divorciado(a),3490.00,C,11,264.64,App,68,Não,4,1,4,4,4,5,Crossfit
+101,43,Feminino,Baeta Neves,Superior completo,Solteiro(a),1790.00,D,14,224.34,App,24,Não,4,2,3,4,3,5,Crossfit
+102,67,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1760.00,D,12,194.61,Indicação,44,Não,5,1,5,2,4,8,Musculação
+103,66,Masculino,Baeta Neves,Superior completo,Solteiro(a),3310.00,C,12,242.15,Unidade,44,Sim,4,1,4,2,3,5,Funcional
+104,51,Feminino,Ferrazópolis,Superior incompleto,União estável,3690.00,C,15,244.29,Site,63,Não,4,4,5,2,4,8,Pilates
+105,52,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3900.00,C,14,248.45,Indicação,25,Sim,3,4,5,4,4,9,Crossfit
+106,57,Feminino,Paulicéia,Superior incompleto,Casado(a),3440.00,C,15,298.87,Indicação,26,Sim,4,1,2,2,2,1,Musculação
+107,33,Masculino,Demarchi,Pós-graduação,Casado(a),4920.00,C,10,281.24,Unidade,50,Sim,4,3,5,3,3,7,Pilates
+108,66,Masculino,Centro,Médio,União estável,1740.00,D,11,174.02,App,5,Sim,3,2,3,3,3,6,Funcional
+109,33,Masculino,Paulicéia,Pós-graduação,Divorciado(a),4270.00,C,14,225.65,Indicação,40,Sim,4,3,4,2,3,5,Crossfit
+110,62,Feminino,Paulicéia,Superior incompleto,Casado(a),3050.00,C,13,239.45,Indicação,28,Sim,3,1,4,3,3,6,Natação
+111,61,Masculino,Baeta Neves,Superior completo,Solteiro(a),3600.00,C,9,201.87,Indicação,71,Não,4,4,5,1,4,7,Crossfit
+112,33,Feminino,Demarchi,Pós-graduação,Solteiro(a),2910.00,D,9,237.32,Site,39,Não,4,1,5,4,3,7,Funcional
+113,60,Feminino,Centro,Pós-graduação,Solteiro(a),2490.00,D,7,162.31,Unidade,56,Sim,2,1,2,3,2,0,Natação
+114,63,Outro,Taboão,Superior incompleto,Casado(a),1760.00,D,10,226.43,Indicação,60,Sim,5,1,3,3,3,6,Funcional
+115,44,Feminino,Paulicéia,Médio,Solteiro(a),2890.00,D,7,204.55,Indicação,11,Não,5,3,5,3,4,6,Natação
+116,46,Masculino,Jardim do Mar,Fundamental,Casado(a),2800.00,D,11,273.19,Site,46,Sim,5,2,4,4,3,5,Pilates
+117,44,Feminino,Demarchi,Médio,Casado(a),2360.00,D,12,211.56,Unidade,49,Sim,4,1,5,3,3,5,Musculação
+118,20,Feminino,Bairro Assunção,Superior completo,Casado(a),2870.00,D,19,305.75,Indicação,32,Sim,4,3,3,5,3,6,Crossfit
+119,46,Masculino,Bairro Assunção,Superior completo,Solteiro(a),2320.00,D,20,266.18,Indicação,15,Não,4,2,4,4,4,6,Crossfit
+120,53,Feminino,Jardim do Mar,Fundamental,Viúvo(a),2880.00,D,8,229.16,Indicação,34,Sim,5,1,4,1,4,6,Funcional
+121,47,Masculino,Centro,Superior incompleto,Divorciado(a),2930.00,D,12,268.09,App,4,Sim,5,3,3,2,4,7,Pilates
+122,44,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),3040.00,C,12,291.40,Indicação,72,Sim,4,4,3,3,4,6,Pilates
+123,44,Masculino,Centro,Pós-graduação,Solteiro(a),5290.00,C,14,339.59,Unidade,7,Sim,4,3,5,3,3,5,Funcional
+124,46,Masculino,Paulicéia,Pós-graduação,Viúvo(a),4830.00,C,15,258.85,Site,11,Sim,5,3,3,3,3,3,Funcional
+125,67,Feminino,Demarchi,Pós-graduação,União estável,1970.00,D,16,208.20,Indicação,10,Sim,4,4,5,3,3,5,Natação
+126,39,Outro,Baeta Neves,Fundamental,Solteiro(a),2220.00,D,15,217.36,Unidade,15,Não,3,1,3,5,2,5,Crossfit
+127,29,Feminino,Paulicéia,Superior completo,Solteiro(a),1940.00,D,11,220.27,Indicação,14,Sim,2,2,2,4,2,3,Musculação
+128,21,Feminino,Nova Petrópolis,Superior incompleto,Viúvo(a),2740.00,D,14,250.50,Site,46,Sim,4,2,4,5,2,4,Pilates
+129,64,Feminino,Demarchi,Superior incompleto,Casado(a),1300.00,D,14,189.61,Unidade,9,Sim,4,2,2,3,2,3,Funcional
+130,27,Feminino,Taboão,Superior completo,Casado(a),3240.00,C,8,221.80,Indicação,51,Não,5,3,4,2,4,4,Pilates
+131,40,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),4860.00,C,16,300.30,Unidade,30,Sim,4,3,4,3,4,6,Funcional
+132,58,Feminino,Centro,Superior incompleto,Divorciado(a),2840.00,D,6,263.74,Indicação,29,Não,4,4,3,4,3,4,Musculação
+133,27,Masculino,Jardim do Mar,Superior completo,Casado(a),1760.00,D,9,169.55,Indicação,37,Não,3,3,3,5,3,5,Musculação
+134,30,Feminino,Demarchi,Superior incompleto,Casado(a),6430.00,B,14,342.84,Indicação,3,Não,5,3,5,4,5,7,Pilates
+135,51,Feminino,Baeta Neves,Superior completo,Casado(a),5500.00,C,12,241.07,App,37,Não,4,2,4,3,3,6,Crossfit
+136,51,Masculino,Centro,Pós-graduação,Solteiro(a),2900.00,D,11,123.28,App,38,Sim,3,1,4,2,3,7,Musculação
+137,30,Feminino,Centro,Pós-graduação,Casado(a),3010.00,C,17,268.72,Indicação,54,Sim,3,4,3,4,3,2,Funcional
+138,46,Feminino,Bairro Assunção,Médio,Casado(a),1300.00,D,15,205.42,Indicação,11,Não,3,1,2,3,3,4,Crossfit
+139,55,Masculino,Jardim do Mar,Pós-graduação,Casado(a),4630.00,C,12,253.98,Unidade,4,Não,3,5,3,2,4,6,Crossfit
+140,29,Masculino,Paulicéia,Superior incompleto,Viúvo(a),1430.00,D,17,288.78,App,5,Não,4,2,1,5,2,2,Pilates
+141,41,Feminino,Baeta Neves,Superior incompleto,Casado(a),3760.00,C,14,210.76,App,70,Não,4,1,3,3,3,2,Funcional
+142,32,Feminino,Paulicéia,Fundamental,Solteiro(a),3350.00,C,12,192.18,Site,25,Não,3,3,2,5,2,3,Musculação
+143,67,Outro,Nova Petrópolis,Superior incompleto,Solteiro(a),2990.00,D,15,221.07,Indicação,17,Não,5,1,3,3,3,4,Crossfit
+144,38,Feminino,Taboão,Médio,Casado(a),1510.00,D,17,163.67,App,10,Sim,5,2,5,3,4,7,Natação
+145,63,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),4200.00,C,19,254.95,Indicação,19,Sim,4,1,4,2,3,8,Natação
+146,64,Feminino,Paulicéia,Pós-graduação,Casado(a),3890.00,C,15,264.18,App,32,Sim,3,3,3,2,3,4,Musculação
+147,26,Feminino,Baeta Neves,Fundamental,Solteiro(a),2150.00,D,14,264.18,Indicação,70,Não,4,1,4,5,4,7,Musculação
+148,67,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2290.00,D,8,234.90,App,55,Não,4,1,2,2,2,2,Natação
+149,20,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3150.00,C,13,280.71,Unidade,62,Não,4,2,3,5,3,5,Crossfit
+150,38,Feminino,Jardim do Mar,Superior completo,Casado(a),2830.00,D,7,205.18,App,4,Sim,4,1,5,2,3,7,Musculação
+151,26,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),1830.00,D,14,179.54,Indicação,42,Não,3,1,5,3,2,6,Funcional
+152,20,Masculino,Demarchi,Fundamental,Casado(a),3680.00,C,13,283.19,App,36,Sim,4,3,4,4,4,5,Natação
+153,47,Masculino,Ferrazópolis,Fundamental,Solteiro(a),4950.00,C,11,255.27,Indicação,15,Sim,4,4,4,5,4,7,Pilates
+154,49,Masculino,Ferrazópolis,Pós-graduação,União estável,5780.00,C,16,191.68,Site,36,Não,4,3,3,2,3,5,Pilates
+155,48,Masculino,Demarchi,Fundamental,Casado(a),3330.00,C,13,260.69,App,43,Não,4,4,3,3,3,2,Funcional
+156,40,Feminino,Taboão,Médio,Divorciado(a),5440.00,C,8,316.53,Unidade,1,Não,4,2,4,4,3,4,Natação
+157,59,Feminino,Jardim do Mar,Superior completo,Divorciado(a),2110.00,D,11,288.00,Site,71,Não,4,2,5,4,3,7,Pilates
+158,44,Masculino,Paulicéia,Superior incompleto,União estável,1750.00,D,15,249.68,Site,54,Sim,4,2,4,4,3,5,Pilates
+159,46,Masculino,Rudge Ramos,Médio,União estável,2090.00,D,11,236.67,App,67,Não,4,3,5,4,5,10,Pilates
+160,41,Feminino,Paulicéia,Médio,Solteiro(a),2820.00,D,11,212.57,Unidade,7,Sim,3,1,3,3,1,3,Crossfit
+161,28,Feminino,Demarchi,Pós-graduação,Solteiro(a),2950.00,D,15,206.72,App,5,Sim,3,3,4,3,3,6,Pilates
+162,52,Masculino,Demarchi,Superior incompleto,Casado(a),1840.00,D,3,153.63,Unidade,68,Não,3,1,3,2,3,6,Natação
+163,61,Feminino,Jardim do Mar,Pós-graduação,Casado(a),3850.00,C,11,267.87,Indicação,68,Sim,3,2,4,2,3,6,Natação
+164,34,Masculino,Demarchi,Superior incompleto,Casado(a),2600.00,D,9,234.16,Unidade,47,Não,3,2,4,4,2,4,Crossfit
+165,42,Masculino,Taboão,Superior completo,Casado(a),4600.00,C,14,267.16,App,15,Sim,2,3,2,2,2,1,Funcional
+166,65,Feminino,Ferrazópolis,Médio,Solteiro(a),2770.00,D,16,251.61,Unidade,21,Sim,4,1,3,3,3,5,Crossfit
+167,28,Masculino,Centro,Fundamental,Solteiro(a),1300.00,D,13,196.62,Indicação,58,Sim,5,1,5,4,4,9,Natação
+168,40,Masculino,Paulicéia,Superior incompleto,Casado(a),3300.00,C,8,276.16,Indicação,67,Sim,4,2,4,3,4,6,Pilates
+169,32,Feminino,Baeta Neves,Superior completo,Casado(a),6170.00,B,15,360.46,Indicação,49,Sim,3,3,4,4,3,3,Funcional
+170,36,Feminino,Demarchi,Superior incompleto,Divorciado(a),2770.00,D,5,187.79,Indicação,29,Não,2,1,3,2,1,0,Natação
+171,42,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),5540.00,C,18,362.36,Unidade,60,Sim,4,3,5,5,4,9,Natação
+172,66,Masculino,Rudge Ramos,Superior completo,Solteiro(a),2760.00,D,16,237.27,Site,19,Sim,2,2,3,4,2,3,Natação
+173,18,Masculino,Paulicéia,Superior incompleto,Solteiro(a),3280.00,C,16,236.29,App,10,Não,4,4,4,3,3,7,Musculação
+174,36,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),1950.00,D,13,222.46,Site,28,Não,3,2,3,5,3,4,Funcional
+175,63,Masculino,Centro,Médio,Solteiro(a),2410.00,D,14,151.91,Site,34,Não,2,4,2,2,2,2,Natação
+176,22,Masculino,Baeta Neves,Pós-graduação,Casado(a),2950.00,D,12,268.33,Site,45,Sim,5,2,5,5,4,10,Musculação
+177,44,Feminino,Paulicéia,Fundamental,Casado(a),2750.00,D,15,277.05,Site,50,Não,3,1,3,4,3,4,Crossfit
+178,26,Feminino,Bairro Assunção,Fundamental,União estável,1420.00,D,8,228.18,Indicação,53,Sim,4,2,4,3,3,5,Musculação
+179,47,Masculino,Nova Petrópolis,Superior completo,Casado(a),1660.00,D,9,205.83,Indicação,15,Sim,4,2,3,2,4,6,Musculação
+180,55,Feminino,Baeta Neves,Fundamental,Solteiro(a),2860.00,D,11,244.25,Site,48,Sim,3,1,5,2,3,6,Pilates
+181,51,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3520.00,C,14,254.06,Unidade,4,Não,4,5,4,4,4,7,Natação
+182,47,Masculino,Rudge Ramos,Fundamental,Solteiro(a),2360.00,D,11,164.25,Unidade,67,Sim,3,2,3,3,3,5,Natação
+183,57,Masculino,Jardim do Mar,Superior completo,Solteiro(a),5090.00,C,7,272.33,Unidade,32,Não,4,2,4,3,4,7,Funcional
+184,46,Feminino,Rudge Ramos,Fundamental,Casado(a),2040.00,D,10,215.82,Indicação,69,Sim,4,2,5,3,4,6,Musculação
+185,50,Feminino,Demarchi,Médio,Casado(a),2910.00,D,13,227.32,App,63,Sim,3,1,2,1,2,0,Natação
+186,22,Masculino,Taboão,Superior incompleto,Solteiro(a),2210.00,D,17,270.93,App,15,Sim,4,3,3,5,3,3,Crossfit
+187,19,Feminino,Jardim do Mar,Médio,Casado(a),2010.00,D,12,265.10,App,9,Não,3,3,4,5,2,3,Musculação
+188,26,Feminino,Demarchi,Médio,Casado(a),2710.00,D,18,191.03,Indicação,66,Sim,3,2,3,5,3,5,Funcional
+189,46,Feminino,Baeta Neves,Fundamental,Solteiro(a),6200.00,B,14,299.17,Unidade,36,Não,4,4,3,3,3,3,Musculação
+190,38,Masculino,Paulicéia,Fundamental,Casado(a),3020.00,C,16,214.37,Indicação,8,Sim,3,2,3,2,3,3,Crossfit
+191,37,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2760.00,D,8,235.54,Site,44,Sim,4,1,4,2,4,5,Pilates
+192,41,Masculino,Centro,Médio,Casado(a),3500.00,C,10,304.21,App,69,Não,4,3,4,2,4,7,Crossfit
+193,70,Feminino,Bairro Assunção,Fundamental,Casado(a),1300.00,D,9,158.47,Site,44,Não,2,1,4,5,3,6,Musculação
+194,37,Masculino,Bairro Assunção,Superior incompleto,Casado(a),3160.00,C,10,229.21,Indicação,19,Não,5,1,5,3,4,7,Crossfit
+195,41,Masculino,Taboão,Pós-graduação,Casado(a),5330.00,C,15,297.53,Unidade,25,Sim,4,2,5,4,4,7,Natação
+196,44,Masculino,Centro,Superior completo,Solteiro(a),3300.00,C,11,213.85,Unidade,20,Não,3,2,3,4,3,5,Musculação
+197,59,Masculino,Rudge Ramos,Médio,Solteiro(a),2600.00,D,19,211.70,Unidade,39,Não,4,1,4,3,3,5,Musculação
+198,56,Masculino,Centro,Superior incompleto,Casado(a),1940.00,D,13,219.12,Site,31,Não,5,3,3,2,3,6,Crossfit
+199,69,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2890.00,D,13,270.30,Site,25,Sim,4,3,4,3,2,4,Funcional
+200,51,Feminino,Centro,Pós-graduação,Solteiro(a),2530.00,D,15,247.78,Site,14,Não,5,3,5,2,4,6,Musculação
+201,68,Masculino,Bairro Assunção,Superior incompleto,Casado(a),4860.00,C,10,264.91,App,3,Não,5,4,5,3,5,10,Natação
+202,50,Feminino,Demarchi,Fundamental,Solteiro(a),4460.00,C,15,267.37,Indicação,60,Sim,4,4,5,2,3,6,Crossfit
+203,46,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),8630.00,B,9,339.31,App,58,Não,4,3,3,3,3,3,Pilates
+204,47,Feminino,Centro,Superior incompleto,Casado(a),1950.00,D,9,247.72,App,9,Sim,4,4,3,3,3,5,Crossfit
+205,43,Feminino,Baeta Neves,Fundamental,Divorciado(a),1630.00,D,15,277.64,App,17,Sim,3,1,3,5,2,5,Funcional
+206,28,Feminino,Paulicéia,Médio,Divorciado(a),1670.00,D,9,140.85,Unidade,32,Não,4,2,4,2,3,5,Pilates
+207,37,Masculino,Bairro Assunção,Superior incompleto,Casado(a),1730.00,D,15,261.81,Indicação,43,Sim,5,1,5,5,3,5,Musculação
+208,50,Masculino,Demarchi,Pós-graduação,União estável,2340.00,D,7,156.70,Unidade,66,Sim,3,3,3,2,3,6,Crossfit
+209,50,Feminino,Baeta Neves,Pós-graduação,Casado(a),2910.00,D,10,257.48,Unidade,51,Não,5,2,5,3,4,8,Crossfit
+210,26,Feminino,Bairro Assunção,Fundamental,Casado(a),3060.00,C,13,287.03,App,46,Não,5,4,5,5,4,7,Funcional
+211,60,Masculino,Centro,Superior completo,Casado(a),2450.00,D,10,174.70,Site,54,Sim,4,1,3,3,3,4,Musculação
+212,55,Feminino,Taboão,Pós-graduação,Divorciado(a),6010.00,B,11,369.34,App,44,Sim,4,2,3,4,3,6,Crossfit
+213,45,Masculino,Jardim do Mar,Superior completo,Casado(a),5900.00,C,24,338.44,Indicação,67,Sim,4,1,5,4,5,7,Musculação
+214,41,Feminino,Demarchi,Superior completo,União estável,3570.00,C,9,278.20,App,72,Sim,5,3,4,5,4,5,Musculação
+215,47,Masculino,Taboão,Superior completo,Casado(a),5590.00,C,12,316.11,Unidade,33,Não,4,3,2,4,3,6,Funcional
+216,48,Feminino,Nova Petrópolis,Superior incompleto,União estável,1550.00,D,12,181.10,Site,2,Sim,4,3,3,3,2,2,Natação
+217,40,Masculino,Jardim do Mar,Superior completo,Casado(a),2430.00,D,8,225.58,Unidade,72,Não,5,2,5,3,4,8,Funcional
+218,63,Feminino,Demarchi,Superior incompleto,Solteiro(a),3310.00,C,10,173.97,Site,24,Sim,4,1,4,2,2,5,Funcional
+219,26,Feminino,Taboão,Pós-graduação,Solteiro(a),3690.00,C,6,178.92,Site,20,Não,3,1,3,5,3,5,Funcional
+220,37,Masculino,Ferrazópolis,Médio,Casado(a),4620.00,C,10,280.40,Unidade,10,Sim,5,3,3,5,4,5,Pilates
+221,39,Masculino,Jardim do Mar,Superior completo,Solteiro(a),1990.00,D,25,233.66,Unidade,55,Não,4,3,4,4,4,7,Pilates
+222,23,Feminino,Demarchi,Fundamental,Solteiro(a),1600.00,D,17,121.16,Unidade,14,Não,3,1,3,1,2,5,Crossfit
+223,22,Feminino,Taboão,Superior incompleto,Solteiro(a),2480.00,D,12,187.61,Unidade,70,Não,3,2,4,2,3,6,Musculação
+224,65,Masculino,Jardim do Mar,Pós-graduação,Casado(a),3090.00,C,12,221.51,Indicação,16,Sim,4,2,4,3,4,6,Funcional
+225,59,Feminino,Paulicéia,Médio,Solteiro(a),1660.00,D,17,221.25,Unidade,6,Não,4,1,4,3,3,5,Crossfit
+226,37,Masculino,Nova Petrópolis,Superior completo,Casado(a),2490.00,D,13,232.14,Site,46,Sim,3,1,3,3,3,3,Natação
+227,32,Feminino,Centro,Superior incompleto,Casado(a),2410.00,D,14,318.55,Unidade,15,Não,4,2,4,5,4,5,Funcional
+228,39,Feminino,Baeta Neves,Fundamental,Casado(a),4170.00,C,14,317.14,App,20,Não,4,2,3,5,3,4,Crossfit
+229,55,Feminino,Ferrazópolis,Fundamental,Casado(a),1460.00,D,21,193.08,Unidade,8,Sim,4,1,4,3,4,6,Musculação
+230,33,Masculino,Taboão,Fundamental,Solteiro(a),3060.00,C,9,243.10,App,48,Sim,4,3,4,2,4,5,Crossfit
+231,21,Feminino,Paulicéia,Superior incompleto,Viúvo(a),4560.00,C,5,284.56,Indicação,16,Sim,2,3,2,3,1,1,Funcional
+232,40,Feminino,Ferrazópolis,Médio,União estável,1950.00,D,13,168.21,Unidade,54,Não,3,1,3,3,3,5,Musculação
+233,49,Masculino,Demarchi,Pós-graduação,Solteiro(a),4110.00,C,10,220.44,App,19,Sim,3,3,4,4,3,5,Crossfit
+234,45,Feminino,Jardim do Mar,Superior completo,Solteiro(a),4130.00,C,8,219.80,App,29,Sim,5,3,5,2,5,6,Musculação
+235,27,Masculino,Bairro Assunção,Fundamental,Casado(a),2490.00,D,8,239.07,Site,36,Não,5,2,4,5,4,7,Natação
+236,62,Feminino,Paulicéia,Superior incompleto,União estável,3140.00,C,14,240.55,Indicação,39,Não,4,3,3,1,2,5,Musculação
+237,51,Masculino,Demarchi,Superior completo,Divorciado(a),2410.00,D,10,244.77,App,60,Sim,4,2,4,1,4,7,Crossfit
+238,56,Feminino,Demarchi,Superior completo,União estável,4490.00,C,9,245.08,Unidade,10,Sim,1,3,3,2,2,3,Crossfit
+239,68,Masculino,Nova Petrópolis,Fundamental,Viúvo(a),2060.00,D,7,246.55,Indicação,17,Sim,5,3,3,4,3,4,Musculação
+240,45,Masculino,Ferrazópolis,Fundamental,Casado(a),2250.00,D,13,248.06,Unidade,55,Não,4,4,3,5,3,5,Funcional
+241,48,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),3100.00,C,8,232.71,Indicação,62,Sim,4,3,3,2,4,6,Crossfit
+242,58,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),5570.00,C,14,277.50,Site,31,Sim,3,2,3,1,2,4,Funcional
+243,59,Feminino,Rudge Ramos,Fundamental,Solteiro(a),5610.00,C,8,372.95,Indicação,1,Não,5,1,3,4,4,4,Pilates
+244,62,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1710.00,D,9,211.33,Indicação,61,Sim,5,3,5,2,4,7,Musculação
+245,55,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2370.00,D,10,247.78,Site,45,Não,4,1,4,4,3,5,Musculação
+246,21,Masculino,Baeta Neves,Médio,Casado(a),1300.00,D,10,219.81,App,38,Não,5,5,2,5,4,5,Musculação
+247,36,Feminino,Centro,Pós-graduação,Divorciado(a),6760.00,B,8,344.10,App,29,Não,4,5,3,4,4,3,Crossfit
+248,49,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),3730.00,C,12,249.81,Site,51,Sim,5,3,4,2,4,6,Pilates
+249,41,Masculino,Ferrazópolis,Médio,Divorciado(a),2160.00,D,13,175.39,Site,21,Sim,3,1,1,4,2,2,Musculação
+250,20,Feminino,Ferrazópolis,Superior completo,União estável,2960.00,D,16,275.23,Indicação,26,Sim,2,3,3,5,2,4,Crossfit
+251,32,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2210.00,D,14,277.64,Indicação,56,Sim,3,4,3,4,2,3,Musculação
+252,34,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),1950.00,D,14,199.03,Indicação,27,Sim,3,1,4,3,2,1,Funcional
+253,19,Feminino,Centro,Superior completo,Casado(a),4910.00,C,8,291.13,App,69,Sim,3,5,3,4,3,5,Crossfit
+254,58,Feminino,Jardim do Mar,Pós-graduação,União estável,5070.00,C,13,301.48,App,32,Sim,4,1,4,1,3,7,Funcional
+255,38,Feminino,Bairro Assunção,Pós-graduação,Casado(a),4980.00,C,15,281.65,Indicação,41,Sim,4,1,3,2,4,5,Crossfit
+256,59,Masculino,Centro,Fundamental,Solteiro(a),1730.00,D,12,200.97,App,46,Sim,4,2,4,2,2,3,Pilates
+257,64,Masculino,Taboão,Superior incompleto,Casado(a),2190.00,D,8,161.68,Indicação,51,Sim,3,3,3,1,3,5,Pilates
+258,64,Feminino,Baeta Neves,Fundamental,Divorciado(a),2280.00,D,13,170.54,Site,37,Não,3,2,3,1,2,4,Musculação
+259,66,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),3470.00,C,11,247.51,App,27,Sim,4,3,5,1,3,7,Natação
+260,44,Masculino,Nova Petrópolis,Fundamental,Casado(a),2780.00,D,12,233.65,Indicação,58,Não,3,3,4,3,3,6,Funcional
+261,30,Feminino,Demarchi,Pós-graduação,Casado(a),2390.00,D,15,280.73,App,52,Não,4,3,3,4,3,2,Funcional
+262,22,Masculino,Demarchi,Médio,Solteiro(a),3090.00,C,13,254.04,Site,4,Não,4,2,5,4,4,7,Pilates
+263,51,Masculino,Centro,Superior completo,União estável,2110.00,D,12,178.85,App,46,Não,5,1,5,2,4,8,Natação
+264,24,Masculino,Rudge Ramos,Superior completo,Solteiro(a),2180.00,D,12,280.48,Indicação,65,Não,4,3,4,5,3,5,Pilates
+265,30,Masculino,Jardim do Mar,Pós-graduação,Divorciado(a),3640.00,C,11,266.89,Site,41,Sim,5,3,5,5,5,9,Musculação
+266,30,Masculino,Baeta Neves,Superior incompleto,Casado(a),1570.00,D,15,208.62,Site,67,Sim,4,3,4,5,4,6,Natação
+267,32,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),2210.00,D,14,220.45,App,29,Não,5,1,4,3,4,6,Pilates
+268,37,Masculino,Ferrazópolis,Superior incompleto,Casado(a),5510.00,C,12,254.46,Unidade,18,Não,5,4,4,3,4,6,Crossfit
+269,35,Feminino,Paulicéia,Superior completo,Solteiro(a),5670.00,C,15,324.18,Indicação,36,Sim,5,2,4,3,3,4,Musculação
+270,45,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),8940.00,B,11,395.62,App,8,Não,3,3,3,4,3,3,Crossfit
+271,68,Masculino,Taboão,Superior incompleto,Solteiro(a),3800.00,C,15,263.96,Site,5,Não,5,3,4,3,4,6,Pilates
+272,52,Feminino,Ferrazópolis,Médio,União estável,3450.00,C,14,305.80,Indicação,42,Não,4,3,3,3,3,4,Natação
+273,53,Masculino,Paulicéia,Fundamental,União estável,2140.00,D,9,254.25,App,3,Sim,4,3,4,3,4,7,Crossfit
+274,26,Feminino,Bairro Assunção,Fundamental,Solteiro(a),1760.00,D,17,255.98,Unidade,5,Sim,4,1,5,3,3,6,Musculação
+275,24,Feminino,Demarchi,Superior incompleto,Casado(a),3850.00,C,7,193.61,Indicação,33,Sim,5,4,5,2,5,10,Crossfit
+276,28,Feminino,Nova Petrópolis,Médio,Viúvo(a),4330.00,C,11,336.67,Site,17,Sim,4,3,4,4,4,8,Musculação
+277,62,Feminino,Jardim do Mar,Médio,Casado(a),3830.00,C,13,255.86,Site,13,Sim,3,2,4,4,3,4,Pilates
+278,27,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2030.00,D,11,318.29,App,37,Sim,5,1,4,5,3,5,Pilates
+279,70,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),2930.00,D,12,243.78,Indicação,24,Não,5,4,3,4,3,6,Natação
+280,58,Masculino,Centro,Superior incompleto,Casado(a),2110.00,D,13,184.89,App,45,Sim,3,2,3,2,3,4,Musculação
+281,61,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2610.00,D,12,202.69,Unidade,31,Não,3,2,3,2,3,3,Natação
+282,34,Masculino,Bairro Assunção,Pós-graduação,Casado(a),7190.00,B,7,337.36,Site,14,Sim,5,2,4,5,3,7,Natação
+283,26,Feminino,Centro,Fundamental,Casado(a),1300.00,D,17,143.60,Indicação,51,Não,3,3,4,3,3,6,Funcional
+284,26,Masculino,Jardim do Mar,Pós-graduação,Casado(a),8850.00,B,15,330.88,App,68,Não,5,4,5,4,5,10,Funcional
+285,63,Feminino,Baeta Neves,Superior completo,Solteiro(a),4390.00,C,14,411.76,App,53,Não,5,4,3,4,4,6,Natação
+286,40,Masculino,Rudge Ramos,Superior completo,Casado(a),2540.00,D,15,159.73,Indicação,14,Sim,3,2,3,3,2,3,Funcional
+287,39,Feminino,Ferrazópolis,Superior completo,Casado(a),3210.00,C,9,172.28,Site,41,Sim,3,4,1,3,2,0,Crossfit
+288,31,Feminino,Nova Petrópolis,Superior completo,Casado(a),2220.00,D,13,257.23,App,12,Sim,3,1,3,5,2,3,Musculação
+289,36,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2130.00,D,13,162.21,App,2,Não,3,2,3,3,2,4,Musculação
+290,37,Masculino,Baeta Neves,Superior incompleto,Casado(a),2830.00,D,8,170.69,Indicação,12,Não,4,2,5,3,4,9,Funcional
+291,57,Feminino,Demarchi,Médio,Solteiro(a),2270.00,D,17,152.75,Site,59,Sim,4,2,5,4,4,8,Musculação
+292,61,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),2520.00,D,13,236.93,Unidade,67,Sim,5,1,5,1,4,8,Musculação
+293,42,Masculino,Bairro Assunção,Médio,Casado(a),2240.00,D,9,173.38,Indicação,43,Sim,3,4,2,4,3,6,Natação
+294,35,Feminino,Ferrazópolis,Superior incompleto,Casado(a),1500.00,D,11,245.38,App,64,Sim,5,4,3,3,4,4,Crossfit
+295,41,Masculino,Paulicéia,Médio,Solteiro(a),1390.00,D,10,176.28,Unidade,30,Não,3,1,2,3,3,4,Pilates
+296,27,Masculino,Ferrazópolis,Médio,Casado(a),1310.00,D,7,218.35,Unidade,3,Sim,5,3,5,4,5,7,Musculação
+297,21,Feminino,Jardim do Mar,Pós-graduação,Casado(a),6930.00,B,13,306.90,Indicação,66,Não,2,1,2,4,2,4,Pilates
+298,30,Feminino,Jardim do Mar,Fundamental,Casado(a),2520.00,D,10,249.10,Unidade,53,Sim,5,2,4,4,4,6,Funcional
+299,19,Feminino,Baeta Neves,Pós-graduação,Casado(a),4240.00,C,23,275.84,Site,48,Sim,3,1,3,5,2,4,Pilates
+300,19,Masculino,Nova Petrópolis,Pós-graduação,Divorciado(a),3260.00,C,13,231.04,Site,6,Sim,4,3,3,4,4,5,Crossfit
+301,30,Masculino,Baeta Neves,Médio,Casado(a),2970.00,D,10,211.55,App,70,Não,5,1,5,3,4,8,Musculação
+302,65,Feminino,Baeta Neves,Médio,Solteiro(a),4620.00,C,14,323.86,App,6,Não,3,4,3,3,3,4,Natação
+303,27,Masculino,Rudge Ramos,Fundamental,Divorciado(a),2490.00,D,6,228.29,Unidade,2,Não,5,4,2,4,3,3,Natação
+304,54,Feminino,Jardim do Mar,Superior completo,Solteiro(a),6920.00,B,10,242.58,Unidade,6,Sim,3,5,2,3,3,4,Natação
+305,25,Feminino,Demarchi,Superior completo,Casado(a),2900.00,D,18,263.90,App,68,Sim,4,3,4,3,3,6,Musculação
+306,42,Feminino,Rudge Ramos,Pós-graduação,Viúvo(a),4650.00,C,10,262.77,Indicação,60,Não,3,3,3,5,5,7,Crossfit
+307,50,Masculino,Jardim do Mar,Médio,Solteiro(a),3520.00,C,11,262.47,Indicação,9,Não,5,3,4,3,3,6,Musculação
+308,47,Feminino,Jardim do Mar,Médio,Solteiro(a),1660.00,D,13,190.18,Site,31,Sim,3,2,4,3,2,5,Natação
+309,60,Masculino,Demarchi,Superior completo,Solteiro(a),3450.00,C,10,294.97,App,39,Sim,4,2,3,3,3,4,Crossfit
+310,31,Feminino,Jardim do Mar,Médio,Viúvo(a),1300.00,D,13,177.66,Indicação,41,Sim,3,3,3,3,3,7,Crossfit
+311,57,Masculino,Jardim do Mar,Médio,Casado(a),2480.00,D,14,285.27,App,15,Não,5,3,5,4,4,8,Pilates
+312,39,Masculino,Jardim do Mar,Fundamental,Divorciado(a),1920.00,D,8,256.24,Indicação,3,Sim,5,3,4,4,4,6,Musculação
+313,41,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),3040.00,C,18,196.00,Unidade,3,Sim,3,1,4,3,3,6,Natação
+314,34,Feminino,Centro,Superior incompleto,Solteiro(a),2250.00,D,11,244.38,Site,65,Sim,4,2,3,4,3,6,Pilates
+315,70,Masculino,Centro,Superior completo,Solteiro(a),4440.00,C,14,250.28,Unidade,45,Não,4,4,3,3,4,6,Pilates
+316,61,Feminino,Demarchi,Superior completo,Divorciado(a),2280.00,D,17,200.63,App,71,Sim,5,2,3,2,3,5,Natação
+317,42,Feminino,Paulicéia,Superior incompleto,Solteiro(a),6460.00,B,20,316.08,Indicação,62,Sim,4,2,2,4,2,0,Natação
+318,57,Masculino,Taboão,Médio,União estável,3400.00,C,8,258.02,Indicação,17,Não,5,2,4,1,4,5,Musculação
+319,66,Feminino,Ferrazópolis,Médio,Casado(a),1900.00,D,11,281.96,Unidade,7,Sim,4,1,4,1,4,7,Musculação
+320,33,Masculino,Nova Petrópolis,Superior incompleto,União estável,3610.00,C,13,255.26,App,48,Sim,5,3,4,4,4,5,Funcional
+321,35,Feminino,Jardim do Mar,Fundamental,Casado(a),3350.00,C,12,241.74,Unidade,17,Sim,2,3,4,4,2,4,Funcional
+322,58,Feminino,Demarchi,Superior incompleto,Casado(a),3520.00,C,10,264.53,Site,49,Sim,4,3,4,3,4,7,Crossfit
+323,33,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1350.00,D,18,216.88,Indicação,70,Sim,4,4,2,5,3,3,Musculação
+324,22,Masculino,Bairro Assunção,Médio,Casado(a),6270.00,B,11,374.34,App,70,Sim,4,2,4,4,3,3,Natação
+325,49,Feminino,Paulicéia,Superior completo,Casado(a),4320.00,C,9,345.88,App,19,Sim,4,3,3,3,3,3,Funcional
+326,28,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1300.00,D,7,199.38,App,35,Não,4,4,4,5,3,6,Musculação
+327,49,Feminino,Taboão,Fundamental,Viúvo(a),2490.00,D,7,282.23,Indicação,51,Não,4,2,2,3,3,5,Musculação
+328,23,Feminino,Taboão,Médio,Solteiro(a),2080.00,D,5,203.33,Indicação,18,Sim,4,2,4,4,3,3,Crossfit
+329,43,Masculino,Ferrazópolis,Superior completo,Solteiro(a),3170.00,C,11,235.09,Indicação,41,Não,5,3,5,4,5,9,Natação
+330,30,Feminino,Jardim do Mar,Pós-graduação,Casado(a),1980.00,D,14,184.78,Unidade,26,Sim,1,3,3,4,2,1,Pilates
+331,46,Masculino,Jardim do Mar,Fundamental,Casado(a),2290.00,D,14,270.01,Unidade,42,Não,5,1,4,3,4,7,Pilates
+332,29,Feminino,Centro,Médio,Solteiro(a),1620.00,D,13,239.34,Unidade,47,Sim,5,2,4,4,4,6,Pilates
+333,31,Feminino,Bairro Assunção,Fundamental,Viúvo(a),1800.00,D,4,181.28,Unidade,64,Sim,2,2,2,2,2,5,Funcional
+334,65,Masculino,Rudge Ramos,Fundamental,Solteiro(a),2870.00,D,9,223.58,Site,35,Sim,4,1,4,2,3,4,Crossfit
+335,70,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),3210.00,C,18,341.54,Site,21,Sim,5,3,5,5,4,8,Musculação
+336,35,Feminino,Demarchi,Superior incompleto,Solteiro(a),2390.00,D,12,264.90,Indicação,6,Sim,5,3,4,3,4,8,Pilates
+337,52,Feminino,Rudge Ramos,Superior completo,Solteiro(a),4750.00,C,10,351.54,Site,51,Sim,5,3,4,3,4,6,Pilates
+338,36,Feminino,Centro,Superior completo,Casado(a),2060.00,D,8,173.28,Indicação,59,Não,4,4,3,2,4,6,Crossfit
+339,27,Feminino,Ferrazópolis,Superior incompleto,Divorciado(a),1970.00,D,8,198.86,Unidade,30,Sim,2,2,3,5,2,3,Funcional
+340,23,Masculino,Ferrazópolis,Superior completo,Casado(a),1660.00,D,18,233.29,Site,63,Sim,5,3,4,3,4,6,Musculação
+341,65,Feminino,Nova Petrópolis,Médio,Solteiro(a),1880.00,D,9,187.09,Unidade,35,Não,5,3,3,2,3,3,Musculação
+342,21,Feminino,Paulicéia,Superior incompleto,Solteiro(a),2720.00,D,12,233.04,App,35,Sim,5,2,5,4,4,7,Musculação
+343,44,Feminino,Demarchi,Médio,União estável,3330.00,C,10,230.41,App,4,Sim,2,4,3,3,2,2,Funcional
+344,29,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),1850.00,D,14,245.52,Site,38,Sim,3,2,2,5,3,3,Funcional
+345,58,Feminino,Centro,Médio,Casado(a),3480.00,C,15,241.85,Unidade,43,Sim,4,2,5,1,3,6,Funcional
+346,25,Masculino,Paulicéia,Superior completo,Solteiro(a),3090.00,C,11,314.67,Unidade,36,Não,5,4,4,5,4,7,Musculação
+347,48,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),1950.00,D,11,209.29,Unidade,39,Sim,5,1,3,4,3,5,Musculação
+348,36,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3750.00,C,12,234.20,Unidade,39,Sim,3,3,4,3,3,5,Crossfit
+349,45,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),6160.00,B,15,258.72,Site,51,Não,3,3,3,2,3,3,Pilates
+350,27,Masculino,Nova Petrópolis,Superior completo,Casado(a),1300.00,D,12,217.44,Indicação,8,Não,5,3,5,3,4,8,Crossfit
+351,24,Feminino,Rudge Ramos,Superior completo,Solteiro(a),7230.00,B,10,356.11,App,39,Não,3,4,3,4,3,5,Natação
+352,27,Masculino,Taboão,Superior completo,Divorciado(a),2260.00,D,13,283.36,Indicação,32,Sim,5,2,2,3,3,3,Natação
+353,48,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),1730.00,D,16,154.49,Indicação,25,Sim,3,2,5,2,3,5,Natação
+354,52,Masculino,Centro,Fundamental,Casado(a),2440.00,D,10,245.22,App,33,Não,4,1,4,4,4,6,Crossfit
+355,65,Feminino,Bairro Assunção,Fundamental,Casado(a),3510.00,C,21,308.57,Unidade,49,Sim,3,2,3,3,4,5,Musculação
+356,67,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),2720.00,D,17,198.72,App,72,Não,3,1,4,3,3,6,Crossfit
+357,57,Masculino,Jardim do Mar,Superior completo,Solteiro(a),3850.00,C,13,217.87,Unidade,16,Não,4,3,2,3,3,4,Musculação
+358,18,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),8380.00,B,12,320.99,Indicação,4,Não,3,3,1,4,3,3,Funcional
+359,55,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2540.00,D,11,253.69,Indicação,26,Sim,4,1,5,3,2,7,Funcional
+360,55,Masculino,Bairro Assunção,Fundamental,Solteiro(a),8870.00,B,17,363.71,App,23,Não,4,3,3,3,3,4,Funcional
+361,55,Masculino,Centro,Pós-graduação,Solteiro(a),6610.00,B,13,370.89,Site,5,Não,5,3,5,4,3,8,Natação
+362,52,Masculino,Baeta Neves,Médio,Solteiro(a),2640.00,D,16,213.51,App,36,Não,3,1,4,3,3,7,Musculação
+363,54,Feminino,Taboão,Fundamental,Casado(a),2630.00,D,12,294.35,Unidade,38,Não,3,3,3,4,4,7,Pilates
+364,49,Masculino,Taboão,Superior completo,Casado(a),2810.00,D,12,259.73,Unidade,62,Não,4,3,3,3,4,6,Natação
+365,50,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),4110.00,C,12,208.31,Unidade,51,Sim,3,3,5,2,3,6,Musculação
+366,54,Masculino,Bairro Assunção,Pós-graduação,Casado(a),4800.00,C,11,248.93,App,34,Não,2,3,2,4,2,2,Funcional
+367,20,Masculino,Centro,Pós-graduação,Solteiro(a),2710.00,D,14,289.83,App,48,Não,5,2,4,4,4,7,Funcional
+368,44,Masculino,Baeta Neves,Fundamental,Viúvo(a),1300.00,D,12,160.37,App,21,Não,4,1,4,3,4,5,Funcional
+369,24,Masculino,Demarchi,Fundamental,Solteiro(a),3710.00,C,11,317.73,Site,12,Sim,4,5,3,5,4,5,Crossfit
+370,67,Feminino,Centro,Pós-graduação,Solteiro(a),6090.00,B,10,275.15,Site,39,Sim,2,4,2,3,2,4,Crossfit
+371,70,Feminino,Jardim do Mar,Superior completo,Divorciado(a),1860.00,D,13,219.14,Site,36,Não,3,3,3,2,3,5,Natação
+372,26,Feminino,Paulicéia,Médio,Solteiro(a),2510.00,D,8,212.07,App,22,Sim,2,2,4,5,3,6,Natação
+373,65,Feminino,Nova Petrópolis,Médio,Solteiro(a),4320.00,C,10,280.37,App,65,Não,4,4,5,5,4,6,Crossfit
+374,43,Masculino,Nova Petrópolis,Pós-graduação,União estável,5410.00,C,8,276.47,App,40,Sim,4,1,5,4,4,7,Crossfit
+375,53,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),2720.00,D,11,295.68,Site,41,Não,4,2,2,3,3,4,Crossfit
+376,52,Feminino,Taboão,Pós-graduação,Casado(a),5760.00,C,11,258.71,App,50,Sim,3,4,4,1,3,5,Natação
+377,24,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2620.00,D,10,338.12,Site,21,Sim,3,1,2,5,2,1,Musculação
+378,66,Masculino,Centro,Superior completo,Solteiro(a),4130.00,C,13,259.28,App,39,Sim,4,4,3,2,3,5,Pilates
+379,51,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),1510.00,D,11,145.81,Site,65,Não,4,2,4,1,3,6,Crossfit
+380,43,Feminino,Paulicéia,Pós-graduação,Casado(a),1300.00,D,17,157.30,App,44,Não,3,2,3,4,2,3,Natação
+381,50,Feminino,Nova Petrópolis,Médio,Solteiro(a),1800.00,D,18,267.11,Unidade,62,Não,3,1,2,4,2,3,Natação
+382,69,Feminino,Taboão,Pós-graduação,Casado(a),5040.00,C,22,304.37,App,3,Sim,3,3,1,4,2,4,Funcional
+383,52,Feminino,Demarchi,Fundamental,União estável,2090.00,D,12,223.13,Site,52,Sim,3,4,5,2,4,9,Crossfit
+384,52,Feminino,Paulicéia,Pós-graduação,Viúvo(a),4960.00,C,19,369.50,App,48,Não,3,3,4,3,4,6,Musculação
+385,64,Masculino,Demarchi,Superior incompleto,Solteiro(a),5020.00,C,14,296.72,Indicação,65,Não,3,4,3,3,3,3,Crossfit
+386,55,Feminino,Paulicéia,Superior incompleto,Casado(a),2540.00,D,13,244.43,Unidade,70,Não,3,3,3,4,2,3,Crossfit
+387,25,Feminino,Baeta Neves,Superior completo,Casado(a),2430.00,D,12,314.51,Unidade,11,Sim,5,1,5,5,5,10,Musculação
+388,61,Masculino,Bairro Assunção,Superior incompleto,Divorciado(a),1300.00,D,15,230.04,Indicação,36,Sim,4,2,4,3,3,7,Pilates
+389,65,Feminino,Taboão,Pós-graduação,União estável,1940.00,D,9,167.63,Site,68,Não,3,2,3,4,3,4,Natação
+390,56,Feminino,Baeta Neves,Fundamental,Casado(a),1300.00,D,14,197.01,App,58,Sim,2,1,1,1,2,3,Crossfit
+391,26,Feminino,Centro,Superior completo,Casado(a),3800.00,C,13,306.14,Site,8,Sim,5,4,5,5,4,9,Crossfit
+392,45,Feminino,Nova Petrópolis,Médio,Solteiro(a),2170.00,D,18,318.49,Indicação,40,Não,5,1,4,4,5,5,Pilates
+393,20,Feminino,Baeta Neves,Fundamental,Casado(a),1580.00,D,12,241.16,Indicação,26,Não,4,3,4,4,4,8,Musculação
+394,58,Feminino,Bairro Assunção,Superior completo,Casado(a),2510.00,D,15,296.25,Indicação,51,Sim,5,1,5,3,4,7,Natação
+395,68,Feminino,Taboão,Superior completo,Casado(a),2460.00,D,10,220.90,App,37,Sim,4,4,5,3,4,6,Crossfit
+396,19,Masculino,Baeta Neves,Fundamental,Casado(a),3040.00,C,10,195.37,Unidade,23,Não,4,3,4,4,4,7,Natação
+397,23,Masculino,Nova Petrópolis,Superior completo,Casado(a),3050.00,C,10,262.87,App,31,Não,3,5,3,5,3,5,Natação
+398,67,Feminino,Ferrazópolis,Pós-graduação,Casado(a),6140.00,B,8,374.57,Unidade,70,Sim,5,3,5,4,4,6,Natação
+399,60,Masculino,Ferrazópolis,Superior completo,Viúvo(a),1300.00,D,6,162.26,Site,27,Sim,3,2,4,4,3,5,Pilates
+400,61,Feminino,Baeta Neves,Médio,Solteiro(a),3400.00,C,8,227.69,Unidade,16,Sim,4,5,5,2,4,7,Musculação
+401,29,Feminino,Jardim do Mar,Fundamental,Divorciado(a),1680.00,D,16,146.53,Site,9,Sim,4,1,3,3,2,4,Musculação
+402,51,Feminino,Jardim do Mar,Fundamental,Casado(a),2010.00,D,13,218.46,Indicação,12,Sim,4,2,5,3,5,8,Musculação
+403,61,Feminino,Baeta Neves,Superior completo,Casado(a),6250.00,B,9,274.98,Unidade,4,Não,4,4,3,3,4,4,Musculação
+404,21,Feminino,Paulicéia,Médio,Casado(a),1910.00,D,12,236.93,Site,4,Sim,4,2,5,3,4,7,Funcional
+405,33,Masculino,Centro,Médio,Casado(a),2980.00,D,11,242.91,Indicação,39,Sim,3,2,3,4,3,3,Musculação
+406,33,Feminino,Baeta Neves,Fundamental,Divorciado(a),1340.00,D,10,214.68,App,39,Sim,4,2,5,4,3,4,Pilates
+407,46,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),2890.00,D,14,266.83,Indicação,58,Sim,4,3,5,1,4,9,Pilates
+408,31,Feminino,Baeta Neves,Fundamental,União estável,1300.00,D,11,182.39,Unidade,45,Sim,3,2,4,2,4,7,Natação
+409,36,Masculino,Taboão,Superior incompleto,Casado(a),2660.00,D,18,288.92,Site,14,Sim,5,3,4,5,4,5,Musculação
+410,31,Feminino,Demarchi,Superior incompleto,Solteiro(a),3180.00,C,7,263.26,Unidade,47,Sim,4,3,4,4,4,5,Musculação
+411,21,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),5380.00,C,15,296.80,Unidade,32,Sim,5,4,4,3,4,6,Funcional
+412,53,Feminino,Baeta Neves,Médio,Solteiro(a),1790.00,D,13,248.67,Site,13,Sim,3,3,4,4,3,4,Natação
+413,51,Masculino,Ferrazópolis,Médio,Solteiro(a),2030.00,D,10,182.56,Indicação,47,Sim,5,2,4,2,4,6,Natação
+414,64,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),2900.00,D,13,243.47,Site,47,Não,3,3,1,3,2,1,Musculação
+415,48,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),3250.00,C,19,278.44,App,31,Não,3,3,4,2,4,7,Natação
+416,54,Feminino,Demarchi,Superior incompleto,Viúvo(a),1900.00,D,11,198.20,App,12,Sim,5,1,5,3,3,6,Natação
+417,37,Feminino,Nova Petrópolis,Médio,Casado(a),1300.00,D,6,159.56,App,3,Sim,4,2,4,4,3,4,Funcional
+418,38,Feminino,Ferrazópolis,Superior completo,Divorciado(a),1940.00,D,7,190.56,App,55,Não,5,1,4,3,4,6,Musculação
+419,39,Feminino,Jardim do Mar,Superior completo,Casado(a),3050.00,C,17,330.98,Unidade,12,Sim,4,3,3,4,3,6,Pilates
+420,69,Masculino,Nova Petrópolis,Superior completo,Casado(a),3290.00,C,12,207.74,Indicação,20,Não,3,3,3,3,3,2,Musculação
+421,43,Masculino,Demarchi,Superior completo,União estável,4060.00,C,13,236.62,Site,49,Não,4,3,4,4,3,5,Crossfit
+422,63,Feminino,Bairro Assunção,Fundamental,Solteiro(a),3490.00,C,9,251.22,Indicação,31,Sim,4,4,2,2,3,2,Crossfit
+423,34,Masculino,Paulicéia,Médio,Casado(a),1960.00,D,11,158.93,Site,60,Sim,5,4,5,5,5,10,Musculação
+424,54,Masculino,Bairro Assunção,Fundamental,União estável,1300.00,D,10,160.24,App,27,Não,4,2,4,3,3,6,Crossfit
+425,32,Outro,Demarchi,Médio,União estável,2860.00,D,10,290.72,Unidade,65,Sim,4,3,5,4,4,8,Funcional
+426,39,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3500.00,C,12,237.52,Site,27,Não,4,3,5,4,4,6,Funcional
+427,63,Feminino,Paulicéia,Médio,Divorciado(a),2400.00,D,16,217.73,Site,6,Não,4,1,3,2,3,5,Pilates
+428,54,Masculino,Bairro Assunção,Superior completo,Casado(a),5730.00,C,15,322.52,Indicação,52,Sim,5,2,3,2,3,5,Pilates
+429,43,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),3440.00,C,10,234.58,Unidade,48,Sim,2,3,2,4,2,0,Funcional
+430,39,Masculino,Paulicéia,Fundamental,Solteiro(a),2300.00,D,18,202.09,App,72,Sim,4,3,5,2,3,6,Pilates
+431,60,Masculino,Demarchi,Médio,Casado(a),2870.00,D,13,226.46,Unidade,8,Sim,3,2,4,2,3,6,Pilates
+432,26,Masculino,Ferrazópolis,Superior completo,Solteiro(a),4330.00,C,9,296.59,Unidade,38,Sim,3,4,4,3,3,3,Musculação
+433,62,Masculino,Paulicéia,Superior completo,Solteiro(a),2500.00,D,10,169.40,Indicação,52,Sim,3,4,3,3,3,5,Musculação
+434,50,Feminino,Bairro Assunção,Médio,Solteiro(a),1720.00,D,6,182.81,App,29,Não,3,1,4,4,3,5,Pilates
+435,35,Feminino,Bairro Assunção,Pós-graduação,Divorciado(a),3110.00,C,13,271.56,Unidade,19,Não,4,5,2,5,3,5,Crossfit
+436,54,Outro,Jardim do Mar,Fundamental,União estável,1360.00,D,7,199.44,Unidade,22,Sim,4,1,5,2,3,5,Musculação
+437,70,Masculino,Rudge Ramos,Superior incompleto,União estável,3060.00,C,14,231.57,App,1,Não,4,5,3,2,4,6,Natação
+438,36,Feminino,Ferrazópolis,Médio,Casado(a),2530.00,D,11,199.40,Unidade,45,Não,3,2,2,2,3,4,Natação
+439,38,Feminino,Nova Petrópolis,Pós-graduação,União estável,3390.00,C,21,248.68,Indicação,57,Não,5,3,5,4,3,3,Musculação
+440,67,Masculino,Rudge Ramos,Superior completo,Casado(a),2960.00,D,16,218.52,Indicação,33,Sim,4,2,4,4,3,5,Funcional
+441,36,Feminino,Jardim do Mar,Fundamental,Casado(a),4520.00,C,16,264.53,Indicação,3,Sim,2,2,3,3,3,4,Crossfit
+442,63,Masculino,Taboão,Médio,Casado(a),4120.00,C,16,254.91,Indicação,56,Sim,4,5,2,3,3,1,Crossfit
+443,65,Feminino,Bairro Assunção,Superior completo,Solteiro(a),3310.00,C,16,249.31,Unidade,66,Sim,4,2,4,3,4,7,Musculação
+444,48,Feminino,Paulicéia,Superior incompleto,Casado(a),2990.00,D,14,211.66,Site,44,Sim,1,1,3,4,2,3,Funcional
+445,22,Masculino,Paulicéia,Superior incompleto,Casado(a),4800.00,C,12,401.32,Indicação,7,Sim,5,1,4,5,4,6,Funcional
+446,21,Masculino,Demarchi,Fundamental,Viúvo(a),1550.00,D,11,208.79,Indicação,30,Não,4,1,5,5,3,7,Funcional
+447,32,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),1740.00,D,13,260.92,App,41,Não,3,1,4,4,3,5,Musculação
+448,18,Feminino,Bairro Assunção,Fundamental,Solteiro(a),2210.00,D,6,268.21,Indicação,69,Sim,3,1,4,5,3,5,Funcional
+449,58,Feminino,Centro,Médio,Solteiro(a),3190.00,C,8,285.39,Unidade,36,Sim,5,3,2,3,3,5,Musculação
+450,51,Feminino,Taboão,Médio,Solteiro(a),3200.00,C,12,237.49,Site,1,Sim,5,2,3,3,4,6,Natação
+451,42,Masculino,Nova Petrópolis,Superior completo,Viúvo(a),4580.00,C,4,248.08,App,51,Não,3,5,5,3,4,5,Natação
+452,61,Feminino,Rudge Ramos,Superior incompleto,Casado(a),2170.00,D,14,187.80,Indicação,50,Sim,3,2,3,2,2,3,Funcional
+453,25,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),1390.00,D,13,281.85,Indicação,17,Não,4,2,4,4,4,6,Pilates
+454,44,Masculino,Baeta Neves,Pós-graduação,Casado(a),2750.00,D,16,265.96,Indicação,30,Não,4,3,3,4,4,7,Crossfit
+455,35,Feminino,Taboão,Médio,Casado(a),3130.00,C,14,245.37,Unidade,4,Sim,4,5,4,3,4,6,Natação
+456,19,Feminino,Taboão,Superior completo,Solteiro(a),1900.00,D,14,280.29,App,9,Não,3,3,5,4,4,6,Pilates
+457,43,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),1490.00,D,7,179.27,App,23,Sim,4,2,5,3,3,5,Musculação
+458,25,Feminino,Taboão,Fundamental,Solteiro(a),2190.00,D,15,250.81,Indicação,7,Sim,4,1,5,3,3,8,Natação
+459,20,Masculino,Baeta Neves,Superior completo,Casado(a),2240.00,D,15,290.14,Site,20,Não,5,2,5,5,5,9,Natação
+460,29,Feminino,Ferrazópolis,Fundamental,Divorciado(a),1300.00,D,16,253.01,Indicação,47,Sim,5,3,5,4,4,9,Crossfit
+461,28,Feminino,Bairro Assunção,Superior completo,Solteiro(a),3080.00,C,9,253.80,Indicação,28,Sim,5,3,4,3,5,10,Natação
+462,51,Feminino,Centro,Médio,Casado(a),2160.00,D,9,263.82,App,11,Não,5,2,3,3,4,5,Crossfit
+463,60,Feminino,Rudge Ramos,Médio,Casado(a),5670.00,C,11,302.16,Unidade,45,Não,5,3,3,3,5,6,Pilates
+464,43,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),3710.00,C,12,295.91,Site,62,Não,5,1,5,2,4,7,Crossfit
+465,51,Masculino,Demarchi,Fundamental,Casado(a),2970.00,D,12,211.21,Indicação,43,Sim,3,2,3,3,3,5,Natação
+466,23,Feminino,Taboão,Superior incompleto,Solteiro(a),2570.00,D,9,315.67,Unidade,23,Não,5,3,5,5,4,6,Musculação
+467,59,Masculino,Rudge Ramos,Superior completo,Solteiro(a),2580.00,D,9,265.99,Site,59,Sim,3,2,3,5,3,5,Musculação
+468,44,Feminino,Paulicéia,Pós-graduação,Casado(a),2880.00,D,14,281.30,App,25,Sim,5,3,5,3,5,9,Pilates
+469,40,Masculino,Paulicéia,Médio,Solteiro(a),4000.00,C,15,248.43,Indicação,2,Sim,3,4,4,3,3,4,Natação
+470,64,Masculino,Taboão,Médio,Casado(a),3790.00,C,10,293.45,Site,48,Não,5,2,5,2,4,6,Natação
+471,34,Masculino,Taboão,Superior incompleto,Casado(a),1390.00,D,15,252.78,Site,52,Não,5,2,4,4,4,7,Musculação
+472,41,Masculino,Centro,Superior incompleto,Solteiro(a),1590.00,D,6,82.30,Unidade,16,Sim,4,2,5,3,4,10,Natação
+473,67,Feminino,Bairro Assunção,Fundamental,União estável,1420.00,D,10,156.28,Indicação,28,Sim,2,1,2,4,1,1,Funcional
+474,25,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),4210.00,C,8,268.78,Site,1,Não,3,3,3,4,3,5,Natação
+475,45,Feminino,Ferrazópolis,Fundamental,Casado(a),1300.00,D,13,228.71,Unidade,34,Sim,4,1,3,4,3,4,Musculação
+476,48,Masculino,Bairro Assunção,Superior completo,Casado(a),4600.00,C,16,323.94,App,33,Sim,5,3,4,3,3,5,Natação
+477,55,Feminino,Jardim do Mar,Superior completo,Casado(a),3970.00,C,13,298.44,App,19,Sim,4,4,3,1,4,5,Crossfit
+478,67,Masculino,Nova Petrópolis,Superior incompleto,União estável,3300.00,C,10,260.65,Unidade,39,Sim,4,3,4,3,4,6,Musculação
+479,36,Feminino,Bairro Assunção,Médio,Solteiro(a),1960.00,D,8,97.17,App,49,Sim,2,1,4,2,2,7,Pilates
+480,24,Feminino,Taboão,Médio,Solteiro(a),3940.00,C,11,301.28,Site,33,Não,5,3,5,4,4,7,Musculação
+481,39,Masculino,Jardim do Mar,Superior completo,Casado(a),3280.00,C,8,277.56,Indicação,58,Sim,4,5,5,3,4,5,Musculação
+482,26,Masculino,Baeta Neves,Superior incompleto,Casado(a),1370.00,D,14,234.67,Indicação,33,Não,5,1,5,4,4,8,Musculação
+483,56,Feminino,Ferrazópolis,Pós-graduação,Divorciado(a),2180.00,D,21,266.74,Site,30,Não,5,2,4,3,3,6,Crossfit
+484,48,Masculino,Ferrazópolis,Pós-graduação,Divorciado(a),1740.00,D,12,174.46,Unidade,48,Sim,3,1,3,3,2,4,Funcional
+485,58,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),5120.00,C,8,312.65,App,13,Não,4,3,4,3,3,5,Crossfit
+486,36,Feminino,Demarchi,Médio,Casado(a),4600.00,C,8,263.89,App,61,Não,4,3,5,3,3,5,Funcional
+487,68,Masculino,Centro,Pós-graduação,Casado(a),6430.00,B,17,374.98,Indicação,44,Não,4,3,3,5,3,3,Musculação
+488,65,Feminino,Taboão,Superior completo,Casado(a),3240.00,C,11,267.33,Unidade,27,Não,5,4,5,2,4,7,Pilates
+489,66,Masculino,Taboão,Fundamental,Solteiro(a),1300.00,D,9,151.54,Indicação,17,Sim,3,2,2,1,3,3,Crossfit
+490,55,Feminino,Rudge Ramos,Pós-graduação,União estável,2330.00,D,11,218.88,Unidade,57,Não,4,1,4,1,4,6,Crossfit
+491,27,Masculino,Ferrazópolis,Médio,Casado(a),1500.00,D,11,231.36,Site,2,Não,4,3,5,5,4,9,Pilates
+492,25,Feminino,Centro,Superior incompleto,Solteiro(a),2560.00,D,9,288.37,App,5,Não,5,3,5,3,4,8,Funcional
+493,68,Feminino,Centro,Fundamental,Solteiro(a),4560.00,C,14,281.45,Indicação,44,Sim,3,2,1,2,2,3,Natação
+494,64,Masculino,Ferrazópolis,Superior incompleto,Casado(a),5690.00,C,16,336.41,App,35,Não,5,3,3,1,3,3,Musculação
+495,64,Feminino,Paulicéia,Superior completo,União estável,2760.00,D,7,219.77,App,13,Sim,5,3,5,3,4,6,Funcional
+496,52,Masculino,Taboão,Fundamental,Casado(a),1300.00,D,4,149.09,Site,28,Não,3,3,1,4,3,3,Musculação
+497,63,Masculino,Nova Petrópolis,Médio,União estável,1600.00,D,7,183.53,Unidade,57,Sim,4,3,4,2,5,8,Pilates
+498,44,Feminino,Jardim do Mar,Superior completo,Solteiro(a),5430.00,C,16,333.80,App,34,Sim,3,3,4,4,2,4,Natação
+499,26,Feminino,Demarchi,Pós-graduação,Solteiro(a),3700.00,C,11,233.87,Indicação,39,Sim,2,4,4,2,3,6,Pilates
+500,31,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),2900.00,D,7,183.56,Indicação,7,Não,3,4,3,3,3,6,Pilates
+501,63,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),2830.00,D,10,247.96,Site,52,Não,3,2,4,3,3,5,Natação
+502,52,Feminino,Paulicéia,Pós-graduação,Solteiro(a),2640.00,D,11,185.01,Unidade,10,Sim,3,2,4,2,3,6,Funcional
+503,70,Feminino,Nova Petrópolis,Fundamental,Casado(a),1430.00,D,21,261.23,Unidade,17,Não,4,1,2,4,3,4,Crossfit
+504,65,Feminino,Nova Petrópolis,Médio,Solteiro(a),6910.00,B,16,332.08,Indicação,22,Sim,4,1,4,1,3,5,Funcional
+505,58,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),6460.00,B,11,282.39,Indicação,32,Sim,3,4,4,2,3,6,Musculação
+506,20,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2250.00,D,15,232.28,App,20,Sim,4,3,5,5,4,6,Funcional
+507,27,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),1350.00,D,16,251.43,Site,59,Sim,5,2,4,5,4,5,Crossfit
+508,37,Masculino,Centro,Médio,Solteiro(a),2620.00,D,13,261.70,Unidade,28,Sim,5,1,5,4,4,8,Natação
+509,19,Feminino,Taboão,Fundamental,Solteiro(a),1880.00,D,26,236.04,Site,3,Sim,4,2,5,5,4,5,Crossfit
+510,67,Masculino,Bairro Assunção,Superior completo,União estável,4620.00,C,13,302.35,Unidade,33,Sim,5,3,5,2,4,8,Funcional
+511,30,Masculino,Baeta Neves,Médio,Casado(a),3470.00,C,19,286.11,Unidade,9,Sim,3,1,4,3,2,2,Pilates
+512,38,Feminino,Rudge Ramos,Médio,Casado(a),1440.00,D,10,258.32,Site,16,Sim,4,3,2,5,4,7,Natação
+513,53,Masculino,Demarchi,Médio,Solteiro(a),4610.00,C,16,269.85,Indicação,43,Sim,4,3,4,1,3,5,Crossfit
+514,19,Feminino,Bairro Assunção,Médio,Solteiro(a),1930.00,D,19,218.52,Indicação,45,Sim,4,2,4,3,3,7,Pilates
+515,51,Feminino,Rudge Ramos,Médio,União estável,3380.00,C,13,245.00,App,48,Sim,3,3,4,3,3,5,Natação
+516,23,Feminino,Bairro Assunção,Superior completo,Casado(a),2600.00,D,11,245.43,Site,28,Sim,5,1,5,3,4,7,Pilates
+517,65,Feminino,Jardim do Mar,Fundamental,Divorciado(a),3650.00,C,17,284.33,Site,61,Não,3,2,5,5,3,7,Musculação
+518,54,Feminino,Taboão,Superior incompleto,Solteiro(a),1300.00,D,15,251.54,App,5,Não,3,4,2,5,3,4,Funcional
+519,35,Feminino,Paulicéia,Pós-graduação,Casado(a),4820.00,C,14,305.51,Site,28,Sim,5,2,5,3,4,7,Crossfit
+520,55,Feminino,Bairro Assunção,Pós-graduação,Casado(a),2580.00,D,10,168.95,Indicação,18,Sim,4,3,5,3,4,7,Musculação
+521,34,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),3560.00,C,17,283.62,App,3,Não,4,2,5,2,4,7,Natação
+522,24,Feminino,Taboão,Médio,Divorciado(a),4040.00,C,9,270.97,Unidade,41,Não,2,3,4,5,3,8,Pilates
+523,18,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1390.00,D,12,183.46,Indicação,5,Sim,3,2,2,2,2,0,Pilates
+524,29,Masculino,Taboão,Pós-graduação,Casado(a),2190.00,D,12,178.13,Site,44,Não,4,2,5,3,4,6,Crossfit
+525,55,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2490.00,D,10,208.96,App,62,Sim,5,2,5,3,4,9,Musculação
+526,47,Feminino,Baeta Neves,Superior incompleto,Casado(a),2350.00,D,10,214.08,Unidade,58,Sim,4,4,4,4,3,6,Natação
+527,32,Feminino,Nova Petrópolis,Superior incompleto,Divorciado(a),1670.00,D,10,161.23,App,50,Não,3,4,3,2,4,4,Crossfit
+528,54,Feminino,Paulicéia,Fundamental,Casado(a),2420.00,D,10,182.42,Indicação,18,Sim,3,2,4,2,3,3,Natação
+529,38,Feminino,Rudge Ramos,Superior completo,Viúvo(a),3330.00,C,10,196.74,App,48,Não,4,3,4,2,3,7,Funcional
+530,26,Feminino,Nova Petrópolis,Médio,Solteiro(a),2870.00,D,14,316.04,Indicação,41,Sim,3,1,3,4,2,2,Crossfit
+531,53,Feminino,Paulicéia,Médio,União estável,1790.00,D,11,253.03,Unidade,36,Sim,4,1,3,2,4,5,Pilates
+532,42,Feminino,Centro,Superior completo,Casado(a),2060.00,D,12,216.36,Unidade,35,Sim,3,4,4,3,3,5,Natação
+533,53,Masculino,Bairro Assunção,Superior completo,União estável,3120.00,C,13,225.24,Unidade,11,Não,3,1,3,3,3,3,Pilates
+534,47,Feminino,Paulicéia,Pós-graduação,Casado(a),3250.00,C,10,322.10,Unidade,62,Sim,4,3,5,4,3,7,Pilates
+535,23,Feminino,Bairro Assunção,Superior completo,Casado(a),2640.00,D,15,323.07,App,61,Sim,4,2,5,5,4,7,Pilates
+536,20,Feminino,Ferrazópolis,Fundamental,Casado(a),1470.00,D,7,186.12,Site,53,Não,4,1,3,4,3,3,Musculação
+537,23,Masculino,Baeta Neves,Superior incompleto,Divorciado(a),3010.00,C,8,247.16,Site,40,Sim,3,2,3,5,2,2,Natação
+538,29,Masculino,Baeta Neves,Superior incompleto,Divorciado(a),1740.00,D,7,171.56,Site,10,Sim,2,1,4,4,2,5,Natação
+539,29,Masculino,Nova Petrópolis,Médio,Casado(a),2230.00,D,11,220.36,Unidade,46,Sim,4,1,4,4,4,6,Pilates
+540,66,Masculino,Taboão,Superior incompleto,Casado(a),2680.00,D,6,180.19,Site,70,Sim,2,2,1,3,2,2,Musculação
+541,59,Masculino,Paulicéia,Superior incompleto,Casado(a),2950.00,D,15,242.89,Site,10,Sim,5,3,5,2,4,7,Musculação
+542,64,Feminino,Paulicéia,Superior completo,Solteiro(a),5870.00,C,15,299.05,Site,26,Sim,3,2,3,2,2,1,Funcional
+543,43,Masculino,Paulicéia,Pós-graduação,Solteiro(a),1980.00,D,6,236.88,Site,66,Sim,5,1,5,4,4,8,Musculação
+544,35,Feminino,Baeta Neves,Superior completo,Casado(a),1300.00,D,10,246.10,Unidade,69,Sim,3,2,2,4,2,3,Funcional
+545,39,Masculino,Rudge Ramos,Pós-graduação,Casado(a),2690.00,D,12,202.63,App,33,Não,4,1,5,3,4,9,Musculação
+546,64,Feminino,Centro,Pós-graduação,Casado(a),2310.00,D,10,254.32,Site,21,Sim,3,2,3,4,3,2,Musculação
+547,36,Feminino,Baeta Neves,Superior completo,Casado(a),1300.00,D,11,153.65,Unidade,21,Sim,4,2,5,2,4,3,Crossfit
+548,51,Feminino,Taboão,Médio,Solteiro(a),5640.00,C,16,324.91,Unidade,34,Sim,4,1,4,3,2,5,Crossfit
+549,25,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),3360.00,C,10,314.11,Site,24,Não,5,4,4,4,4,6,Crossfit
+550,70,Masculino,Jardim do Mar,Fundamental,Solteiro(a),3320.00,C,14,284.53,Site,40,Não,5,3,5,3,3,4,Musculação
+551,52,Feminino,Demarchi,Pós-graduação,Solteiro(a),3250.00,C,17,279.24,Unidade,6,Sim,5,3,3,4,4,6,Musculação
+552,69,Feminino,Ferrazópolis,Fundamental,Casado(a),2960.00,D,9,264.22,App,5,Não,5,3,5,3,4,7,Natação
+553,33,Feminino,Centro,Médio,Casado(a),1980.00,D,8,265.70,Indicação,1,Sim,3,1,4,4,3,4,Funcional
+554,50,Masculino,Paulicéia,Pós-graduação,União estável,5290.00,C,12,288.34,App,52,Sim,5,2,4,3,4,6,Musculação
+555,32,Masculino,Taboão,Fundamental,Solteiro(a),2300.00,D,6,227.96,App,67,Sim,4,2,3,3,2,4,Natação
+556,42,Masculino,Demarchi,Superior incompleto,Divorciado(a),2750.00,D,11,303.31,Indicação,8,Sim,5,1,4,5,4,7,Pilates
+557,35,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2770.00,D,17,224.29,Unidade,66,Sim,4,2,5,2,4,7,Natação
+558,25,Feminino,Bairro Assunção,Médio,Solteiro(a),4480.00,C,19,382.52,App,12,Sim,5,4,3,4,4,6,Crossfit
+559,41,Feminino,Baeta Neves,Médio,Casado(a),2660.00,D,7,310.33,App,4,Não,4,2,4,4,3,3,Crossfit
+560,46,Feminino,Jardim do Mar,Superior completo,Viúvo(a),2020.00,D,12,300.18,App,21,Não,5,2,4,5,4,6,Natação
+561,26,Feminino,Ferrazópolis,Superior completo,Solteiro(a),3440.00,C,11,287.83,App,22,Não,3,3,5,4,3,6,Natação
+562,39,Masculino,Ferrazópolis,Superior incompleto,Casado(a),3440.00,C,11,155.28,Indicação,70,Sim,2,3,4,3,3,5,Natação
+563,22,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),2420.00,D,12,202.67,Unidade,9,Não,5,1,5,3,4,6,Musculação
+564,52,Feminino,Demarchi,Médio,Solteiro(a),2520.00,D,11,232.61,Site,71,Sim,5,2,5,2,5,8,Pilates
+565,34,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),1890.00,D,7,191.00,Site,63,Sim,4,1,5,4,4,7,Funcional
+566,22,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2120.00,D,7,276.66,Indicação,36,Não,5,4,5,5,5,10,Pilates
+567,45,Feminino,Centro,Fundamental,Casado(a),1300.00,D,11,73.89,Unidade,49,Sim,2,1,3,3,2,5,Funcional
+568,62,Masculino,Demarchi,Superior completo,Solteiro(a),3050.00,C,11,229.26,Indicação,39,Não,3,4,4,2,4,8,Natação
+569,70,Masculino,Jardim do Mar,Fundamental,Casado(a),1820.00,D,20,219.20,Unidade,66,Sim,4,2,3,3,4,4,Crossfit
+570,69,Masculino,Centro,Superior completo,União estável,5470.00,C,8,213.36,Site,16,Sim,2,2,4,1,2,3,Pilates
+571,27,Masculino,Baeta Neves,Fundamental,Divorciado(a),4160.00,C,17,333.16,Unidade,69,Sim,2,4,3,5,2,4,Crossfit
+572,29,Feminino,Ferrazópolis,Médio,Solteiro(a),1410.00,D,12,196.87,Unidade,31,Não,4,3,4,3,4,8,Pilates
+573,65,Masculino,Centro,Pós-graduação,Solteiro(a),3890.00,C,9,181.89,Site,68,Sim,3,1,4,3,3,4,Musculação
+574,51,Masculino,Centro,Médio,Casado(a),2240.00,D,9,228.80,Unidade,71,Não,4,2,2,3,2,2,Musculação
+575,46,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),4450.00,C,11,287.79,App,62,Sim,3,3,4,4,3,4,Natação
+576,60,Masculino,Bairro Assunção,Médio,Solteiro(a),2780.00,D,16,218.31,App,57,Não,3,1,3,3,2,3,Crossfit
+577,21,Masculino,Taboão,Superior completo,Casado(a),2430.00,D,15,322.26,App,32,Sim,4,1,4,4,2,3,Funcional
+578,47,Masculino,Rudge Ramos,Superior completo,Casado(a),3350.00,C,12,265.54,Unidade,51,Não,4,2,4,4,2,4,Crossfit
+579,48,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2930.00,D,7,264.82,Site,18,Sim,3,1,5,4,3,4,Natação
+580,67,Feminino,Nova Petrópolis,Médio,Solteiro(a),5600.00,C,14,331.88,App,21,Sim,3,2,3,5,3,2,Pilates
+581,42,Masculino,Demarchi,Superior completo,União estável,2210.00,D,8,241.24,Site,54,Sim,4,1,3,2,4,9,Crossfit
+582,45,Masculino,Jardim do Mar,Médio,União estável,2820.00,D,10,208.93,Unidade,55,Sim,5,2,4,1,4,6,Natação
+583,60,Feminino,Taboão,Pós-graduação,Casado(a),4800.00,C,16,235.54,Unidade,19,Não,4,2,4,1,3,8,Pilates
+584,32,Feminino,Centro,Médio,Casado(a),2900.00,D,11,222.64,Unidade,70,Sim,2,3,3,2,3,6,Funcional
+585,21,Feminino,Centro,Pós-graduação,Casado(a),2860.00,D,8,228.32,Indicação,50,Não,3,2,4,3,3,3,Crossfit
+586,42,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),6580.00,B,12,361.96,App,72,Sim,5,4,5,2,5,9,Crossfit
+587,50,Masculino,Taboão,Superior completo,União estável,1300.00,D,17,169.73,Unidade,35,Não,3,1,4,3,3,4,Musculação
+588,43,Feminino,Paulicéia,Superior incompleto,Solteiro(a),1720.00,D,13,245.61,Unidade,44,Não,4,1,3,4,3,4,Pilates
+589,55,Feminino,Ferrazópolis,Superior incompleto,Casado(a),3970.00,C,12,230.57,Unidade,47,Não,5,3,4,3,4,4,Pilates
+590,31,Masculino,Taboão,Médio,Solteiro(a),1600.00,D,17,213.59,Unidade,12,Sim,5,2,3,3,4,4,Natação
+591,18,Feminino,Rudge Ramos,Médio,Casado(a),1480.00,D,13,167.56,Unidade,21,Não,2,1,2,4,1,0,Musculação
+592,59,Masculino,Paulicéia,Superior incompleto,Casado(a),2430.00,D,16,289.68,Site,70,Sim,5,1,5,5,3,5,Crossfit
+593,63,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2140.00,D,11,206.40,Site,49,Sim,4,2,4,3,4,6,Crossfit
+594,50,Feminino,Jardim do Mar,Superior completo,Casado(a),4340.00,C,15,249.48,Indicação,39,Não,4,3,4,4,4,5,Pilates
+595,34,Masculino,Paulicéia,Pós-graduação,Casado(a),5170.00,C,7,260.26,Indicação,1,Sim,4,5,3,3,4,6,Crossfit
+596,37,Feminino,Ferrazópolis,Pós-graduação,Casado(a),3630.00,C,17,306.97,Site,3,Não,5,3,5,3,3,7,Pilates
+597,43,Feminino,Bairro Assunção,Superior completo,Casado(a),5090.00,C,10,321.12,Site,41,Sim,4,3,3,5,4,6,Funcional
+598,40,Feminino,Paulicéia,Pós-graduação,Casado(a),1890.00,D,5,147.53,Indicação,6,Sim,2,1,3,3,3,4,Crossfit
+599,29,Masculino,Bairro Assunção,Pós-graduação,Casado(a),3490.00,C,15,296.29,Indicação,11,Não,4,2,5,4,3,6,Funcional
+600,37,Feminino,Baeta Neves,Superior incompleto,Casado(a),5030.00,C,10,314.94,Unidade,42,Sim,3,3,3,2,2,1,Musculação
+601,33,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),4190.00,C,12,312.96,Site,70,Não,5,4,4,3,4,8,Pilates
+602,41,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),5320.00,C,11,220.73,Indicação,61,Não,4,3,4,3,3,4,Musculação
+603,37,Masculino,Centro,Fundamental,Solteiro(a),1650.00,D,13,227.66,Indicação,34,Sim,4,2,3,4,3,6,Pilates
+604,45,Masculino,Baeta Neves,Médio,Casado(a),3790.00,C,11,233.64,App,68,Sim,3,2,5,3,4,8,Crossfit
+605,60,Masculino,Centro,Médio,Solteiro(a),2200.00,D,11,147.08,Site,44,Sim,4,1,4,3,4,7,Musculação
+606,35,Masculino,Paulicéia,Superior completo,Divorciado(a),4010.00,C,13,219.87,App,68,Sim,4,3,4,3,3,6,Funcional
+607,21,Masculino,Ferrazópolis,Médio,Solteiro(a),4110.00,C,8,267.31,Site,18,Não,3,3,2,3,2,2,Natação
+608,61,Feminino,Ferrazópolis,Superior completo,Casado(a),2380.00,D,10,220.43,Site,42,Não,4,2,3,2,3,3,Musculação
+609,27,Feminino,Paulicéia,Médio,Solteiro(a),1300.00,D,19,233.94,Site,67,Sim,4,2,4,4,3,4,Natação
+610,67,Masculino,Paulicéia,Médio,União estável,6290.00,B,10,290.36,Indicação,71,Sim,4,2,5,3,3,8,Musculação
+611,46,Masculino,Ferrazópolis,Fundamental,Solteiro(a),2780.00,D,13,255.02,Unidade,62,Sim,3,2,4,3,3,5,Pilates
+612,45,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2700.00,D,8,183.99,Unidade,11,Sim,5,1,5,2,3,5,Natação
+613,39,Outro,Rudge Ramos,Fundamental,Solteiro(a),2020.00,D,16,207.79,Indicação,45,Sim,5,2,5,3,5,9,Musculação
+614,55,Masculino,Paulicéia,Médio,Divorciado(a),1300.00,D,15,195.40,App,7,Não,5,2,5,2,4,8,Funcional
+615,52,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),3200.00,C,12,201.92,App,28,Sim,5,5,4,2,5,7,Musculação
+616,67,Masculino,Rudge Ramos,Superior completo,Casado(a),2740.00,D,9,195.28,Indicação,3,Não,4,1,5,3,4,6,Musculação
+617,18,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),2600.00,D,15,302.99,Site,55,Sim,4,1,3,5,3,5,Pilates
+618,28,Masculino,Nova Petrópolis,Médio,Solteiro(a),2380.00,D,10,154.41,Site,56,Não,1,2,2,4,1,2,Natação
+619,32,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),1300.00,D,13,196.75,Indicação,7,Não,3,3,3,2,2,3,Pilates
+620,28,Masculino,Demarchi,Médio,Casado(a),2920.00,D,9,292.17,App,66,Não,5,1,4,5,5,8,Musculação
+621,68,Feminino,Taboão,Médio,Solteiro(a),3000.00,C,10,264.27,App,61,Sim,5,4,5,4,5,8,Musculação
+622,21,Masculino,Centro,Fundamental,Viúvo(a),2340.00,D,6,186.42,Unidade,61,Sim,4,2,2,5,2,3,Musculação
+623,24,Masculino,Rudge Ramos,Médio,Casado(a),2120.00,D,8,191.04,Indicação,33,Sim,2,1,3,4,2,2,Funcional
+624,41,Feminino,Jardim do Mar,Médio,Casado(a),2530.00,D,7,168.45,Unidade,68,Sim,5,2,4,3,2,2,Funcional
+625,32,Feminino,Ferrazópolis,Médio,Solteiro(a),2580.00,D,17,227.44,App,71,Não,4,1,3,3,3,6,Musculação
+626,35,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2420.00,D,13,262.35,App,40,Não,5,1,3,4,3,3,Natação
+627,50,Masculino,Nova Petrópolis,Fundamental,Divorciado(a),2810.00,D,14,275.50,Indicação,28,Não,3,1,3,5,2,1,Funcional
+628,47,Masculino,Centro,Superior completo,Casado(a),3650.00,C,17,229.44,App,55,Sim,3,4,3,2,3,6,Pilates
+629,63,Masculino,Taboão,Superior incompleto,Casado(a),6990.00,B,10,299.59,Unidade,4,Sim,5,2,4,1,4,4,Musculação
+630,41,Feminino,Ferrazópolis,Superior completo,Casado(a),2260.00,D,7,210.35,Unidade,25,Não,5,2,3,3,3,4,Musculação
+631,67,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),2610.00,D,13,193.72,Site,1,Sim,3,3,4,2,2,2,Natação
+632,28,Masculino,Rudge Ramos,Superior incompleto,União estável,5660.00,C,6,294.56,Indicação,56,Sim,3,3,3,3,3,3,Pilates
+633,28,Feminino,Ferrazópolis,Superior incompleto,Casado(a),2470.00,D,12,273.18,Unidade,4,Sim,5,1,3,4,3,7,Musculação
+634,38,Feminino,Demarchi,Médio,União estável,3710.00,C,4,242.29,Site,55,Não,3,4,3,4,2,3,Musculação
+635,24,Feminino,Paulicéia,Médio,Casado(a),2450.00,D,11,248.22,Unidade,41,Sim,3,4,2,4,3,4,Pilates
+636,19,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),2930.00,D,11,254.34,Unidade,32,Não,4,3,4,4,4,7,Crossfit
+637,37,Feminino,Jardim do Mar,Superior incompleto,Casado(a),4270.00,C,17,256.60,Unidade,46,Sim,5,2,4,3,4,6,Funcional
+638,46,Masculino,Rudge Ramos,Pós-graduação,Viúvo(a),4560.00,C,12,196.19,Unidade,4,Não,3,1,2,1,2,3,Natação
+639,32,Feminino,Rudge Ramos,Superior completo,Solteiro(a),1520.00,D,12,242.94,Site,59,Não,4,1,3,4,2,3,Pilates
+640,32,Masculino,Paulicéia,Superior completo,Casado(a),3270.00,C,11,195.26,Indicação,20,Não,4,3,2,3,3,4,Pilates
+641,23,Feminino,Demarchi,Pós-graduação,Casado(a),2110.00,D,11,193.19,Unidade,61,Sim,3,4,5,3,4,6,Pilates
+642,23,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),5180.00,C,13,255.94,Indicação,64,Sim,2,2,4,3,3,6,Natação
+643,64,Feminino,Paulicéia,Pós-graduação,Solteiro(a),8550.00,B,20,375.57,Unidade,40,Sim,5,2,5,3,4,7,Pilates
+644,21,Feminino,Demarchi,Superior completo,Casado(a),6740.00,B,8,283.06,Indicação,43,Sim,4,4,3,4,4,7,Musculação
+645,55,Feminino,Baeta Neves,Superior completo,União estável,3900.00,C,10,223.16,Indicação,67,Sim,4,3,5,3,4,7,Pilates
+646,55,Masculino,Bairro Assunção,Superior completo,Casado(a),2700.00,D,13,170.77,Site,30,Não,4,4,4,3,3,8,Natação
+647,28,Masculino,Paulicéia,Pós-graduação,União estável,3880.00,C,11,293.42,App,29,Sim,5,3,4,3,3,6,Funcional
+648,31,Masculino,Demarchi,Médio,Solteiro(a),1550.00,D,11,173.21,Indicação,69,Não,3,3,3,1,3,4,Funcional
+649,37,Feminino,Taboão,Pós-graduação,Solteiro(a),10010.00,B,8,376.41,App,30,Não,3,3,3,4,3,4,Natação
+650,52,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),4980.00,C,12,262.53,Unidade,27,Não,5,4,5,3,4,7,Funcional
+651,19,Masculino,Bairro Assunção,Fundamental,Casado(a),2300.00,D,11,238.85,App,1,Não,2,2,3,4,3,4,Musculação
+652,61,Feminino,Centro,Fundamental,Casado(a),3720.00,C,10,273.75,Unidade,24,Sim,4,3,4,3,3,6,Musculação
+653,36,Masculino,Bairro Assunção,Superior completo,Solteiro(a),2470.00,D,11,189.16,App,18,Sim,4,2,3,2,3,4,Musculação
+654,44,Masculino,Paulicéia,Pós-graduação,Casado(a),2180.00,D,7,248.18,Unidade,56,Sim,4,3,5,3,4,10,Musculação
+655,66,Masculino,Bairro Assunção,Superior completo,Casado(a),1300.00,D,6,144.88,App,37,Não,2,3,3,2,3,4,Natação
+656,25,Feminino,Demarchi,Superior completo,Casado(a),3060.00,C,13,268.75,Site,26,Sim,3,1,3,5,3,4,Pilates
+657,68,Feminino,Bairro Assunção,Pós-graduação,Casado(a),3590.00,C,11,225.73,Site,68,Sim,5,3,4,2,4,6,Pilates
+658,50,Feminino,Jardim do Mar,Pós-graduação,Casado(a),4640.00,C,14,278.31,Unidade,33,Não,5,2,4,5,4,9,Pilates
+659,40,Masculino,Jardim do Mar,Pós-graduação,Viúvo(a),3550.00,C,16,189.32,App,30,Sim,3,2,2,3,2,0,Pilates
+660,21,Masculino,Taboão,Fundamental,Casado(a),2500.00,D,11,303.32,Site,53,Não,3,3,2,5,1,1,Funcional
+661,21,Feminino,Paulicéia,Pós-graduação,União estável,4710.00,C,11,236.90,App,19,Não,2,5,5,4,3,6,Crossfit
+662,61,Masculino,Demarchi,Superior incompleto,União estável,1560.00,D,10,229.66,Unidade,31,Sim,5,2,3,4,3,3,Crossfit
+663,39,Feminino,Centro,Superior completo,Divorciado(a),4610.00,C,11,338.77,Site,51,Não,5,5,5,5,5,10,Musculação
+664,58,Feminino,Centro,Superior completo,Solteiro(a),2800.00,D,12,179.49,Site,24,Sim,1,1,2,2,1,0,Pilates
+665,62,Feminino,Baeta Neves,Superior completo,Casado(a),4310.00,C,13,225.70,Unidade,31,Sim,1,4,3,3,2,3,Crossfit
+666,39,Masculino,Paulicéia,Pós-graduação,Solteiro(a),5560.00,C,19,331.94,Indicação,2,Não,4,3,4,5,2,6,Crossfit
+667,34,Feminino,Rudge Ramos,Fundamental,Solteiro(a),3380.00,C,13,285.44,App,58,Sim,4,3,5,4,4,7,Pilates
+668,32,Feminino,Demarchi,Pós-graduação,Casado(a),3620.00,C,7,186.53,Site,62,Não,3,5,4,2,4,7,Funcional
+669,51,Feminino,Jardim do Mar,Médio,Solteiro(a),2790.00,D,13,227.48,Unidade,49,Não,4,1,5,3,4,7,Natação
+670,55,Feminino,Taboão,Médio,Casado(a),3900.00,C,11,174.27,App,38,Não,4,4,5,2,4,7,Musculação
+671,36,Feminino,Demarchi,Superior completo,Divorciado(a),1570.00,D,9,154.34,Unidade,65,Sim,4,2,5,4,4,8,Crossfit
+672,48,Feminino,Demarchi,Pós-graduação,Solteiro(a),2370.00,D,10,166.25,Unidade,62,Sim,3,1,3,3,2,2,Funcional
+673,46,Masculino,Centro,Fundamental,União estável,1970.00,D,7,244.31,App,34,Sim,4,1,4,4,3,2,Crossfit
+674,25,Masculino,Centro,Pós-graduação,Casado(a),1820.00,D,16,179.41,Unidade,45,Sim,3,4,3,2,3,4,Funcional
+675,45,Feminino,Nova Petrópolis,Médio,Divorciado(a),2220.00,D,15,227.99,App,68,Sim,3,3,4,2,3,5,Funcional
+676,58,Masculino,Taboão,Pós-graduação,Solteiro(a),3270.00,C,18,224.57,Site,15,Sim,2,2,3,2,2,3,Musculação
+677,68,Masculino,Centro,Fundamental,União estável,2540.00,D,9,229.30,Indicação,57,Não,4,3,2,3,3,3,Funcional
+678,35,Masculino,Paulicéia,Superior completo,Solteiro(a),2990.00,D,12,208.66,App,27,Sim,5,2,4,2,4,5,Natação
+679,30,Feminino,Bairro Assunção,Superior incompleto,Divorciado(a),4310.00,C,12,279.49,Unidade,7,Sim,4,3,4,3,3,5,Pilates
+680,65,Masculino,Centro,Pós-graduação,Solteiro(a),5040.00,C,12,295.11,Indicação,31,Não,4,4,2,3,4,7,Crossfit
+681,66,Masculino,Centro,Superior incompleto,Solteiro(a),2980.00,D,10,336.34,App,38,Sim,5,1,4,4,3,5,Pilates
+682,61,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2040.00,D,10,197.70,Indicação,54,Sim,5,1,5,1,4,8,Crossfit
+683,35,Masculino,Centro,Fundamental,Casado(a),2090.00,D,19,270.56,Site,11,Sim,5,2,5,3,5,7,Natação
+684,32,Feminino,Demarchi,Médio,União estável,2350.00,D,17,276.69,Unidade,40,Sim,5,2,4,5,4,6,Pilates
+685,51,Masculino,Jardim do Mar,Pós-graduação,Casado(a),11450.00,B,14,420.42,Indicação,48,Sim,4,2,4,3,3,4,Pilates
+686,31,Masculino,Demarchi,Fundamental,Casado(a),1300.00,D,14,226.76,Unidade,46,Sim,3,1,3,4,3,6,Funcional
+687,58,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),2500.00,D,12,281.81,App,60,Sim,3,1,5,3,3,4,Musculação
+688,39,Feminino,Taboão,Superior incompleto,Viúvo(a),1700.00,D,16,218.71,Unidade,55,Sim,4,2,4,2,3,6,Crossfit
+689,35,Masculino,Centro,Superior incompleto,Casado(a),3070.00,C,9,238.46,Indicação,34,Sim,5,2,4,4,4,7,Natação
+690,60,Feminino,Bairro Assunção,Pós-graduação,União estável,4240.00,C,7,265.15,Indicação,20,Não,3,4,4,3,3,5,Crossfit
+691,36,Masculino,Rudge Ramos,Superior completo,Casado(a),2380.00,D,10,228.12,Indicação,64,Não,4,3,3,3,3,1,Musculação
+692,24,Masculino,Centro,Superior completo,Solteiro(a),4390.00,C,11,340.72,Unidade,64,Sim,3,2,3,4,2,1,Pilates
+693,60,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),4510.00,C,19,320.97,Indicação,10,Não,4,4,4,3,3,5,Musculação
+694,34,Masculino,Bairro Assunção,Superior incompleto,Casado(a),4130.00,C,14,224.38,Site,33,Não,4,3,5,2,4,6,Pilates
+695,52,Masculino,Centro,Pós-graduação,União estável,6360.00,B,7,351.48,Indicação,55,Não,4,3,3,3,3,4,Musculação
+696,52,Masculino,Jardim do Mar,Superior completo,Casado(a),1300.00,D,7,204.06,App,48,Sim,5,2,4,1,3,5,Musculação
+697,22,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),4470.00,C,14,316.58,Site,63,Sim,4,5,5,3,4,6,Natação
+698,19,Feminino,Bairro Assunção,Superior incompleto,Viúvo(a),1430.00,D,13,233.95,App,16,Sim,3,3,4,5,3,4,Musculação
+699,61,Feminino,Baeta Neves,Superior completo,Solteiro(a),3810.00,C,14,287.22,Site,68,Sim,3,3,4,3,3,5,Musculação
+700,20,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2480.00,D,12,252.50,Site,17,Não,4,3,4,4,3,3,Musculação
+701,35,Feminino,Baeta Neves,Pós-graduação,Casado(a),3410.00,C,7,208.19,App,7,Não,3,4,3,2,4,5,Pilates
+702,58,Feminino,Paulicéia,Superior completo,Solteiro(a),1950.00,D,9,218.86,App,53,Sim,4,2,3,3,3,3,Pilates
+703,27,Feminino,Bairro Assunção,Fundamental,Divorciado(a),3290.00,C,7,203.02,Indicação,67,Não,1,3,2,4,1,1,Pilates
+704,45,Masculino,Taboão,Superior incompleto,Solteiro(a),1580.00,D,13,229.53,Indicação,26,Não,4,2,5,4,4,10,Natação
+705,24,Feminino,Demarchi,Fundamental,Casado(a),2870.00,D,17,267.58,Unidade,12,Não,4,1,3,4,3,3,Natação
+706,47,Masculino,Centro,Superior completo,Casado(a),1690.00,D,10,162.86,Unidade,64,Não,3,2,2,2,3,4,Natação
+707,55,Feminino,Ferrazópolis,Superior completo,Divorciado(a),3290.00,C,9,215.29,Indicação,7,Sim,4,2,3,1,3,5,Funcional
+708,31,Masculino,Centro,Pós-graduação,Casado(a),7660.00,B,12,365.22,Site,48,Sim,5,3,4,3,4,7,Crossfit
+709,32,Masculino,Taboão,Fundamental,Casado(a),6120.00,B,11,265.82,Unidade,10,Não,5,4,5,3,5,8,Musculação
+710,46,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),1370.00,D,18,216.71,Indicação,48,Sim,3,4,3,2,3,6,Funcional
+711,59,Masculino,Rudge Ramos,Médio,Divorciado(a),1930.00,D,6,199.15,Unidade,9,Não,4,2,3,2,4,6,Musculação
+712,46,Feminino,Demarchi,Superior incompleto,Casado(a),2250.00,D,6,175.21,Unidade,28,Não,2,2,4,4,3,6,Pilates
+713,55,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),10330.00,B,8,446.02,Site,34,Não,4,3,3,4,3,3,Natação
+714,39,Feminino,Centro,Superior incompleto,Divorciado(a),2680.00,D,15,239.04,Site,65,Sim,4,3,5,4,4,7,Musculação
+715,24,Feminino,Ferrazópolis,Superior incompleto,Casado(a),4220.00,C,12,286.00,Unidade,52,Não,5,3,4,4,5,7,Funcional
+716,69,Masculino,Centro,Pós-graduação,Solteiro(a),4530.00,C,14,294.46,Site,69,Sim,5,3,5,2,5,7,Funcional
+717,60,Feminino,Centro,Superior incompleto,Solteiro(a),1750.00,D,15,270.14,Indicação,39,Não,4,2,3,3,3,4,Funcional
+718,20,Masculino,Taboão,Superior incompleto,Casado(a),1300.00,D,14,206.72,Unidade,19,Sim,3,1,4,4,3,5,Natação
+719,32,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),2040.00,D,10,220.58,Indicação,31,Não,5,2,5,4,4,8,Natação
+720,39,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),9960.00,B,14,409.08,Site,38,Não,4,2,3,4,2,4,Pilates
+721,22,Masculino,Demarchi,Superior incompleto,Solteiro(a),2900.00,D,14,292.97,Indicação,41,Sim,4,2,3,5,3,5,Natação
+722,63,Masculino,Demarchi,Superior completo,Casado(a),5510.00,C,9,292.99,App,66,Sim,4,2,4,2,4,7,Musculação
+723,27,Feminino,Baeta Neves,Fundamental,Casado(a),1300.00,D,7,255.82,Site,65,Sim,5,3,5,4,4,7,Crossfit
+724,28,Masculino,Nova Petrópolis,Fundamental,Casado(a),1800.00,D,15,212.08,Indicação,8,Não,3,2,3,3,3,4,Musculação
+725,34,Masculino,Bairro Assunção,Fundamental,Casado(a),3020.00,C,13,282.19,App,58,Não,5,2,4,3,5,7,Musculação
+726,67,Feminino,Paulicéia,Superior incompleto,Casado(a),1890.00,D,8,279.30,Site,22,Não,4,2,4,3,3,4,Pilates
+727,29,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2910.00,D,13,191.36,Site,43,Sim,4,4,5,3,3,5,Natação
+728,40,Masculino,Centro,Médio,União estável,1660.00,D,8,320.18,App,69,Sim,5,1,5,5,3,6,Funcional
+729,54,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),5410.00,C,11,301.18,Site,64,Sim,2,3,3,3,2,5,Musculação
+730,26,Feminino,Taboão,Fundamental,Divorciado(a),2470.00,D,13,324.03,Site,35,Sim,4,1,4,3,3,5,Natação
+731,22,Feminino,Baeta Neves,Superior completo,Casado(a),3960.00,C,12,244.11,Unidade,4,Não,3,5,3,5,4,5,Natação
+732,22,Feminino,Bairro Assunção,Médio,Solteiro(a),3390.00,C,9,274.36,Site,69,Sim,4,4,3,4,4,7,Musculação
+733,27,Masculino,Bairro Assunção,Fundamental,Casado(a),1870.00,D,16,264.80,Site,66,Sim,5,2,4,5,2,1,Crossfit
+734,35,Masculino,Rudge Ramos,Superior completo,Solteiro(a),4810.00,C,7,284.98,Unidade,28,Não,3,4,5,3,5,10,Natação
+735,67,Feminino,Taboão,Superior incompleto,Viúvo(a),2370.00,D,13,219.85,Indicação,10,Sim,3,2,4,2,3,3,Musculação
+736,66,Masculino,Nova Petrópolis,Superior completo,Casado(a),4600.00,C,15,281.56,Unidade,38,Não,4,3,3,2,4,6,Crossfit
+737,48,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),1500.00,D,13,238.98,Site,58,Sim,3,1,2,5,2,2,Pilates
+738,67,Feminino,Centro,Superior incompleto,Casado(a),2210.00,D,6,223.41,Unidade,33,Sim,4,2,4,4,3,5,Musculação
+739,19,Masculino,Taboão,Pós-graduação,Casado(a),9190.00,B,7,355.02,Site,2,Sim,3,2,2,4,2,5,Musculação
+740,47,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),3760.00,C,15,268.15,Indicação,33,Sim,5,3,3,1,3,3,Funcional
+741,41,Feminino,Paulicéia,Médio,Solteiro(a),3250.00,C,11,228.39,Site,38,Não,3,1,4,4,2,3,Musculação
+742,24,Feminino,Paulicéia,Médio,União estável,1590.00,D,15,197.39,App,67,Não,3,3,3,3,3,4,Pilates
+743,47,Masculino,Nova Petrópolis,Médio,Solteiro(a),1550.00,D,9,144.20,Site,59,Sim,3,4,3,4,2,5,Pilates
+744,42,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),3160.00,C,12,251.24,Unidade,51,Sim,4,3,4,3,4,7,Natação
+745,58,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2890.00,D,8,206.79,Unidade,30,Sim,5,3,4,2,4,6,Funcional
+746,40,Masculino,Ferrazópolis,Pós-graduação,Casado(a),8350.00,B,11,378.78,App,69,Não,5,3,4,3,5,8,Musculação
+747,40,Masculino,Ferrazópolis,Médio,Casado(a),3890.00,C,8,210.44,Site,17,Sim,3,2,4,4,3,4,Funcional
+748,30,Masculino,Bairro Assunção,Superior completo,Casado(a),3160.00,C,12,212.18,App,24,Não,3,3,2,2,2,2,Musculação
+749,43,Feminino,Rudge Ramos,Fundamental,União estável,2270.00,D,13,289.07,Unidade,61,Não,5,2,5,4,4,7,Funcional
+750,22,Masculino,Nova Petrópolis,Médio,Solteiro(a),3220.00,C,16,239.52,App,72,Não,3,2,3,5,2,5,Pilates
+751,48,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1300.00,D,10,160.97,Indicação,59,Sim,4,3,4,3,4,7,Musculação
+752,38,Feminino,Demarchi,Pós-graduação,Solteiro(a),1470.00,D,17,229.36,App,51,Sim,3,1,5,3,4,6,Pilates
+753,32,Feminino,Centro,Médio,Casado(a),3330.00,C,10,292.97,App,68,Sim,4,2,2,4,3,3,Funcional
+754,37,Feminino,Demarchi,Pós-graduação,Solteiro(a),3600.00,C,9,284.31,App,10,Não,5,3,5,3,5,9,Pilates
+755,65,Feminino,Paulicéia,Superior incompleto,Casado(a),1700.00,D,11,167.97,App,49,Não,3,1,4,2,3,4,Musculação
+756,55,Masculino,Rudge Ramos,Fundamental,Divorciado(a),1300.00,D,17,201.29,App,30,Sim,5,2,4,3,3,4,Natação
+757,63,Masculino,Baeta Neves,Médio,Solteiro(a),4030.00,C,10,275.45,Indicação,44,Sim,5,3,4,4,5,7,Funcional
+758,38,Feminino,Taboão,Médio,União estável,1930.00,D,12,221.31,Indicação,18,Sim,5,1,4,2,4,7,Natação
+759,38,Feminino,Nova Petrópolis,Superior incompleto,União estável,3290.00,C,9,200.30,Site,36,Sim,4,5,3,4,3,6,Pilates
+760,18,Masculino,Centro,Médio,Casado(a),2000.00,D,13,210.57,Site,17,Não,5,3,5,4,4,7,Natação
+761,54,Feminino,Jardim do Mar,Superior completo,União estável,3260.00,C,14,282.27,App,47,Sim,3,2,4,3,3,8,Crossfit
+762,19,Feminino,Centro,Superior completo,Casado(a),2200.00,D,15,255.35,Site,67,Não,5,2,4,3,4,6,Musculação
+763,69,Masculino,Centro,Fundamental,Solteiro(a),2370.00,D,10,219.10,Indicação,5,Sim,3,3,4,1,3,6,Funcional
+764,54,Masculino,Bairro Assunção,Superior incompleto,Casado(a),3800.00,C,18,319.23,Unidade,70,Não,5,3,5,3,4,6,Pilates
+765,42,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2470.00,D,15,191.66,Indicação,48,Sim,3,4,4,2,3,7,Natação
+766,53,Feminino,Ferrazópolis,Médio,Casado(a),2230.00,D,6,233.41,Indicação,2,Não,5,2,5,4,4,9,Pilates
+767,70,Masculino,Bairro Assunção,Superior completo,Divorciado(a),4640.00,C,15,271.22,Unidade,42,Não,2,4,2,2,2,3,Funcional
+768,26,Masculino,Centro,Médio,Casado(a),3150.00,C,13,293.89,Unidade,10,Sim,4,2,1,5,3,1,Pilates
+769,57,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),2260.00,D,10,228.81,App,58,Sim,3,1,4,2,2,5,Crossfit
+770,63,Feminino,Centro,Superior incompleto,Casado(a),3000.00,C,13,202.54,Site,21,Não,2,5,4,2,3,4,Crossfit
+771,49,Feminino,Jardim do Mar,Médio,Viúvo(a),2010.00,D,9,224.09,Site,5,Não,5,2,5,2,4,8,Pilates
+772,53,Feminino,Baeta Neves,Superior completo,Solteiro(a),3310.00,C,12,228.25,Site,62,Sim,3,2,4,3,3,3,Funcional
+773,44,Masculino,Rudge Ramos,Superior completo,Solteiro(a),6060.00,B,12,305.62,Indicação,39,Não,3,3,3,4,3,5,Musculação
+774,26,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),3080.00,C,16,220.61,App,44,Sim,3,4,4,4,3,5,Musculação
+775,69,Outro,Nova Petrópolis,Superior completo,União estável,9300.00,B,8,394.16,Site,60,Sim,5,2,5,3,5,8,Crossfit
+776,33,Masculino,Rudge Ramos,Médio,Casado(a),2640.00,D,14,243.42,Unidade,41,Não,5,2,5,3,4,8,Funcional
+777,38,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),3250.00,C,14,243.40,Unidade,58,Não,5,1,5,2,4,7,Natação
+778,69,Feminino,Ferrazópolis,Superior completo,Casado(a),3480.00,C,12,267.92,Site,44,Sim,3,2,5,3,4,7,Natação
+779,21,Feminino,Baeta Neves,Médio,Casado(a),2430.00,D,10,208.37,Indicação,3,Sim,5,3,3,4,4,6,Pilates
+780,39,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),4060.00,C,18,245.41,Site,69,Sim,3,2,4,1,3,7,Pilates
+781,47,Feminino,Jardim do Mar,Pós-graduação,União estável,2320.00,D,6,169.84,Site,70,Não,3,1,3,3,2,3,Natação
+782,30,Feminino,Rudge Ramos,Fundamental,Casado(a),1890.00,D,13,163.53,Indicação,20,Não,3,1,2,2,2,0,Musculação
+783,53,Feminino,Paulicéia,Superior completo,Solteiro(a),2380.00,D,10,172.21,Unidade,47,Não,3,1,3,2,3,2,Natação
+784,45,Masculino,Bairro Assunção,Superior incompleto,União estável,4500.00,C,17,299.51,Site,9,Sim,4,4,5,3,4,7,Pilates
+785,31,Feminino,Centro,Superior completo,Solteiro(a),1300.00,D,9,105.94,Site,21,Sim,3,2,3,3,2,4,Funcional
+786,28,Feminino,Nova Petrópolis,Médio,Solteiro(a),2520.00,D,9,233.72,Indicação,44,Sim,4,3,2,3,4,5,Musculação
+787,33,Masculino,Nova Petrópolis,Médio,Casado(a),1300.00,D,11,160.75,App,26,Sim,1,2,1,4,2,2,Pilates
+788,59,Feminino,Jardim do Mar,Médio,Solteiro(a),3220.00,C,18,229.79,Site,70,Sim,4,2,4,3,4,6,Funcional
+789,45,Masculino,Nova Petrópolis,Fundamental,Casado(a),1860.00,D,10,196.34,Indicação,6,Sim,3,1,2,3,2,3,Funcional
+790,60,Masculino,Paulicéia,Pós-graduação,Solteiro(a),1690.00,D,12,148.81,App,52,Não,3,2,2,3,2,3,Crossfit
+791,56,Feminino,Jardim do Mar,Médio,Solteiro(a),4010.00,C,14,268.75,App,45,Não,3,5,2,4,3,2,Natação
+792,60,Feminino,Nova Petrópolis,Pós-graduação,Viúvo(a),1300.00,D,6,141.17,Indicação,65,Não,5,1,5,1,5,9,Crossfit
+793,63,Feminino,Rudge Ramos,Médio,Solteiro(a),2660.00,D,13,321.55,Unidade,59,Sim,4,1,5,4,4,5,Natação
+794,50,Feminino,Jardim do Mar,Médio,Casado(a),3490.00,C,11,284.55,Indicação,65,Não,4,2,3,3,4,6,Natação
+795,37,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),6470.00,B,11,311.16,Indicação,58,Sim,3,4,4,3,3,5,Pilates
+796,54,Feminino,Baeta Neves,Médio,Divorciado(a),1300.00,D,8,167.72,Unidade,16,Sim,5,2,5,2,4,7,Musculação
+797,68,Feminino,Paulicéia,Superior completo,Solteiro(a),2770.00,D,6,222.11,App,31,Não,5,3,4,2,4,7,Natação
+798,35,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),3480.00,C,13,230.56,Site,50,Não,4,2,4,2,3,5,Pilates
+799,43,Masculino,Demarchi,Pós-graduação,União estável,5990.00,C,11,295.98,Unidade,72,Sim,2,4,2,4,3,5,Pilates
+800,64,Masculino,Jardim do Mar,Superior completo,Solteiro(a),6130.00,B,14,314.17,Unidade,63,Não,3,3,4,3,3,5,Natação
+801,49,Masculino,Centro,Superior completo,Divorciado(a),10270.00,B,7,384.63,App,47,Sim,4,1,4,1,4,7,Funcional
+802,25,Feminino,Paulicéia,Fundamental,Casado(a),1630.00,D,10,229.26,Indicação,8,Não,3,3,2,5,4,6,Crossfit
+803,36,Feminino,Nova Petrópolis,Pós-graduação,Divorciado(a),4100.00,C,11,260.63,App,31,Não,3,3,3,4,3,7,Funcional
+804,31,Masculino,Demarchi,Superior incompleto,Solteiro(a),2290.00,D,13,205.60,Site,47,Não,3,2,4,2,4,6,Musculação
+805,43,Masculino,Jardim do Mar,Médio,Viúvo(a),1300.00,D,12,175.01,Site,56,Sim,4,2,4,3,4,6,Natação
+806,70,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2360.00,D,8,153.98,App,20,Sim,2,1,4,3,3,5,Pilates
+807,62,Outro,Baeta Neves,Fundamental,Solteiro(a),1300.00,D,14,238.53,Unidade,34,Sim,4,2,5,1,3,6,Natação
+808,68,Masculino,Jardim do Mar,Superior completo,Casado(a),2770.00,D,18,258.12,Indicação,60,Não,4,1,4,3,3,5,Pilates
+809,57,Feminino,Ferrazópolis,Médio,Solteiro(a),1360.00,D,16,247.05,Site,61,Não,3,2,3,2,3,2,Pilates
+810,44,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),4370.00,C,15,263.54,App,17,Não,3,4,2,4,4,6,Pilates
+811,52,Feminino,Centro,Médio,Casado(a),1820.00,D,9,296.64,App,19,Não,5,3,3,2,4,7,Natação
+812,44,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),1300.00,D,7,185.91,App,27,Não,3,2,4,4,3,6,Crossfit
+813,20,Feminino,Paulicéia,Pós-graduação,Solteiro(a),4810.00,C,9,334.40,Indicação,47,Não,4,3,4,4,3,7,Crossfit
+814,24,Masculino,Baeta Neves,Superior completo,Casado(a),2240.00,D,11,246.88,App,49,Sim,5,1,3,4,3,5,Pilates
+815,47,Masculino,Rudge Ramos,Superior incompleto,Casado(a),2350.00,D,9,221.51,Indicação,55,Sim,4,1,5,3,3,6,Crossfit
+816,52,Feminino,Jardim do Mar,Pós-graduação,Casado(a),2380.00,D,12,255.20,Unidade,41,Sim,5,2,5,4,4,8,Crossfit
+817,31,Masculino,Rudge Ramos,Superior completo,Casado(a),5060.00,C,14,258.18,Unidade,67,Sim,3,2,4,3,2,2,Musculação
+818,19,Feminino,Centro,Fundamental,Solteiro(a),2270.00,D,11,268.31,Unidade,9,Sim,3,1,3,5,2,3,Crossfit
+819,21,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),1950.00,D,17,239.00,Indicação,38,Não,3,3,3,5,2,3,Pilates
+820,34,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),1450.00,D,7,230.03,Site,17,Não,5,3,5,2,5,10,Pilates
+821,63,Masculino,Demarchi,Superior completo,Solteiro(a),10610.00,B,14,454.87,App,39,Não,4,2,5,3,4,7,Natação
+822,40,Masculino,Baeta Neves,Superior completo,Solteiro(a),7620.00,B,9,406.47,Unidade,64,Não,5,4,4,3,4,6,Crossfit
+823,69,Feminino,Jardim do Mar,Fundamental,Casado(a),4690.00,C,15,297.38,Unidade,64,Não,5,4,5,1,4,7,Natação
+824,65,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2230.00,D,9,161.65,Indicação,72,Não,4,1,5,3,4,8,Pilates
+825,63,Masculino,Bairro Assunção,Fundamental,Casado(a),1910.00,D,14,220.45,Indicação,36,Sim,5,1,5,3,5,8,Pilates
+826,69,Feminino,Ferrazópolis,Superior completo,Solteiro(a),4210.00,C,11,252.18,App,50,Não,2,5,2,4,2,0,Musculação
+827,30,Outro,Ferrazópolis,Médio,Solteiro(a),1580.00,D,17,226.34,Site,35,Sim,4,1,3,4,3,3,Natação
+828,69,Feminino,Nova Petrópolis,Médio,Solteiro(a),1770.00,D,7,275.81,App,1,Não,4,1,5,5,4,7,Natação
+829,66,Masculino,Jardim do Mar,Superior incompleto,Casado(a),5930.00,C,12,362.45,Indicação,21,Sim,5,5,2,3,4,5,Musculação
+830,60,Masculino,Taboão,Fundamental,Casado(a),2310.00,D,11,198.01,Unidade,54,Sim,3,1,3,3,3,4,Musculação
+831,28,Masculino,Ferrazópolis,Superior completo,Casado(a),1800.00,D,8,279.82,Unidade,4,Sim,3,3,3,4,3,4,Natação
+832,33,Feminino,Paulicéia,Superior incompleto,Viúvo(a),4140.00,C,9,264.00,App,47,Não,3,2,3,5,3,5,Crossfit
+833,52,Feminino,Demarchi,Superior incompleto,Solteiro(a),2250.00,D,12,205.90,Unidade,34,Não,4,2,4,2,3,6,Funcional
+834,20,Masculino,Baeta Neves,Superior completo,Solteiro(a),1300.00,D,11,182.56,Site,30,Sim,4,3,5,5,4,8,Funcional
+835,61,Masculino,Demarchi,Superior completo,União estável,2040.00,D,13,159.95,Indicação,53,Sim,3,1,3,4,2,3,Pilates
+836,40,Masculino,Taboão,Pós-graduação,Casado(a),2790.00,D,11,206.34,Indicação,17,Não,5,2,5,3,3,8,Funcional
+837,19,Masculino,Centro,Fundamental,Solteiro(a),2210.00,D,9,272.00,Indicação,19,Sim,4,3,5,5,4,6,Pilates
+838,33,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2910.00,D,14,277.05,Unidade,12,Não,4,1,4,4,3,5,Funcional
+839,38,Feminino,Baeta Neves,Fundamental,Casado(a),3760.00,C,7,223.70,Unidade,8,Não,4,5,3,3,4,5,Musculação
+840,52,Feminino,Demarchi,Médio,Solteiro(a),2320.00,D,11,246.58,Unidade,7,Não,5,3,4,3,5,9,Pilates
+841,49,Feminino,Rudge Ramos,Superior incompleto,Casado(a),2330.00,D,19,283.34,Indicação,8,Sim,4,2,5,4,4,7,Funcional
+842,37,Feminino,Ferrazópolis,Fundamental,Solteiro(a),3780.00,C,11,221.59,Unidade,47,Não,5,3,4,4,5,7,Crossfit
+843,50,Masculino,Centro,Superior incompleto,União estável,4480.00,C,7,332.28,Site,22,Não,3,5,4,5,3,5,Funcional
+844,65,Feminino,Bairro Assunção,Pós-graduação,Casado(a),3540.00,C,8,254.25,Site,25,Sim,2,3,1,3,1,0,Funcional
+845,36,Feminino,Baeta Neves,Fundamental,Casado(a),2450.00,D,18,255.86,Indicação,55,Não,3,1,3,3,3,6,Natação
+846,37,Feminino,Centro,Médio,Solteiro(a),1960.00,D,17,283.91,Unidade,38,Sim,4,3,4,4,3,5,Natação
+847,23,Masculino,Ferrazópolis,Médio,Casado(a),1360.00,D,6,88.23,App,6,Não,3,1,4,2,3,4,Musculação
+848,38,Feminino,Demarchi,Pós-graduação,União estável,9400.00,B,13,409.67,Unidade,38,Sim,5,3,5,3,4,6,Funcional
+849,33,Feminino,Demarchi,Superior completo,Solteiro(a),2380.00,D,15,279.40,Unidade,48,Sim,4,2,5,3,3,5,Funcional
+850,58,Masculino,Demarchi,Fundamental,Casado(a),2680.00,D,18,257.58,Site,44,Sim,5,1,4,3,3,8,Pilates
+851,23,Feminino,Ferrazópolis,Superior completo,Solteiro(a),1480.00,D,12,243.27,Site,63,Não,3,1,3,5,3,5,Crossfit
+852,49,Masculino,Ferrazópolis,Fundamental,Casado(a),3150.00,C,14,322.84,Indicação,43,Sim,5,3,4,4,4,7,Pilates
+853,58,Feminino,Ferrazópolis,Superior completo,Divorciado(a),1950.00,D,14,251.72,Unidade,59,Sim,5,3,5,2,4,7,Funcional
+854,31,Masculino,Bairro Assunção,Médio,Casado(a),5050.00,C,14,265.94,App,38,Sim,3,2,2,3,3,4,Musculação
+855,21,Feminino,Ferrazópolis,Superior completo,Casado(a),6510.00,B,12,374.31,Unidade,46,Não,4,2,4,5,3,6,Pilates
+856,53,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),3770.00,C,10,203.17,Site,12,Sim,4,4,3,3,3,5,Musculação
+857,49,Feminino,Centro,Superior completo,Divorciado(a),3410.00,C,12,272.01,Site,72,Não,4,4,5,3,3,6,Funcional
+858,47,Masculino,Jardim do Mar,Médio,Casado(a),2330.00,D,10,271.41,Site,2,Não,5,2,3,4,4,6,Natação
+859,64,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2990.00,D,10,266.89,Unidade,70,Não,5,3,5,4,3,5,Funcional
+860,23,Feminino,Rudge Ramos,Pós-graduação,União estável,3960.00,C,13,310.03,Unidade,42,Não,4,3,4,3,3,6,Funcional
+861,28,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),3500.00,C,13,276.97,Indicação,25,Não,5,5,5,3,4,7,Musculação
+862,42,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),4350.00,C,17,276.90,Site,31,Sim,3,4,3,3,4,8,Pilates
+863,47,Masculino,Taboão,Pós-graduação,Divorciado(a),2400.00,D,18,284.90,Unidade,6,Sim,4,1,4,2,4,8,Funcional
+864,66,Masculino,Paulicéia,Fundamental,Solteiro(a),4820.00,C,12,207.61,App,30,Sim,3,2,3,1,3,3,Musculação
+865,50,Feminino,Rudge Ramos,Superior completo,Solteiro(a),2690.00,D,9,266.89,App,6,Sim,4,1,4,2,3,4,Funcional
+866,29,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2140.00,D,11,308.50,App,31,Sim,5,2,5,5,4,7,Crossfit
+867,63,Masculino,Taboão,Médio,União estável,3180.00,C,14,274.56,Site,10,Sim,4,3,3,3,3,3,Pilates
+868,39,Masculino,Nova Petrópolis,Médio,Solteiro(a),2970.00,D,11,198.03,App,9,Não,1,1,1,5,2,1,Musculação
+869,64,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),1400.00,D,10,178.25,Site,52,Não,3,3,4,2,3,4,Crossfit
+870,32,Feminino,Taboão,Superior completo,Solteiro(a),2440.00,D,11,227.71,Site,13,Sim,4,3,4,5,4,6,Funcional
+871,59,Masculino,Rudge Ramos,Superior completo,Solteiro(a),1300.00,D,10,157.59,Unidade,25,Não,3,2,2,3,2,2,Funcional
+872,46,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2360.00,D,13,252.61,App,48,Não,5,2,4,3,4,7,Musculação
+873,47,Outro,Baeta Neves,Superior completo,União estável,2420.00,D,7,167.54,App,37,Não,3,1,4,3,3,5,Pilates
+874,69,Masculino,Paulicéia,Pós-graduação,Casado(a),4530.00,C,9,247.79,Indicação,37,Sim,4,2,4,2,3,4,Musculação
+875,26,Masculino,Nova Petrópolis,Pós-graduação,União estável,2340.00,D,15,202.69,Unidade,32,Não,4,1,4,4,4,8,Funcional
+876,34,Masculino,Paulicéia,Superior incompleto,Casado(a),2110.00,D,5,252.84,App,44,Sim,5,3,3,4,4,6,Pilates
+877,27,Masculino,Jardim do Mar,Fundamental,Solteiro(a),3720.00,C,13,308.87,Site,47,Sim,3,3,3,4,3,4,Crossfit
+878,62,Feminino,Baeta Neves,Médio,Solteiro(a),6800.00,B,6,427.90,Site,10,Não,5,3,3,4,3,3,Pilates
+879,63,Masculino,Bairro Assunção,Fundamental,Casado(a),1580.00,D,10,192.78,Unidade,70,Sim,5,2,5,4,4,5,Crossfit
+880,62,Feminino,Centro,Superior incompleto,Solteiro(a),4790.00,C,13,241.79,Indicação,59,Sim,2,1,3,4,1,0,Natação
+881,30,Feminino,Jardim do Mar,Pós-graduação,Casado(a),4030.00,C,10,252.02,Unidade,31,Não,4,5,4,2,4,8,Crossfit
+882,31,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),1300.00,D,13,202.66,App,27,Sim,2,1,2,3,1,2,Crossfit
+883,39,Feminino,Ferrazópolis,Pós-graduação,Casado(a),2460.00,D,7,215.91,Unidade,53,Sim,3,2,5,4,4,6,Natação
+884,58,Feminino,Centro,Superior incompleto,Solteiro(a),1300.00,D,13,214.84,Site,45,Sim,3,2,3,2,3,6,Funcional
+885,57,Feminino,Taboão,Superior incompleto,Casado(a),3430.00,C,12,252.79,App,58,Não,4,3,3,1,2,4,Crossfit
+886,70,Feminino,Baeta Neves,Fundamental,Viúvo(a),1520.00,D,7,143.75,Site,34,Não,4,2,4,3,3,5,Pilates
+887,59,Feminino,Bairro Assunção,Superior completo,Solteiro(a),3580.00,C,9,262.68,Site,32,Não,5,2,4,2,4,7,Crossfit
+888,68,Feminino,Nova Petrópolis,Médio,Solteiro(a),8750.00,B,14,349.25,Indicação,34,Sim,4,4,4,3,4,7,Musculação
+889,32,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),5500.00,C,11,296.15,Unidade,22,Sim,5,2,5,3,4,7,Crossfit
+890,50,Masculino,Paulicéia,Pós-graduação,Solteiro(a),2600.00,D,9,220.76,Site,57,Sim,3,2,4,5,3,5,Musculação
+891,46,Masculino,Demarchi,Médio,Casado(a),1600.00,D,17,258.96,App,58,Sim,5,1,5,3,4,7,Natação
+892,26,Masculino,Paulicéia,Pós-graduação,Viúvo(a),5970.00,C,13,290.63,Site,8,Sim,1,3,1,5,1,0,Pilates
+893,68,Masculino,Taboão,Pós-graduação,União estável,2510.00,D,16,237.74,Indicação,7,Não,5,2,5,3,3,5,Pilates
+894,24,Feminino,Ferrazópolis,Fundamental,Casado(a),3200.00,C,8,333.41,Indicação,6,Sim,5,3,4,3,4,9,Pilates
+895,63,Feminino,Nova Petrópolis,Médio,Casado(a),9240.00,B,25,423.21,Indicação,24,Sim,5,4,5,4,5,8,Crossfit
+896,32,Feminino,Centro,Pós-graduação,Solteiro(a),4630.00,C,9,320.73,Indicação,8,Não,5,3,5,4,5,6,Pilates
+897,29,Feminino,Rudge Ramos,Superior incompleto,União estável,4520.00,C,19,302.99,Indicação,42,Não,2,4,1,4,2,2,Musculação
+898,49,Masculino,Bairro Assunção,Superior completo,Casado(a),5240.00,C,15,335.28,Indicação,72,Não,5,4,5,4,4,7,Musculação
+899,42,Feminino,Paulicéia,Pós-graduação,Solteiro(a),2770.00,D,14,217.23,Site,51,Sim,4,2,4,3,4,7,Musculação
+900,38,Masculino,Centro,Fundamental,União estável,2470.00,D,16,216.80,Unidade,67,Sim,4,3,5,4,3,6,Musculação
+901,65,Feminino,Rudge Ramos,Superior completo,Casado(a),2250.00,D,20,227.38,Indicação,11,Sim,3,4,2,1,3,5,Pilates
+902,55,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),6690.00,B,18,389.88,Site,51,Sim,4,1,4,4,4,8,Musculação
+903,50,Feminino,Baeta Neves,Superior incompleto,Casado(a),1770.00,D,12,230.48,Indicação,53,Sim,4,3,4,4,5,7,Crossfit
+904,59,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),5220.00,C,16,241.76,App,33,Não,3,5,3,3,4,6,Natação
+905,60,Masculino,Taboão,Superior completo,Solteiro(a),5640.00,C,13,294.48,Site,54,Sim,4,3,4,2,5,9,Pilates
+906,27,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2380.00,D,15,288.40,App,7,Sim,3,4,3,4,4,5,Natação
+907,41,Feminino,Demarchi,Fundamental,Casado(a),1580.00,D,13,182.98,Unidade,45,Sim,4,4,5,3,4,9,Crossfit
+908,65,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3200.00,C,13,240.77,Site,60,Não,5,3,4,2,4,8,Musculação
+909,61,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),2570.00,D,12,256.92,App,29,Sim,5,2,5,3,4,6,Musculação
+910,21,Feminino,Taboão,Médio,Solteiro(a),2450.00,D,11,312.07,Unidade,14,Sim,5,3,3,5,3,6,Pilates
+911,31,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1390.00,D,18,200.12,Unidade,1,Não,5,1,5,2,4,6,Funcional
+912,32,Masculino,Demarchi,Superior incompleto,Casado(a),1840.00,D,19,272.39,Site,20,Sim,5,5,4,4,5,7,Funcional
+913,45,Feminino,Jardim do Mar,Pós-graduação,Casado(a),4600.00,C,12,318.96,Site,60,Não,3,4,4,3,3,6,Musculação
+914,61,Feminino,Taboão,Superior completo,Solteiro(a),4490.00,C,16,230.15,App,61,Sim,4,3,4,2,3,6,Musculação
+915,43,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3130.00,C,9,217.81,App,45,Não,5,1,5,3,5,9,Pilates
+916,27,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),1300.00,D,13,195.78,Indicação,19,Sim,3,2,4,4,3,4,Musculação
+917,47,Feminino,Ferrazópolis,Superior incompleto,Casado(a),4830.00,C,18,335.01,App,19,Sim,3,2,1,4,3,2,Musculação
+918,29,Feminino,Paulicéia,Médio,Divorciado(a),1920.00,D,14,206.66,App,61,Sim,2,3,2,3,3,3,Crossfit
+919,53,Feminino,Demarchi,Pós-graduação,Solteiro(a),9400.00,B,8,411.73,Indicação,43,Não,2,1,3,4,3,5,Funcional
+920,69,Outro,Paulicéia,Superior completo,Solteiro(a),3310.00,C,12,174.83,Unidade,57,Sim,3,5,5,3,4,7,Crossfit
+921,51,Feminino,Demarchi,Superior completo,Solteiro(a),3470.00,C,12,256.30,Site,27,Não,3,3,3,3,3,4,Musculação
+922,66,Masculino,Bairro Assunção,Pós-graduação,Casado(a),3220.00,C,16,186.25,Site,61,Sim,5,1,2,4,3,2,Musculação
+923,46,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),4030.00,C,11,276.10,App,34,Não,3,3,3,1,3,4,Natação
+924,61,Masculino,Jardim do Mar,Pós-graduação,Casado(a),18330.00,A,12,617.60,Site,49,Sim,2,3,3,3,2,3,Funcional
+925,67,Feminino,Taboão,Superior incompleto,Casado(a),2640.00,D,14,233.45,App,62,Sim,4,2,5,3,5,7,Funcional
+926,27,Masculino,Ferrazópolis,Fundamental,Solteiro(a),3680.00,C,12,204.05,Site,26,Não,4,5,4,5,4,4,Natação
+927,53,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),3040.00,C,14,210.62,App,57,Sim,3,3,2,2,3,5,Pilates
+928,31,Feminino,Bairro Assunção,Superior incompleto,Viúvo(a),4540.00,C,12,320.68,Indicação,48,Não,3,4,4,4,3,4,Natação
+929,22,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),1380.00,D,11,238.45,App,36,Não,5,2,5,3,4,6,Musculação
+930,30,Masculino,Nova Petrópolis,Fundamental,Casado(a),5030.00,C,9,327.34,Indicação,60,Sim,2,3,2,4,2,4,Funcional
+931,25,Feminino,Jardim do Mar,Pós-graduação,Casado(a),3870.00,C,11,251.05,Site,32,Não,2,2,3,5,3,5,Natação
+932,28,Masculino,Demarchi,Superior completo,Solteiro(a),2640.00,D,17,324.14,Unidade,54,Sim,4,2,4,4,3,6,Musculação
+933,18,Masculino,Nova Petrópolis,Fundamental,Casado(a),3000.00,C,15,162.48,Site,6,Não,3,2,3,3,4,6,Crossfit
+934,69,Feminino,Taboão,Médio,Solteiro(a),2950.00,D,8,217.72,Unidade,63,Não,5,3,4,2,5,9,Funcional
+935,41,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1310.00,D,13,179.13,Site,70,Sim,4,2,3,4,3,5,Pilates
+936,26,Feminino,Paulicéia,Pós-graduação,Casado(a),1300.00,D,19,272.46,Unidade,71,Sim,4,3,5,5,4,7,Funcional
+937,36,Masculino,Ferrazópolis,Superior completo,União estável,7000.00,B,9,331.03,Indicação,61,Não,5,3,3,5,4,4,Crossfit
+938,57,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3030.00,C,6,240.17,Unidade,50,Sim,2,5,4,3,3,4,Pilates
+939,51,Masculino,Jardim do Mar,Superior incompleto,Casado(a),2200.00,D,18,257.35,App,54,Sim,4,1,4,3,3,5,Musculação
+940,20,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),2010.00,D,13,250.58,Site,67,Não,4,2,3,5,3,3,Funcional
+941,25,Masculino,Jardim do Mar,Fundamental,Casado(a),3970.00,C,12,301.63,Unidade,53,Sim,5,2,4,5,4,5,Funcional
+942,46,Feminino,Centro,Superior completo,Casado(a),2570.00,D,16,207.56,Unidade,20,Sim,3,1,3,4,2,3,Funcional
+943,69,Feminino,Bairro Assunção,Fundamental,Casado(a),3270.00,C,11,274.09,Indicação,12,Não,4,2,2,3,3,5,Natação
+944,21,Feminino,Nova Petrópolis,Médio,Viúvo(a),1960.00,D,8,211.36,App,71,Não,4,3,3,4,3,2,Crossfit
+945,63,Feminino,Ferrazópolis,Pós-graduação,Casado(a),2200.00,D,17,265.90,Indicação,11,Não,4,2,2,3,3,4,Musculação
+946,21,Feminino,Taboão,Fundamental,Solteiro(a),3030.00,C,12,325.63,App,66,Sim,4,3,2,5,2,1,Crossfit
+947,44,Masculino,Rudge Ramos,Pós-graduação,Viúvo(a),5890.00,C,8,291.82,Unidade,68,Não,4,4,3,3,3,4,Natação
+948,30,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1540.00,D,11,272.82,Site,3,Sim,5,2,5,3,4,8,Natação
+949,40,Feminino,Ferrazópolis,Superior incompleto,Casado(a),2730.00,D,13,250.94,Unidade,59,Sim,4,3,2,3,2,1,Funcional
+950,67,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),3230.00,C,10,250.27,Indicação,43,Sim,4,3,4,2,4,6,Pilates
+951,29,Masculino,Ferrazópolis,Fundamental,Divorciado(a),2550.00,D,12,226.21,Site,29,Não,5,3,5,5,5,9,Crossfit
+952,51,Feminino,Centro,Pós-graduação,Solteiro(a),8950.00,B,18,380.41,Site,37,Sim,4,3,5,3,4,8,Crossfit
+953,35,Feminino,Demarchi,Pós-graduação,Casado(a),2990.00,D,12,189.50,Unidade,31,Sim,1,3,2,4,2,2,Funcional
+954,52,Feminino,Centro,Médio,Casado(a),2220.00,D,14,264.00,App,59,Sim,3,1,3,3,2,5,Musculação
+955,20,Feminino,Jardim do Mar,Médio,Casado(a),2100.00,D,7,201.93,App,30,Não,3,2,3,4,3,4,Natação
+956,33,Feminino,Rudge Ramos,Superior completo,União estável,1990.00,D,8,229.08,App,10,Sim,5,3,5,1,3,6,Musculação
+957,68,Feminino,Rudge Ramos,Médio,Solteiro(a),1300.00,D,13,195.07,Unidade,29,Não,4,2,4,2,2,4,Pilates
+958,56,Masculino,Rudge Ramos,Fundamental,Solteiro(a),2470.00,D,8,224.10,Unidade,38,Sim,5,2,5,3,4,8,Musculação
+959,67,Masculino,Bairro Assunção,Superior completo,Casado(a),4420.00,C,13,230.49,Site,33,Sim,5,5,5,2,5,10,Crossfit
+960,54,Feminino,Baeta Neves,Médio,Solteiro(a),2600.00,D,10,198.95,App,37,Sim,5,4,4,4,5,7,Pilates
+961,27,Feminino,Ferrazópolis,Superior incompleto,Divorciado(a),2560.00,D,6,223.88,Unidade,72,Não,3,2,4,5,3,5,Crossfit
+962,42,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2100.00,D,15,215.82,Site,29,Não,4,1,5,3,4,7,Musculação
+963,64,Masculino,Taboão,Superior incompleto,Casado(a),3420.00,C,11,222.66,Indicação,59,Sim,5,1,5,2,4,6,Natação
+964,54,Masculino,Centro,Pós-graduação,Casado(a),4030.00,C,18,250.61,Indicação,72,Sim,2,4,2,3,2,1,Musculação
+965,45,Masculino,Baeta Neves,Superior completo,União estável,3950.00,C,15,336.52,Indicação,60,Sim,4,4,3,3,4,6,Natação
+966,63,Masculino,Taboão,Pós-graduação,Casado(a),4470.00,C,16,335.00,App,39,Sim,4,3,4,3,3,4,Funcional
+967,24,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),3950.00,C,9,244.68,Unidade,72,Não,4,1,5,2,3,5,Crossfit
+968,68,Feminino,Ferrazópolis,Superior completo,Solteiro(a),6330.00,B,7,322.98,Unidade,30,Sim,5,3,5,2,4,3,Pilates
+969,24,Masculino,Baeta Neves,Superior incompleto,Casado(a),3370.00,C,10,282.24,App,21,Não,5,2,5,3,4,9,Natação
+970,70,Masculino,Rudge Ramos,Superior incompleto,União estável,3880.00,C,4,228.07,Unidade,62,Sim,4,3,4,1,3,7,Funcional
+971,60,Feminino,Centro,Superior completo,Casado(a),1550.00,D,10,234.12,App,67,Sim,5,4,5,2,5,9,Crossfit
+972,43,Masculino,Bairro Assunção,Fundamental,Casado(a),3550.00,C,9,259.62,Site,11,Sim,5,4,5,2,4,6,Musculação
+973,43,Feminino,Centro,Superior incompleto,Solteiro(a),2460.00,D,14,241.78,Unidade,23,Sim,4,3,4,3,3,4,Musculação
+974,19,Masculino,Rudge Ramos,Médio,Casado(a),2340.00,D,15,220.03,Indicação,21,Não,4,2,3,4,3,2,Crossfit
+975,34,Feminino,Demarchi,Superior incompleto,Casado(a),1530.00,D,10,248.64,Indicação,60,Sim,5,2,3,4,3,5,Funcional
+976,30,Masculino,Paulicéia,Pós-graduação,Solteiro(a),8680.00,B,15,288.51,App,21,Não,3,2,3,3,3,6,Natação
+977,55,Feminino,Demarchi,Superior incompleto,Solteiro(a),1300.00,D,6,178.30,App,48,Sim,4,3,4,1,2,4,Crossfit
+978,28,Masculino,Paulicéia,Superior incompleto,Casado(a),5160.00,C,17,239.66,App,68,Sim,3,3,4,5,3,6,Funcional
+979,60,Masculino,Centro,Superior incompleto,Casado(a),3640.00,C,12,304.49,App,66,Sim,5,2,5,5,4,8,Natação
+980,33,Feminino,Nova Petrópolis,Médio,Solteiro(a),1300.00,D,13,203.53,Unidade,64,Sim,5,3,5,4,4,6,Natação
+981,63,Feminino,Ferrazópolis,Superior completo,União estável,8570.00,B,6,396.23,App,39,Sim,3,1,5,3,4,8,Musculação
+982,37,Feminino,Centro,Médio,Solteiro(a),3060.00,C,12,251.58,Site,44,Sim,4,2,4,3,3,6,Funcional
+983,57,Masculino,Demarchi,Pós-graduação,Casado(a),1310.00,D,15,176.10,App,53,Não,3,3,4,2,3,4,Musculação
+984,53,Masculino,Rudge Ramos,Fundamental,Divorciado(a),1900.00,D,13,232.00,Unidade,24,Não,5,3,4,2,4,7,Musculação
+985,70,Feminino,Baeta Neves,Médio,Divorciado(a),3530.00,C,18,258.45,Site,37,Sim,5,4,3,3,5,7,Natação
+986,45,Masculino,Ferrazópolis,Superior completo,Divorciado(a),6900.00,B,13,344.35,Unidade,34,Não,3,2,3,2,4,5,Crossfit
+987,36,Masculino,Jardim do Mar,Fundamental,Divorciado(a),1790.00,D,12,198.15,Site,58,Sim,1,2,3,4,3,5,Funcional
+988,52,Masculino,Centro,Superior incompleto,Casado(a),1300.00,D,10,179.08,Site,42,Não,5,2,4,2,5,8,Funcional
+989,19,Feminino,Demarchi,Médio,Casado(a),4360.00,C,9,237.76,Indicação,33,Não,4,5,3,3,3,5,Pilates
+990,69,Feminino,Demarchi,Pós-graduação,Divorciado(a),4960.00,C,11,265.34,Unidade,39,Sim,4,4,4,2,5,7,Pilates
+991,53,Masculino,Centro,Fundamental,Casado(a),1300.00,D,6,209.54,Indicação,13,Não,5,3,4,4,4,7,Musculação
+992,20,Feminino,Ferrazópolis,Superior incompleto,Casado(a),2990.00,D,13,222.88,Unidade,19,Sim,4,2,5,4,3,5,Musculação
+993,27,Feminino,Centro,Superior incompleto,Solteiro(a),3220.00,C,7,184.25,Indicação,58,Sim,3,2,5,1,3,6,Musculação
+994,18,Masculino,Ferrazópolis,Pós-graduação,Casado(a),2790.00,D,12,224.85,Unidade,10,Não,4,1,4,4,3,5,Musculação
+995,53,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),2010.00,D,16,235.36,Indicação,50,Não,4,2,5,4,3,7,Pilates
+996,53,Masculino,Rudge Ramos,Fundamental,Casado(a),1750.00,D,15,210.40,Unidade,66,Sim,5,3,5,2,4,7,Natação
+997,26,Outro,Centro,Pós-graduação,Solteiro(a),2880.00,D,11,290.22,Indicação,50,Sim,5,1,5,5,4,7,Musculação
+998,46,Masculino,Baeta Neves,Fundamental,Solteiro(a),2620.00,D,14,233.44,Site,47,Sim,4,3,3,3,4,7,Musculação
+999,43,Masculino,Bairro Assunção,Superior completo,Solteiro(a),4510.00,C,12,287.41,Unidade,52,Sim,4,2,3,3,3,4,Crossfit
+1000,43,Masculino,Baeta Neves,Médio,Casado(a),1300.00,D,13,223.16,App,11,Sim,5,1,5,3,4,7,Pilates
+1001,50,Masculino,Taboão,Fundamental,União estável,2550.00,D,8,196.07,App,10,Sim,3,4,4,3,3,3,Pilates
+1002,63,Masculino,Taboão,Fundamental,Solteiro(a),2980.00,D,18,288.27,Site,72,Não,5,3,3,3,3,4,Musculação
+1003,66,Masculino,Paulicéia,Pós-graduação,Solteiro(a),4220.00,C,8,177.98,Site,31,Não,4,3,4,4,3,4,Natação
+1004,26,Masculino,Baeta Neves,Pós-graduação,Casado(a),2780.00,D,11,243.02,Site,30,Não,4,1,3,5,3,4,Crossfit
+1005,68,Feminino,Rudge Ramos,Superior completo,Casado(a),6630.00,B,13,299.22,Site,12,Sim,3,4,4,3,3,5,Musculação
+1006,48,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),6670.00,B,15,359.64,App,53,Sim,5,4,4,3,3,4,Crossfit
+1007,27,Feminino,Centro,Pós-graduação,Casado(a),2840.00,D,15,251.09,App,3,Sim,4,3,3,5,2,2,Funcional
+1008,67,Masculino,Rudge Ramos,Médio,União estável,2640.00,D,12,235.02,Unidade,13,Não,4,2,3,2,3,2,Musculação
+1009,37,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),4370.00,C,13,277.54,Site,17,Não,2,2,4,4,2,3,Musculação
+1010,41,Outro,Ferrazópolis,Superior incompleto,Casado(a),4960.00,C,11,231.98,Site,68,Sim,3,3,4,4,3,4,Natação
+1011,69,Masculino,Paulicéia,Fundamental,Solteiro(a),1700.00,D,11,208.40,Indicação,69,Não,3,4,4,4,3,8,Natação
+1012,48,Masculino,Ferrazópolis,Superior incompleto,União estável,1790.00,D,17,187.41,Site,6,Sim,4,1,5,4,3,8,Musculação
+1013,25,Feminino,Bairro Assunção,Fundamental,Divorciado(a),2320.00,D,18,282.49,Site,11,Sim,4,2,5,5,4,9,Natação
+1014,21,Feminino,Paulicéia,Superior completo,Casado(a),1750.00,D,15,157.64,Site,69,Sim,1,4,1,3,2,0,Natação
+1015,61,Masculino,Jardim do Mar,Médio,Viúvo(a),1300.00,D,19,154.86,Indicação,46,Sim,3,2,4,2,3,5,Natação
+1016,36,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1480.00,D,13,108.36,Site,53,Sim,2,2,3,2,2,2,Pilates
+1017,23,Masculino,Paulicéia,Superior completo,Casado(a),3530.00,C,17,241.09,Site,41,Não,3,2,2,3,2,4,Pilates
+1018,20,Masculino,Taboão,Médio,Casado(a),4570.00,C,10,272.81,Indicação,17,Sim,5,4,4,5,5,9,Crossfit
+1019,68,Feminino,Paulicéia,Superior incompleto,Divorciado(a),2260.00,D,13,134.80,Site,53,Sim,2,1,3,2,2,2,Musculação
+1020,48,Masculino,Taboão,Fundamental,Casado(a),2130.00,D,11,208.44,Site,14,Sim,4,1,5,2,4,8,Natação
+1021,45,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2390.00,D,14,243.81,Site,3,Sim,3,1,2,3,2,0,Natação
+1022,49,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2730.00,D,10,224.43,Indicação,61,Não,3,2,4,3,3,5,Pilates
+1023,40,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2000.00,D,12,173.85,Site,28,Não,3,1,5,5,2,4,Natação
+1024,68,Feminino,Rudge Ramos,Superior incompleto,Divorciado(a),3610.00,C,8,247.49,Site,3,Sim,4,1,5,3,4,8,Musculação
+1025,49,Masculino,Demarchi,Superior completo,Casado(a),1890.00,D,11,244.50,Unidade,32,Não,4,3,1,4,3,4,Musculação
+1026,51,Feminino,Jardim do Mar,Superior completo,Casado(a),2310.00,D,8,171.80,Indicação,9,Sim,2,2,5,2,2,5,Crossfit
+1027,65,Feminino,Bairro Assunção,Fundamental,Solteiro(a),2200.00,D,13,230.37,Unidade,34,Não,5,1,5,1,3,6,Crossfit
+1028,18,Feminino,Paulicéia,Pós-graduação,Casado(a),3730.00,C,13,246.65,Indicação,49,Sim,3,3,1,4,2,0,Pilates
+1029,34,Masculino,Centro,Superior completo,Casado(a),1540.00,D,14,193.38,App,25,Não,4,4,3,3,4,7,Musculação
+1030,62,Masculino,Jardim do Mar,Médio,Casado(a),2530.00,D,15,181.29,App,6,Não,3,3,4,2,3,4,Musculação
+1031,23,Feminino,Demarchi,Médio,Solteiro(a),1300.00,D,11,207.51,Unidade,65,Sim,3,2,4,3,2,4,Natação
+1032,35,Masculino,Baeta Neves,Fundamental,Solteiro(a),1570.00,D,17,220.13,Site,39,Sim,3,3,3,3,3,7,Natação
+1033,26,Masculino,Nova Petrópolis,Médio,Solteiro(a),3320.00,C,12,222.80,App,2,Sim,3,3,4,4,3,4,Natação
+1034,55,Masculino,Jardim do Mar,Médio,União estável,2530.00,D,16,234.89,Unidade,42,Sim,4,1,4,1,3,5,Crossfit
+1035,62,Feminino,Baeta Neves,Médio,Casado(a),5690.00,C,16,253.54,App,67,Sim,3,1,3,3,2,4,Natação
+1036,31,Feminino,Rudge Ramos,Superior completo,Casado(a),2920.00,D,8,242.26,Indicação,2,Sim,4,1,4,4,4,8,Crossfit
+1037,54,Feminino,Demarchi,Médio,União estável,4020.00,C,8,228.46,Indicação,57,Sim,4,1,5,4,4,7,Funcional
+1038,58,Masculino,Demarchi,Superior incompleto,Casado(a),4260.00,C,14,224.26,App,28,Sim,5,3,4,1,4,8,Musculação
+1039,65,Feminino,Paulicéia,Superior incompleto,Casado(a),3050.00,C,11,201.77,Site,51,Não,5,2,3,2,3,4,Natação
+1040,67,Feminino,Baeta Neves,Fundamental,Casado(a),1340.00,D,18,186.37,App,3,Sim,5,2,4,1,5,8,Musculação
+1041,42,Outro,Bairro Assunção,Fundamental,Solteiro(a),2100.00,D,11,202.97,App,66,Sim,2,2,2,3,3,4,Funcional
+1042,22,Feminino,Centro,Fundamental,Solteiro(a),1600.00,D,8,194.24,Unidade,70,Sim,2,3,2,5,2,2,Crossfit
+1043,57,Masculino,Jardim do Mar,Superior completo,União estável,2590.00,D,8,187.31,Unidade,40,Não,4,1,2,2,3,4,Musculação
+1044,46,Outro,Rudge Ramos,Superior completo,Casado(a),3440.00,C,17,268.16,Indicação,16,Sim,5,4,5,3,5,7,Crossfit
+1045,42,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1300.00,D,6,138.79,Indicação,11,Sim,5,1,5,3,4,7,Funcional
+1046,46,Feminino,Rudge Ramos,Superior completo,Divorciado(a),2160.00,D,14,257.78,Indicação,50,Sim,3,3,3,5,3,3,Musculação
+1047,52,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),2350.00,D,18,124.48,Indicação,58,Sim,3,3,3,1,3,4,Crossfit
+1048,33,Masculino,Centro,Fundamental,Casado(a),1890.00,D,15,192.81,App,49,Não,4,3,4,3,4,8,Pilates
+1049,35,Feminino,Nova Petrópolis,Fundamental,Casado(a),1510.00,D,14,211.06,Unidade,36,Sim,4,2,3,3,1,2,Funcional
+1050,36,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2240.00,D,13,231.91,Unidade,56,Sim,4,3,5,2,4,8,Musculação
+1051,44,Feminino,Bairro Assunção,Médio,Solteiro(a),2660.00,D,17,296.47,Indicação,54,Sim,5,1,3,5,3,2,Crossfit
+1052,53,Masculino,Jardim do Mar,Médio,Casado(a),2120.00,D,20,221.70,Site,25,Sim,5,1,4,1,3,5,Funcional
+1053,20,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2570.00,D,9,299.23,Indicação,56,Sim,5,3,4,4,3,5,Natação
+1054,33,Masculino,Taboão,Fundamental,União estável,1300.00,D,10,277.21,App,14,Sim,5,3,5,3,4,8,Pilates
+1055,56,Masculino,Ferrazópolis,Superior incompleto,Divorciado(a),2040.00,D,19,184.20,App,60,Não,2,1,3,2,2,5,Crossfit
+1056,19,Masculino,Jardim do Mar,Médio,Solteiro(a),5670.00,C,9,295.68,Indicação,39,Sim,5,3,5,2,5,8,Natação
+1057,60,Masculino,Demarchi,Pós-graduação,Solteiro(a),2790.00,D,6,199.03,Indicação,54,Sim,3,2,4,3,4,6,Funcional
+1058,58,Masculino,Taboão,Superior completo,Casado(a),1300.00,D,14,183.43,App,50,Sim,5,1,5,2,5,10,Pilates
+1059,34,Feminino,Centro,Médio,Casado(a),2800.00,D,11,279.98,Indicação,7,Não,5,2,4,4,4,6,Funcional
+1060,51,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2380.00,D,15,295.85,Site,55,Sim,5,3,3,3,3,4,Crossfit
+1061,43,Feminino,Centro,Superior incompleto,Solteiro(a),3130.00,C,6,160.95,Indicação,57,Não,3,3,3,5,3,2,Funcional
+1062,31,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2570.00,D,18,237.91,Unidade,4,Não,3,2,3,4,2,3,Pilates
+1063,25,Masculino,Paulicéia,Superior completo,Solteiro(a),3770.00,C,9,309.59,Site,17,Não,3,2,2,5,2,4,Crossfit
+1064,68,Feminino,Bairro Assunção,Médio,Casado(a),2630.00,D,13,255.49,Indicação,55,Sim,5,2,5,2,4,8,Pilates
+1065,63,Feminino,Centro,Superior incompleto,União estável,2750.00,D,16,286.57,Indicação,26,Não,4,2,4,5,3,6,Pilates
+1066,65,Masculino,Taboão,Superior incompleto,Solteiro(a),5140.00,C,18,262.43,Site,9,Não,5,3,4,3,3,6,Natação
+1067,25,Outro,Demarchi,Superior completo,Casado(a),1300.00,D,11,247.07,Unidade,62,Não,5,1,5,4,5,10,Natação
+1068,69,Masculino,Baeta Neves,Médio,Solteiro(a),1520.00,D,11,218.29,Indicação,38,Sim,3,2,3,3,3,4,Funcional
+1069,51,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),2540.00,D,12,228.76,Unidade,29,Sim,4,1,5,2,4,8,Musculação
+1070,45,Masculino,Paulicéia,Médio,Solteiro(a),1300.00,D,7,164.41,App,40,Sim,4,2,4,3,3,8,Crossfit
+1071,36,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1730.00,D,8,234.58,Indicação,29,Não,4,2,4,4,3,5,Funcional
+1072,30,Masculino,Demarchi,Superior incompleto,Solteiro(a),2050.00,D,21,225.91,Site,10,Não,5,1,5,4,4,6,Musculação
+1073,35,Masculino,Rudge Ramos,Médio,Casado(a),3740.00,C,15,233.97,App,41,Sim,4,1,4,4,3,4,Crossfit
+1074,27,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),2530.00,D,12,249.99,Unidade,70,Não,3,3,4,4,3,6,Natação
+1075,59,Feminino,Centro,Pós-graduação,Casado(a),3460.00,C,11,291.80,Unidade,69,Sim,4,4,5,3,4,5,Pilates
+1076,68,Masculino,Bairro Assunção,Fundamental,Casado(a),2060.00,D,17,212.19,Indicação,46,Não,4,1,3,4,3,3,Musculação
+1077,69,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1530.00,D,10,138.10,Site,12,Sim,3,3,3,2,2,3,Musculação
+1078,65,Feminino,Paulicéia,Médio,Solteiro(a),4060.00,C,13,243.09,Unidade,17,Não,4,2,3,3,4,6,Natação
+1079,25,Masculino,Taboão,Superior incompleto,Solteiro(a),4500.00,C,12,239.22,Indicação,23,Sim,3,3,3,1,2,5,Crossfit
+1080,57,Feminino,Demarchi,Fundamental,Solteiro(a),1350.00,D,10,174.82,App,4,Não,4,1,5,4,3,7,Natação
+1081,63,Feminino,Jardim do Mar,Superior completo,Solteiro(a),7110.00,B,6,379.29,Site,11,Sim,5,3,3,2,3,3,Natação
+1082,45,Feminino,Nova Petrópolis,Superior completo,Viúvo(a),2360.00,D,12,214.33,Site,56,Sim,4,3,4,3,4,10,Funcional
+1083,47,Feminino,Baeta Neves,Superior completo,Viúvo(a),2290.00,D,10,252.91,Unidade,31,Não,5,2,4,3,4,6,Pilates
+1084,38,Feminino,Ferrazópolis,Superior incompleto,Casado(a),3400.00,C,12,242.33,Unidade,61,Sim,4,3,5,4,3,4,Musculação
+1085,61,Masculino,Rudge Ramos,Pós-graduação,Casado(a),4940.00,C,11,310.92,Site,5,Sim,3,4,4,5,4,5,Musculação
+1086,55,Feminino,Baeta Neves,Superior completo,Casado(a),3220.00,C,11,262.42,Indicação,7,Sim,5,3,5,1,4,6,Crossfit
+1087,51,Outro,Taboão,Pós-graduação,Casado(a),3150.00,C,11,121.55,Indicação,50,Não,1,2,3,2,1,0,Musculação
+1088,18,Masculino,Baeta Neves,Fundamental,Casado(a),3390.00,C,10,232.25,Indicação,19,Não,4,3,3,4,4,6,Pilates
+1089,68,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2640.00,D,13,197.03,Site,17,Sim,3,3,5,2,3,3,Pilates
+1090,45,Masculino,Ferrazópolis,Médio,Viúvo(a),2430.00,D,13,236.46,Site,47,Não,5,3,4,4,3,6,Crossfit
+1091,68,Masculino,Rudge Ramos,Fundamental,Casado(a),5230.00,C,14,324.65,App,66,Sim,4,2,5,3,4,8,Pilates
+1092,53,Feminino,Baeta Neves,Fundamental,Solteiro(a),1300.00,D,19,226.90,Site,31,Não,5,1,5,4,4,7,Funcional
+1093,45,Masculino,Nova Petrópolis,Fundamental,Casado(a),1810.00,D,12,233.24,Indicação,55,Sim,4,3,4,3,3,6,Crossfit
+1094,57,Feminino,Jardim do Mar,Fundamental,Divorciado(a),3700.00,C,6,250.78,Unidade,25,Sim,3,3,4,3,3,4,Pilates
+1095,31,Feminino,Nova Petrópolis,Superior incompleto,União estável,3390.00,C,10,202.69,App,61,Sim,2,1,4,2,2,3,Funcional
+1096,41,Masculino,Baeta Neves,Superior completo,Solteiro(a),4700.00,C,11,343.02,App,31,Sim,5,2,5,5,4,8,Pilates
+1097,19,Feminino,Ferrazópolis,Superior incompleto,Casado(a),1410.00,D,13,141.05,App,11,Não,3,2,3,3,2,3,Musculação
+1098,57,Masculino,Jardim do Mar,Fundamental,Solteiro(a),2700.00,D,11,197.70,Indicação,37,Sim,3,2,4,2,3,4,Musculação
+1099,35,Outro,Demarchi,Superior completo,Solteiro(a),2700.00,D,13,209.48,Site,22,Não,5,3,4,2,5,8,Crossfit
+1100,23,Masculino,Taboão,Fundamental,Solteiro(a),5670.00,C,9,332.94,Unidade,14,Não,5,2,5,5,4,9,Pilates
+1101,60,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),5500.00,C,12,273.54,Site,14,Não,3,4,4,3,3,7,Pilates
+1102,30,Feminino,Taboão,Médio,Casado(a),2340.00,D,11,201.20,Indicação,28,Não,3,2,4,2,2,4,Crossfit
+1103,29,Feminino,Bairro Assunção,Fundamental,Casado(a),2370.00,D,9,217.70,Unidade,1,Não,2,1,3,5,1,1,Funcional
+1104,25,Feminino,Paulicéia,Médio,Casado(a),2370.00,D,7,205.60,App,6,Não,2,2,2,4,1,2,Pilates
+1105,49,Masculino,Demarchi,Pós-graduação,Casado(a),5010.00,C,16,328.31,Unidade,43,Não,5,4,5,4,4,6,Pilates
+1106,36,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),2360.00,D,12,270.13,Unidade,1,Sim,5,2,3,4,3,6,Crossfit
+1107,48,Masculino,Centro,Superior incompleto,Casado(a),5290.00,C,13,251.66,App,56,Não,4,3,3,3,4,7,Pilates
+1108,36,Masculino,Demarchi,Pós-graduação,Divorciado(a),1910.00,D,9,235.16,App,71,Não,4,1,4,4,3,7,Natação
+1109,57,Feminino,Centro,Médio,Casado(a),2890.00,D,9,169.43,Indicação,14,Sim,3,3,4,3,3,4,Funcional
+1110,37,Feminino,Demarchi,Superior incompleto,Casado(a),1890.00,D,11,150.35,Site,4,Sim,5,2,4,4,4,5,Funcional
+1111,60,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3060.00,C,11,259.50,Site,16,Sim,2,5,3,2,2,4,Musculação
+1112,42,Feminino,Bairro Assunção,Médio,Solteiro(a),3870.00,C,9,199.96,Indicação,4,Não,3,2,4,2,3,5,Musculação
+1113,18,Feminino,Baeta Neves,Médio,União estável,1300.00,D,11,199.97,Site,20,Não,4,5,5,4,4,8,Funcional
+1114,41,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2580.00,D,13,153.55,Site,65,Sim,4,1,4,2,2,5,Crossfit
+1115,30,Feminino,Centro,Superior completo,Solteiro(a),1570.00,D,11,218.73,Site,60,Sim,4,3,3,5,4,8,Musculação
+1116,43,Feminino,Centro,Superior incompleto,Solteiro(a),2480.00,D,9,205.55,Site,71,Não,3,3,4,2,3,5,Natação
+1117,24,Feminino,Nova Petrópolis,Fundamental,Casado(a),1300.00,D,10,233.95,Unidade,59,Sim,4,1,5,5,4,8,Funcional
+1118,57,Feminino,Paulicéia,Superior incompleto,Casado(a),3190.00,C,12,193.03,Indicação,61,Não,3,4,2,3,1,0,Natação
+1119,51,Masculino,Demarchi,Pós-graduação,Casado(a),3040.00,C,12,223.38,App,43,Sim,4,2,4,3,4,7,Musculação
+1120,25,Feminino,Rudge Ramos,Fundamental,Divorciado(a),2880.00,D,13,257.16,App,11,Sim,4,2,4,3,4,6,Crossfit
+1121,69,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),6880.00,B,15,332.23,App,56,Sim,4,3,5,2,4,7,Crossfit
+1122,36,Feminino,Demarchi,Fundamental,Solteiro(a),2160.00,D,11,227.70,App,47,Sim,4,2,3,3,1,4,Crossfit
+1123,29,Feminino,Bairro Assunção,Fundamental,Viúvo(a),3120.00,C,11,297.23,App,70,Sim,4,3,4,5,3,3,Natação
+1124,18,Feminino,Rudge Ramos,Fundamental,Casado(a),3720.00,C,17,249.57,Indicação,51,Sim,2,3,2,4,2,2,Natação
+1125,31,Masculino,Bairro Assunção,Médio,Divorciado(a),1570.00,D,16,239.02,Site,40,Não,2,1,2,4,2,2,Crossfit
+1126,19,Masculino,Centro,Médio,Casado(a),4310.00,C,16,291.97,Site,56,Não,4,2,3,5,2,4,Pilates
+1127,43,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),3510.00,C,8,261.85,App,48,Não,3,4,4,4,4,5,Pilates
+1128,50,Masculino,Demarchi,Superior incompleto,União estável,1860.00,D,15,224.96,Unidade,9,Sim,3,2,4,3,4,6,Crossfit
+1129,37,Feminino,Taboão,Superior completo,Solteiro(a),3530.00,C,10,223.49,Site,45,Sim,4,2,4,5,4,6,Musculação
+1130,64,Masculino,Taboão,Pós-graduação,Casado(a),3760.00,C,12,279.73,Indicação,29,Sim,3,2,4,5,4,4,Musculação
+1131,69,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1300.00,D,16,134.94,App,12,Não,1,1,1,3,1,1,Funcional
+1132,34,Masculino,Nova Petrópolis,Médio,Casado(a),1460.00,D,12,182.24,App,20,Sim,5,3,3,3,3,3,Natação
+1133,51,Feminino,Jardim do Mar,Pós-graduação,Casado(a),7700.00,B,13,349.37,App,61,Não,5,4,4,2,5,6,Funcional
+1134,39,Masculino,Jardim do Mar,Superior completo,Solteiro(a),3530.00,C,9,278.22,Site,48,Não,5,2,4,4,3,6,Crossfit
+1135,32,Masculino,Nova Petrópolis,Fundamental,Viúvo(a),4120.00,C,13,197.17,Unidade,5,Sim,3,4,3,3,2,3,Crossfit
+1136,29,Masculino,Centro,Médio,Solteiro(a),1950.00,D,8,217.71,Indicação,25,Sim,4,4,4,4,3,5,Pilates
+1137,45,Feminino,Baeta Neves,Médio,Casado(a),1750.00,D,12,179.60,Site,50,Não,3,1,3,2,2,3,Natação
+1138,25,Feminino,Baeta Neves,Fundamental,Solteiro(a),1300.00,D,12,252.50,App,37,Não,4,1,5,4,4,8,Natação
+1139,53,Feminino,Ferrazópolis,Superior incompleto,Casado(a),4520.00,C,12,272.94,Indicação,56,Sim,4,1,4,4,4,6,Pilates
+1140,64,Masculino,Rudge Ramos,Superior completo,Casado(a),4140.00,C,21,319.81,Indicação,46,Não,3,4,3,4,3,5,Pilates
+1141,37,Feminino,Demarchi,Médio,Casado(a),2020.00,D,17,245.13,Site,3,Sim,4,2,4,3,3,4,Pilates
+1142,48,Masculino,Nova Petrópolis,Médio,Casado(a),1780.00,D,2,187.08,Indicação,63,Não,4,2,5,3,4,8,Crossfit
+1143,69,Feminino,Baeta Neves,Superior incompleto,Casado(a),5170.00,C,17,341.88,Unidade,42,Sim,5,3,5,1,5,10,Musculação
+1144,55,Feminino,Centro,Pós-graduação,Viúvo(a),3460.00,C,12,309.41,App,67,Não,4,2,4,2,4,8,Crossfit
+1145,39,Feminino,Demarchi,Superior completo,União estável,2890.00,D,7,177.70,Indicação,16,Sim,1,2,2,3,1,0,Crossfit
+1146,64,Masculino,Centro,Pós-graduação,Solteiro(a),2960.00,D,13,181.38,Unidade,50,Não,2,2,3,3,2,3,Natação
+1147,20,Feminino,Taboão,Superior incompleto,Casado(a),2130.00,D,18,279.71,Indicação,3,Não,5,1,5,4,4,9,Funcional
+1148,49,Masculino,Paulicéia,Fundamental,Solteiro(a),2900.00,D,16,182.22,Indicação,12,Sim,4,1,3,2,3,5,Funcional
+1149,31,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1300.00,D,9,158.97,App,64,Sim,4,2,5,4,3,6,Crossfit
+1150,27,Outro,Ferrazópolis,Fundamental,Casado(a),2150.00,D,10,270.03,App,65,Sim,4,2,4,4,4,6,Funcional
+1151,45,Masculino,Jardim do Mar,Superior incompleto,Casado(a),4350.00,C,10,288.84,Indicação,69,Não,5,4,5,2,5,9,Funcional
+1152,55,Masculino,Bairro Assunção,Médio,Casado(a),2510.00,D,11,175.06,App,15,Não,2,3,2,4,2,2,Funcional
+1153,57,Masculino,Centro,Médio,Casado(a),4230.00,C,13,391.61,App,65,Sim,5,1,3,3,4,6,Musculação
+1154,57,Feminino,Jardim do Mar,Pós-graduação,Casado(a),6900.00,B,16,316.11,Unidade,4,Sim,5,5,4,3,4,7,Natação
+1155,33,Feminino,Ferrazópolis,Fundamental,União estável,3190.00,C,15,277.13,App,29,Não,4,3,4,3,3,4,Crossfit
+1156,39,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1710.00,D,11,189.96,Unidade,32,Não,4,2,2,4,2,2,Funcional
+1157,23,Feminino,Bairro Assunção,Médio,Solteiro(a),2260.00,D,9,307.30,Unidade,58,Sim,4,1,3,5,3,4,Crossfit
+1158,50,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3800.00,C,15,233.15,Site,50,Não,2,5,4,4,3,5,Crossfit
+1159,60,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),3090.00,C,13,231.98,Indicação,26,Sim,4,5,5,3,4,8,Crossfit
+1160,43,Masculino,Baeta Neves,Médio,Viúvo(a),1990.00,D,13,153.76,Indicação,11,Sim,4,4,4,3,4,7,Funcional
+1161,34,Feminino,Centro,Médio,Solteiro(a),1860.00,D,11,286.95,App,27,Não,4,2,3,3,4,5,Pilates
+1162,35,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),8540.00,B,12,349.45,Site,22,Não,4,3,5,3,4,9,Pilates
+1163,52,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3270.00,C,12,239.81,Unidade,49,Sim,3,5,3,2,4,6,Funcional
+1164,53,Feminino,Taboão,Fundamental,Solteiro(a),3720.00,C,17,276.44,App,6,Sim,5,3,5,2,4,9,Pilates
+1165,43,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),2410.00,D,11,202.59,App,30,Sim,4,3,4,3,3,7,Natação
+1166,31,Feminino,Baeta Neves,Pós-graduação,Viúvo(a),7320.00,B,12,285.94,Indicação,45,Sim,4,3,4,4,4,5,Musculação
+1167,39,Masculino,Demarchi,Médio,Casado(a),2070.00,D,9,176.42,Indicação,47,Não,4,4,5,1,5,8,Crossfit
+1168,35,Masculino,Rudge Ramos,Superior completo,Casado(a),3140.00,C,13,249.62,App,51,Sim,5,5,5,3,4,7,Pilates
+1169,23,Feminino,Demarchi,Superior completo,Casado(a),1300.00,D,11,238.54,Unidade,21,Sim,4,2,4,5,3,5,Pilates
+1170,39,Feminino,Bairro Assunção,Fundamental,União estável,3590.00,C,19,359.11,Unidade,38,Não,4,5,4,4,3,6,Crossfit
+1171,62,Masculino,Taboão,Superior incompleto,Solteiro(a),5520.00,C,7,338.39,Site,8,Sim,5,3,5,4,4,7,Funcional
+1172,50,Masculino,Bairro Assunção,Médio,Casado(a),1500.00,D,15,204.74,Indicação,32,Sim,2,1,3,3,3,4,Crossfit
+1173,25,Masculino,Nova Petrópolis,Fundamental,Casado(a),3490.00,C,11,261.88,Site,71,Não,4,3,4,5,4,8,Pilates
+1174,63,Masculino,Baeta Neves,Superior incompleto,Casado(a),1670.00,D,15,150.93,App,62,Sim,3,2,3,3,2,2,Pilates
+1175,29,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),3980.00,C,12,276.52,Indicação,45,Sim,4,2,4,5,3,6,Crossfit
+1176,50,Feminino,Demarchi,Superior incompleto,Casado(a),2540.00,D,12,196.99,App,31,Sim,4,1,3,2,4,6,Funcional
+1177,48,Feminino,Paulicéia,Fundamental,Divorciado(a),4110.00,C,15,288.94,Unidade,65,Não,4,1,4,4,3,5,Musculação
+1178,56,Feminino,Jardim do Mar,Pós-graduação,Casado(a),4210.00,C,16,262.24,Indicação,32,Não,3,2,3,4,3,5,Funcional
+1179,58,Feminino,Taboão,Fundamental,Solteiro(a),3570.00,C,19,203.64,Indicação,55,Sim,4,3,5,2,4,9,Pilates
+1180,33,Masculino,Bairro Assunção,Médio,Solteiro(a),4180.00,C,13,285.90,App,42,Sim,4,4,5,1,5,9,Crossfit
+1181,59,Outro,Ferrazópolis,Superior incompleto,Casado(a),2630.00,D,16,231.83,Indicação,2,Não,4,3,4,3,3,5,Crossfit
+1182,49,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),3610.00,C,8,248.92,Site,51,Sim,5,3,4,3,5,9,Natação
+1183,36,Masculino,Taboão,Superior completo,Viúvo(a),1870.00,D,5,199.82,Unidade,65,Sim,5,1,5,5,4,8,Pilates
+1184,23,Feminino,Centro,Fundamental,Casado(a),1780.00,D,11,210.56,Indicação,56,Sim,4,1,5,4,4,7,Pilates
+1185,48,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),6820.00,B,13,277.83,Unidade,45,Sim,2,3,3,3,2,4,Crossfit
+1186,42,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),4990.00,C,13,242.16,App,3,Não,4,4,2,2,2,3,Crossfit
+1187,42,Masculino,Paulicéia,Médio,Casado(a),1550.00,D,4,208.23,App,2,Sim,5,1,5,3,4,10,Crossfit
+1188,54,Masculino,Ferrazópolis,Pós-graduação,Casado(a),7770.00,B,22,381.04,Indicação,62,Sim,4,2,5,5,3,6,Funcional
+1189,55,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),3510.00,C,11,248.19,Indicação,35,Não,4,5,5,1,4,9,Funcional
+1190,27,Masculino,Jardim do Mar,Superior completo,Solteiro(a),4310.00,C,9,250.69,Unidade,33,Não,4,2,3,3,3,5,Musculação
+1191,33,Feminino,Bairro Assunção,Superior completo,Solteiro(a),3790.00,C,9,262.36,Unidade,47,Sim,4,2,4,3,4,7,Musculação
+1192,65,Feminino,Paulicéia,Pós-graduação,Solteiro(a),4710.00,C,15,336.47,Indicação,66,Não,5,3,5,5,4,7,Funcional
+1193,49,Feminino,Jardim do Mar,Superior completo,Solteiro(a),1320.00,D,6,234.76,Site,32,Não,5,2,4,4,3,5,Crossfit
+1194,40,Masculino,Rudge Ramos,Superior incompleto,Casado(a),4560.00,C,7,245.34,App,39,Sim,3,2,2,5,2,3,Crossfit
+1195,69,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),1300.00,D,8,182.77,Unidade,41,Não,2,2,3,2,3,3,Crossfit
+1196,53,Masculino,Taboão,Superior completo,União estável,5200.00,C,16,233.18,Site,35,Não,4,2,3,1,3,4,Funcional
+1197,63,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),3180.00,C,12,254.76,Unidade,48,Sim,5,2,3,2,3,4,Crossfit
+1198,42,Masculino,Taboão,Fundamental,Casado(a),3200.00,C,10,165.33,Site,15,Não,2,3,4,3,3,7,Natação
+1199,26,Masculino,Centro,Pós-graduação,Casado(a),3580.00,C,7,249.82,Unidade,27,Não,4,1,4,4,3,5,Pilates
+1200,56,Feminino,Rudge Ramos,Médio,Solteiro(a),4200.00,C,13,322.59,Unidade,34,Sim,5,4,5,3,5,9,Pilates

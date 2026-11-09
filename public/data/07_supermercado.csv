@@ -1,0 +1,1201 @@
+﻿id,idade,genero,regiao,escolaridade,estado_civil,renda_mensal,classe_social,frequencia_uso_mes,gasto_mensal,canal_preferido,tempo_cliente_meses,programa_fidelidade,satisf_qualidade,satisf_preco,confianca_marca,influencia_redes_sociais,intencao_compra_futura,nps_recomendacao,formato_preferido
+1,53,Feminino,Rudge Ramos,Médio,Solteiro(a),3800.00,C,12,518.87,Atacarejo,2,Sim,3,5,4,2,3,5,Atacarejo
+2,55,Feminino,Baeta Neves,Médio,Solteiro(a),4390.00,C,7,396.68,Online,47,Não,5,1,4,1,3,4,Atacarejo
+3,39,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),4560.00,C,9,394.97,Atacarejo,17,Sim,2,3,3,3,3,6,Conveniência
+4,69,Feminino,Paulicéia,Superior incompleto,Casado(a),2630.00,D,7,431.84,Hiper,65,Sim,3,3,4,4,3,4,Conveniência
+5,62,Outro,Bairro Assunção,Fundamental,Casado(a),2790.00,D,11,442.78,Bairro,9,Sim,3,1,2,4,2,2,Atacarejo
+6,18,Masculino,Baeta Neves,Pós-graduação,Casado(a),1790.00,D,7,184.48,Hiper,60,Sim,5,2,5,3,4,7,Bairro
+7,62,Masculino,Paulicéia,Superior incompleto,Casado(a),2650.00,D,13,417.09,Hiper,32,Não,3,1,4,2,2,5,Bairro
+8,25,Feminino,Rudge Ramos,Superior completo,União estável,2030.00,D,14,449.02,Online,36,Sim,3,3,4,5,4,7,Hipermercado
+9,48,Masculino,Demarchi,Superior completo,Solteiro(a),9430.00,B,13,750.36,Online,45,Sim,4,3,4,3,4,6,Conveniência
+10,41,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1710.00,D,4,334.86,Bairro,55,Não,5,1,4,2,5,7,Online
+11,29,Masculino,Centro,Fundamental,Solteiro(a),2940.00,D,6,506.12,Hiper,12,Sim,2,1,2,4,2,1,Conveniência
+12,70,Feminino,Centro,Pós-graduação,União estável,7220.00,B,12,417.81,Bairro,5,Não,4,3,4,2,5,9,Online
+13,67,Feminino,Rudge Ramos,Médio,União estável,4170.00,C,8,470.83,Atacarejo,63,Sim,4,5,3,3,3,2,Atacarejo
+14,18,Masculino,Nova Petrópolis,Médio,Solteiro(a),1720.00,D,17,263.84,Hiper,71,Sim,3,3,3,4,3,3,Online
+15,35,Feminino,Ferrazópolis,Médio,Casado(a),6410.00,B,9,541.32,Atacarejo,22,Não,2,2,3,3,3,5,Atacarejo
+16,50,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2280.00,D,7,466.16,Hiper,17,Sim,4,2,5,2,3,5,Hipermercado
+17,60,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),2690.00,D,10,705.37,Hiper,31,Sim,3,2,1,2,3,4,Online
+18,42,Masculino,Taboão,Fundamental,Solteiro(a),4980.00,C,7,543.49,Hiper,43,Sim,3,3,4,3,3,7,Online
+19,63,Masculino,Ferrazópolis,Fundamental,Solteiro(a),3070.00,C,5,412.94,Online,41,Não,5,3,5,2,5,10,Online
+20,18,Feminino,Bairro Assunção,Superior completo,União estável,2980.00,D,12,582.18,Hiper,3,Não,4,3,4,4,3,4,Conveniência
+21,24,Masculino,Jardim do Mar,Superior completo,Casado(a),3060.00,C,9,369.79,Online,14,Sim,3,3,4,4,4,6,Atacarejo
+22,37,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),1550.00,D,10,497.09,Online,34,Sim,5,2,4,4,4,5,Conveniência
+23,53,Feminino,Centro,Pós-graduação,Solteiro(a),1610.00,D,11,455.33,Online,24,Sim,4,3,3,2,4,6,Conveniência
+24,68,Feminino,Paulicéia,Superior completo,Casado(a),4520.00,C,7,591.70,Atacarejo,25,Sim,3,4,4,1,5,10,Atacarejo
+25,55,Masculino,Centro,Superior incompleto,Casado(a),2610.00,D,5,365.37,Online,67,Não,4,2,4,2,4,6,Hipermercado
+26,21,Feminino,Bairro Assunção,Superior incompleto,Casado(a),1760.00,D,9,467.78,Atacarejo,37,Sim,5,3,5,3,4,7,Conveniência
+27,61,Feminino,Taboão,Fundamental,Casado(a),2960.00,D,14,480.78,Atacarejo,64,Sim,4,1,2,1,2,2,Online
+28,47,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),2130.00,D,6,376.61,Online,27,Não,5,1,4,1,4,6,Conveniência
+29,25,Masculino,Demarchi,Médio,Solteiro(a),2340.00,D,12,479.49,Atacarejo,16,Não,5,2,3,4,4,6,Online
+30,52,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),2740.00,D,5,416.71,Bairro,5,Sim,4,4,5,1,3,4,Conveniência
+31,28,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),4860.00,C,8,552.30,Hiper,72,Não,5,5,5,5,5,9,Online
+32,65,Masculino,Jardim do Mar,Pós-graduação,Casado(a),3410.00,C,8,436.63,Bairro,56,Não,5,2,5,1,3,7,Conveniência
+33,55,Feminino,Centro,Pós-graduação,Divorciado(a),5890.00,C,13,575.86,Hiper,23,Sim,4,2,2,1,3,5,Atacarejo
+34,31,Feminino,Jardim do Mar,Fundamental,Casado(a),1740.00,D,6,384.75,Online,35,Sim,5,1,5,4,4,9,Hipermercado
+35,52,Feminino,Bairro Assunção,Pós-graduação,Casado(a),2390.00,D,9,376.93,Online,63,Sim,3,2,3,2,3,3,Hipermercado
+36,50,Masculino,Paulicéia,Superior incompleto,Casado(a),2940.00,D,6,377.39,Hiper,26,Não,3,3,4,3,3,4,Bairro
+37,29,Masculino,Taboão,Fundamental,União estável,3310.00,C,11,329.03,Bairro,31,Sim,2,2,4,3,2,3,Atacarejo
+38,49,Masculino,Rudge Ramos,Médio,Solteiro(a),1600.00,D,8,510.78,Hiper,17,Sim,4,1,5,4,4,8,Hipermercado
+39,26,Feminino,Bairro Assunção,Superior completo,Casado(a),1820.00,D,11,358.94,Bairro,32,Sim,3,3,3,3,3,3,Conveniência
+40,62,Feminino,Demarchi,Fundamental,Solteiro(a),1620.00,D,16,601.81,Atacarejo,36,Sim,3,4,4,1,4,7,Conveniência
+41,60,Masculino,Demarchi,Superior completo,Solteiro(a),7200.00,B,17,617.86,Hiper,46,Sim,4,4,4,2,4,7,Hipermercado
+42,58,Feminino,Ferrazópolis,Médio,Casado(a),1930.00,D,6,527.46,Atacarejo,56,Sim,3,1,2,3,2,2,Conveniência
+43,63,Masculino,Taboão,Médio,União estável,4610.00,C,10,561.71,Hiper,6,Sim,3,5,4,1,3,6,Online
+44,48,Masculino,Taboão,Superior incompleto,Solteiro(a),2620.00,D,11,355.80,Hiper,35,Não,5,2,3,1,3,3,Atacarejo
+45,57,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),2950.00,D,10,480.29,Bairro,47,Sim,3,1,3,2,2,5,Online
+46,55,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),4060.00,C,7,528.83,Online,43,Não,5,2,4,4,4,7,Bairro
+47,45,Feminino,Baeta Neves,Médio,Solteiro(a),2440.00,D,4,546.30,Bairro,27,Sim,5,1,4,4,4,6,Bairro
+48,64,Feminino,Ferrazópolis,Superior completo,Solteiro(a),5640.00,C,11,621.83,Online,30,Sim,5,5,3,3,5,5,Atacarejo
+49,48,Masculino,Paulicéia,Superior completo,Viúvo(a),2330.00,D,9,482.92,Online,7,Sim,3,5,5,4,4,7,Atacarejo
+50,19,Masculino,Centro,Superior incompleto,Casado(a),2840.00,D,11,411.91,Bairro,20,Não,2,2,2,3,2,3,Bairro
+51,33,Masculino,Baeta Neves,Pós-graduação,Casado(a),2070.00,D,8,232.95,Hiper,47,Não,3,2,3,2,2,2,Hipermercado
+52,31,Feminino,Baeta Neves,Médio,Solteiro(a),1300.00,D,9,416.93,Online,11,Sim,3,2,3,3,2,1,Atacarejo
+53,62,Masculino,Centro,Fundamental,Solteiro(a),1850.00,D,7,295.38,Online,65,Não,2,2,2,3,3,3,Hipermercado
+54,29,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),2380.00,D,9,395.75,Atacarejo,23,Não,3,1,2,2,2,5,Hipermercado
+55,44,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2660.00,D,7,484.91,Atacarejo,35,Sim,3,2,3,3,3,5,Atacarejo
+56,52,Masculino,Taboão,Superior completo,Solteiro(a),1810.00,D,4,462.36,Hiper,72,Sim,4,4,4,3,3,5,Atacarejo
+57,37,Masculino,Baeta Neves,Médio,Casado(a),2110.00,D,9,324.13,Bairro,38,Sim,4,2,4,3,4,9,Hipermercado
+58,39,Feminino,Rudge Ramos,Fundamental,Divorciado(a),1870.00,D,9,382.00,Atacarejo,72,Sim,4,1,5,4,3,7,Bairro
+59,37,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),5420.00,C,12,537.08,Online,35,Sim,4,4,5,1,3,8,Online
+60,37,Masculino,Demarchi,Fundamental,Casado(a),2700.00,D,8,444.23,Hiper,45,Não,4,1,5,3,4,8,Bairro
+61,45,Feminino,Taboão,Pós-graduação,Solteiro(a),1590.00,D,6,369.18,Atacarejo,25,Sim,4,1,4,3,3,6,Online
+62,53,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2160.00,D,10,349.61,Hiper,47,Sim,2,1,2,1,2,2,Atacarejo
+63,66,Masculino,Paulicéia,Superior completo,Casado(a),4490.00,C,9,431.35,Atacarejo,66,Sim,3,2,2,2,3,3,Bairro
+64,56,Outro,Baeta Neves,Fundamental,Solteiro(a),1850.00,D,14,354.93,Online,36,Não,4,1,3,3,3,4,Online
+65,46,Feminino,Rudge Ramos,Fundamental,Divorciado(a),1570.00,D,10,304.13,Online,72,Sim,2,3,3,3,2,3,Bairro
+66,52,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),2200.00,D,12,438.23,Hiper,64,Não,5,3,4,3,4,6,Conveniência
+67,70,Feminino,Paulicéia,Pós-graduação,Solteiro(a),4070.00,C,10,581.13,Online,39,Sim,4,4,5,2,4,6,Atacarejo
+68,68,Feminino,Centro,Médio,Solteiro(a),6160.00,B,10,568.03,Atacarejo,17,Não,5,5,4,3,4,6,Hipermercado
+69,68,Feminino,Demarchi,Pós-graduação,Casado(a),2600.00,D,7,581.60,Online,4,Sim,4,3,3,1,3,4,Online
+70,57,Masculino,Taboão,Médio,Casado(a),4450.00,C,14,375.86,Bairro,9,Sim,4,3,3,1,4,5,Hipermercado
+71,50,Masculino,Taboão,Fundamental,Solteiro(a),2750.00,D,9,361.69,Hiper,41,Sim,3,1,5,2,3,8,Hipermercado
+72,58,Masculino,Demarchi,Superior incompleto,Casado(a),2300.00,D,14,484.54,Online,34,Não,5,2,5,2,4,8,Conveniência
+73,58,Feminino,Paulicéia,Médio,Solteiro(a),3300.00,C,11,521.14,Bairro,33,Sim,4,4,3,1,4,4,Online
+74,35,Feminino,Paulicéia,Fundamental,Divorciado(a),1300.00,D,9,419.86,Online,11,Sim,4,2,5,4,4,6,Online
+75,45,Masculino,Rudge Ramos,Superior completo,Solteiro(a),4300.00,C,9,490.92,Bairro,25,Sim,4,4,4,4,4,6,Hipermercado
+76,68,Feminino,Taboão,Superior completo,Divorciado(a),3220.00,C,6,503.12,Online,67,Sim,4,2,2,3,2,1,Bairro
+77,20,Feminino,Paulicéia,Superior incompleto,Casado(a),2470.00,D,12,352.06,Atacarejo,50,Sim,3,1,2,4,2,2,Atacarejo
+78,33,Feminino,Baeta Neves,Superior incompleto,Divorciado(a),2740.00,D,16,624.52,Hiper,71,Sim,3,2,3,3,3,7,Hipermercado
+79,19,Feminino,Rudge Ramos,Pós-graduação,Casado(a),4920.00,C,12,493.19,Online,53,Não,4,2,4,5,3,4,Hipermercado
+80,61,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2340.00,D,13,403.36,Online,44,Sim,5,2,5,1,4,6,Bairro
+81,30,Masculino,Paulicéia,Superior completo,União estável,1300.00,D,8,306.49,Hiper,65,Não,3,1,5,1,4,8,Bairro
+82,47,Masculino,Taboão,Fundamental,Casado(a),1300.00,D,7,401.40,Atacarejo,33,Não,4,3,4,1,4,5,Bairro
+83,69,Masculino,Baeta Neves,Superior incompleto,Casado(a),2630.00,D,8,421.88,Bairro,72,Sim,3,1,3,1,2,1,Bairro
+84,39,Feminino,Jardim do Mar,Médio,Solteiro(a),6720.00,B,5,704.40,Hiper,71,Não,4,3,3,3,3,4,Conveniência
+85,65,Masculino,Bairro Assunção,Superior incompleto,Casado(a),2570.00,D,6,351.15,Hiper,48,Não,4,1,4,3,3,3,Online
+86,28,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),5070.00,C,15,667.80,Hiper,8,Sim,3,3,5,3,4,6,Conveniência
+87,68,Masculino,Ferrazópolis,Médio,Divorciado(a),1990.00,D,8,282.79,Bairro,16,Sim,4,1,3,1,3,5,Online
+88,37,Masculino,Demarchi,Pós-graduação,Casado(a),4900.00,C,6,504.54,Online,25,Não,2,2,1,2,2,0,Conveniência
+89,28,Feminino,Taboão,Fundamental,Solteiro(a),1570.00,D,14,510.99,Atacarejo,29,Sim,4,2,3,5,3,5,Online
+90,37,Masculino,Paulicéia,Fundamental,Solteiro(a),1300.00,D,4,239.61,Bairro,48,Não,3,1,2,2,2,2,Hipermercado
+91,58,Feminino,Nova Petrópolis,Superior completo,Divorciado(a),3390.00,C,8,437.36,Online,36,Sim,5,2,5,2,3,8,Atacarejo
+92,60,Feminino,Taboão,Pós-graduação,Casado(a),4210.00,C,11,633.34,Bairro,38,Não,3,4,4,3,4,7,Bairro
+93,23,Feminino,Nova Petrópolis,Médio,Casado(a),2540.00,D,8,492.37,Online,38,Não,5,1,5,5,5,8,Hipermercado
+94,57,Masculino,Rudge Ramos,Superior incompleto,Casado(a),4840.00,C,4,594.35,Atacarejo,15,Não,5,4,5,2,5,9,Conveniência
+95,30,Feminino,Demarchi,Fundamental,Solteiro(a),2680.00,D,7,436.82,Hiper,15,Sim,5,1,4,2,3,6,Online
+96,25,Masculino,Nova Petrópolis,Médio,Solteiro(a),4150.00,C,12,541.25,Online,33,Não,1,2,2,3,2,4,Online
+97,64,Masculino,Paulicéia,Pós-graduação,Casado(a),6930.00,B,8,766.99,Online,46,Não,4,1,4,4,3,4,Bairro
+98,64,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3820.00,C,12,625.19,Hiper,1,Sim,5,1,3,3,3,4,Atacarejo
+99,57,Feminino,Baeta Neves,Superior completo,Divorciado(a),1480.00,D,4,462.76,Hiper,17,Não,4,1,5,3,4,7,Atacarejo
+100,65,Feminino,Paulicéia,Fundamental,Solteiro(a),1970.00,D,9,540.32,Hiper,57,Não,4,2,3,3,3,6,Conveniência
+101,26,Feminino,Nova Petrópolis,Superior incompleto,União estável,3280.00,C,5,523.63,Atacarejo,20,Sim,4,2,3,3,3,5,Online
+102,27,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),3540.00,C,5,419.71,Atacarejo,64,Sim,3,2,2,4,2,1,Atacarejo
+103,23,Feminino,Centro,Superior incompleto,União estável,5650.00,C,6,708.56,Hiper,4,Sim,5,1,4,5,3,5,Atacarejo
+104,63,Feminino,Baeta Neves,Superior incompleto,Viúvo(a),5520.00,C,4,550.85,Bairro,67,Sim,4,3,4,2,4,5,Online
+105,65,Feminino,Paulicéia,Fundamental,Solteiro(a),3210.00,C,9,449.20,Bairro,29,Sim,3,2,4,2,4,8,Hipermercado
+106,36,Masculino,Rudge Ramos,Superior incompleto,Casado(a),3080.00,C,10,383.06,Bairro,51,Sim,1,4,2,2,1,0,Bairro
+107,64,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3390.00,C,4,467.37,Hiper,42,Sim,4,3,4,2,4,5,Online
+108,43,Feminino,Paulicéia,Médio,Solteiro(a),3490.00,C,18,590.76,Hiper,51,Sim,2,1,3,4,2,4,Hipermercado
+109,27,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2580.00,D,12,367.66,Atacarejo,52,Não,5,1,5,4,4,8,Bairro
+110,58,Masculino,Demarchi,Superior completo,Divorciado(a),2030.00,D,13,644.77,Hiper,58,Não,5,2,4,2,3,7,Online
+111,69,Masculino,Nova Petrópolis,Médio,Casado(a),4650.00,C,5,439.18,Atacarejo,5,Sim,3,2,5,2,3,6,Hipermercado
+112,64,Masculino,Jardim do Mar,Superior incompleto,Casado(a),1300.00,D,15,435.45,Atacarejo,33,Sim,2,2,2,2,2,3,Atacarejo
+113,60,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2190.00,D,11,533.64,Bairro,41,Sim,3,2,3,1,3,5,Online
+114,39,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),2300.00,D,12,367.60,Atacarejo,56,Sim,4,2,5,2,4,7,Conveniência
+115,55,Feminino,Rudge Ramos,Médio,Divorciado(a),1710.00,D,5,434.26,Bairro,64,Sim,4,3,1,2,2,1,Atacarejo
+116,35,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2020.00,D,10,344.46,Bairro,33,Sim,3,1,4,3,3,7,Online
+117,33,Masculino,Demarchi,Fundamental,Solteiro(a),2290.00,D,3,353.67,Hiper,45,Não,5,3,4,1,4,6,Online
+118,44,Masculino,Taboão,Fundamental,Solteiro(a),1790.00,D,8,473.34,Atacarejo,52,Sim,3,1,3,4,3,4,Online
+119,66,Masculino,Baeta Neves,Fundamental,Solteiro(a),3020.00,C,9,482.85,Hiper,66,Sim,2,4,3,1,1,0,Conveniência
+120,27,Masculino,Ferrazópolis,Fundamental,Solteiro(a),2150.00,D,4,300.11,Atacarejo,53,Não,4,1,5,4,5,9,Online
+121,34,Feminino,Centro,Superior incompleto,Solteiro(a),2790.00,D,8,311.14,Atacarejo,45,Sim,4,3,4,2,4,7,Hipermercado
+122,56,Feminino,Ferrazópolis,Superior incompleto,Casado(a),3890.00,C,9,290.24,Online,13,Sim,3,5,4,3,4,8,Hipermercado
+123,29,Feminino,Taboão,Superior incompleto,Solteiro(a),1720.00,D,12,568.14,Online,9,Sim,3,3,3,2,2,3,Conveniência
+124,69,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),1300.00,D,13,221.76,Bairro,28,Sim,3,3,3,2,3,3,Conveniência
+125,34,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),3750.00,C,7,457.61,Hiper,21,Não,3,3,4,4,3,5,Atacarejo
+126,18,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2330.00,D,7,359.13,Atacarejo,2,Sim,5,1,5,3,4,10,Conveniência
+127,20,Feminino,Demarchi,Fundamental,Viúvo(a),2500.00,D,7,258.22,Bairro,17,Não,4,3,5,2,4,6,Hipermercado
+128,40,Masculino,Ferrazópolis,Médio,Divorciado(a),1300.00,D,13,318.73,Hiper,61,Sim,3,2,4,3,3,5,Conveniência
+129,38,Feminino,Taboão,Médio,Solteiro(a),1870.00,D,2,319.77,Atacarejo,56,Sim,5,3,4,3,3,3,Online
+130,34,Masculino,Demarchi,Pós-graduação,Casado(a),3170.00,C,7,508.81,Bairro,22,Sim,5,3,4,2,4,8,Online
+131,34,Masculino,Demarchi,Pós-graduação,Casado(a),3670.00,C,6,457.33,Bairro,21,Sim,4,4,3,3,4,5,Atacarejo
+132,63,Feminino,Ferrazópolis,Fundamental,Solteiro(a),3800.00,C,10,440.66,Hiper,21,Sim,4,4,3,2,3,5,Online
+133,55,Feminino,Ferrazópolis,Superior completo,Casado(a),2490.00,D,9,329.45,Atacarejo,66,Sim,5,1,4,1,3,3,Atacarejo
+134,54,Masculino,Rudge Ramos,Superior incompleto,União estável,1300.00,D,9,485.25,Atacarejo,51,Sim,5,2,3,3,3,4,Conveniência
+135,18,Feminino,Bairro Assunção,Pós-graduação,Divorciado(a),2110.00,D,12,405.54,Bairro,15,Sim,3,2,2,3,3,1,Bairro
+136,48,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),3120.00,C,8,363.04,Hiper,55,Sim,4,3,2,2,3,3,Atacarejo
+137,48,Masculino,Ferrazópolis,Superior completo,Solteiro(a),3870.00,C,14,647.33,Bairro,65,Sim,4,3,4,5,4,7,Bairro
+138,60,Feminino,Baeta Neves,Superior completo,Solteiro(a),3960.00,C,7,437.64,Bairro,28,Sim,4,4,2,3,4,3,Conveniência
+139,34,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),2030.00,D,14,451.43,Online,10,Sim,4,1,3,4,3,6,Hipermercado
+140,29,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),5280.00,C,12,658.92,Bairro,9,Sim,5,3,4,3,4,5,Atacarejo
+141,51,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),1840.00,D,8,422.18,Online,66,Sim,3,2,4,2,3,5,Hipermercado
+142,23,Masculino,Nova Petrópolis,Médio,Divorciado(a),7050.00,B,13,608.58,Bairro,37,Sim,5,3,5,2,4,6,Bairro
+143,63,Feminino,Ferrazópolis,Superior completo,União estável,3100.00,C,10,379.41,Bairro,15,Sim,3,2,3,2,2,5,Online
+144,34,Feminino,Demarchi,Fundamental,Casado(a),1300.00,D,7,379.51,Bairro,45,Não,3,2,2,1,3,1,Online
+145,28,Feminino,Baeta Neves,Superior completo,Casado(a),2430.00,D,9,308.12,Hiper,51,Sim,1,3,2,2,1,1,Conveniência
+146,54,Masculino,Taboão,Superior completo,Solteiro(a),2110.00,D,8,403.05,Online,71,Não,4,1,3,2,3,4,Hipermercado
+147,36,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2020.00,D,12,323.69,Online,1,Sim,2,1,2,2,2,4,Online
+148,41,Feminino,Nova Petrópolis,Médio,Solteiro(a),3420.00,C,4,485.72,Atacarejo,13,Não,4,4,3,2,4,5,Conveniência
+149,32,Feminino,Ferrazópolis,Fundamental,Solteiro(a),3380.00,C,15,665.80,Bairro,46,Sim,3,2,3,3,1,1,Online
+150,51,Feminino,Demarchi,Superior completo,Solteiro(a),2770.00,D,9,455.40,Bairro,67,Sim,2,1,1,2,1,0,Atacarejo
+151,44,Masculino,Taboão,Médio,Solteiro(a),2280.00,D,9,452.32,Bairro,25,Não,4,2,4,3,4,6,Conveniência
+152,31,Feminino,Demarchi,Fundamental,Solteiro(a),1300.00,D,6,215.46,Online,36,Não,3,1,2,3,2,3,Online
+153,28,Masculino,Taboão,Superior incompleto,Casado(a),4240.00,C,10,357.30,Bairro,1,Sim,5,1,5,3,4,7,Online
+154,21,Feminino,Baeta Neves,Superior completo,Solteiro(a),2270.00,D,12,421.98,Bairro,49,Sim,4,3,2,3,3,2,Atacarejo
+155,58,Masculino,Rudge Ramos,Pós-graduação,Viúvo(a),5840.00,C,9,435.58,Online,5,Sim,2,3,4,4,3,5,Atacarejo
+156,28,Feminino,Jardim do Mar,Médio,Casado(a),2550.00,D,8,455.74,Atacarejo,27,Não,4,1,4,5,3,6,Hipermercado
+157,24,Masculino,Paulicéia,Superior incompleto,Casado(a),2050.00,D,12,539.22,Atacarejo,47,Sim,4,1,5,3,3,7,Atacarejo
+158,70,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1490.00,D,7,132.19,Online,29,Não,3,4,2,3,2,4,Bairro
+159,27,Feminino,Nova Petrópolis,Médio,Casado(a),5030.00,C,7,559.01,Hiper,41,Não,3,3,5,4,4,7,Bairro
+160,48,Feminino,Demarchi,Pós-graduação,Casado(a),4550.00,C,7,523.50,Online,51,Sim,4,3,5,4,3,6,Online
+161,55,Masculino,Rudge Ramos,Médio,Solteiro(a),2560.00,D,9,426.34,Bairro,8,Sim,3,1,3,1,3,5,Hipermercado
+162,53,Feminino,Nova Petrópolis,Superior incompleto,União estável,4700.00,C,9,702.96,Bairro,48,Não,5,3,5,4,5,9,Conveniência
+163,49,Masculino,Bairro Assunção,Superior completo,Solteiro(a),3520.00,C,10,438.17,Bairro,44,Sim,5,2,3,1,4,6,Online
+164,51,Feminino,Paulicéia,Fundamental,Solteiro(a),1910.00,D,8,426.15,Online,20,Sim,4,1,4,1,3,3,Online
+165,21,Masculino,Taboão,Superior incompleto,Viúvo(a),1310.00,D,9,292.88,Online,16,Sim,2,2,2,3,3,2,Bairro
+166,21,Masculino,Rudge Ramos,Fundamental,Solteiro(a),1300.00,D,10,533.59,Bairro,48,Sim,5,1,4,3,2,4,Bairro
+167,33,Feminino,Rudge Ramos,Superior completo,Solteiro(a),4400.00,C,16,576.12,Bairro,44,Sim,3,3,4,3,3,4,Atacarejo
+168,24,Masculino,Centro,Superior completo,União estável,2240.00,D,10,447.73,Hiper,70,Sim,4,4,3,2,3,3,Conveniência
+169,56,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),1920.00,D,14,384.21,Bairro,10,Sim,3,2,3,2,3,4,Hipermercado
+170,67,Masculino,Rudge Ramos,Pós-graduação,Divorciado(a),5380.00,C,16,623.67,Bairro,14,Sim,4,1,4,1,3,3,Atacarejo
+171,62,Feminino,Ferrazópolis,Superior incompleto,Casado(a),2570.00,D,7,454.80,Atacarejo,44,Não,3,1,3,4,2,3,Hipermercado
+172,51,Feminino,Taboão,Superior incompleto,Solteiro(a),2330.00,D,16,476.98,Online,36,Sim,3,1,3,1,1,1,Hipermercado
+173,31,Feminino,Bairro Assunção,Superior completo,Casado(a),1600.00,D,8,301.41,Online,17,Sim,3,2,4,4,3,5,Bairro
+174,65,Feminino,Taboão,Superior completo,Casado(a),2010.00,D,7,301.54,Hiper,15,Sim,3,2,4,3,3,4,Hipermercado
+175,48,Masculino,Demarchi,Superior incompleto,Casado(a),2840.00,D,7,590.41,Hiper,32,Sim,5,1,5,3,3,8,Online
+176,58,Masculino,Nova Petrópolis,Superior completo,Casado(a),3190.00,C,9,424.60,Atacarejo,18,Não,4,3,4,3,4,8,Atacarejo
+177,70,Feminino,Baeta Neves,Médio,Solteiro(a),2320.00,D,8,557.44,Bairro,35,Não,3,3,1,3,2,3,Hipermercado
+178,70,Feminino,Jardim do Mar,Fundamental,Solteiro(a),4920.00,C,9,589.34,Bairro,16,Não,4,3,4,2,4,5,Conveniência
+179,67,Feminino,Ferrazópolis,Fundamental,Casado(a),2380.00,D,13,558.43,Bairro,24,Sim,4,1,5,3,3,6,Online
+180,36,Feminino,Centro,Pós-graduação,Solteiro(a),4030.00,C,7,420.05,Online,40,Sim,3,4,5,2,4,10,Online
+181,69,Feminino,Ferrazópolis,Superior completo,Viúvo(a),1960.00,D,7,475.83,Atacarejo,60,Sim,3,3,1,3,3,3,Online
+182,32,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2450.00,D,5,411.01,Online,16,Sim,3,2,3,2,3,5,Bairro
+183,62,Masculino,Demarchi,Fundamental,Solteiro(a),2110.00,D,10,542.49,Online,70,Sim,3,1,4,2,4,6,Online
+184,39,Masculino,Rudge Ramos,Médio,União estável,1880.00,D,11,366.51,Hiper,32,Sim,5,2,4,3,3,5,Hipermercado
+185,36,Feminino,Paulicéia,Médio,Casado(a),6160.00,B,6,604.00,Online,58,Sim,4,5,2,2,4,7,Online
+186,44,Masculino,Centro,Superior incompleto,Casado(a),2540.00,D,14,615.41,Hiper,60,Sim,3,1,3,4,1,0,Bairro
+187,61,Feminino,Baeta Neves,Superior completo,Solteiro(a),3780.00,C,9,433.04,Online,33,Não,4,3,4,2,3,5,Atacarejo
+188,39,Feminino,Jardim do Mar,Superior completo,Divorciado(a),3980.00,C,19,565.15,Hiper,66,Sim,4,5,4,3,4,7,Bairro
+189,27,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2730.00,D,14,526.82,Online,28,Sim,3,3,1,4,3,2,Hipermercado
+190,38,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),3410.00,C,16,540.01,Atacarejo,43,Sim,3,1,4,3,3,6,Conveniência
+191,46,Masculino,Bairro Assunção,Médio,Solteiro(a),3570.00,C,9,482.83,Online,16,Não,4,3,4,2,3,5,Hipermercado
+192,49,Masculino,Paulicéia,Superior completo,Solteiro(a),1740.00,D,11,353.15,Atacarejo,25,Sim,5,3,4,3,4,8,Conveniência
+193,25,Feminino,Jardim do Mar,Médio,União estável,4620.00,C,10,561.59,Atacarejo,2,Não,4,4,3,3,3,4,Online
+194,31,Outro,Nova Petrópolis,Pós-graduação,União estável,3980.00,C,12,594.43,Bairro,32,Não,3,5,5,5,3,5,Hipermercado
+195,47,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),5540.00,C,9,568.40,Atacarejo,63,Sim,5,2,4,2,4,7,Online
+196,51,Feminino,Taboão,Pós-graduação,Solteiro(a),4900.00,C,7,617.29,Atacarejo,15,Não,3,2,3,3,3,4,Bairro
+197,38,Masculino,Baeta Neves,Fundamental,Solteiro(a),1300.00,D,3,126.92,Bairro,21,Não,4,2,4,2,3,5,Atacarejo
+198,39,Feminino,Ferrazópolis,Médio,Casado(a),1640.00,D,10,480.38,Online,14,Não,5,2,5,2,4,8,Online
+199,70,Masculino,Baeta Neves,Superior completo,Solteiro(a),2910.00,D,12,506.87,Hiper,71,Sim,4,4,4,3,4,7,Online
+200,41,Feminino,Centro,Médio,União estável,1300.00,D,14,420.04,Atacarejo,7,Sim,3,1,3,1,3,4,Conveniência
+201,22,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),2350.00,D,9,597.35,Bairro,45,Sim,4,3,4,2,3,4,Conveniência
+202,55,Feminino,Jardim do Mar,Fundamental,Casado(a),1340.00,D,6,362.34,Hiper,11,Sim,4,2,3,1,3,5,Online
+203,43,Feminino,Bairro Assunção,Fundamental,Casado(a),1900.00,D,17,451.08,Atacarejo,32,Não,3,1,2,3,2,1,Hipermercado
+204,64,Masculino,Centro,Superior incompleto,Casado(a),2030.00,D,7,380.17,Online,19,Sim,3,2,4,2,3,6,Atacarejo
+205,27,Masculino,Demarchi,Superior completo,União estável,2680.00,D,6,244.27,Atacarejo,35,Sim,4,2,4,2,4,6,Atacarejo
+206,61,Feminino,Taboão,Superior incompleto,Solteiro(a),5070.00,C,9,498.15,Hiper,39,Não,3,1,3,2,3,4,Conveniência
+207,57,Masculino,Bairro Assunção,Superior completo,Casado(a),2350.00,D,7,286.17,Atacarejo,3,Sim,3,2,4,2,3,4,Atacarejo
+208,60,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3260.00,C,6,182.66,Bairro,21,Sim,2,4,2,2,3,4,Online
+209,27,Masculino,Centro,Médio,Divorciado(a),1530.00,D,7,241.24,Online,48,Não,2,3,3,2,3,4,Hipermercado
+210,53,Masculino,Paulicéia,Superior completo,Casado(a),4140.00,C,6,517.69,Online,60,Sim,5,3,4,2,5,7,Hipermercado
+211,67,Feminino,Ferrazópolis,Pós-graduação,Casado(a),2890.00,D,2,355.25,Hiper,7,Sim,3,2,5,2,3,6,Bairro
+212,52,Masculino,Nova Petrópolis,Pós-graduação,União estável,4390.00,C,8,573.59,Atacarejo,14,Sim,3,3,5,2,3,6,Atacarejo
+213,32,Feminino,Ferrazópolis,Pós-graduação,Divorciado(a),1420.00,D,6,337.92,Atacarejo,71,Sim,5,2,5,3,4,8,Bairro
+214,31,Feminino,Ferrazópolis,Médio,União estável,1300.00,D,8,280.69,Online,69,Sim,3,2,4,3,3,6,Conveniência
+215,67,Masculino,Paulicéia,Fundamental,União estável,3010.00,C,13,489.25,Hiper,56,Não,3,3,3,3,3,4,Bairro
+216,59,Feminino,Rudge Ramos,Médio,Divorciado(a),4610.00,C,6,600.90,Bairro,22,Sim,5,4,5,3,3,6,Atacarejo
+217,49,Masculino,Centro,Pós-graduação,Solteiro(a),5580.00,C,7,544.76,Hiper,17,Não,4,2,3,1,3,2,Atacarejo
+218,27,Masculino,Baeta Neves,Fundamental,Solteiro(a),2270.00,D,9,358.41,Bairro,49,Sim,2,1,4,4,2,4,Online
+219,63,Feminino,Baeta Neves,Fundamental,União estável,1760.00,D,9,455.69,Hiper,66,Sim,3,1,2,3,2,0,Conveniência
+220,37,Masculino,Nova Petrópolis,Médio,Divorciado(a),1360.00,D,11,379.86,Atacarejo,64,Sim,5,1,3,2,3,5,Bairro
+221,24,Feminino,Rudge Ramos,Superior completo,Viúvo(a),2690.00,D,9,504.35,Online,45,Sim,3,1,5,3,3,5,Atacarejo
+222,66,Feminino,Bairro Assunção,Fundamental,Solteiro(a),1470.00,D,3,265.76,Hiper,9,Sim,4,2,3,5,2,3,Atacarejo
+223,35,Feminino,Taboão,Fundamental,Casado(a),1700.00,D,3,318.33,Atacarejo,17,Sim,4,2,4,3,3,4,Atacarejo
+224,19,Feminino,Paulicéia,Fundamental,Casado(a),2410.00,D,5,401.56,Hiper,6,Sim,5,3,3,5,3,3,Hipermercado
+225,32,Feminino,Taboão,Pós-graduação,Casado(a),2570.00,D,10,587.64,Hiper,49,Sim,3,1,3,4,3,2,Online
+226,45,Masculino,Demarchi,Superior completo,Casado(a),2570.00,D,7,405.61,Online,34,Não,2,1,2,4,2,4,Online
+227,45,Masculino,Paulicéia,Médio,Solteiro(a),2240.00,D,10,230.51,Online,16,Sim,5,4,3,4,5,7,Conveniência
+228,29,Masculino,Taboão,Superior incompleto,Casado(a),3180.00,C,15,640.52,Hiper,4,Sim,2,2,2,4,2,2,Online
+229,63,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2570.00,D,6,417.10,Hiper,39,Não,2,2,2,2,2,0,Atacarejo
+230,30,Feminino,Taboão,Médio,Solteiro(a),4000.00,C,10,677.57,Bairro,33,Sim,5,2,4,3,3,5,Atacarejo
+231,62,Masculino,Nova Petrópolis,Médio,Casado(a),3750.00,C,8,533.66,Online,40,Sim,3,3,3,2,3,3,Atacarejo
+232,33,Masculino,Nova Petrópolis,Superior incompleto,União estável,4600.00,C,12,467.29,Hiper,56,Não,4,3,2,3,4,2,Bairro
+233,48,Feminino,Baeta Neves,Superior completo,União estável,3770.00,C,6,365.05,Hiper,16,Não,2,4,3,3,2,4,Bairro
+234,59,Feminino,Rudge Ramos,Superior incompleto,Casado(a),5940.00,C,10,508.98,Online,60,Não,4,3,3,1,4,5,Conveniência
+235,46,Feminino,Paulicéia,Superior incompleto,Solteiro(a),3050.00,C,11,491.89,Hiper,57,Não,3,4,3,4,3,7,Bairro
+236,21,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3590.00,C,5,305.83,Atacarejo,35,Sim,5,3,5,3,4,7,Hipermercado
+237,68,Feminino,Bairro Assunção,Fundamental,Solteiro(a),1300.00,D,10,430.50,Hiper,57,Não,4,4,3,2,3,4,Conveniência
+238,58,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2740.00,D,11,486.52,Bairro,38,Sim,4,1,5,2,3,8,Conveniência
+239,61,Masculino,Centro,Médio,Solteiro(a),3470.00,C,10,394.11,Bairro,40,Não,4,2,3,1,3,4,Online
+240,44,Feminino,Taboão,Pós-graduação,Casado(a),4250.00,C,8,674.84,Atacarejo,3,Não,4,3,4,2,3,5,Conveniência
+241,35,Feminino,Ferrazópolis,Fundamental,Solteiro(a),3100.00,C,10,543.99,Hiper,25,Sim,3,4,2,4,3,5,Online
+242,30,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2400.00,D,5,80.00,Hiper,28,Não,3,3,3,1,3,4,Conveniência
+243,53,Feminino,Jardim do Mar,Fundamental,Casado(a),2170.00,D,7,486.30,Bairro,29,Não,5,1,3,2,3,4,Online
+244,48,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),5100.00,C,10,473.86,Hiper,4,Não,2,5,2,3,2,4,Bairro
+245,38,Feminino,Ferrazópolis,Superior incompleto,Casado(a),1660.00,D,8,336.13,Online,14,Sim,2,2,2,2,2,3,Bairro
+246,28,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),4700.00,C,7,587.01,Online,53,Sim,3,1,4,3,3,8,Online
+247,64,Masculino,Baeta Neves,Superior completo,Solteiro(a),3350.00,C,7,385.53,Online,37,Sim,2,3,2,2,2,3,Hipermercado
+248,63,Masculino,Bairro Assunção,Superior incompleto,Casado(a),3630.00,C,8,395.18,Hiper,46,Sim,3,3,4,1,3,5,Bairro
+249,19,Feminino,Demarchi,Médio,União estável,1760.00,D,12,339.82,Online,38,Sim,4,1,4,2,2,4,Hipermercado
+250,58,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),4900.00,C,9,576.63,Bairro,63,Sim,5,3,4,2,4,6,Bairro
+251,34,Feminino,Demarchi,Médio,Casado(a),1530.00,D,15,441.31,Bairro,7,Sim,5,2,5,1,4,6,Atacarejo
+252,34,Masculino,Rudge Ramos,Pós-graduação,União estável,2850.00,D,10,448.31,Online,28,Sim,2,1,2,2,1,1,Atacarejo
+253,64,Feminino,Baeta Neves,Fundamental,Viúvo(a),2670.00,D,11,512.32,Atacarejo,34,Não,4,1,3,3,2,5,Conveniência
+254,24,Feminino,Paulicéia,Superior incompleto,Solteiro(a),1790.00,D,4,580.48,Atacarejo,72,Sim,5,1,4,4,3,6,Online
+255,28,Feminino,Taboão,Fundamental,Casado(a),3320.00,C,10,427.98,Bairro,1,Sim,4,5,4,4,4,6,Atacarejo
+256,68,Feminino,Centro,Superior incompleto,Solteiro(a),4890.00,C,11,508.06,Online,49,Sim,4,3,4,2,4,6,Online
+257,32,Masculino,Demarchi,Superior incompleto,Solteiro(a),2040.00,D,6,383.86,Atacarejo,20,Não,3,3,3,2,3,5,Bairro
+258,64,Feminino,Jardim do Mar,Médio,Divorciado(a),3670.00,C,8,389.98,Hiper,29,Sim,3,4,3,2,3,3,Conveniência
+259,48,Masculino,Centro,Superior completo,Divorciado(a),2510.00,D,7,293.78,Online,35,Não,3,1,3,4,3,3,Hipermercado
+260,42,Feminino,Rudge Ramos,Fundamental,União estável,4320.00,C,8,409.26,Hiper,47,Sim,4,3,4,3,4,5,Hipermercado
+261,35,Feminino,Baeta Neves,Médio,Solteiro(a),1300.00,D,6,522.38,Atacarejo,54,Sim,5,2,4,3,4,6,Hipermercado
+262,55,Feminino,Rudge Ramos,Pós-graduação,Casado(a),5320.00,C,9,533.84,Bairro,64,Sim,4,2,4,4,4,8,Online
+263,38,Masculino,Demarchi,Fundamental,Solteiro(a),3160.00,C,9,428.24,Bairro,26,Não,3,2,3,4,3,4,Atacarejo
+264,55,Masculino,Paulicéia,Superior completo,Solteiro(a),2450.00,D,11,322.40,Bairro,34,Sim,3,2,3,1,2,3,Hipermercado
+265,39,Masculino,Nova Petrópolis,Superior completo,Divorciado(a),3720.00,C,11,509.98,Bairro,48,Sim,2,3,4,2,3,7,Online
+266,34,Feminino,Rudge Ramos,Superior completo,Casado(a),2300.00,D,7,427.53,Bairro,1,Não,3,1,2,3,1,0,Conveniência
+267,41,Masculino,Ferrazópolis,Médio,União estável,1830.00,D,9,424.64,Online,34,Sim,4,1,5,3,4,6,Bairro
+268,44,Masculino,Ferrazópolis,Fundamental,Divorciado(a),3450.00,C,9,393.22,Atacarejo,6,Sim,3,2,3,4,2,3,Atacarejo
+269,35,Feminino,Ferrazópolis,Superior incompleto,Casado(a),5290.00,C,12,606.07,Hiper,30,Não,3,2,3,3,2,3,Atacarejo
+270,24,Masculino,Demarchi,Pós-graduação,Casado(a),2220.00,D,7,413.64,Bairro,57,Sim,5,1,5,4,4,8,Hipermercado
+271,69,Feminino,Taboão,Médio,União estável,4380.00,C,8,501.93,Online,63,Sim,3,3,4,3,3,8,Bairro
+272,61,Feminino,Bairro Assunção,Superior completo,Solteiro(a),5140.00,C,9,621.29,Hiper,33,Sim,3,3,3,1,3,3,Bairro
+273,64,Masculino,Nova Petrópolis,Médio,Casado(a),1360.00,D,12,378.78,Online,27,Sim,4,2,5,2,3,6,Conveniência
+274,32,Feminino,Paulicéia,Fundamental,Solteiro(a),1570.00,D,4,400.68,Bairro,68,Sim,4,1,4,4,3,6,Hipermercado
+275,43,Feminino,Centro,Pós-graduação,Casado(a),2310.00,D,12,385.05,Bairro,33,Sim,3,1,2,3,2,3,Online
+276,55,Feminino,Paulicéia,Pós-graduação,Solteiro(a),3890.00,C,11,533.04,Bairro,43,Sim,2,3,2,2,2,5,Atacarejo
+277,61,Feminino,Nova Petrópolis,Médio,Solteiro(a),1920.00,D,10,346.85,Online,43,Sim,4,1,4,2,3,6,Online
+278,43,Feminino,Centro,Fundamental,Casado(a),2210.00,D,12,776.87,Bairro,60,Não,3,4,3,3,3,4,Bairro
+279,61,Masculino,Nova Petrópolis,Médio,União estável,4030.00,C,16,651.33,Bairro,72,Sim,5,4,3,2,4,5,Conveniência
+280,39,Feminino,Baeta Neves,Superior incompleto,Casado(a),3430.00,C,8,343.09,Hiper,62,Não,2,1,4,2,3,4,Atacarejo
+281,63,Masculino,Nova Petrópolis,Superior incompleto,União estável,2260.00,D,14,466.28,Atacarejo,43,Não,4,3,5,3,4,7,Conveniência
+282,22,Feminino,Jardim do Mar,Médio,Casado(a),3450.00,C,5,414.93,Hiper,34,Não,3,3,4,3,4,7,Atacarejo
+283,19,Feminino,Ferrazópolis,Superior completo,Solteiro(a),4350.00,C,10,578.39,Online,38,Sim,5,3,4,4,5,8,Conveniência
+284,25,Masculino,Baeta Neves,Superior incompleto,Casado(a),4050.00,C,7,393.86,Atacarejo,4,Sim,4,2,5,4,3,6,Bairro
+285,18,Masculino,Jardim do Mar,Superior completo,Casado(a),4220.00,C,6,295.24,Online,21,Sim,5,4,3,4,3,5,Bairro
+286,58,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1370.00,D,7,453.15,Bairro,8,Não,1,1,1,3,2,3,Online
+287,19,Masculino,Demarchi,Pós-graduação,Solteiro(a),4680.00,C,10,530.65,Atacarejo,57,Sim,4,2,3,5,4,7,Conveniência
+288,66,Masculino,Baeta Neves,Médio,Solteiro(a),2350.00,D,11,474.86,Online,40,Sim,3,1,3,1,2,4,Bairro
+289,26,Masculino,Taboão,Médio,Casado(a),1980.00,D,7,260.97,Bairro,54,Sim,4,1,4,3,3,5,Bairro
+290,70,Masculino,Rudge Ramos,Médio,Solteiro(a),2760.00,D,7,470.97,Hiper,6,Não,4,2,2,2,2,1,Conveniência
+291,45,Feminino,Taboão,Médio,Casado(a),2570.00,D,10,453.27,Bairro,2,Não,4,2,4,2,3,5,Online
+292,35,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1300.00,D,10,356.25,Online,58,Não,4,1,2,1,3,3,Bairro
+293,24,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),4100.00,C,5,375.30,Atacarejo,59,Não,5,3,5,3,4,7,Bairro
+294,18,Feminino,Centro,Médio,Solteiro(a),2370.00,D,8,436.23,Atacarejo,4,Sim,4,2,2,5,2,3,Online
+295,48,Feminino,Baeta Neves,Médio,Casado(a),2770.00,D,9,509.86,Bairro,64,Sim,3,2,4,2,4,7,Atacarejo
+296,34,Masculino,Jardim do Mar,Pós-graduação,Casado(a),1790.00,D,6,343.39,Hiper,36,Sim,4,2,4,3,3,4,Online
+297,37,Feminino,Demarchi,Superior completo,Casado(a),2120.00,D,6,576.14,Bairro,38,Sim,5,1,5,2,4,8,Hipermercado
+298,45,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),2360.00,D,9,486.50,Atacarejo,55,Sim,4,2,4,3,3,6,Conveniência
+299,31,Feminino,Demarchi,Fundamental,Casado(a),2470.00,D,9,602.22,Bairro,65,Não,4,1,5,2,3,6,Hipermercado
+300,70,Masculino,Rudge Ramos,Fundamental,União estável,3570.00,C,10,401.10,Bairro,68,Sim,4,1,5,1,4,10,Conveniência
+301,58,Feminino,Centro,Superior completo,Solteiro(a),2460.00,D,14,394.01,Online,57,Sim,4,1,2,2,3,6,Conveniência
+302,33,Feminino,Ferrazópolis,Fundamental,Divorciado(a),3030.00,C,3,335.97,Bairro,54,Sim,3,2,2,4,1,2,Bairro
+303,53,Feminino,Centro,Fundamental,Solteiro(a),1720.00,D,13,384.96,Online,58,Sim,4,2,5,2,3,6,Atacarejo
+304,46,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2580.00,D,12,350.84,Atacarejo,57,Não,1,3,2,3,2,3,Online
+305,45,Masculino,Centro,Pós-graduação,Solteiro(a),3350.00,C,10,428.27,Atacarejo,1,Sim,1,3,2,3,2,0,Bairro
+306,67,Masculino,Jardim do Mar,Superior incompleto,Casado(a),2450.00,D,6,414.45,Bairro,43,Sim,4,2,5,4,4,6,Bairro
+307,68,Masculino,Ferrazópolis,Médio,Casado(a),3180.00,C,11,392.28,Online,49,Sim,3,2,4,2,3,7,Hipermercado
+308,19,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),1860.00,D,11,440.22,Bairro,41,Sim,3,2,3,3,2,2,Online
+309,59,Feminino,Rudge Ramos,Médio,Casado(a),3290.00,C,12,418.85,Atacarejo,5,Não,4,2,5,2,3,5,Atacarejo
+310,19,Feminino,Centro,Superior completo,Solteiro(a),2970.00,D,14,513.60,Online,61,Não,4,1,4,4,3,6,Conveniência
+311,27,Feminino,Centro,Superior incompleto,Solteiro(a),1480.00,D,4,288.75,Online,32,Não,4,2,3,3,3,5,Online
+312,34,Feminino,Rudge Ramos,Superior incompleto,Casado(a),4020.00,C,7,399.51,Atacarejo,45,Sim,3,3,4,2,3,5,Conveniência
+313,55,Masculino,Bairro Assunção,Médio,Casado(a),3100.00,C,7,485.05,Online,19,Sim,4,4,2,2,4,5,Conveniência
+314,53,Masculino,Bairro Assunção,Pós-graduação,Casado(a),4100.00,C,10,439.53,Bairro,48,Não,3,3,4,2,3,6,Conveniência
+315,41,Masculino,Rudge Ramos,Superior incompleto,Casado(a),2160.00,D,14,507.43,Atacarejo,2,Sim,5,1,4,2,4,8,Bairro
+316,31,Masculino,Bairro Assunção,Superior incompleto,Casado(a),1350.00,D,7,256.43,Atacarejo,56,Não,3,2,4,4,3,3,Conveniência
+317,21,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),3820.00,C,6,482.00,Online,50,Não,4,3,4,4,3,6,Hipermercado
+318,54,Masculino,Centro,Médio,Casado(a),8600.00,B,5,658.66,Bairro,60,Não,3,2,2,2,2,4,Hipermercado
+319,29,Feminino,Ferrazópolis,Médio,Solteiro(a),1300.00,D,9,516.33,Atacarejo,35,Não,5,2,5,5,4,5,Atacarejo
+320,57,Masculino,Rudge Ramos,Fundamental,Solteiro(a),3540.00,C,9,415.22,Bairro,1,Não,4,4,4,2,4,7,Online
+321,70,Feminino,Taboão,Pós-graduação,Solteiro(a),2420.00,D,13,393.14,Hiper,10,Sim,4,2,3,4,3,4,Conveniência
+322,23,Masculino,Rudge Ramos,Médio,Solteiro(a),3010.00,C,8,436.40,Hiper,54,Não,5,5,5,2,5,7,Bairro
+323,53,Feminino,Taboão,Superior completo,Solteiro(a),2060.00,D,6,221.48,Atacarejo,42,Não,3,1,4,1,4,6,Conveniência
+324,56,Feminino,Centro,Pós-graduação,Solteiro(a),4990.00,C,4,570.46,Atacarejo,10,Sim,5,3,4,1,5,10,Atacarejo
+325,20,Masculino,Paulicéia,Médio,Solteiro(a),3870.00,C,13,535.36,Hiper,1,Não,5,3,5,4,4,5,Conveniência
+326,29,Masculino,Taboão,Pós-graduação,Casado(a),3450.00,C,10,317.44,Online,8,Sim,2,1,3,4,3,5,Atacarejo
+327,32,Feminino,Paulicéia,Médio,Casado(a),2960.00,D,8,412.91,Hiper,10,Sim,4,2,3,4,4,4,Hipermercado
+328,68,Masculino,Paulicéia,Superior incompleto,Casado(a),3450.00,C,12,575.15,Hiper,27,Sim,4,1,4,4,4,9,Online
+329,63,Masculino,Centro,Fundamental,Casado(a),1700.00,D,10,286.27,Atacarejo,28,Sim,4,1,4,1,4,10,Online
+330,52,Feminino,Ferrazópolis,Fundamental,União estável,2160.00,D,7,437.50,Bairro,45,Não,3,1,2,2,2,1,Bairro
+331,63,Feminino,Bairro Assunção,Pós-graduação,Casado(a),4890.00,C,4,607.36,Online,16,Sim,3,2,2,1,2,2,Online
+332,60,Masculino,Ferrazópolis,Superior incompleto,União estável,5380.00,C,11,673.85,Atacarejo,53,Sim,5,5,4,1,4,7,Bairro
+333,61,Masculino,Jardim do Mar,Superior completo,União estável,2620.00,D,8,424.33,Online,32,Sim,3,1,3,3,3,6,Conveniência
+334,20,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),4030.00,C,11,514.88,Online,71,Sim,3,4,3,3,4,6,Online
+335,38,Feminino,Rudge Ramos,Fundamental,União estável,1850.00,D,5,276.40,Bairro,39,Sim,3,1,3,3,2,1,Atacarejo
+336,23,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),3420.00,C,9,550.35,Online,55,Sim,3,3,3,3,2,2,Conveniência
+337,55,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),5160.00,C,10,589.59,Atacarejo,27,Não,2,1,3,2,2,3,Conveniência
+338,51,Feminino,Nova Petrópolis,Superior incompleto,União estável,2750.00,D,13,631.17,Atacarejo,23,Sim,3,4,3,2,3,4,Hipermercado
+339,27,Feminino,Nova Petrópolis,Médio,Solteiro(a),2820.00,D,8,487.31,Bairro,3,Sim,4,2,3,5,3,4,Atacarejo
+340,32,Feminino,Bairro Assunção,Fundamental,Casado(a),1300.00,D,9,429.22,Atacarejo,56,Sim,5,2,4,4,4,5,Bairro
+341,34,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),3490.00,C,9,538.93,Atacarejo,53,Não,3,2,4,2,4,5,Hipermercado
+342,60,Feminino,Centro,Fundamental,Casado(a),2800.00,D,9,559.74,Atacarejo,50,Sim,4,2,4,3,4,5,Conveniência
+343,18,Feminino,Taboão,Superior incompleto,Casado(a),4050.00,C,15,421.02,Bairro,14,Sim,4,5,3,5,3,5,Hipermercado
+344,19,Masculino,Ferrazópolis,Médio,Solteiro(a),1300.00,D,8,443.32,Bairro,62,Sim,3,1,5,3,3,7,Bairro
+345,58,Masculino,Nova Petrópolis,Pós-graduação,Divorciado(a),3620.00,C,18,616.54,Online,23,Não,3,3,2,1,3,4,Conveniência
+346,41,Feminino,Bairro Assunção,Superior incompleto,Casado(a),1610.00,D,10,345.75,Bairro,41,Sim,2,1,3,4,2,1,Conveniência
+347,68,Feminino,Taboão,Superior incompleto,Viúvo(a),1830.00,D,9,445.39,Online,6,Não,5,3,4,1,4,7,Conveniência
+348,56,Masculino,Baeta Neves,Superior incompleto,Casado(a),1300.00,D,10,451.30,Online,20,Sim,4,2,4,1,3,5,Hipermercado
+349,60,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),4280.00,C,14,698.91,Online,37,Não,4,3,5,3,4,9,Bairro
+350,53,Feminino,Baeta Neves,Médio,Casado(a),1980.00,D,13,527.33,Online,1,Sim,4,1,5,2,4,7,Online
+351,39,Feminino,Paulicéia,Médio,Casado(a),2570.00,D,13,553.92,Hiper,63,Sim,5,1,5,4,4,6,Conveniência
+352,52,Feminino,Taboão,Fundamental,Casado(a),2430.00,D,8,439.43,Atacarejo,43,Sim,2,1,3,1,2,3,Hipermercado
+353,58,Masculino,Centro,Superior completo,União estável,4070.00,C,11,546.26,Hiper,63,Sim,3,4,4,2,3,4,Online
+354,49,Masculino,Demarchi,Superior incompleto,Solteiro(a),3810.00,C,11,690.19,Hiper,30,Sim,3,3,3,2,2,2,Hipermercado
+355,46,Masculino,Paulicéia,Superior completo,Divorciado(a),5760.00,C,6,637.03,Hiper,33,Sim,3,3,2,4,3,3,Hipermercado
+356,27,Masculino,Taboão,Superior incompleto,Solteiro(a),2560.00,D,10,429.05,Atacarejo,47,Sim,1,1,4,3,2,3,Hipermercado
+357,31,Feminino,Bairro Assunção,Superior completo,União estável,2580.00,D,3,301.73,Bairro,62,Sim,4,1,4,3,3,5,Online
+358,69,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),2350.00,D,7,443.03,Bairro,10,Sim,4,2,3,1,4,5,Bairro
+359,61,Masculino,Demarchi,Superior incompleto,Solteiro(a),3770.00,C,12,502.05,Bairro,39,Sim,5,1,5,2,4,8,Conveniência
+360,46,Masculino,Paulicéia,Médio,Divorciado(a),1760.00,D,5,287.22,Bairro,15,Sim,3,1,4,1,2,2,Online
+361,26,Feminino,Paulicéia,Médio,Casado(a),2530.00,D,3,265.37,Online,39,Sim,2,2,3,5,3,4,Hipermercado
+362,21,Feminino,Baeta Neves,Médio,Casado(a),5590.00,C,13,632.52,Online,17,Não,3,5,2,4,3,3,Online
+363,42,Masculino,Ferrazópolis,Médio,Casado(a),1300.00,D,5,313.55,Atacarejo,59,Não,3,2,4,4,3,4,Bairro
+364,24,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),1560.00,D,9,514.17,Bairro,12,Não,4,3,2,3,3,5,Bairro
+365,25,Feminino,Ferrazópolis,Superior incompleto,Casado(a),2730.00,D,6,381.20,Hiper,21,Sim,3,3,5,4,3,7,Online
+366,36,Masculino,Paulicéia,Superior incompleto,Casado(a),1650.00,D,6,365.63,Bairro,55,Sim,4,1,3,1,3,5,Atacarejo
+367,57,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),6490.00,B,11,709.67,Hiper,2,Não,3,5,2,2,3,5,Bairro
+368,56,Masculino,Rudge Ramos,Pós-graduação,Casado(a),2400.00,D,8,426.08,Online,29,Não,3,2,5,2,4,9,Conveniência
+369,44,Feminino,Bairro Assunção,Superior incompleto,Casado(a),2720.00,D,9,484.09,Atacarejo,5,Não,5,2,3,3,4,7,Atacarejo
+370,18,Feminino,Rudge Ramos,Superior completo,União estável,3480.00,C,6,588.43,Online,9,Sim,4,4,4,4,4,7,Conveniência
+371,35,Masculino,Bairro Assunção,Fundamental,União estável,1300.00,D,14,138.04,Hiper,63,Sim,3,3,2,2,3,5,Atacarejo
+372,28,Feminino,Rudge Ramos,Superior completo,Solteiro(a),3040.00,C,3,575.10,Atacarejo,4,Sim,5,4,5,5,5,7,Online
+373,57,Masculino,Ferrazópolis,Fundamental,Casado(a),4290.00,C,8,312.33,Bairro,11,Sim,5,1,4,2,5,7,Conveniência
+374,30,Feminino,Bairro Assunção,Superior incompleto,Casado(a),3330.00,C,7,558.14,Bairro,49,Não,4,3,4,1,5,8,Hipermercado
+375,37,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),2930.00,D,11,539.92,Online,39,Não,3,2,2,3,3,4,Online
+376,29,Feminino,Centro,Médio,Solteiro(a),3210.00,C,10,515.57,Bairro,24,Não,4,3,4,3,4,5,Bairro
+377,70,Feminino,Taboão,Médio,Casado(a),1300.00,D,10,529.11,Atacarejo,9,Não,4,3,5,3,3,4,Conveniência
+378,65,Feminino,Centro,Médio,Solteiro(a),2100.00,D,12,438.37,Atacarejo,52,Sim,3,1,5,1,3,6,Bairro
+379,56,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),1500.00,D,15,495.38,Hiper,26,Sim,5,3,5,2,4,8,Online
+380,66,Feminino,Jardim do Mar,Fundamental,Casado(a),2680.00,D,10,424.86,Online,28,Sim,5,2,5,4,4,9,Atacarejo
+381,64,Masculino,Ferrazópolis,Pós-graduação,União estável,4000.00,C,15,557.14,Bairro,1,Não,4,4,4,2,4,6,Conveniência
+382,36,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),2300.00,D,12,541.09,Atacarejo,41,Sim,3,1,3,1,3,5,Hipermercado
+383,67,Feminino,Paulicéia,Superior completo,Casado(a),5510.00,C,7,630.19,Hiper,67,Sim,5,3,4,2,4,6,Hipermercado
+384,59,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),1550.00,D,8,413.36,Bairro,64,Sim,3,1,2,2,2,5,Bairro
+385,65,Feminino,Paulicéia,Superior incompleto,Divorciado(a),6340.00,B,8,613.67,Bairro,51,Sim,4,4,4,3,4,7,Bairro
+386,30,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),5290.00,C,4,461.71,Hiper,50,Sim,3,3,3,3,3,3,Online
+387,47,Feminino,Ferrazópolis,Fundamental,Casado(a),2340.00,D,9,354.72,Atacarejo,31,Sim,3,1,3,3,2,4,Hipermercado
+388,22,Feminino,Paulicéia,Pós-graduação,Solteiro(a),2560.00,D,12,523.16,Bairro,24,Sim,5,2,5,3,5,9,Conveniência
+389,57,Feminino,Taboão,Superior incompleto,Viúvo(a),2620.00,D,15,419.29,Bairro,42,Sim,5,2,3,1,4,5,Atacarejo
+390,29,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3850.00,C,5,430.07,Atacarejo,61,Sim,5,2,4,4,3,4,Online
+391,69,Masculino,Centro,Médio,Solteiro(a),2040.00,D,3,237.72,Hiper,20,Sim,4,1,5,1,4,7,Bairro
+392,33,Masculino,Rudge Ramos,Fundamental,Solteiro(a),1970.00,D,10,463.29,Hiper,18,Não,2,1,2,3,3,3,Hipermercado
+393,49,Feminino,Paulicéia,Médio,Solteiro(a),2920.00,D,4,481.48,Hiper,14,Sim,4,1,3,2,3,4,Bairro
+394,30,Masculino,Ferrazópolis,Superior incompleto,Casado(a),3430.00,C,7,540.56,Hiper,36,Não,4,2,5,5,3,6,Hipermercado
+395,41,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),6430.00,B,9,602.40,Atacarejo,31,Sim,4,3,3,1,4,6,Bairro
+396,24,Feminino,Demarchi,Superior incompleto,Divorciado(a),4990.00,C,8,643.98,Online,55,Não,4,4,4,4,4,6,Online
+397,33,Masculino,Centro,Fundamental,Casado(a),2030.00,D,6,432.81,Online,15,Sim,5,3,3,1,4,5,Conveniência
+398,34,Feminino,Ferrazópolis,Superior completo,Casado(a),1490.00,D,7,282.84,Bairro,64,Sim,3,2,3,5,2,3,Hipermercado
+399,25,Masculino,Baeta Neves,Superior completo,Casado(a),2900.00,D,8,233.49,Online,25,Não,4,3,5,3,4,8,Hipermercado
+400,70,Feminino,Centro,Superior completo,Divorciado(a),6340.00,B,10,564.54,Atacarejo,42,Não,3,5,2,3,3,4,Atacarejo
+401,59,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),2830.00,D,10,522.39,Online,16,Sim,4,4,4,3,5,7,Online
+402,32,Masculino,Taboão,Fundamental,Casado(a),4300.00,C,8,627.31,Online,3,Sim,3,2,4,3,2,1,Atacarejo
+403,25,Feminino,Nova Petrópolis,Superior incompleto,Divorciado(a),1490.00,D,8,462.66,Online,1,Sim,4,3,3,4,3,5,Conveniência
+404,51,Feminino,Bairro Assunção,Superior incompleto,Casado(a),3480.00,C,13,428.36,Atacarejo,14,Sim,3,4,4,2,3,4,Conveniência
+405,22,Masculino,Paulicéia,Médio,Solteiro(a),2750.00,D,6,400.21,Atacarejo,33,Não,3,2,1,4,1,0,Online
+406,60,Masculino,Rudge Ramos,Superior completo,Solteiro(a),7310.00,B,13,682.47,Hiper,37,Sim,1,2,4,2,1,3,Bairro
+407,59,Feminino,Baeta Neves,Médio,Solteiro(a),2710.00,D,4,462.96,Online,1,Não,4,3,3,1,4,4,Hipermercado
+408,30,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),4100.00,C,10,496.92,Bairro,29,Sim,3,5,2,2,3,3,Conveniência
+409,36,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2910.00,D,6,349.69,Bairro,27,Não,4,3,3,4,3,5,Hipermercado
+410,61,Masculino,Rudge Ramos,Fundamental,Solteiro(a),1460.00,D,6,428.70,Atacarejo,32,Não,4,3,2,3,3,4,Online
+411,61,Feminino,Paulicéia,Superior completo,Solteiro(a),2600.00,D,12,363.64,Online,22,Não,4,2,4,1,4,6,Hipermercado
+412,59,Feminino,Rudge Ramos,Superior incompleto,Casado(a),3460.00,C,13,607.15,Hiper,24,Sim,5,1,5,2,4,7,Online
+413,24,Masculino,Ferrazópolis,Fundamental,Casado(a),2210.00,D,7,282.68,Bairro,2,Sim,3,2,2,2,3,3,Hipermercado
+414,35,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),2680.00,D,10,236.01,Hiper,10,Sim,4,1,4,3,3,5,Bairro
+415,40,Masculino,Ferrazópolis,Superior completo,Casado(a),3730.00,C,5,393.88,Atacarejo,21,Não,3,5,4,2,4,6,Bairro
+416,65,Feminino,Jardim do Mar,Superior incompleto,Casado(a),3290.00,C,11,470.92,Online,4,Não,3,3,3,2,3,4,Bairro
+417,24,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3990.00,C,9,419.65,Hiper,29,Não,4,3,4,4,4,7,Atacarejo
+418,44,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),2490.00,D,14,585.90,Bairro,29,Não,4,2,2,3,3,4,Hipermercado
+419,22,Masculino,Jardim do Mar,Médio,Divorciado(a),2620.00,D,9,229.69,Bairro,3,Não,2,2,3,3,3,4,Conveniência
+420,46,Feminino,Centro,Fundamental,Solteiro(a),1880.00,D,11,454.73,Online,11,Sim,2,2,3,4,3,4,Atacarejo
+421,50,Feminino,Demarchi,Médio,União estável,2020.00,D,13,531.57,Online,72,Sim,4,2,4,3,3,6,Atacarejo
+422,67,Masculino,Rudge Ramos,Superior incompleto,União estável,5480.00,C,11,526.24,Hiper,41,Sim,1,4,1,1,1,1,Conveniência
+423,59,Feminino,Taboão,Médio,Casado(a),4070.00,C,12,546.39,Online,9,Não,5,1,4,1,4,6,Online
+424,19,Masculino,Rudge Ramos,Fundamental,Casado(a),2100.00,D,9,306.98,Bairro,23,Sim,4,2,4,3,4,7,Hipermercado
+425,59,Masculino,Paulicéia,Superior completo,União estável,2630.00,D,10,408.81,Hiper,40,Sim,4,1,4,1,3,2,Atacarejo
+426,62,Masculino,Jardim do Mar,Superior incompleto,Casado(a),5460.00,C,10,616.82,Hiper,70,Sim,4,4,5,1,5,8,Atacarejo
+427,36,Feminino,Bairro Assunção,Pós-graduação,Casado(a),7850.00,B,7,527.93,Hiper,57,Não,2,3,1,4,2,0,Online
+428,22,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),1350.00,D,11,231.73,Bairro,69,Sim,4,1,4,5,3,5,Atacarejo
+429,41,Feminino,Rudge Ramos,Superior completo,Divorciado(a),2380.00,D,11,426.49,Atacarejo,42,Sim,4,2,3,5,3,3,Conveniência
+430,19,Feminino,Taboão,Médio,União estável,1770.00,D,4,272.57,Bairro,20,Sim,2,1,4,4,3,9,Online
+431,62,Feminino,Paulicéia,Fundamental,Casado(a),2150.00,D,7,234.66,Bairro,66,Não,4,3,3,3,4,7,Atacarejo
+432,52,Masculino,Taboão,Fundamental,Casado(a),1910.00,D,10,310.51,Online,39,Não,3,2,4,1,4,7,Conveniência
+433,55,Masculino,Taboão,Pós-graduação,Casado(a),3500.00,C,9,569.34,Hiper,40,Sim,2,2,2,2,2,2,Hipermercado
+434,23,Masculino,Paulicéia,Médio,Casado(a),3080.00,C,12,552.70,Bairro,7,Sim,3,2,3,3,3,4,Atacarejo
+435,43,Masculino,Paulicéia,Fundamental,Casado(a),1920.00,D,8,437.33,Atacarejo,33,Sim,4,2,2,4,3,4,Conveniência
+436,53,Masculino,Taboão,Pós-graduação,Solteiro(a),3060.00,C,6,365.76,Online,19,Não,1,3,3,2,2,5,Online
+437,41,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),2640.00,D,9,245.41,Bairro,45,Não,4,2,2,4,2,3,Conveniência
+438,26,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),3700.00,C,8,624.33,Hiper,2,Sim,5,1,4,5,3,6,Atacarejo
+439,46,Masculino,Centro,Superior completo,Casado(a),3340.00,C,2,201.01,Hiper,67,Sim,2,5,4,3,2,3,Conveniência
+440,23,Feminino,Ferrazópolis,Fundamental,União estável,2340.00,D,7,312.51,Atacarejo,10,Sim,2,1,3,4,2,1,Bairro
+441,66,Feminino,Taboão,Superior completo,Solteiro(a),3400.00,C,7,436.92,Bairro,57,Não,5,2,2,1,3,3,Bairro
+442,45,Masculino,Baeta Neves,Fundamental,Casado(a),1710.00,D,14,426.60,Atacarejo,6,Sim,3,1,3,2,3,4,Bairro
+443,23,Masculino,Paulicéia,Superior completo,Casado(a),3360.00,C,9,372.35,Hiper,35,Não,5,2,5,2,4,7,Online
+444,64,Outro,Rudge Ramos,Fundamental,Casado(a),1300.00,D,12,299.60,Bairro,16,Sim,4,3,4,1,4,6,Bairro
+445,35,Feminino,Centro,Superior completo,Solteiro(a),3940.00,C,11,574.39,Online,1,Não,2,2,3,2,3,4,Hipermercado
+446,23,Feminino,Paulicéia,Médio,União estável,3430.00,C,9,627.82,Bairro,60,Sim,2,1,2,4,1,0,Hipermercado
+447,52,Masculino,Paulicéia,Superior incompleto,Solteiro(a),1780.00,D,11,404.17,Hiper,11,Sim,5,1,5,3,3,7,Atacarejo
+448,26,Masculino,Ferrazópolis,Fundamental,Solteiro(a),3130.00,C,8,460.58,Online,64,Sim,2,3,2,3,2,4,Bairro
+449,33,Feminino,Jardim do Mar,Fundamental,Divorciado(a),4090.00,C,5,431.34,Atacarejo,36,Não,3,4,3,3,3,4,Hipermercado
+450,40,Feminino,Rudge Ramos,Superior incompleto,Casado(a),1870.00,D,10,487.05,Bairro,61,Sim,3,1,3,2,2,3,Conveniência
+451,36,Masculino,Centro,Médio,Solteiro(a),2720.00,D,10,440.21,Atacarejo,46,Não,2,1,3,2,1,0,Conveniência
+452,34,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2560.00,D,6,453.11,Atacarejo,42,Sim,4,1,3,1,3,3,Conveniência
+453,46,Masculino,Bairro Assunção,Superior completo,Solteiro(a),2960.00,D,9,329.37,Atacarejo,9,Não,3,4,3,2,3,6,Atacarejo
+454,45,Masculino,Centro,Superior incompleto,Solteiro(a),2230.00,D,16,437.37,Hiper,1,Sim,4,1,4,2,3,6,Bairro
+455,46,Feminino,Nova Petrópolis,Fundamental,Casado(a),1300.00,D,3,316.63,Bairro,19,Sim,4,1,2,2,2,2,Atacarejo
+456,19,Feminino,Paulicéia,Superior incompleto,Casado(a),4830.00,C,8,514.54,Atacarejo,4,Não,4,3,4,4,4,7,Atacarejo
+457,37,Masculino,Demarchi,Pós-graduação,Casado(a),3390.00,C,10,455.04,Atacarejo,19,Sim,1,5,2,2,3,4,Hipermercado
+458,68,Feminino,Demarchi,Médio,Divorciado(a),2890.00,D,12,314.33,Hiper,38,Sim,3,1,3,1,3,3,Conveniência
+459,65,Masculino,Jardim do Mar,Fundamental,União estável,3300.00,C,12,640.72,Hiper,20,Sim,5,3,5,1,5,7,Conveniência
+460,27,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),2620.00,D,11,596.09,Hiper,2,Não,3,3,3,4,4,4,Conveniência
+461,23,Masculino,Centro,Superior completo,União estável,2340.00,D,8,416.81,Online,31,Sim,3,1,2,2,2,3,Online
+462,60,Feminino,Bairro Assunção,Superior completo,Viúvo(a),2750.00,D,8,375.58,Online,8,Sim,2,4,3,2,3,6,Hipermercado
+463,58,Masculino,Baeta Neves,Fundamental,União estável,2090.00,D,6,303.07,Atacarejo,59,Sim,3,1,3,1,2,4,Conveniência
+464,68,Masculino,Paulicéia,Superior incompleto,Casado(a),5010.00,C,11,483.33,Online,6,Não,3,4,2,1,1,0,Atacarejo
+465,56,Masculino,Bairro Assunção,Fundamental,Casado(a),1930.00,D,10,408.62,Online,20,Sim,3,5,5,1,4,5,Online
+466,30,Feminino,Jardim do Mar,Fundamental,Solteiro(a),1620.00,D,11,359.48,Hiper,36,Não,3,1,3,2,2,4,Bairro
+467,65,Feminino,Ferrazópolis,Fundamental,União estável,1860.00,D,10,402.68,Bairro,20,Não,5,2,4,2,3,5,Atacarejo
+468,49,Masculino,Rudge Ramos,Pós-graduação,Divorciado(a),3720.00,C,9,342.29,Online,64,Não,5,2,4,3,4,6,Online
+469,42,Feminino,Baeta Neves,Superior completo,Casado(a),3660.00,C,12,500.81,Online,12,Sim,2,3,4,3,3,5,Online
+470,64,Feminino,Baeta Neves,Fundamental,Solteiro(a),8040.00,B,11,710.57,Bairro,64,Não,5,2,5,3,3,5,Bairro
+471,68,Masculino,Centro,Superior incompleto,União estável,1850.00,D,8,524.07,Online,28,Não,4,2,5,2,3,5,Online
+472,68,Masculino,Taboão,Médio,Casado(a),1670.00,D,9,377.88,Hiper,55,Não,4,2,5,2,4,7,Atacarejo
+473,47,Masculino,Baeta Neves,Superior incompleto,União estável,5760.00,C,8,354.31,Online,6,Sim,5,3,5,3,5,9,Online
+474,49,Masculino,Baeta Neves,Pós-graduação,Divorciado(a),1360.00,D,6,365.78,Bairro,33,Não,4,2,3,3,3,3,Atacarejo
+475,64,Masculino,Demarchi,Fundamental,Solteiro(a),3730.00,C,7,445.02,Bairro,33,Sim,3,3,3,2,3,4,Hipermercado
+476,44,Feminino,Centro,Médio,Divorciado(a),1800.00,D,10,323.83,Atacarejo,39,Sim,2,2,3,3,3,4,Conveniência
+477,42,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2630.00,D,11,603.00,Atacarejo,15,Não,1,2,2,4,1,0,Atacarejo
+478,50,Masculino,Taboão,Pós-graduação,Casado(a),3440.00,C,2,420.12,Hiper,43,Sim,5,3,4,3,4,6,Online
+479,45,Feminino,Taboão,Médio,Casado(a),4880.00,C,6,442.02,Atacarejo,17,Não,4,4,4,3,3,5,Bairro
+480,51,Feminino,Rudge Ramos,Superior incompleto,União estável,2480.00,D,14,628.05,Hiper,57,Sim,4,2,3,3,4,6,Bairro
+481,31,Masculino,Demarchi,Pós-graduação,Casado(a),4900.00,C,7,525.15,Atacarejo,4,Sim,4,4,2,5,4,6,Atacarejo
+482,69,Feminino,Taboão,Superior incompleto,Solteiro(a),2540.00,D,7,381.64,Hiper,68,Sim,3,2,3,1,3,8,Hipermercado
+483,35,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),1910.00,D,9,327.46,Hiper,1,Sim,4,3,4,2,4,8,Bairro
+484,30,Feminino,Bairro Assunção,Médio,Solteiro(a),1770.00,D,7,330.21,Atacarejo,46,Sim,2,1,3,4,2,4,Atacarejo
+485,37,Feminino,Baeta Neves,Superior incompleto,Casado(a),2230.00,D,9,298.77,Bairro,71,Não,4,2,5,3,3,6,Atacarejo
+486,70,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),1730.00,D,3,275.71,Atacarejo,15,Sim,4,2,5,2,4,8,Conveniência
+487,51,Feminino,Taboão,Fundamental,Casado(a),2000.00,D,6,288.20,Online,63,Sim,3,3,3,5,3,6,Atacarejo
+488,40,Feminino,Baeta Neves,Médio,Solteiro(a),4470.00,C,7,637.46,Hiper,32,Não,5,2,5,4,5,9,Conveniência
+489,27,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2900.00,D,8,415.29,Atacarejo,22,Sim,2,3,1,3,3,3,Conveniência
+490,40,Masculino,Taboão,Fundamental,Casado(a),2140.00,D,11,553.47,Hiper,4,Sim,4,1,2,2,2,3,Atacarejo
+491,69,Masculino,Ferrazópolis,Fundamental,Casado(a),2930.00,D,5,507.66,Atacarejo,35,Sim,4,2,4,2,4,8,Conveniência
+492,60,Masculino,Taboão,Fundamental,Casado(a),2010.00,D,9,324.18,Online,69,Sim,5,3,5,2,5,8,Hipermercado
+493,19,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),3360.00,C,7,450.72,Atacarejo,69,Sim,3,3,2,3,2,4,Online
+494,40,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3700.00,C,7,428.48,Bairro,52,Não,3,2,2,3,2,3,Online
+495,29,Masculino,Centro,Superior incompleto,Divorciado(a),1450.00,D,7,382.86,Online,25,Sim,5,3,5,4,4,7,Online
+496,51,Feminino,Centro,Fundamental,Solteiro(a),2830.00,D,10,549.62,Online,58,Sim,3,2,3,2,2,3,Bairro
+497,51,Feminino,Centro,Fundamental,União estável,2810.00,D,3,395.25,Atacarejo,65,Sim,5,1,4,2,3,6,Online
+498,19,Masculino,Bairro Assunção,Médio,Viúvo(a),1680.00,D,13,391.76,Bairro,63,Sim,2,2,2,2,2,1,Atacarejo
+499,37,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),2170.00,D,21,534.13,Atacarejo,26,Não,3,1,2,4,3,5,Atacarejo
+500,43,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),4350.00,C,11,530.75,Online,27,Sim,3,4,3,2,3,5,Conveniência
+501,41,Feminino,Paulicéia,Pós-graduação,Casado(a),5920.00,C,5,429.97,Hiper,16,Não,2,4,3,4,2,1,Bairro
+502,32,Feminino,Baeta Neves,Médio,Casado(a),2000.00,D,10,349.05,Bairro,32,Sim,2,3,2,4,2,3,Online
+503,53,Masculino,Baeta Neves,Médio,Casado(a),3440.00,C,3,195.89,Online,34,Não,5,3,3,2,5,7,Bairro
+504,58,Feminino,Taboão,Superior incompleto,União estável,5850.00,C,12,692.37,Atacarejo,32,Sim,5,4,4,4,5,8,Conveniência
+505,21,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3580.00,C,13,521.91,Online,21,Sim,2,3,4,4,2,5,Atacarejo
+506,21,Masculino,Demarchi,Superior completo,Solteiro(a),1650.00,D,9,419.09,Online,22,Sim,5,3,3,3,4,6,Online
+507,46,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),2930.00,D,16,681.67,Atacarejo,4,Não,4,3,4,3,3,6,Bairro
+508,45,Feminino,Rudge Ramos,Superior completo,Casado(a),1650.00,D,11,484.21,Online,68,Sim,4,3,3,2,2,2,Hipermercado
+509,24,Feminino,Ferrazópolis,Fundamental,Casado(a),3600.00,C,12,598.61,Online,7,Sim,2,4,2,3,2,4,Online
+510,54,Feminino,Rudge Ramos,Fundamental,Solteiro(a),5790.00,C,6,669.62,Hiper,35,Sim,5,2,4,2,5,8,Conveniência
+511,52,Feminino,Ferrazópolis,Fundamental,Casado(a),2740.00,D,13,617.87,Online,6,Não,2,3,2,3,2,1,Conveniência
+512,41,Masculino,Paulicéia,Superior completo,Casado(a),2110.00,D,7,490.20,Online,47,Sim,4,3,4,3,3,6,Conveniência
+513,31,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),5100.00,C,7,448.02,Bairro,10,Sim,3,1,3,4,3,2,Online
+514,49,Feminino,Paulicéia,Superior incompleto,Solteiro(a),1930.00,D,4,402.97,Hiper,59,Sim,3,3,4,4,4,5,Hipermercado
+515,21,Masculino,Ferrazópolis,Médio,Casado(a),5370.00,C,9,632.99,Online,61,Sim,5,3,4,4,4,8,Online
+516,55,Feminino,Rudge Ramos,Pós-graduação,Casado(a),2600.00,D,11,473.94,Hiper,37,Não,2,2,1,3,2,3,Bairro
+517,49,Feminino,Paulicéia,Pós-graduação,Divorciado(a),3950.00,C,12,689.52,Atacarejo,45,Sim,2,3,5,3,2,4,Bairro
+518,29,Masculino,Bairro Assunção,Fundamental,Casado(a),3130.00,C,9,448.49,Hiper,31,Sim,3,4,3,3,4,6,Atacarejo
+519,53,Feminino,Jardim do Mar,Superior completo,Casado(a),3550.00,C,9,560.86,Atacarejo,1,Sim,5,3,3,2,4,6,Bairro
+520,22,Masculino,Jardim do Mar,Pós-graduação,Casado(a),1470.00,D,13,418.40,Online,32,Sim,4,2,5,4,4,7,Bairro
+521,62,Masculino,Ferrazópolis,Pós-graduação,Divorciado(a),4760.00,C,7,503.68,Hiper,58,Não,5,1,3,4,3,3,Conveniência
+522,50,Masculino,Rudge Ramos,Médio,Casado(a),1780.00,D,7,324.89,Online,7,Sim,4,4,4,2,3,4,Atacarejo
+523,60,Masculino,Paulicéia,Médio,Solteiro(a),2970.00,D,9,352.20,Hiper,66,Não,4,1,2,2,2,3,Atacarejo
+524,37,Masculino,Paulicéia,Médio,Solteiro(a),1400.00,D,8,374.39,Hiper,58,Sim,3,1,1,3,2,1,Atacarejo
+525,53,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2540.00,D,13,590.16,Online,62,Não,1,5,1,3,1,0,Online
+526,51,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),3860.00,C,10,489.72,Bairro,68,Sim,5,4,3,2,4,5,Conveniência
+527,55,Feminino,Centro,Pós-graduação,Solteiro(a),6010.00,B,11,652.48,Atacarejo,63,Sim,4,2,5,2,4,7,Hipermercado
+528,63,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),5660.00,C,6,437.80,Bairro,9,Não,4,1,3,1,2,6,Hipermercado
+529,62,Feminino,Ferrazópolis,Superior incompleto,Divorciado(a),5970.00,C,10,429.70,Hiper,19,Não,3,3,3,2,3,4,Conveniência
+530,48,Feminino,Rudge Ramos,Pós-graduação,Casado(a),4860.00,C,5,535.12,Hiper,42,Não,5,4,4,5,4,7,Conveniência
+531,53,Masculino,Rudge Ramos,Médio,Casado(a),2300.00,D,6,267.87,Bairro,39,Não,2,1,3,2,1,2,Conveniência
+532,57,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),3160.00,C,11,346.59,Hiper,24,Não,2,3,3,4,3,4,Hipermercado
+533,40,Feminino,Taboão,Superior completo,Casado(a),4380.00,C,7,335.31,Hiper,5,Sim,3,4,4,3,3,5,Bairro
+534,40,Masculino,Taboão,Superior incompleto,Casado(a),1360.00,D,8,209.98,Bairro,61,Sim,4,1,5,2,2,5,Conveniência
+535,36,Masculino,Centro,Pós-graduação,Casado(a),1420.00,D,11,390.18,Hiper,64,Sim,3,1,3,4,4,5,Hipermercado
+536,68,Feminino,Rudge Ramos,Médio,Casado(a),3170.00,C,9,646.07,Online,40,Sim,4,3,4,3,3,6,Bairro
+537,37,Masculino,Centro,Superior incompleto,Casado(a),7180.00,B,16,681.38,Atacarejo,44,Sim,5,3,5,3,4,7,Atacarejo
+538,31,Masculino,Paulicéia,Superior incompleto,Casado(a),4420.00,C,9,525.19,Hiper,53,Sim,3,3,3,2,4,5,Atacarejo
+539,42,Masculino,Rudge Ramos,Médio,Solteiro(a),2170.00,D,10,347.50,Online,42,Sim,5,1,4,3,3,6,Hipermercado
+540,62,Feminino,Centro,Pós-graduação,Solteiro(a),6050.00,B,10,514.13,Hiper,61,Sim,2,4,2,3,2,3,Online
+541,68,Masculino,Baeta Neves,Superior completo,Solteiro(a),3090.00,C,4,227.67,Online,68,Não,3,3,3,3,3,4,Conveniência
+542,61,Feminino,Bairro Assunção,Médio,Casado(a),1870.00,D,11,405.77,Bairro,28,Sim,4,2,4,2,3,6,Bairro
+543,58,Feminino,Jardim do Mar,Fundamental,Solteiro(a),1320.00,D,8,195.77,Hiper,5,Sim,5,1,5,3,4,7,Atacarejo
+544,44,Feminino,Taboão,Médio,Casado(a),2370.00,D,9,363.46,Bairro,25,Não,5,1,4,2,4,7,Online
+545,30,Masculino,Centro,Médio,Casado(a),1670.00,D,11,344.12,Online,65,Não,3,1,4,3,3,4,Online
+546,18,Feminino,Paulicéia,Superior completo,Casado(a),4240.00,C,4,419.81,Online,48,Sim,4,3,5,4,4,7,Online
+547,21,Feminino,Taboão,Médio,Casado(a),1300.00,D,8,402.13,Bairro,23,Não,3,1,4,4,3,6,Conveniência
+548,31,Feminino,Jardim do Mar,Superior completo,Casado(a),4090.00,C,5,521.74,Atacarejo,23,Não,3,1,4,5,4,6,Atacarejo
+549,37,Masculino,Rudge Ramos,Superior incompleto,Casado(a),1880.00,D,6,337.32,Atacarejo,14,Não,4,1,4,3,3,5,Hipermercado
+550,62,Masculino,Rudge Ramos,Fundamental,Casado(a),2600.00,D,7,482.90,Atacarejo,48,Sim,4,1,4,1,4,8,Hipermercado
+551,47,Masculino,Bairro Assunção,Superior completo,Viúvo(a),2400.00,D,7,225.00,Hiper,31,Sim,4,4,3,3,5,8,Conveniência
+552,43,Masculino,Ferrazópolis,Superior incompleto,Casado(a),4350.00,C,11,578.20,Atacarejo,46,Não,3,4,3,5,3,4,Hipermercado
+553,24,Masculino,Demarchi,Superior completo,Divorciado(a),2620.00,D,11,430.84,Online,69,Sim,4,2,4,3,3,3,Hipermercado
+554,41,Masculino,Baeta Neves,Fundamental,Casado(a),3100.00,C,4,220.23,Atacarejo,72,Sim,3,3,2,3,1,2,Online
+555,56,Feminino,Paulicéia,Médio,Solteiro(a),2960.00,D,7,509.59,Hiper,28,Sim,4,3,4,2,4,4,Online
+556,57,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),5810.00,C,11,594.54,Atacarejo,29,Não,3,3,2,3,3,4,Online
+557,30,Masculino,Centro,Superior completo,Solteiro(a),2410.00,D,7,314.00,Online,61,Sim,3,2,4,2,3,7,Conveniência
+558,31,Masculino,Ferrazópolis,Pós-graduação,Casado(a),6510.00,B,8,657.76,Atacarejo,48,Sim,3,2,3,3,3,4,Hipermercado
+559,64,Masculino,Baeta Neves,Superior incompleto,União estável,2430.00,D,8,393.78,Hiper,48,Sim,4,3,4,1,4,7,Conveniência
+560,59,Masculino,Paulicéia,Superior completo,Casado(a),3540.00,C,7,494.96,Bairro,39,Não,3,2,4,3,3,4,Atacarejo
+561,24,Masculino,Centro,Superior incompleto,Solteiro(a),2510.00,D,7,384.15,Online,66,Sim,2,1,3,3,2,3,Online
+562,53,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),5220.00,C,6,457.20,Hiper,25,Sim,5,3,4,4,4,8,Hipermercado
+563,18,Masculino,Demarchi,Pós-graduação,União estável,6280.00,B,8,414.66,Bairro,26,Não,3,5,4,5,4,6,Atacarejo
+564,21,Masculino,Demarchi,Superior incompleto,Solteiro(a),2520.00,D,11,321.58,Bairro,54,Não,3,2,3,3,2,0,Hipermercado
+565,67,Feminino,Nova Petrópolis,Superior completo,Casado(a),5390.00,C,8,569.98,Online,67,Sim,3,2,2,3,3,3,Online
+566,50,Masculino,Paulicéia,Pós-graduação,Casado(a),2260.00,D,14,420.27,Atacarejo,51,Sim,4,1,4,4,3,3,Hipermercado
+567,25,Masculino,Taboão,Médio,Solteiro(a),2640.00,D,5,400.10,Bairro,10,Sim,4,3,3,2,4,5,Atacarejo
+568,43,Masculino,Demarchi,Fundamental,Casado(a),4600.00,C,7,409.93,Bairro,22,Sim,3,4,2,2,3,3,Atacarejo
+569,67,Feminino,Centro,Superior completo,Divorciado(a),3630.00,C,12,369.83,Bairro,32,Sim,4,2,3,2,4,3,Online
+570,44,Masculino,Baeta Neves,Superior completo,Casado(a),3790.00,C,9,482.38,Online,67,Não,3,1,3,1,2,2,Bairro
+571,54,Feminino,Paulicéia,Superior incompleto,Casado(a),4850.00,C,5,584.49,Atacarejo,50,Sim,4,3,3,3,3,3,Conveniência
+572,26,Feminino,Paulicéia,Médio,Viúvo(a),1840.00,D,6,394.54,Bairro,38,Não,5,2,4,5,4,7,Bairro
+573,55,Feminino,Rudge Ramos,Pós-graduação,Divorciado(a),9640.00,B,14,783.07,Atacarejo,61,Não,3,3,1,3,4,3,Conveniência
+574,61,Feminino,Bairro Assunção,Médio,Solteiro(a),2410.00,D,9,526.67,Bairro,36,Sim,4,3,5,3,4,8,Hipermercado
+575,20,Feminino,Demarchi,Pós-graduação,Casado(a),3850.00,C,4,522.93,Bairro,39,Sim,5,5,4,4,4,7,Online
+576,52,Masculino,Paulicéia,Médio,Casado(a),1300.00,D,10,462.06,Online,54,Não,3,3,2,2,4,7,Bairro
+577,20,Feminino,Bairro Assunção,Médio,Viúvo(a),3750.00,C,4,483.63,Bairro,3,Sim,2,2,4,2,3,5,Online
+578,56,Masculino,Taboão,Superior incompleto,União estável,3380.00,C,5,348.68,Online,63,Sim,4,3,2,3,4,5,Online
+579,39,Masculino,Rudge Ramos,Superior incompleto,União estável,2610.00,D,9,386.39,Online,46,Sim,4,1,3,3,3,4,Conveniência
+580,63,Masculino,Baeta Neves,Fundamental,Casado(a),1540.00,D,9,369.66,Online,40,Sim,4,1,4,2,3,4,Bairro
+581,40,Masculino,Ferrazópolis,Superior completo,Solteiro(a),7630.00,B,5,572.43,Atacarejo,45,Sim,4,3,3,2,3,5,Bairro
+582,61,Masculino,Rudge Ramos,Fundamental,Casado(a),3020.00,C,17,481.29,Atacarejo,25,Sim,4,2,3,1,3,4,Hipermercado
+583,26,Feminino,Jardim do Mar,Fundamental,Solteiro(a),4490.00,C,13,612.54,Hiper,57,Não,3,3,4,4,3,5,Hipermercado
+584,60,Feminino,Demarchi,Superior completo,Casado(a),3880.00,C,10,536.20,Atacarejo,60,Sim,4,2,5,3,4,7,Online
+585,50,Feminino,Demarchi,Pós-graduação,Casado(a),4250.00,C,8,460.58,Bairro,27,Sim,4,3,5,2,4,7,Atacarejo
+586,25,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2350.00,D,5,282.85,Hiper,16,Sim,3,1,4,5,3,4,Online
+587,50,Masculino,Centro,Superior incompleto,Casado(a),2210.00,D,6,398.42,Atacarejo,4,Sim,5,1,4,2,3,5,Hipermercado
+588,19,Feminino,Baeta Neves,Fundamental,Casado(a),1640.00,D,9,356.08,Atacarejo,21,Não,4,2,4,4,3,4,Atacarejo
+589,70,Masculino,Bairro Assunção,Superior incompleto,Casado(a),3260.00,C,12,416.41,Bairro,57,Sim,3,3,2,3,2,4,Atacarejo
+590,20,Feminino,Demarchi,Superior incompleto,Casado(a),5790.00,C,11,522.85,Atacarejo,12,Sim,3,2,2,3,2,2,Bairro
+591,33,Feminino,Rudge Ramos,Superior completo,Solteiro(a),1300.00,D,13,374.77,Hiper,59,Sim,3,2,2,1,3,0,Conveniência
+592,32,Feminino,Taboão,Superior incompleto,Casado(a),4730.00,C,8,496.88,Hiper,43,Não,5,3,5,2,4,9,Conveniência
+593,43,Masculino,Ferrazópolis,Pós-graduação,Casado(a),2340.00,D,5,416.96,Hiper,43,Sim,2,1,3,3,2,5,Atacarejo
+594,34,Feminino,Nova Petrópolis,Médio,Casado(a),2310.00,D,9,438.83,Bairro,36,Sim,5,2,5,4,4,7,Conveniência
+595,70,Masculino,Rudge Ramos,Superior completo,Casado(a),2800.00,D,8,262.17,Hiper,69,Sim,3,3,4,2,4,6,Hipermercado
+596,57,Feminino,Taboão,Médio,Casado(a),3570.00,C,7,457.34,Atacarejo,15,Não,3,5,4,3,4,8,Atacarejo
+597,68,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),6010.00,B,7,712.41,Hiper,7,Sim,5,1,4,4,4,8,Hipermercado
+598,29,Masculino,Jardim do Mar,Médio,Casado(a),3280.00,C,8,411.04,Atacarejo,27,Sim,3,4,4,3,4,4,Bairro
+599,49,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2540.00,D,10,432.50,Atacarejo,46,Não,5,1,5,3,3,7,Bairro
+600,64,Masculino,Taboão,Superior incompleto,União estável,3410.00,C,9,309.43,Atacarejo,47,Sim,4,3,2,3,3,5,Online
+601,56,Masculino,Paulicéia,Superior completo,Solteiro(a),4930.00,C,11,522.49,Bairro,71,Sim,4,2,4,1,4,6,Bairro
+602,67,Feminino,Rudge Ramos,Fundamental,Divorciado(a),2860.00,D,11,419.05,Online,31,Sim,4,2,2,2,2,1,Atacarejo
+603,48,Masculino,Rudge Ramos,Fundamental,Solteiro(a),3190.00,C,11,328.16,Online,42,Não,5,2,5,3,4,8,Hipermercado
+604,32,Feminino,Demarchi,Pós-graduação,Casado(a),5620.00,C,6,431.13,Bairro,52,Sim,3,3,4,2,2,6,Bairro
+605,42,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),2840.00,D,6,473.96,Hiper,70,Não,3,1,3,1,3,6,Hipermercado
+606,27,Feminino,Bairro Assunção,Médio,Casado(a),2370.00,D,8,511.62,Bairro,61,Não,4,1,3,3,3,5,Atacarejo
+607,46,Feminino,Jardim do Mar,Médio,Solteiro(a),3030.00,C,5,529.56,Bairro,32,Sim,4,2,5,2,3,6,Atacarejo
+608,40,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),5090.00,C,8,568.71,Bairro,21,Sim,5,5,5,2,4,7,Atacarejo
+609,24,Feminino,Baeta Neves,Médio,Casado(a),2480.00,D,11,286.26,Atacarejo,25,Sim,4,1,5,4,4,7,Online
+610,21,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),1660.00,D,10,455.71,Online,22,Sim,4,3,4,5,3,5,Bairro
+611,46,Feminino,Baeta Neves,Médio,Viúvo(a),2590.00,D,11,685.94,Hiper,56,Não,4,1,4,3,4,6,Hipermercado
+612,67,Masculino,Baeta Neves,Médio,Casado(a),2530.00,D,10,293.80,Hiper,29,Não,3,1,4,2,2,5,Hipermercado
+613,61,Feminino,Baeta Neves,Superior completo,Solteiro(a),2610.00,D,11,312.01,Online,39,Sim,4,2,3,1,3,3,Hipermercado
+614,19,Feminino,Bairro Assunção,Fundamental,Solteiro(a),1310.00,D,10,305.59,Bairro,54,Sim,4,3,3,2,4,7,Conveniência
+615,50,Feminino,Paulicéia,Superior incompleto,Casado(a),1780.00,D,6,406.88,Bairro,38,Não,3,1,3,2,3,4,Atacarejo
+616,69,Feminino,Bairro Assunção,Superior completo,Casado(a),2880.00,D,6,213.20,Hiper,34,Sim,3,4,3,3,3,5,Online
+617,46,Feminino,Bairro Assunção,Médio,Solteiro(a),1900.00,D,11,519.06,Hiper,67,Não,5,4,5,5,4,6,Hipermercado
+618,25,Masculino,Paulicéia,Superior completo,Casado(a),2600.00,D,8,393.58,Atacarejo,24,Sim,5,2,5,4,4,5,Atacarejo
+619,20,Feminino,Bairro Assunção,Médio,União estável,1980.00,D,10,415.92,Atacarejo,45,Não,3,2,3,5,3,6,Atacarejo
+620,37,Masculino,Taboão,Fundamental,Solteiro(a),1300.00,D,8,365.65,Hiper,36,Não,3,2,5,2,3,7,Atacarejo
+621,41,Masculino,Jardim do Mar,Fundamental,Casado(a),1300.00,D,13,395.05,Hiper,51,Sim,5,2,5,3,4,7,Hipermercado
+622,24,Masculino,Bairro Assunção,Pós-graduação,Viúvo(a),5960.00,C,10,545.82,Bairro,17,Sim,3,4,3,2,3,7,Conveniência
+623,39,Feminino,Ferrazópolis,Fundamental,União estável,2500.00,D,10,456.32,Online,54,Não,4,1,4,2,4,8,Online
+624,23,Feminino,Centro,Pós-graduação,União estável,2410.00,D,7,499.50,Hiper,9,Sim,3,3,4,5,4,7,Online
+625,48,Masculino,Centro,Superior incompleto,Casado(a),2870.00,D,10,408.85,Atacarejo,12,Não,3,1,4,2,3,3,Hipermercado
+626,49,Feminino,Paulicéia,Fundamental,Solteiro(a),4600.00,C,8,396.11,Hiper,24,Não,5,4,4,2,4,5,Online
+627,28,Masculino,Bairro Assunção,Médio,Casado(a),4420.00,C,8,469.56,Online,31,Não,2,3,4,2,3,5,Online
+628,28,Masculino,Rudge Ramos,Pós-graduação,Casado(a),1630.00,D,5,365.41,Atacarejo,8,Não,3,1,4,4,3,6,Online
+629,42,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2920.00,D,8,599.73,Atacarejo,71,Sim,2,1,3,3,1,4,Bairro
+630,57,Feminino,Demarchi,Superior incompleto,Casado(a),3380.00,C,5,446.99,Atacarejo,26,Não,4,3,4,2,4,7,Online
+631,40,Masculino,Bairro Assunção,Superior completo,União estável,5880.00,C,8,596.41,Bairro,13,Sim,2,3,2,3,3,4,Atacarejo
+632,52,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2060.00,D,12,448.38,Online,26,Sim,5,3,4,1,4,8,Hipermercado
+633,52,Masculino,Baeta Neves,Superior completo,União estável,3220.00,C,7,430.57,Atacarejo,65,Sim,4,2,5,1,2,3,Hipermercado
+634,47,Feminino,Rudge Ramos,Superior completo,Solteiro(a),2150.00,D,10,541.10,Atacarejo,66,Sim,3,3,3,4,4,5,Hipermercado
+635,24,Masculino,Centro,Fundamental,Solteiro(a),1740.00,D,6,552.74,Online,3,Não,5,1,5,4,4,8,Conveniência
+636,58,Masculino,Demarchi,Pós-graduação,Casado(a),3900.00,C,9,502.49,Online,69,Sim,3,2,3,2,3,5,Atacarejo
+637,47,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),2470.00,D,5,502.88,Bairro,10,Sim,5,3,5,3,5,7,Online
+638,29,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),2830.00,D,6,191.12,Hiper,13,Sim,4,2,4,3,4,7,Online
+639,32,Masculino,Paulicéia,Fundamental,Solteiro(a),2200.00,D,13,334.29,Hiper,49,Não,3,2,5,4,4,8,Atacarejo
+640,69,Feminino,Jardim do Mar,Médio,Solteiro(a),4120.00,C,13,500.53,Online,34,Não,4,1,2,1,3,4,Atacarejo
+641,36,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),2420.00,D,15,553.24,Atacarejo,52,Sim,4,3,5,4,4,8,Bairro
+642,58,Feminino,Taboão,Médio,Casado(a),3130.00,C,9,376.45,Hiper,24,Sim,4,2,4,3,4,7,Online
+643,38,Feminino,Demarchi,Fundamental,Solteiro(a),2060.00,D,8,352.96,Hiper,17,Sim,3,2,3,3,2,4,Bairro
+644,41,Feminino,Paulicéia,Superior incompleto,Solteiro(a),3930.00,C,12,565.52,Atacarejo,20,Sim,5,3,3,1,4,5,Bairro
+645,55,Masculino,Rudge Ramos,Superior completo,Casado(a),1620.00,D,15,534.06,Online,34,Sim,4,1,2,2,1,0,Online
+646,55,Masculino,Taboão,Pós-graduação,Casado(a),2420.00,D,8,382.69,Bairro,21,Sim,3,1,4,1,3,5,Conveniência
+647,54,Feminino,Baeta Neves,Superior completo,Casado(a),2390.00,D,11,548.59,Online,11,Sim,5,4,5,4,5,9,Conveniência
+648,50,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1590.00,D,7,326.21,Bairro,69,Não,4,1,4,2,4,4,Online
+649,70,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2600.00,D,9,366.39,Online,33,Sim,4,1,5,3,2,3,Atacarejo
+650,36,Masculino,Paulicéia,Superior completo,Casado(a),3030.00,C,8,536.61,Online,47,Sim,3,3,1,2,2,0,Atacarejo
+651,18,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2950.00,D,6,370.51,Bairro,14,Não,2,1,1,2,2,0,Hipermercado
+652,37,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),3700.00,C,11,417.26,Atacarejo,64,Sim,4,2,2,3,4,5,Bairro
+653,64,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),9330.00,B,13,762.73,Bairro,19,Não,3,4,4,3,4,4,Atacarejo
+654,31,Masculino,Rudge Ramos,Superior completo,Casado(a),4170.00,C,7,551.85,Atacarejo,28,Sim,4,3,4,2,3,6,Conveniência
+655,24,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),2640.00,D,9,357.34,Online,12,Sim,5,1,4,4,4,6,Conveniência
+656,33,Feminino,Jardim do Mar,Médio,União estável,2210.00,D,6,330.43,Hiper,21,Sim,5,4,5,3,5,9,Atacarejo
+657,24,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),5450.00,C,10,452.21,Hiper,7,Não,3,3,3,4,3,6,Online
+658,51,Masculino,Taboão,Superior incompleto,Casado(a),2550.00,D,9,457.17,Hiper,54,Não,5,1,5,1,4,8,Atacarejo
+659,53,Masculino,Jardim do Mar,Pós-graduação,União estável,4830.00,C,9,494.69,Online,18,Não,5,4,5,4,5,7,Online
+660,41,Feminino,Nova Petrópolis,Superior incompleto,União estável,2420.00,D,9,319.64,Bairro,22,Sim,4,1,2,2,2,1,Online
+661,20,Masculino,Paulicéia,Superior incompleto,Divorciado(a),2850.00,D,17,440.65,Bairro,19,Não,5,2,5,4,4,6,Hipermercado
+662,67,Feminino,Bairro Assunção,Fundamental,Solteiro(a),3050.00,C,9,552.35,Online,26,Sim,3,3,4,4,3,8,Bairro
+663,50,Feminino,Baeta Neves,Médio,Solteiro(a),3870.00,C,9,499.73,Hiper,4,Sim,4,1,3,2,3,2,Hipermercado
+664,23,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),2050.00,D,18,591.24,Bairro,67,Não,5,2,3,4,3,4,Atacarejo
+665,50,Feminino,Rudge Ramos,Superior completo,Divorciado(a),3490.00,C,9,444.89,Online,42,Sim,3,5,3,2,4,7,Atacarejo
+666,42,Masculino,Nova Petrópolis,Médio,União estável,1610.00,D,7,193.92,Hiper,63,Não,3,1,3,1,2,3,Bairro
+667,22,Outro,Taboão,Pós-graduação,Solteiro(a),2800.00,D,9,505.02,Bairro,17,Sim,4,3,5,5,3,6,Hipermercado
+668,34,Masculino,Ferrazópolis,Fundamental,Solteiro(a),2230.00,D,11,354.74,Hiper,13,Sim,3,1,5,3,4,9,Atacarejo
+669,38,Masculino,Rudge Ramos,Superior completo,Viúvo(a),3530.00,C,7,473.23,Bairro,41,Sim,4,2,4,2,4,4,Atacarejo
+670,43,Feminino,Baeta Neves,Superior incompleto,Casado(a),2760.00,D,11,416.01,Atacarejo,28,Não,3,2,4,2,4,7,Hipermercado
+671,46,Feminino,Bairro Assunção,Superior completo,Divorciado(a),2090.00,D,14,372.12,Atacarejo,69,Sim,2,2,5,2,2,4,Hipermercado
+672,52,Masculino,Nova Petrópolis,Médio,Casado(a),3670.00,C,11,497.86,Bairro,33,Sim,3,3,4,1,4,7,Atacarejo
+673,36,Feminino,Bairro Assunção,Fundamental,Divorciado(a),1300.00,D,4,313.50,Hiper,15,Não,5,1,4,4,3,6,Conveniência
+674,39,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),3590.00,C,5,585.85,Online,47,Sim,4,3,4,3,4,6,Atacarejo
+675,65,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),4120.00,C,6,527.34,Atacarejo,49,Não,3,3,3,1,3,4,Atacarejo
+676,42,Feminino,Ferrazópolis,Superior completo,Solteiro(a),3240.00,C,11,361.82,Bairro,5,Sim,3,3,3,3,3,6,Online
+677,54,Masculino,Centro,Fundamental,Casado(a),4230.00,C,6,485.17,Hiper,41,Sim,5,4,3,3,3,2,Atacarejo
+678,55,Feminino,Baeta Neves,Pós-graduação,Casado(a),4120.00,C,5,402.74,Bairro,27,Sim,2,1,3,2,2,4,Hipermercado
+679,35,Feminino,Demarchi,Pós-graduação,Solteiro(a),7690.00,B,12,650.88,Bairro,63,Sim,4,3,5,3,4,7,Bairro
+680,41,Masculino,Paulicéia,Pós-graduação,Solteiro(a),6860.00,B,14,615.00,Atacarejo,6,Sim,5,3,5,4,4,8,Bairro
+681,40,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2400.00,D,13,428.23,Bairro,68,Não,3,2,4,3,3,5,Online
+682,30,Feminino,Taboão,Superior completo,Casado(a),3050.00,C,7,577.59,Bairro,47,Sim,4,4,5,3,4,7,Bairro
+683,21,Masculino,Taboão,Superior incompleto,Divorciado(a),2120.00,D,5,370.34,Online,16,Não,3,1,5,3,2,5,Online
+684,70,Masculino,Demarchi,Pós-graduação,Solteiro(a),7130.00,B,12,632.52,Atacarejo,58,Não,2,2,2,4,2,4,Conveniência
+685,65,Masculino,Ferrazópolis,Superior incompleto,Casado(a),3930.00,C,8,371.60,Hiper,70,Sim,5,2,4,4,4,6,Bairro
+686,69,Masculino,Centro,Fundamental,Casado(a),1510.00,D,7,80.00,Bairro,42,Sim,2,2,3,1,2,2,Atacarejo
+687,23,Masculino,Paulicéia,Fundamental,Viúvo(a),3030.00,C,11,367.82,Bairro,29,Sim,4,2,4,3,3,7,Hipermercado
+688,60,Masculino,Taboão,Pós-graduação,Divorciado(a),4020.00,C,12,656.44,Online,36,Não,5,2,4,1,3,5,Hipermercado
+689,26,Masculino,Centro,Superior completo,Divorciado(a),4440.00,C,10,485.59,Hiper,56,Sim,4,3,4,5,3,5,Conveniência
+690,34,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),1940.00,D,7,274.19,Hiper,24,Sim,2,1,1,3,2,1,Conveniência
+691,56,Feminino,Paulicéia,Pós-graduação,Casado(a),3620.00,C,12,572.04,Bairro,35,Não,3,2,4,2,3,6,Bairro
+692,24,Masculino,Ferrazópolis,Superior incompleto,União estável,3140.00,C,9,472.06,Bairro,41,Sim,5,3,3,4,3,5,Bairro
+693,65,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),3040.00,C,15,469.05,Hiper,51,Sim,4,2,2,2,2,1,Conveniência
+694,59,Feminino,Ferrazópolis,Pós-graduação,Casado(a),4730.00,C,8,549.49,Hiper,35,Sim,3,3,4,2,3,4,Atacarejo
+695,49,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2290.00,D,6,393.28,Hiper,54,Sim,3,3,4,2,3,6,Online
+696,62,Feminino,Jardim do Mar,Pós-graduação,Casado(a),4210.00,C,11,751.75,Hiper,47,Não,4,2,4,3,3,6,Hipermercado
+697,50,Masculino,Bairro Assunção,Pós-graduação,Divorciado(a),5300.00,C,6,638.18,Bairro,54,Sim,5,4,5,2,3,3,Conveniência
+698,46,Feminino,Demarchi,Superior incompleto,Solteiro(a),3340.00,C,10,438.76,Online,18,Sim,3,2,4,2,3,5,Hipermercado
+699,55,Masculino,Centro,Superior incompleto,Solteiro(a),1560.00,D,7,348.19,Online,34,Sim,4,4,5,3,4,7,Conveniência
+700,19,Feminino,Bairro Assunção,Médio,Divorciado(a),4340.00,C,11,404.06,Hiper,31,Sim,3,3,3,1,4,7,Conveniência
+701,36,Feminino,Rudge Ramos,Superior completo,Casado(a),4530.00,C,8,506.17,Online,23,Não,4,2,5,3,4,9,Online
+702,20,Feminino,Jardim do Mar,Pós-graduação,Casado(a),3780.00,C,10,543.57,Hiper,39,Não,3,4,3,4,3,4,Conveniência
+703,67,Feminino,Paulicéia,Superior incompleto,Casado(a),7180.00,B,6,596.86,Online,33,Não,3,2,2,3,3,7,Atacarejo
+704,21,Feminino,Rudge Ramos,Pós-graduação,Casado(a),3200.00,C,7,322.70,Bairro,58,Sim,3,1,2,2,2,0,Atacarejo
+705,30,Feminino,Ferrazópolis,Médio,Casado(a),3380.00,C,9,431.97,Atacarejo,49,Sim,4,2,5,4,3,6,Bairro
+706,62,Masculino,Jardim do Mar,Superior incompleto,União estável,1310.00,D,7,263.92,Bairro,72,Não,4,1,3,1,3,4,Conveniência
+707,58,Feminino,Baeta Neves,Médio,Casado(a),5250.00,C,7,594.21,Atacarejo,53,Sim,4,1,4,2,3,6,Bairro
+708,44,Feminino,Nova Petrópolis,Médio,Casado(a),3510.00,C,11,585.37,Online,30,Sim,5,4,5,3,4,8,Online
+709,36,Feminino,Baeta Neves,Superior incompleto,União estável,5520.00,C,6,557.90,Online,51,Não,4,4,4,4,4,8,Hipermercado
+710,64,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1850.00,D,9,454.48,Atacarejo,48,Sim,4,1,3,2,4,7,Hipermercado
+711,30,Feminino,Taboão,Pós-graduação,Solteiro(a),8900.00,B,9,731.06,Hiper,52,Não,5,4,3,4,4,6,Hipermercado
+712,56,Masculino,Baeta Neves,Fundamental,Solteiro(a),3330.00,C,9,354.24,Online,22,Não,3,2,3,3,3,4,Hipermercado
+713,45,Masculino,Centro,Pós-graduação,Solteiro(a),5320.00,C,7,486.02,Hiper,65,Sim,3,4,4,5,4,5,Conveniência
+714,51,Feminino,Ferrazópolis,Fundamental,Casado(a),1560.00,D,8,394.30,Atacarejo,48,Sim,4,1,2,2,2,2,Online
+715,63,Feminino,Baeta Neves,Médio,Casado(a),3440.00,C,8,453.09,Atacarejo,6,Sim,2,3,5,2,3,6,Bairro
+716,22,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3390.00,C,6,366.13,Hiper,11,Não,2,2,3,5,3,3,Bairro
+717,57,Feminino,Jardim do Mar,Superior completo,Casado(a),3590.00,C,9,339.37,Online,57,Sim,4,3,4,3,3,6,Hipermercado
+718,55,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3650.00,C,9,504.08,Hiper,19,Não,5,3,4,3,5,7,Online
+719,25,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1300.00,D,8,166.51,Hiper,56,Sim,3,1,4,4,3,6,Bairro
+720,20,Feminino,Rudge Ramos,Pós-graduação,Casado(a),5090.00,C,8,480.27,Hiper,35,Sim,2,3,3,4,1,2,Conveniência
+721,61,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2090.00,D,10,263.22,Online,25,Não,3,1,3,1,2,2,Conveniência
+722,28,Feminino,Nova Petrópolis,Médio,Solteiro(a),2340.00,D,11,514.50,Bairro,23,Sim,2,1,4,2,2,3,Bairro
+723,63,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),2750.00,D,5,496.91,Online,10,Sim,5,1,5,3,4,6,Atacarejo
+724,20,Masculino,Ferrazópolis,Fundamental,Viúvo(a),2030.00,D,17,560.50,Online,14,Não,4,2,4,2,2,3,Hipermercado
+725,46,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),1550.00,D,7,236.04,Bairro,60,Sim,4,4,3,3,4,7,Conveniência
+726,58,Masculino,Ferrazópolis,Superior completo,Casado(a),1730.00,D,8,250.00,Bairro,54,Sim,5,1,3,2,3,5,Online
+727,53,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2490.00,D,17,680.06,Online,34,Sim,3,2,3,3,4,5,Bairro
+728,54,Feminino,Taboão,Superior incompleto,Casado(a),1400.00,D,11,428.36,Bairro,41,Não,4,3,3,3,3,5,Online
+729,18,Masculino,Rudge Ramos,Superior completo,Casado(a),1830.00,D,10,224.74,Bairro,17,Sim,4,1,4,3,3,7,Hipermercado
+730,66,Feminino,Centro,Médio,Casado(a),3510.00,C,8,459.18,Atacarejo,66,Sim,5,2,5,3,4,7,Online
+731,37,Masculino,Bairro Assunção,Fundamental,Casado(a),1850.00,D,10,316.05,Online,22,Não,4,2,4,3,3,5,Bairro
+732,62,Masculino,Baeta Neves,Pós-graduação,União estável,3430.00,C,4,455.68,Online,1,Não,4,4,3,2,3,4,Hipermercado
+733,21,Feminino,Centro,Superior incompleto,Solteiro(a),4980.00,C,15,515.84,Bairro,25,Sim,3,4,2,5,4,6,Bairro
+734,23,Feminino,Baeta Neves,Superior incompleto,Casado(a),1300.00,D,4,264.29,Online,14,Sim,3,1,3,3,2,4,Conveniência
+735,59,Masculino,Baeta Neves,Superior completo,Solteiro(a),2720.00,D,13,521.47,Online,65,Sim,4,4,4,1,4,7,Bairro
+736,56,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2490.00,D,12,459.87,Atacarejo,40,Sim,4,2,3,1,4,6,Conveniência
+737,49,Feminino,Nova Petrópolis,Fundamental,União estável,2730.00,D,12,418.52,Atacarejo,15,Sim,3,2,3,1,2,2,Hipermercado
+738,68,Feminino,Ferrazópolis,Superior incompleto,União estável,1680.00,D,8,267.25,Atacarejo,31,Sim,3,2,5,1,4,5,Hipermercado
+739,58,Feminino,Rudge Ramos,Superior completo,Casado(a),3940.00,C,10,538.25,Online,70,Não,4,4,3,2,4,6,Bairro
+740,18,Feminino,Jardim do Mar,Fundamental,Casado(a),1660.00,D,7,196.87,Atacarejo,72,Sim,3,4,3,4,3,3,Conveniência
+741,60,Feminino,Rudge Ramos,Superior incompleto,Viúvo(a),5600.00,C,13,640.71,Bairro,27,Sim,3,3,4,3,3,5,Bairro
+742,24,Feminino,Baeta Neves,Superior incompleto,Viúvo(a),3830.00,C,11,484.51,Hiper,42,Não,2,2,4,2,3,3,Conveniência
+743,59,Masculino,Bairro Assunção,Médio,Solteiro(a),2360.00,D,9,366.96,Atacarejo,68,Sim,4,2,5,1,4,7,Conveniência
+744,55,Masculino,Bairro Assunção,Médio,Casado(a),2580.00,D,11,324.82,Online,7,Não,3,2,2,2,3,3,Conveniência
+745,37,Feminino,Demarchi,Médio,União estável,2760.00,D,12,502.28,Bairro,23,Não,3,1,5,3,2,2,Conveniência
+746,64,Masculino,Demarchi,Fundamental,Solteiro(a),2610.00,D,10,451.78,Online,32,Sim,4,1,3,3,3,3,Atacarejo
+747,29,Feminino,Ferrazópolis,Superior completo,Casado(a),2920.00,D,13,426.59,Bairro,14,Não,4,3,3,2,4,6,Hipermercado
+748,47,Masculino,Baeta Neves,Superior completo,Solteiro(a),2900.00,D,8,187.58,Hiper,13,Não,3,3,2,4,4,7,Conveniência
+749,23,Feminino,Ferrazópolis,Superior incompleto,Casado(a),6250.00,B,12,632.44,Hiper,54,Sim,3,3,3,3,4,7,Conveniência
+750,53,Masculino,Ferrazópolis,Superior incompleto,Casado(a),4310.00,C,6,565.87,Bairro,15,Não,4,4,4,4,4,7,Bairro
+751,64,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3950.00,C,8,467.78,Atacarejo,69,Não,4,3,3,3,3,5,Hipermercado
+752,34,Feminino,Jardim do Mar,Médio,Casado(a),3150.00,C,9,456.48,Bairro,22,Não,5,2,4,2,5,9,Hipermercado
+753,57,Masculino,Nova Petrópolis,Médio,Solteiro(a),1910.00,D,10,409.59,Online,45,Sim,4,3,3,1,3,3,Atacarejo
+754,29,Masculino,Demarchi,Superior incompleto,Divorciado(a),2410.00,D,12,359.89,Online,56,Não,4,2,4,1,3,3,Atacarejo
+755,69,Feminino,Baeta Neves,Fundamental,Solteiro(a),1480.00,D,9,323.56,Atacarejo,56,Sim,2,4,2,1,3,2,Bairro
+756,21,Feminino,Taboão,Pós-graduação,Casado(a),3210.00,C,9,586.60,Atacarejo,41,Sim,5,1,5,3,4,7,Online
+757,22,Masculino,Centro,Superior incompleto,Solteiro(a),1640.00,D,9,393.65,Bairro,24,Sim,4,2,3,3,3,5,Online
+758,43,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2430.00,D,14,613.27,Online,47,Não,4,1,4,1,3,4,Online
+759,18,Masculino,Centro,Médio,Casado(a),2020.00,D,16,512.60,Hiper,53,Sim,5,3,4,3,4,7,Online
+760,36,Masculino,Paulicéia,Fundamental,Solteiro(a),1630.00,D,9,424.52,Atacarejo,27,Não,4,3,3,2,2,3,Online
+761,23,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3790.00,C,8,373.36,Online,14,Não,2,2,3,3,2,2,Hipermercado
+762,32,Feminino,Bairro Assunção,Médio,Viúvo(a),6790.00,B,10,585.86,Hiper,52,Sim,2,5,4,3,3,6,Online
+763,37,Masculino,Centro,Superior completo,Solteiro(a),1570.00,D,10,350.53,Atacarejo,61,Sim,2,1,1,1,1,1,Atacarejo
+764,61,Masculino,Jardim do Mar,Médio,Casado(a),3810.00,C,6,527.04,Online,56,Sim,3,3,2,3,3,4,Conveniência
+765,34,Feminino,Paulicéia,Fundamental,Solteiro(a),2050.00,D,2,346.28,Bairro,6,Sim,5,2,5,3,4,9,Hipermercado
+766,33,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),1820.00,D,10,506.60,Atacarejo,31,Sim,4,2,4,3,3,5,Hipermercado
+767,53,Masculino,Bairro Assunção,Fundamental,Solteiro(a),1630.00,D,9,482.67,Hiper,55,Não,4,3,4,2,3,5,Bairro
+768,35,Feminino,Ferrazópolis,Fundamental,Divorciado(a),2270.00,D,6,550.13,Hiper,11,Não,3,2,5,2,3,6,Atacarejo
+769,60,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),3090.00,C,9,497.30,Atacarejo,39,Não,5,3,4,1,4,5,Conveniência
+770,54,Feminino,Baeta Neves,Fundamental,Solteiro(a),2690.00,D,5,451.23,Online,66,Não,4,1,3,5,2,3,Bairro
+771,40,Masculino,Paulicéia,Superior incompleto,Casado(a),1920.00,D,13,349.09,Hiper,63,Sim,2,1,2,3,2,2,Hipermercado
+772,19,Masculino,Paulicéia,Superior completo,Divorciado(a),1300.00,D,10,383.91,Bairro,39,Não,3,1,4,3,3,4,Bairro
+773,68,Masculino,Paulicéia,Fundamental,Solteiro(a),2550.00,D,10,474.90,Hiper,57,Sim,4,3,2,3,4,4,Conveniência
+774,37,Masculino,Demarchi,Superior incompleto,Casado(a),4400.00,C,12,519.07,Online,25,Sim,4,4,3,2,4,6,Online
+775,31,Feminino,Centro,Superior completo,Solteiro(a),1770.00,D,9,249.06,Online,40,Não,2,2,2,2,3,4,Conveniência
+776,37,Masculino,Paulicéia,Médio,Solteiro(a),3350.00,C,13,444.46,Atacarejo,37,Não,3,1,2,2,2,3,Online
+777,20,Feminino,Paulicéia,Pós-graduação,Casado(a),3520.00,C,12,330.87,Hiper,26,Não,5,1,4,5,4,5,Online
+778,46,Masculino,Centro,Médio,Casado(a),4660.00,C,11,501.56,Atacarejo,52,Não,3,3,4,2,3,6,Atacarejo
+779,58,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),3690.00,C,6,345.03,Atacarejo,42,Sim,3,2,2,3,1,1,Atacarejo
+780,52,Masculino,Centro,Superior incompleto,Casado(a),6630.00,B,5,589.44,Hiper,55,Não,4,3,2,3,2,1,Online
+781,70,Masculino,Baeta Neves,Fundamental,Solteiro(a),4190.00,C,7,686.40,Atacarejo,50,Não,5,4,4,2,5,8,Conveniência
+782,37,Feminino,Centro,Pós-graduação,Solteiro(a),1530.00,D,10,458.13,Atacarejo,7,Não,2,2,1,3,2,0,Atacarejo
+783,30,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2630.00,D,4,291.78,Bairro,33,Não,4,1,5,2,4,9,Online
+784,70,Masculino,Taboão,Superior incompleto,Casado(a),1440.00,D,11,466.83,Atacarejo,65,Não,3,1,3,2,2,3,Atacarejo
+785,59,Masculino,Ferrazópolis,Superior completo,Solteiro(a),6030.00,B,13,610.07,Bairro,68,Sim,2,3,2,3,2,1,Online
+786,48,Masculino,Paulicéia,Superior completo,Solteiro(a),2910.00,D,7,471.36,Hiper,59,Não,4,3,3,4,3,5,Hipermercado
+787,36,Masculino,Baeta Neves,Superior incompleto,União estável,3210.00,C,11,424.66,Hiper,1,Sim,3,2,4,1,2,2,Bairro
+788,27,Masculino,Paulicéia,Superior completo,Casado(a),1350.00,D,9,454.69,Hiper,61,Sim,4,3,3,3,4,6,Online
+789,32,Feminino,Paulicéia,Superior incompleto,Solteiro(a),1300.00,D,13,340.91,Online,11,Sim,3,1,1,2,2,2,Hipermercado
+790,21,Feminino,Rudge Ramos,Superior completo,Solteiro(a),2350.00,D,8,271.94,Online,48,Sim,4,2,3,5,2,4,Hipermercado
+791,45,Masculino,Centro,Pós-graduação,Casado(a),3390.00,C,13,428.66,Bairro,57,Sim,3,1,4,3,3,5,Bairro
+792,44,Masculino,Jardim do Mar,Pós-graduação,Divorciado(a),2440.00,D,8,450.92,Atacarejo,42,Não,5,1,3,3,3,4,Atacarejo
+793,49,Feminino,Baeta Neves,Superior completo,Casado(a),2980.00,D,7,352.15,Atacarejo,25,Não,2,3,2,3,2,4,Conveniência
+794,51,Feminino,Paulicéia,Fundamental,Solteiro(a),2430.00,D,7,487.61,Hiper,6,Não,4,1,4,2,3,5,Conveniência
+795,29,Masculino,Ferrazópolis,Pós-graduação,União estável,4040.00,C,11,516.75,Online,11,Não,3,2,3,5,2,4,Atacarejo
+796,20,Masculino,Paulicéia,Fundamental,Solteiro(a),1750.00,D,4,265.92,Bairro,50,Sim,3,1,4,5,3,4,Online
+797,67,Feminino,Bairro Assunção,Médio,Solteiro(a),3990.00,C,7,493.42,Atacarejo,9,Sim,4,4,3,3,3,5,Hipermercado
+798,51,Feminino,Ferrazópolis,Fundamental,Solteiro(a),3200.00,C,8,152.71,Bairro,26,Sim,3,4,5,1,3,6,Atacarejo
+799,30,Masculino,Demarchi,Médio,Divorciado(a),4730.00,C,13,574.33,Bairro,64,Sim,2,3,3,2,3,2,Bairro
+800,29,Feminino,Paulicéia,Superior completo,Casado(a),6140.00,B,9,655.69,Hiper,56,Sim,5,1,4,4,3,4,Atacarejo
+801,47,Masculino,Demarchi,Superior completo,União estável,2710.00,D,10,338.91,Atacarejo,17,Sim,3,1,5,2,3,6,Bairro
+802,40,Masculino,Centro,Superior incompleto,Casado(a),1610.00,D,9,476.87,Bairro,60,Sim,5,1,4,2,4,7,Conveniência
+803,25,Feminino,Taboão,Pós-graduação,Casado(a),2900.00,D,5,357.19,Online,38,Sim,3,1,3,4,2,1,Hipermercado
+804,57,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),3620.00,C,11,519.17,Online,47,Não,5,5,5,2,5,10,Bairro
+805,48,Masculino,Bairro Assunção,Fundamental,Casado(a),2010.00,D,8,319.36,Bairro,24,Sim,3,1,3,1,2,6,Online
+806,41,Feminino,Baeta Neves,Médio,Solteiro(a),2240.00,D,7,242.71,Atacarejo,46,Sim,4,1,4,1,3,5,Hipermercado
+807,62,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3570.00,C,11,412.60,Online,16,Sim,2,3,3,2,3,4,Atacarejo
+808,22,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),2720.00,D,8,217.01,Bairro,64,Não,2,1,3,4,3,4,Online
+809,41,Masculino,Taboão,Pós-graduação,Solteiro(a),2580.00,D,10,414.69,Hiper,47,Sim,3,4,5,3,4,5,Conveniência
+810,33,Feminino,Jardim do Mar,Superior incompleto,Casado(a),1730.00,D,10,454.81,Online,64,Sim,5,1,5,4,5,8,Atacarejo
+811,30,Feminino,Bairro Assunção,Fundamental,Casado(a),3200.00,C,3,452.06,Hiper,62,Sim,5,1,3,1,3,2,Online
+812,27,Feminino,Jardim do Mar,Fundamental,União estável,1930.00,D,9,352.21,Bairro,11,Sim,4,2,4,3,3,5,Atacarejo
+813,51,Feminino,Taboão,Pós-graduação,Solteiro(a),4690.00,C,6,424.26,Hiper,66,Sim,5,3,4,1,4,10,Bairro
+814,18,Feminino,Taboão,Médio,Solteiro(a),2240.00,D,7,451.38,Hiper,18,Sim,4,3,2,5,3,4,Bairro
+815,60,Feminino,Taboão,Superior incompleto,Solteiro(a),2190.00,D,8,191.49,Atacarejo,18,Sim,3,1,5,2,4,6,Conveniência
+816,33,Masculino,Paulicéia,Médio,Casado(a),1980.00,D,10,389.48,Online,29,Sim,3,1,2,1,2,0,Bairro
+817,39,Masculino,Centro,Médio,Casado(a),1300.00,D,7,440.13,Bairro,22,Sim,4,2,5,3,4,7,Conveniência
+818,67,Masculino,Bairro Assunção,Superior incompleto,União estável,3480.00,C,8,377.34,Hiper,67,Sim,3,3,2,1,2,3,Conveniência
+819,35,Masculino,Centro,Superior completo,Casado(a),6740.00,B,8,713.55,Online,63,Não,5,2,4,3,4,6,Bairro
+820,30,Masculino,Taboão,Superior incompleto,Solteiro(a),2970.00,D,8,429.27,Atacarejo,61,Não,3,1,3,2,2,4,Online
+821,69,Feminino,Centro,Superior completo,Casado(a),5160.00,C,12,730.08,Atacarejo,33,Sim,5,3,5,2,4,9,Atacarejo
+822,34,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),1570.00,D,13,490.63,Bairro,14,Sim,4,1,4,1,3,6,Atacarejo
+823,30,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),1300.00,D,8,315.81,Atacarejo,9,Não,4,3,5,2,4,8,Online
+824,67,Feminino,Bairro Assunção,Superior completo,Divorciado(a),2930.00,D,12,469.38,Bairro,17,Não,3,3,3,2,3,4,Conveniência
+825,38,Feminino,Nova Petrópolis,Médio,Viúvo(a),7660.00,B,13,610.03,Online,48,Sim,1,4,2,3,2,1,Atacarejo
+826,51,Feminino,Jardim do Mar,Superior completo,Casado(a),1490.00,D,6,294.78,Hiper,15,Sim,4,1,3,4,3,5,Atacarejo
+827,63,Masculino,Paulicéia,Superior completo,Solteiro(a),5660.00,C,8,556.26,Hiper,42,Não,3,3,4,1,3,6,Conveniência
+828,57,Feminino,Bairro Assunção,Médio,Casado(a),3010.00,C,5,411.80,Bairro,59,Sim,4,2,3,3,3,2,Atacarejo
+829,41,Masculino,Ferrazópolis,Médio,Casado(a),3170.00,C,14,433.05,Bairro,71,Sim,4,2,4,2,4,8,Online
+830,62,Feminino,Taboão,Pós-graduação,Casado(a),4230.00,C,13,650.48,Bairro,24,Sim,3,5,2,2,3,5,Bairro
+831,21,Masculino,Taboão,Pós-graduação,Viúvo(a),2520.00,D,10,449.79,Atacarejo,71,Não,3,3,3,3,2,1,Conveniência
+832,45,Feminino,Demarchi,Superior incompleto,Solteiro(a),2390.00,D,9,196.38,Hiper,57,Sim,4,2,4,2,3,5,Conveniência
+833,49,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),4040.00,C,4,456.42,Bairro,3,Não,2,5,2,1,2,3,Bairro
+834,38,Masculino,Rudge Ramos,Fundamental,Solteiro(a),3220.00,C,8,353.32,Atacarejo,5,Não,3,4,2,4,2,2,Conveniência
+835,38,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),1380.00,D,10,493.43,Hiper,59,Sim,4,1,4,2,2,6,Bairro
+836,31,Masculino,Paulicéia,Médio,Solteiro(a),2450.00,D,6,458.27,Online,67,Não,4,1,3,4,3,6,Hipermercado
+837,47,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2790.00,D,17,643.13,Hiper,10,Não,3,1,5,4,3,5,Online
+838,22,Feminino,Ferrazópolis,Pós-graduação,Casado(a),1860.00,D,7,457.50,Online,14,Não,4,1,4,4,2,3,Conveniência
+839,64,Feminino,Rudge Ramos,Médio,Solteiro(a),4730.00,C,5,616.33,Online,67,Sim,4,5,5,5,4,8,Conveniência
+840,65,Feminino,Baeta Neves,Superior completo,Casado(a),2930.00,D,12,296.60,Atacarejo,13,Sim,4,1,2,2,3,4,Hipermercado
+841,58,Masculino,Baeta Neves,Fundamental,Solteiro(a),2490.00,D,13,315.61,Hiper,42,Sim,4,3,4,3,4,5,Bairro
+842,26,Masculino,Demarchi,Superior completo,Solteiro(a),5080.00,C,9,588.63,Online,33,Sim,3,3,4,2,3,4,Online
+843,25,Masculino,Jardim do Mar,Superior completo,Casado(a),4350.00,C,7,336.61,Online,17,Sim,3,3,3,4,2,1,Bairro
+844,67,Masculino,Baeta Neves,Médio,Casado(a),4960.00,C,8,481.50,Hiper,62,Sim,4,2,2,3,3,3,Hipermercado
+845,54,Feminino,Nova Petrópolis,Superior completo,Casado(a),2030.00,D,10,495.33,Atacarejo,12,Sim,3,2,2,3,2,1,Atacarejo
+846,41,Masculino,Taboão,Médio,União estável,5000.00,C,11,755.37,Online,41,Sim,3,5,3,2,4,4,Online
+847,47,Feminino,Bairro Assunção,Superior incompleto,Viúvo(a),2200.00,D,11,503.49,Atacarejo,55,Sim,5,2,4,3,4,6,Atacarejo
+848,48,Feminino,Ferrazópolis,Superior completo,Casado(a),2160.00,D,6,398.41,Online,31,Não,4,1,2,2,3,5,Conveniência
+849,40,Feminino,Paulicéia,Superior incompleto,Casado(a),3530.00,C,5,254.64,Online,64,Sim,4,1,5,2,4,5,Atacarejo
+850,34,Feminino,Baeta Neves,Superior completo,Casado(a),2530.00,D,6,460.98,Online,31,Sim,5,2,4,2,4,6,Conveniência
+851,55,Feminino,Baeta Neves,Superior completo,Solteiro(a),4670.00,C,3,443.57,Online,49,Sim,3,2,4,2,3,4,Atacarejo
+852,18,Feminino,Taboão,Pós-graduação,União estável,2290.00,D,9,543.04,Online,24,Sim,5,1,5,4,2,4,Online
+853,64,Feminino,Ferrazópolis,Superior completo,Solteiro(a),3630.00,C,8,514.61,Online,50,Não,3,4,3,3,3,5,Hipermercado
+854,49,Feminino,Bairro Assunção,Pós-graduação,União estável,7710.00,B,15,803.42,Atacarejo,25,Não,2,2,3,4,3,3,Hipermercado
+855,44,Masculino,Demarchi,Médio,União estável,3130.00,C,7,317.37,Atacarejo,54,Não,4,3,3,2,3,4,Hipermercado
+856,68,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2340.00,D,15,561.98,Hiper,48,Não,3,3,4,3,4,6,Atacarejo
+857,54,Masculino,Rudge Ramos,Superior completo,Casado(a),3820.00,C,11,400.20,Atacarejo,47,Não,2,1,4,2,3,6,Online
+858,26,Feminino,Nova Petrópolis,Médio,Solteiro(a),1300.00,D,15,343.38,Online,37,Não,3,2,3,3,2,2,Online
+859,45,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),2010.00,D,7,313.74,Atacarejo,5,Sim,3,1,2,2,3,4,Hipermercado
+860,48,Masculino,Taboão,Pós-graduação,Solteiro(a),2080.00,D,8,385.86,Online,67,Não,4,2,3,3,3,5,Conveniência
+861,52,Feminino,Jardim do Mar,Fundamental,Casado(a),2000.00,D,7,436.54,Hiper,67,Não,5,3,5,3,4,8,Hipermercado
+862,42,Feminino,Taboão,Superior completo,Solteiro(a),1880.00,D,5,254.70,Online,28,Sim,4,2,3,3,3,3,Hipermercado
+863,41,Feminino,Demarchi,Superior completo,Casado(a),3530.00,C,8,593.06,Online,5,Não,4,3,3,4,3,5,Online
+864,60,Masculino,Demarchi,Superior completo,Viúvo(a),1380.00,D,11,441.65,Hiper,7,Sim,3,1,4,3,3,6,Hipermercado
+865,33,Masculino,Jardim do Mar,Fundamental,Casado(a),2040.00,D,9,475.33,Bairro,58,Não,3,2,2,3,3,3,Hipermercado
+866,60,Masculino,Bairro Assunção,Fundamental,Casado(a),4260.00,C,8,625.55,Online,25,Não,4,2,3,2,4,7,Hipermercado
+867,42,Feminino,Bairro Assunção,Médio,União estável,3800.00,C,6,420.47,Hiper,42,Sim,4,1,4,3,3,5,Hipermercado
+868,47,Feminino,Taboão,Fundamental,Solteiro(a),2150.00,D,13,618.10,Atacarejo,28,Sim,5,2,4,2,4,7,Atacarejo
+869,45,Feminino,Paulicéia,Pós-graduação,Solteiro(a),5630.00,C,15,593.11,Online,58,Sim,3,3,4,3,4,6,Atacarejo
+870,55,Masculino,Bairro Assunção,Médio,Casado(a),2500.00,D,10,424.91,Atacarejo,32,Sim,3,3,4,1,3,6,Hipermercado
+871,22,Masculino,Ferrazópolis,Superior completo,Casado(a),2950.00,D,10,552.99,Hiper,3,Não,5,2,3,5,4,5,Hipermercado
+872,33,Feminino,Taboão,Pós-graduação,Casado(a),2260.00,D,11,476.43,Atacarejo,55,Sim,5,1,5,3,3,5,Atacarejo
+873,70,Masculino,Nova Petrópolis,Médio,Solteiro(a),2520.00,D,12,513.82,Atacarejo,66,Sim,4,1,4,1,3,6,Bairro
+874,19,Feminino,Centro,Médio,Casado(a),3600.00,C,9,392.95,Online,30,Não,2,4,4,5,4,8,Conveniência
+875,45,Masculino,Rudge Ramos,Fundamental,Casado(a),2990.00,D,8,426.34,Online,57,Sim,4,1,3,2,4,5,Conveniência
+876,55,Feminino,Rudge Ramos,Superior completo,Casado(a),7330.00,B,7,711.13,Hiper,27,Sim,5,3,3,2,4,5,Atacarejo
+877,41,Feminino,Centro,Superior incompleto,Divorciado(a),4120.00,C,2,458.16,Online,10,Sim,4,2,5,2,4,7,Hipermercado
+878,18,Feminino,Rudge Ramos,Médio,Casado(a),1430.00,D,4,235.19,Bairro,42,Sim,5,3,3,3,3,5,Conveniência
+879,52,Feminino,Baeta Neves,Pós-graduação,Casado(a),1480.00,D,6,298.34,Bairro,3,Não,3,1,3,4,3,5,Atacarejo
+880,67,Feminino,Jardim do Mar,Superior completo,Solteiro(a),4430.00,C,9,468.60,Hiper,56,Sim,3,4,4,2,3,7,Bairro
+881,59,Masculino,Centro,Fundamental,Casado(a),3150.00,C,11,481.23,Atacarejo,69,Sim,3,2,4,3,4,7,Conveniência
+882,22,Feminino,Paulicéia,Pós-graduação,Solteiro(a),3330.00,C,12,680.85,Online,55,Não,4,4,4,4,4,8,Conveniência
+883,35,Masculino,Bairro Assunção,Pós-graduação,Casado(a),7050.00,B,7,448.03,Online,47,Sim,3,4,1,2,2,2,Atacarejo
+884,41,Feminino,Taboão,Superior completo,União estável,3450.00,C,10,429.35,Atacarejo,52,Sim,5,3,4,2,5,8,Hipermercado
+885,30,Feminino,Demarchi,Superior incompleto,Casado(a),4130.00,C,5,607.45,Atacarejo,2,Sim,4,4,3,2,4,4,Online
+886,57,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),4320.00,C,11,635.90,Bairro,61,Sim,4,5,3,3,4,6,Atacarejo
+887,53,Masculino,Baeta Neves,Superior completo,Solteiro(a),3620.00,C,11,501.86,Bairro,31,Sim,4,1,3,2,3,5,Online
+888,47,Masculino,Baeta Neves,Superior completo,Solteiro(a),5490.00,C,9,543.74,Bairro,15,Sim,2,3,4,2,2,3,Hipermercado
+889,64,Masculino,Centro,Pós-graduação,Casado(a),10140.00,B,7,767.49,Online,63,Não,3,2,4,2,2,3,Bairro
+890,48,Feminino,Taboão,Superior incompleto,Casado(a),2790.00,D,8,489.48,Bairro,13,Sim,5,3,4,4,3,5,Bairro
+891,50,Feminino,Demarchi,Pós-graduação,União estável,4910.00,C,6,511.84,Online,36,Sim,3,4,4,4,4,5,Atacarejo
+892,40,Masculino,Demarchi,Pós-graduação,Solteiro(a),4360.00,C,10,612.78,Bairro,25,Sim,3,1,2,3,2,4,Conveniência
+893,52,Feminino,Demarchi,Fundamental,Solteiro(a),2070.00,D,9,229.92,Online,56,Não,2,2,4,1,3,3,Bairro
+894,37,Feminino,Baeta Neves,Fundamental,Solteiro(a),1520.00,D,7,489.35,Atacarejo,65,Sim,4,1,3,3,3,3,Hipermercado
+895,52,Feminino,Jardim do Mar,Superior completo,Solteiro(a),5380.00,C,3,338.95,Online,20,Sim,2,4,2,1,2,3,Bairro
+896,21,Masculino,Jardim do Mar,Pós-graduação,Viúvo(a),6470.00,B,12,762.21,Hiper,7,Sim,4,4,5,3,4,9,Online
+897,39,Masculino,Paulicéia,Médio,Casado(a),2520.00,D,11,373.56,Online,63,Não,1,1,3,4,2,4,Conveniência
+898,40,Feminino,Demarchi,Superior completo,Casado(a),2620.00,D,8,412.04,Bairro,8,Sim,4,2,2,2,3,5,Online
+899,31,Feminino,Paulicéia,Superior completo,Casado(a),4920.00,C,6,423.29,Online,6,Sim,5,2,4,2,4,7,Atacarejo
+900,29,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2270.00,D,12,507.04,Bairro,47,Sim,3,1,3,4,3,4,Hipermercado
+901,48,Masculino,Rudge Ramos,Médio,Solteiro(a),3080.00,C,10,496.46,Hiper,9,Sim,4,4,2,4,4,4,Online
+902,41,Masculino,Rudge Ramos,Médio,Casado(a),2990.00,D,11,469.73,Bairro,49,Sim,5,3,3,2,3,5,Bairro
+903,42,Feminino,Rudge Ramos,Médio,Casado(a),2630.00,D,14,391.86,Hiper,69,Sim,2,1,3,3,1,4,Online
+904,48,Feminino,Rudge Ramos,Superior completo,Casado(a),5310.00,C,9,648.78,Hiper,45,Sim,3,4,4,4,3,3,Conveniência
+905,39,Masculino,Ferrazópolis,Médio,Solteiro(a),2920.00,D,11,423.42,Atacarejo,15,Sim,3,1,4,4,3,5,Hipermercado
+906,58,Masculino,Taboão,Superior completo,Solteiro(a),3410.00,C,12,424.75,Hiper,22,Sim,3,4,5,1,3,6,Online
+907,35,Feminino,Demarchi,Pós-graduação,Viúvo(a),2760.00,D,8,555.23,Atacarejo,2,Sim,4,1,4,3,2,6,Online
+908,64,Masculino,Rudge Ramos,Pós-graduação,Casado(a),3660.00,C,5,486.46,Atacarejo,51,Não,5,3,4,2,4,7,Bairro
+909,23,Feminino,Centro,Superior completo,Solteiro(a),2470.00,D,9,632.36,Bairro,34,Sim,2,2,3,5,2,3,Bairro
+910,60,Masculino,Taboão,Fundamental,Solteiro(a),2140.00,D,6,369.07,Online,63,Sim,4,1,4,2,2,5,Atacarejo
+911,19,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),3560.00,C,17,803.94,Bairro,15,Sim,5,3,4,3,4,6,Conveniência
+912,18,Masculino,Baeta Neves,Superior completo,Solteiro(a),2170.00,D,7,416.37,Atacarejo,41,Sim,3,2,4,5,3,7,Bairro
+913,39,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),5070.00,C,6,570.50,Atacarejo,46,Não,4,2,4,4,3,3,Online
+914,56,Feminino,Centro,Fundamental,União estável,3590.00,C,7,461.31,Bairro,9,Não,3,2,5,3,3,5,Hipermercado
+915,36,Masculino,Taboão,Médio,Divorciado(a),4910.00,C,7,570.02,Bairro,32,Não,5,4,4,2,3,5,Hipermercado
+916,44,Masculino,Demarchi,Superior completo,Casado(a),4240.00,C,14,606.77,Hiper,52,Sim,2,3,2,3,2,4,Hipermercado
+917,54,Feminino,Jardim do Mar,Médio,Solteiro(a),3080.00,C,7,427.03,Bairro,5,Sim,3,2,2,2,4,3,Online
+918,24,Masculino,Bairro Assunção,Superior incompleto,União estável,3790.00,C,13,467.16,Atacarejo,48,Não,4,1,2,3,3,4,Bairro
+919,53,Masculino,Taboão,Fundamental,Casado(a),3090.00,C,10,357.98,Atacarejo,64,Não,2,2,2,1,2,3,Hipermercado
+920,51,Masculino,Baeta Neves,Médio,Casado(a),3800.00,C,4,393.92,Hiper,23,Sim,2,3,4,1,3,4,Online
+921,52,Feminino,Centro,Superior completo,Casado(a),1880.00,D,12,405.15,Online,51,Sim,3,1,3,2,2,3,Bairro
+922,31,Masculino,Jardim do Mar,Superior incompleto,União estável,1760.00,D,4,308.86,Atacarejo,25,Não,3,1,3,1,3,5,Bairro
+923,69,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2520.00,D,10,482.32,Bairro,47,Sim,4,1,4,1,3,4,Online
+924,24,Feminino,Paulicéia,Médio,Solteiro(a),4580.00,C,13,568.66,Hiper,72,Não,1,2,3,3,2,3,Conveniência
+925,61,Masculino,Ferrazópolis,Superior completo,Solteiro(a),1300.00,D,10,461.04,Hiper,61,Sim,4,3,4,2,4,7,Hipermercado
+926,62,Feminino,Jardim do Mar,Superior completo,União estável,5770.00,C,7,555.88,Hiper,29,Não,3,4,4,1,3,5,Conveniência
+927,57,Masculino,Ferrazópolis,Superior incompleto,Divorciado(a),2870.00,D,11,371.46,Atacarejo,8,Sim,4,2,3,1,3,5,Online
+928,19,Feminino,Baeta Neves,Superior completo,Solteiro(a),3010.00,C,13,462.18,Hiper,8,Sim,3,3,2,3,4,2,Atacarejo
+929,61,Feminino,Centro,Superior completo,Divorciado(a),3840.00,C,4,470.27,Online,68,Sim,3,5,2,2,3,1,Hipermercado
+930,55,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1300.00,D,12,532.94,Atacarejo,20,Não,4,3,5,2,4,6,Atacarejo
+931,47,Feminino,Taboão,Médio,Solteiro(a),1960.00,D,5,403.99,Atacarejo,67,Não,5,1,5,2,4,7,Hipermercado
+932,68,Masculino,Nova Petrópolis,Fundamental,Casado(a),3030.00,C,14,449.92,Atacarejo,31,Sim,5,3,3,1,4,5,Atacarejo
+933,20,Feminino,Taboão,Superior completo,Solteiro(a),4240.00,C,7,552.49,Online,36,Não,4,3,4,4,4,7,Hipermercado
+934,60,Feminino,Bairro Assunção,Superior completo,Solteiro(a),5000.00,C,9,670.31,Online,39,Sim,3,4,4,2,2,4,Conveniência
+935,58,Masculino,Centro,Superior incompleto,Casado(a),3120.00,C,5,396.94,Bairro,20,Não,3,1,4,2,3,4,Hipermercado
+936,42,Masculino,Centro,Superior completo,Viúvo(a),5850.00,C,11,491.93,Online,33,Sim,3,1,2,4,1,2,Online
+937,65,Feminino,Jardim do Mar,Médio,Solteiro(a),2660.00,D,11,318.76,Atacarejo,45,Sim,3,2,4,2,3,5,Online
+938,61,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),4510.00,C,9,621.49,Bairro,57,Não,2,3,3,3,2,2,Conveniência
+939,55,Masculino,Rudge Ramos,Médio,Solteiro(a),3440.00,C,10,502.34,Online,13,Sim,5,3,4,3,3,5,Conveniência
+940,51,Feminino,Paulicéia,Médio,União estável,2030.00,D,8,309.73,Atacarejo,62,Não,4,1,5,1,4,7,Online
+941,31,Feminino,Paulicéia,Médio,Casado(a),2920.00,D,9,421.61,Online,36,Sim,3,1,4,4,3,8,Online
+942,36,Masculino,Demarchi,Superior completo,Solteiro(a),2810.00,D,7,594.36,Hiper,53,Sim,4,1,5,4,3,6,Conveniência
+943,37,Masculino,Paulicéia,Médio,Viúvo(a),2230.00,D,14,583.13,Hiper,71,Não,3,1,3,3,3,3,Bairro
+944,47,Feminino,Centro,Superior completo,Solteiro(a),3940.00,C,7,465.26,Online,28,Sim,4,2,4,1,3,6,Atacarejo
+945,35,Feminino,Jardim do Mar,Médio,Casado(a),3200.00,C,7,342.16,Online,36,Sim,3,4,4,2,3,6,Atacarejo
+946,45,Masculino,Rudge Ramos,Superior incompleto,Casado(a),2980.00,D,14,606.58,Online,21,Não,3,1,1,2,2,3,Hipermercado
+947,39,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2740.00,D,8,526.30,Bairro,18,Não,5,1,4,4,4,4,Hipermercado
+948,48,Masculino,Demarchi,Superior incompleto,Solteiro(a),3560.00,C,10,491.34,Atacarejo,65,Não,4,2,2,4,3,3,Bairro
+949,52,Feminino,Jardim do Mar,Pós-graduação,Casado(a),4070.00,C,14,359.50,Hiper,59,Não,5,2,3,2,5,5,Online
+950,43,Feminino,Jardim do Mar,Fundamental,Solteiro(a),1550.00,D,12,429.11,Hiper,38,Sim,3,2,3,2,3,6,Online
+951,33,Masculino,Centro,Pós-graduação,Casado(a),5390.00,C,8,592.65,Hiper,46,Sim,4,3,4,1,4,6,Hipermercado
+952,41,Feminino,Taboão,Fundamental,Casado(a),1610.00,D,11,411.15,Bairro,17,Não,4,1,4,3,2,1,Conveniência
+953,70,Feminino,Baeta Neves,Pós-graduação,Casado(a),6500.00,B,10,560.27,Atacarejo,43,Não,3,3,2,4,4,6,Conveniência
+954,60,Masculino,Bairro Assunção,Pós-graduação,Casado(a),5030.00,C,10,389.06,Online,6,Sim,2,5,3,1,2,4,Conveniência
+955,67,Feminino,Bairro Assunção,Fundamental,União estável,3130.00,C,9,478.60,Online,12,Sim,4,2,4,1,4,5,Atacarejo
+956,70,Masculino,Rudge Ramos,Superior incompleto,Casado(a),5350.00,C,5,345.40,Bairro,19,Sim,3,3,4,1,3,5,Online
+957,25,Feminino,Centro,Superior completo,Divorciado(a),3530.00,C,19,639.22,Atacarejo,72,Não,3,3,2,4,3,4,Atacarejo
+958,64,Feminino,Nova Petrópolis,Médio,Divorciado(a),7790.00,B,8,565.79,Bairro,66,Sim,5,3,5,2,5,8,Hipermercado
+959,31,Masculino,Rudge Ramos,Superior incompleto,União estável,2690.00,D,8,335.07,Atacarejo,10,Sim,3,3,4,2,4,8,Atacarejo
+960,70,Masculino,Paulicéia,Superior completo,Casado(a),1480.00,D,12,323.61,Atacarejo,65,Sim,4,2,4,3,3,6,Online
+961,34,Masculino,Paulicéia,Médio,Solteiro(a),2090.00,D,8,288.25,Online,62,Sim,4,2,4,3,4,5,Online
+962,37,Masculino,Centro,Pós-graduação,União estável,6870.00,B,13,553.86,Online,57,Não,4,2,5,4,3,5,Atacarejo
+963,29,Feminino,Demarchi,Pós-graduação,Casado(a),9270.00,B,15,905.70,Atacarejo,53,Sim,2,2,2,4,2,2,Hipermercado
+964,56,Masculino,Nova Petrópolis,Médio,Casado(a),7030.00,B,13,650.95,Online,46,Sim,4,4,4,2,3,4,Online
+965,37,Feminino,Ferrazópolis,Pós-graduação,Casado(a),7010.00,B,9,558.46,Online,27,Sim,5,2,3,4,4,6,Bairro
+966,31,Feminino,Nova Petrópolis,Superior completo,Casado(a),3190.00,C,10,575.15,Bairro,34,Sim,5,3,4,4,4,5,Hipermercado
+967,63,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3240.00,C,7,357.20,Hiper,23,Não,3,4,3,1,4,6,Bairro
+968,26,Feminino,Jardim do Mar,Médio,Casado(a),5830.00,C,3,678.73,Bairro,69,Não,5,4,4,5,5,8,Online
+969,48,Masculino,Paulicéia,Pós-graduação,Casado(a),4900.00,C,10,500.08,Online,69,Sim,5,2,5,1,4,6,Hipermercado
+970,56,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2100.00,D,11,384.84,Online,35,Sim,4,1,3,3,3,5,Atacarejo
+971,25,Masculino,Baeta Neves,Fundamental,União estável,3240.00,C,7,314.78,Bairro,35,Sim,5,3,5,2,5,8,Hipermercado
+972,30,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),1590.00,D,9,499.80,Online,60,Sim,4,1,5,3,4,9,Atacarejo
+973,46,Masculino,Rudge Ramos,Superior completo,Solteiro(a),2240.00,D,6,284.25,Online,14,Sim,4,1,3,3,2,2,Hipermercado
+974,18,Feminino,Rudge Ramos,Fundamental,Casado(a),1300.00,D,8,357.93,Atacarejo,32,Sim,5,1,4,4,4,8,Conveniência
+975,42,Masculino,Jardim do Mar,Médio,Solteiro(a),2740.00,D,8,298.33,Bairro,6,Não,3,3,3,3,3,4,Conveniência
+976,19,Feminino,Paulicéia,Superior incompleto,Casado(a),3930.00,C,9,413.55,Atacarejo,69,Não,4,1,3,4,3,4,Bairro
+977,69,Feminino,Bairro Assunção,Fundamental,Solteiro(a),3000.00,C,11,492.49,Bairro,68,Sim,2,3,4,3,2,5,Conveniência
+978,70,Feminino,Demarchi,Médio,União estável,1570.00,D,11,577.54,Online,33,Sim,3,2,2,1,3,1,Conveniência
+979,42,Feminino,Nova Petrópolis,Médio,União estável,2890.00,D,8,509.67,Bairro,49,Sim,4,4,4,2,4,8,Online
+980,43,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1730.00,D,7,232.48,Atacarejo,2,Sim,4,4,5,4,3,8,Online
+981,62,Masculino,Paulicéia,Superior incompleto,Casado(a),1870.00,D,7,436.81,Online,66,Não,4,1,4,1,3,3,Bairro
+982,28,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),1820.00,D,6,325.66,Bairro,31,Sim,2,2,2,2,2,3,Hipermercado
+983,52,Masculino,Rudge Ramos,Superior completo,Casado(a),5420.00,C,9,455.81,Hiper,20,Sim,4,2,3,1,3,3,Hipermercado
+984,68,Feminino,Centro,Pós-graduação,Solteiro(a),4660.00,C,8,529.57,Bairro,53,Sim,3,3,3,1,3,4,Bairro
+985,61,Masculino,Paulicéia,Pós-graduação,Solteiro(a),6090.00,B,7,506.77,Bairro,70,Sim,5,2,3,3,3,5,Bairro
+986,28,Feminino,Paulicéia,Médio,Casado(a),6250.00,B,10,756.29,Atacarejo,29,Não,3,3,4,4,3,6,Bairro
+987,64,Feminino,Demarchi,Superior incompleto,Solteiro(a),3350.00,C,9,554.56,Atacarejo,26,Não,5,5,4,3,4,6,Hipermercado
+988,69,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),7090.00,B,10,524.05,Bairro,39,Não,2,2,3,3,2,2,Conveniência
+989,34,Feminino,Paulicéia,Pós-graduação,União estável,3010.00,C,9,481.95,Hiper,71,Sim,4,4,4,4,3,7,Bairro
+990,50,Masculino,Centro,Pós-graduação,Viúvo(a),3550.00,C,4,162.70,Hiper,17,Sim,4,4,4,1,4,4,Atacarejo
+991,68,Feminino,Paulicéia,Superior completo,Solteiro(a),4160.00,C,7,445.79,Online,55,Não,4,4,4,3,5,8,Atacarejo
+992,28,Feminino,Centro,Superior completo,Casado(a),3200.00,C,16,655.48,Atacarejo,15,Não,3,3,4,5,4,7,Hipermercado
+993,30,Feminino,Rudge Ramos,Superior completo,Casado(a),3680.00,C,5,583.41,Online,27,Sim,4,3,5,3,4,8,Hipermercado
+994,38,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),1560.00,D,13,408.60,Atacarejo,56,Sim,4,3,4,4,3,7,Online
+995,28,Masculino,Rudge Ramos,Fundamental,Solteiro(a),3440.00,C,11,488.18,Bairro,18,Sim,4,5,4,3,4,5,Bairro
+996,47,Masculino,Paulicéia,Superior incompleto,União estável,2240.00,D,6,374.61,Atacarejo,60,Sim,4,2,3,1,3,4,Online
+997,39,Feminino,Demarchi,Fundamental,Solteiro(a),2260.00,D,14,561.58,Hiper,7,Não,3,2,4,2,2,3,Bairro
+998,19,Masculino,Centro,Pós-graduação,União estável,3720.00,C,7,373.05,Bairro,13,Não,4,3,3,5,4,6,Online
+999,35,Feminino,Taboão,Superior completo,Solteiro(a),5770.00,C,8,668.55,Hiper,63,Não,3,2,4,3,2,5,Hipermercado
+1000,37,Feminino,Paulicéia,Médio,Divorciado(a),3570.00,C,10,558.85,Bairro,44,Sim,5,2,4,4,4,10,Hipermercado
+1001,66,Masculino,Taboão,Superior incompleto,Casado(a),2660.00,D,12,463.58,Atacarejo,43,Não,3,1,2,3,2,3,Hipermercado
+1002,33,Feminino,Paulicéia,Superior completo,Solteiro(a),1300.00,D,8,403.52,Hiper,34,Sim,4,2,4,2,3,7,Conveniência
+1003,58,Masculino,Baeta Neves,Superior completo,Casado(a),4660.00,C,6,488.75,Bairro,42,Não,5,3,3,1,3,5,Online
+1004,26,Masculino,Demarchi,Pós-graduação,Divorciado(a),6230.00,B,13,712.97,Bairro,3,Não,3,3,5,3,2,6,Hipermercado
+1005,23,Feminino,Bairro Assunção,Médio,União estável,1600.00,D,7,282.32,Online,35,Não,3,2,4,3,3,3,Conveniência
+1006,64,Feminino,Centro,Médio,Solteiro(a),3410.00,C,7,364.85,Bairro,10,Sim,4,2,4,2,3,6,Hipermercado
+1007,55,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3730.00,C,8,429.06,Bairro,30,Não,5,3,3,1,4,4,Atacarejo
+1008,24,Feminino,Rudge Ramos,Médio,União estável,4000.00,C,7,681.83,Hiper,24,Não,5,4,5,1,5,10,Conveniência
+1009,56,Feminino,Jardim do Mar,Fundamental,Solteiro(a),1890.00,D,10,561.10,Hiper,52,Sim,4,2,3,3,3,5,Online
+1010,42,Masculino,Demarchi,Pós-graduação,Solteiro(a),5360.00,C,7,417.60,Bairro,43,Sim,2,4,1,2,2,2,Atacarejo
+1011,58,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),3390.00,C,12,511.50,Bairro,36,Sim,5,1,4,1,4,7,Bairro
+1012,34,Masculino,Demarchi,Médio,Divorciado(a),1600.00,D,6,268.28,Online,52,Não,3,2,1,3,3,1,Conveniência
+1013,23,Feminino,Demarchi,Superior incompleto,Casado(a),1930.00,D,8,441.60,Hiper,15,Sim,4,2,4,4,3,2,Atacarejo
+1014,59,Feminino,Nova Petrópolis,Pós-graduação,União estável,3880.00,C,15,557.43,Online,35,Sim,5,3,4,1,4,6,Hipermercado
+1015,56,Feminino,Centro,Superior completo,Casado(a),4390.00,C,6,425.94,Hiper,10,Sim,3,1,2,3,2,1,Atacarejo
+1016,67,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),4450.00,C,9,531.15,Bairro,2,Sim,5,2,4,3,4,6,Hipermercado
+1017,24,Masculino,Demarchi,Fundamental,Casado(a),1790.00,D,11,416.78,Atacarejo,24,Sim,3,1,4,5,3,5,Hipermercado
+1018,29,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1860.00,D,13,556.37,Atacarejo,49,Não,2,1,4,5,2,4,Atacarejo
+1019,37,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1580.00,D,9,356.13,Hiper,25,Sim,5,4,3,3,4,6,Online
+1020,20,Masculino,Centro,Superior incompleto,Solteiro(a),1300.00,D,10,371.64,Online,69,Não,3,1,4,3,3,6,Bairro
+1021,47,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1350.00,D,4,405.89,Bairro,46,Sim,3,1,4,4,2,3,Hipermercado
+1022,54,Masculino,Paulicéia,Médio,Solteiro(a),1410.00,D,6,281.46,Atacarejo,36,Não,5,1,4,4,3,6,Conveniência
+1023,48,Feminino,Taboão,Médio,Viúvo(a),5290.00,C,12,623.07,Hiper,26,Sim,4,2,3,3,4,4,Bairro
+1024,60,Feminino,Ferrazópolis,Médio,Casado(a),3270.00,C,8,507.07,Hiper,50,Sim,3,3,2,2,2,4,Hipermercado
+1025,41,Masculino,Demarchi,Fundamental,Casado(a),3190.00,C,11,492.89,Online,24,Não,2,4,3,4,3,5,Atacarejo
+1026,33,Feminino,Centro,Médio,União estável,2790.00,D,9,593.56,Bairro,24,Não,4,2,3,3,3,4,Conveniência
+1027,69,Masculino,Bairro Assunção,Pós-graduação,União estável,3110.00,C,7,441.24,Atacarejo,33,Não,3,4,3,2,3,5,Conveniência
+1028,49,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),2490.00,D,8,433.07,Atacarejo,44,Sim,4,3,4,2,3,4,Bairro
+1029,44,Feminino,Jardim do Mar,Médio,Casado(a),1300.00,D,13,477.67,Atacarejo,43,Sim,4,2,5,3,4,6,Conveniência
+1030,58,Masculino,Baeta Neves,Médio,Casado(a),2000.00,D,9,390.29,Bairro,57,Não,5,3,4,2,4,7,Hipermercado
+1031,52,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2350.00,D,14,619.53,Bairro,32,Não,5,5,3,2,4,5,Atacarejo
+1032,23,Feminino,Demarchi,Médio,Solteiro(a),1300.00,D,4,349.31,Online,31,Sim,5,2,4,4,4,8,Bairro
+1033,59,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),3950.00,C,6,424.67,Online,33,Não,4,3,3,2,4,5,Online
+1034,47,Feminino,Rudge Ramos,Pós-graduação,Casado(a),3250.00,C,7,363.24,Online,52,Sim,3,3,4,2,3,6,Conveniência
+1035,62,Masculino,Baeta Neves,Superior completo,Divorciado(a),5820.00,C,11,544.00,Bairro,6,Não,4,2,4,2,4,5,Hipermercado
+1036,25,Feminino,Paulicéia,Superior completo,Casado(a),4920.00,C,5,541.68,Online,51,Não,3,2,4,4,3,6,Online
+1037,36,Feminino,Centro,Superior incompleto,Solteiro(a),6370.00,B,15,555.45,Hiper,52,Não,3,1,4,3,3,6,Conveniência
+1038,66,Feminino,Nova Petrópolis,Fundamental,União estável,4070.00,C,13,508.18,Hiper,34,Não,3,5,2,3,2,0,Hipermercado
+1039,61,Outro,Centro,Fundamental,Divorciado(a),2740.00,D,7,377.17,Hiper,25,Sim,5,1,5,1,5,10,Hipermercado
+1040,25,Feminino,Taboão,Superior incompleto,Casado(a),2500.00,D,8,464.69,Online,65,Sim,3,3,4,2,4,7,Conveniência
+1041,51,Feminino,Centro,Fundamental,Viúvo(a),1800.00,D,7,478.25,Hiper,63,Sim,5,2,5,1,3,6,Bairro
+1042,22,Feminino,Baeta Neves,Médio,Solteiro(a),3980.00,C,9,670.26,Atacarejo,1,Não,5,3,5,4,3,6,Hipermercado
+1043,32,Feminino,Rudge Ramos,Médio,Casado(a),1530.00,D,5,290.59,Online,31,Sim,4,2,5,3,4,7,Online
+1044,57,Feminino,Paulicéia,Superior incompleto,Solteiro(a),2930.00,D,7,526.59,Bairro,58,Sim,5,2,4,2,4,4,Atacarejo
+1045,47,Masculino,Paulicéia,Pós-graduação,Solteiro(a),3790.00,C,4,437.33,Hiper,5,Não,4,1,3,3,3,4,Online
+1046,36,Masculino,Demarchi,Fundamental,Solteiro(a),2170.00,D,10,361.97,Hiper,54,Não,2,2,3,2,3,4,Hipermercado
+1047,54,Feminino,Jardim do Mar,Médio,Casado(a),1300.00,D,5,399.23,Bairro,35,Sim,4,3,3,1,4,5,Conveniência
+1048,69,Masculino,Taboão,Pós-graduação,Viúvo(a),3910.00,C,9,349.35,Atacarejo,11,Não,4,4,3,1,4,4,Conveniência
+1049,20,Outro,Centro,Médio,Casado(a),2040.00,D,7,288.27,Atacarejo,48,Não,2,1,2,4,2,4,Bairro
+1050,64,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),6520.00,B,8,476.69,Atacarejo,25,Não,4,4,3,1,3,5,Online
+1051,58,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),4910.00,C,11,665.29,Atacarejo,19,Sim,4,2,3,3,4,5,Atacarejo
+1052,36,Masculino,Ferrazópolis,Pós-graduação,União estável,2390.00,D,4,429.58,Online,23,Não,4,1,2,3,2,0,Atacarejo
+1053,48,Feminino,Ferrazópolis,Pós-graduação,Casado(a),5880.00,C,3,444.08,Online,36,Sim,5,1,4,2,4,5,Bairro
+1054,35,Masculino,Jardim do Mar,Superior incompleto,Casado(a),1980.00,D,9,286.32,Bairro,68,Sim,5,1,4,2,4,6,Atacarejo
+1055,30,Feminino,Jardim do Mar,Pós-graduação,Casado(a),2710.00,D,5,455.83,Bairro,25,Sim,4,3,2,2,4,6,Online
+1056,54,Masculino,Bairro Assunção,Superior completo,Solteiro(a),3420.00,C,8,392.09,Bairro,43,Sim,5,3,4,4,3,5,Online
+1057,43,Feminino,Jardim do Mar,Fundamental,União estável,2890.00,D,8,485.87,Atacarejo,55,Sim,3,1,4,2,3,5,Online
+1058,27,Masculino,Baeta Neves,Fundamental,Divorciado(a),1300.00,D,8,485.63,Hiper,3,Sim,3,3,1,2,3,3,Hipermercado
+1059,27,Feminino,Demarchi,Pós-graduação,Solteiro(a),4220.00,C,7,431.37,Atacarejo,62,Sim,4,4,4,5,3,6,Bairro
+1060,56,Masculino,Jardim do Mar,Médio,Solteiro(a),2320.00,D,4,376.72,Hiper,61,Não,3,2,3,2,3,4,Atacarejo
+1061,19,Feminino,Nova Petrópolis,Superior completo,Casado(a),2180.00,D,9,415.14,Online,68,Sim,4,2,5,4,4,8,Conveniência
+1062,58,Feminino,Demarchi,Médio,Divorciado(a),1610.00,D,9,523.46,Online,47,Não,3,2,5,2,4,8,Hipermercado
+1063,55,Feminino,Jardim do Mar,Médio,União estável,3060.00,C,10,338.34,Hiper,71,Sim,4,2,4,2,4,7,Conveniência
+1064,41,Masculino,Taboão,Superior incompleto,Divorciado(a),4100.00,C,12,404.30,Atacarejo,5,Não,4,3,5,3,4,7,Bairro
+1065,35,Masculino,Centro,Médio,Solteiro(a),1300.00,D,11,421.40,Bairro,60,Não,5,2,5,3,4,6,Atacarejo
+1066,67,Masculino,Demarchi,Superior completo,Solteiro(a),2120.00,D,9,496.81,Atacarejo,49,Não,3,1,4,1,3,5,Atacarejo
+1067,63,Feminino,Paulicéia,Médio,Casado(a),1750.00,D,10,414.98,Bairro,26,Sim,5,1,4,2,4,7,Conveniência
+1068,56,Outro,Ferrazópolis,Fundamental,Divorciado(a),2830.00,D,10,367.68,Online,20,Não,4,2,4,2,3,7,Conveniência
+1069,37,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3830.00,C,5,297.93,Atacarejo,68,Sim,4,1,4,2,3,6,Bairro
+1070,60,Masculino,Centro,Superior completo,Casado(a),3610.00,C,2,421.30,Atacarejo,47,Sim,4,3,4,3,4,6,Bairro
+1071,39,Masculino,Ferrazópolis,Superior completo,Solteiro(a),1620.00,D,9,257.21,Hiper,2,Não,4,1,2,4,3,5,Bairro
+1072,52,Feminino,Demarchi,Pós-graduação,Solteiro(a),3510.00,C,5,626.60,Atacarejo,54,Não,4,1,4,1,3,4,Hipermercado
+1073,34,Masculino,Bairro Assunção,Superior completo,União estável,1380.00,D,9,376.96,Bairro,61,Sim,4,3,4,3,3,7,Bairro
+1074,39,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3420.00,C,6,456.40,Bairro,51,Sim,4,3,4,3,3,7,Bairro
+1075,62,Feminino,Jardim do Mar,Superior incompleto,Divorciado(a),4350.00,C,10,533.49,Hiper,8,Sim,5,2,4,3,4,8,Hipermercado
+1076,52,Feminino,Ferrazópolis,Fundamental,Divorciado(a),1300.00,D,11,338.27,Hiper,71,Sim,4,3,3,3,3,3,Conveniência
+1077,64,Masculino,Jardim do Mar,Superior completo,Casado(a),1650.00,D,7,289.20,Bairro,37,Sim,2,3,3,2,3,3,Hipermercado
+1078,21,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),2320.00,D,5,463.27,Hiper,47,Sim,5,1,4,5,4,8,Atacarejo
+1079,62,Feminino,Jardim do Mar,Médio,União estável,2010.00,D,8,487.05,Atacarejo,36,Sim,4,3,3,1,3,5,Atacarejo
+1080,35,Masculino,Ferrazópolis,Médio,Casado(a),2390.00,D,9,359.02,Hiper,4,Não,2,3,4,1,2,3,Online
+1081,56,Masculino,Taboão,Pós-graduação,União estável,7710.00,B,15,677.25,Online,8,Sim,3,4,1,1,1,0,Atacarejo
+1082,24,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3450.00,C,8,472.37,Bairro,17,Sim,3,5,4,4,4,7,Hipermercado
+1083,22,Feminino,Baeta Neves,Pós-graduação,Casado(a),2040.00,D,6,320.52,Online,53,Não,4,4,5,3,3,5,Conveniência
+1084,19,Masculino,Baeta Neves,Médio,Casado(a),1300.00,D,6,423.04,Online,7,Sim,1,3,3,4,2,3,Hipermercado
+1085,44,Masculino,Taboão,Fundamental,Solteiro(a),3730.00,C,9,351.76,Bairro,5,Sim,1,4,2,2,2,4,Online
+1086,54,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),3150.00,C,8,388.22,Online,56,Sim,4,3,4,1,4,7,Hipermercado
+1087,40,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),5340.00,C,10,626.82,Online,69,Sim,5,2,5,3,4,9,Online
+1088,66,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),4140.00,C,13,520.90,Bairro,48,Sim,5,4,4,3,4,7,Online
+1089,43,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),2500.00,D,8,531.85,Atacarejo,56,Sim,3,1,4,5,2,4,Online
+1090,46,Feminino,Demarchi,Médio,Casado(a),1910.00,D,11,484.45,Bairro,27,Sim,4,3,5,3,4,8,Hipermercado
+1091,65,Masculino,Centro,Superior incompleto,Solteiro(a),3730.00,C,6,344.13,Online,52,Sim,4,2,4,2,4,8,Online
+1092,69,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),4670.00,C,11,651.16,Hiper,4,Sim,4,5,5,2,4,6,Bairro
+1093,40,Feminino,Demarchi,Superior completo,União estável,4830.00,C,10,569.16,Atacarejo,45,Sim,5,4,3,1,3,4,Atacarejo
+1094,64,Feminino,Baeta Neves,Fundamental,Solteiro(a),2930.00,D,9,574.12,Bairro,36,Sim,3,2,4,3,2,3,Conveniência
+1095,56,Masculino,Demarchi,Médio,Casado(a),2550.00,D,8,335.17,Online,68,Sim,4,1,2,2,4,3,Bairro
+1096,48,Feminino,Taboão,Superior completo,Solteiro(a),4600.00,C,5,538.82,Atacarejo,64,Não,5,2,5,3,3,6,Hipermercado
+1097,39,Masculino,Centro,Superior incompleto,Solteiro(a),1970.00,D,10,458.28,Atacarejo,43,Não,3,2,5,3,3,6,Hipermercado
+1098,42,Masculino,Ferrazópolis,Médio,Viúvo(a),3780.00,C,5,310.95,Hiper,33,Sim,3,5,4,2,4,6,Atacarejo
+1099,26,Masculino,Ferrazópolis,Superior completo,Solteiro(a),1820.00,D,8,505.17,Bairro,25,Sim,4,1,4,1,4,7,Conveniência
+1100,51,Feminino,Paulicéia,Superior completo,Casado(a),4560.00,C,13,585.48,Online,65,Sim,4,4,5,2,5,8,Atacarejo
+1101,18,Masculino,Centro,Médio,União estável,3390.00,C,8,433.02,Bairro,32,Sim,2,4,2,3,3,2,Conveniência
+1102,50,Outro,Bairro Assunção,Superior completo,Solteiro(a),3520.00,C,6,236.94,Atacarejo,64,Não,5,4,2,3,4,5,Conveniência
+1103,67,Masculino,Taboão,Superior completo,Viúvo(a),3880.00,C,9,334.71,Atacarejo,15,Não,2,4,3,2,3,3,Atacarejo
+1104,25,Feminino,Rudge Ramos,Fundamental,Casado(a),2270.00,D,8,362.95,Atacarejo,68,Sim,5,3,3,4,5,7,Bairro
+1105,49,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2800.00,D,6,503.14,Hiper,22,Sim,4,2,3,2,5,6,Hipermercado
+1106,68,Masculino,Taboão,Fundamental,União estável,1830.00,D,14,282.46,Hiper,20,Sim,4,2,3,4,3,4,Online
+1107,32,Feminino,Baeta Neves,Superior completo,Solteiro(a),3570.00,C,5,374.36,Hiper,70,Sim,4,3,5,4,4,6,Bairro
+1108,54,Masculino,Ferrazópolis,Médio,Solteiro(a),2580.00,D,7,373.94,Hiper,23,Não,3,1,4,1,3,7,Online
+1109,21,Masculino,Demarchi,Fundamental,Casado(a),2250.00,D,6,442.70,Bairro,32,Não,5,2,4,5,4,7,Online
+1110,38,Feminino,Taboão,Superior incompleto,Solteiro(a),3580.00,C,10,581.04,Bairro,48,Sim,4,2,4,3,3,4,Atacarejo
+1111,56,Feminino,Rudge Ramos,Fundamental,Solteiro(a),3560.00,C,11,523.79,Bairro,52,Não,3,2,3,1,3,4,Hipermercado
+1112,31,Feminino,Baeta Neves,Pós-graduação,Casado(a),2940.00,D,8,433.18,Bairro,44,Não,5,3,5,4,4,8,Online
+1113,34,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),1960.00,D,11,317.51,Hiper,56,Sim,4,1,4,2,2,4,Bairro
+1114,56,Masculino,Demarchi,Pós-graduação,Casado(a),3680.00,C,15,657.75,Atacarejo,50,Não,3,3,4,2,3,6,Online
+1115,67,Masculino,Centro,Fundamental,Casado(a),2230.00,D,9,487.87,Atacarejo,4,Sim,5,1,4,2,3,6,Conveniência
+1116,41,Feminino,Paulicéia,Pós-graduação,União estável,1790.00,D,16,470.09,Hiper,51,Não,3,1,3,3,3,5,Hipermercado
+1117,34,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),2320.00,D,10,409.49,Hiper,41,Sim,5,3,5,3,4,5,Hipermercado
+1118,52,Feminino,Centro,Pós-graduação,Solteiro(a),2670.00,D,9,425.89,Atacarejo,34,Sim,3,2,4,3,2,4,Bairro
+1119,24,Feminino,Baeta Neves,Fundamental,União estável,1770.00,D,6,342.21,Online,17,Sim,3,1,1,5,2,0,Online
+1120,46,Feminino,Taboão,Fundamental,Solteiro(a),2540.00,D,10,401.59,Online,42,Sim,3,2,3,2,3,7,Conveniência
+1121,49,Feminino,Rudge Ramos,Superior incompleto,Casado(a),1300.00,D,14,373.30,Hiper,50,Não,4,1,3,1,2,3,Hipermercado
+1122,39,Feminino,Jardim do Mar,Fundamental,União estável,2360.00,D,11,525.33,Hiper,28,Não,3,1,5,2,3,7,Bairro
+1123,70,Masculino,Taboão,Superior completo,Casado(a),5000.00,C,5,420.53,Bairro,59,Sim,4,3,4,1,3,6,Hipermercado
+1124,50,Feminino,Taboão,Fundamental,Solteiro(a),2740.00,D,11,399.68,Bairro,35,Sim,2,1,4,2,3,4,Hipermercado
+1125,26,Feminino,Paulicéia,Médio,União estável,1630.00,D,12,523.03,Online,61,Não,4,2,3,2,4,7,Hipermercado
+1126,32,Feminino,Taboão,Pós-graduação,Casado(a),7770.00,B,11,735.46,Hiper,15,Sim,4,2,3,3,4,5,Hipermercado
+1127,24,Feminino,Rudge Ramos,Superior completo,Casado(a),1820.00,D,7,541.16,Bairro,67,Sim,5,3,3,2,3,6,Conveniência
+1128,41,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),3850.00,C,5,239.12,Bairro,14,Sim,3,5,3,1,4,5,Bairro
+1129,21,Masculino,Rudge Ramos,Superior completo,Casado(a),6430.00,B,12,633.35,Online,57,Não,4,2,4,5,4,7,Bairro
+1130,32,Feminino,Centro,Fundamental,União estável,1710.00,D,6,386.82,Bairro,20,Não,5,2,5,1,4,7,Atacarejo
+1131,60,Masculino,Rudge Ramos,Médio,Solteiro(a),2400.00,D,4,386.10,Online,57,Sim,4,2,4,1,5,8,Hipermercado
+1132,59,Feminino,Ferrazópolis,Pós-graduação,Casado(a),4030.00,C,8,472.57,Bairro,33,Sim,3,3,2,4,3,3,Conveniência
+1133,24,Masculino,Bairro Assunção,Fundamental,Solteiro(a),2650.00,D,12,501.14,Atacarejo,53,Não,5,2,5,3,4,5,Hipermercado
+1134,20,Masculino,Paulicéia,Médio,Casado(a),7200.00,B,13,765.66,Bairro,16,Sim,5,4,4,2,4,5,Atacarejo
+1135,38,Masculino,Rudge Ramos,Superior incompleto,Casado(a),3140.00,C,5,326.81,Bairro,3,Não,4,1,5,2,4,9,Atacarejo
+1136,27,Masculino,Ferrazópolis,Fundamental,Casado(a),2080.00,D,6,446.73,Atacarejo,27,Sim,4,2,5,5,4,6,Online
+1137,18,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),3930.00,C,15,513.06,Hiper,59,Não,3,3,3,5,3,4,Atacarejo
+1138,52,Masculino,Demarchi,Pós-graduação,Solteiro(a),1620.00,D,10,375.75,Bairro,15,Sim,3,3,1,2,3,2,Bairro
+1139,41,Feminino,Demarchi,Superior completo,Casado(a),5360.00,C,6,414.06,Online,44,Sim,5,3,4,4,4,8,Online
+1140,36,Feminino,Ferrazópolis,Médio,União estável,6650.00,B,12,541.70,Online,19,Sim,4,2,4,2,3,7,Bairro
+1141,66,Masculino,Baeta Neves,Pós-graduação,Casado(a),11210.00,B,8,708.54,Online,55,Sim,3,4,3,2,4,7,Bairro
+1142,46,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),3370.00,C,8,337.68,Online,44,Não,5,4,5,3,5,7,Hipermercado
+1143,35,Feminino,Paulicéia,Superior incompleto,Solteiro(a),1820.00,D,7,383.38,Bairro,31,Sim,5,3,4,2,4,5,Hipermercado
+1144,24,Feminino,Ferrazópolis,Médio,Divorciado(a),1810.00,D,3,426.87,Online,16,Não,3,3,3,4,4,4,Atacarejo
+1145,21,Masculino,Ferrazópolis,Médio,Solteiro(a),2220.00,D,8,404.30,Bairro,52,Sim,5,1,4,5,4,7,Conveniência
+1146,67,Masculino,Jardim do Mar,Superior completo,Solteiro(a),3040.00,C,5,380.02,Bairro,26,Não,3,2,3,1,3,5,Conveniência
+1147,59,Feminino,Demarchi,Fundamental,Casado(a),1840.00,D,13,597.98,Bairro,57,Não,2,2,2,2,2,4,Bairro
+1148,33,Masculino,Paulicéia,Pós-graduação,União estável,2540.00,D,11,457.78,Hiper,71,Não,4,2,3,2,2,2,Bairro
+1149,38,Feminino,Demarchi,Pós-graduação,Casado(a),2460.00,D,5,365.34,Hiper,7,Não,2,1,3,4,2,2,Conveniência
+1150,65,Feminino,Rudge Ramos,Fundamental,Solteiro(a),1320.00,D,6,269.68,Online,44,Sim,4,2,3,3,4,6,Atacarejo
+1151,55,Masculino,Jardim do Mar,Fundamental,Casado(a),2750.00,D,7,438.69,Bairro,65,Não,5,3,5,1,4,6,Conveniência
+1152,41,Feminino,Paulicéia,Fundamental,União estável,3810.00,C,13,604.44,Bairro,47,Sim,3,1,3,2,1,3,Atacarejo
+1153,32,Masculino,Paulicéia,Médio,União estável,2950.00,D,7,327.88,Online,62,Não,3,2,2,2,3,2,Conveniência
+1154,57,Masculino,Rudge Ramos,Fundamental,Divorciado(a),4900.00,C,8,509.01,Atacarejo,58,Sim,3,1,4,2,3,8,Hipermercado
+1155,62,Feminino,Paulicéia,Médio,União estável,4280.00,C,5,340.51,Online,20,Não,3,3,3,2,3,4,Conveniência
+1156,44,Masculino,Baeta Neves,Médio,Casado(a),3750.00,C,9,503.80,Atacarejo,52,Sim,4,3,3,3,3,2,Conveniência
+1157,63,Feminino,Baeta Neves,Superior completo,Casado(a),1990.00,D,12,413.81,Atacarejo,40,Não,3,1,3,4,3,7,Conveniência
+1158,51,Feminino,Jardim do Mar,Superior incompleto,União estável,1930.00,D,10,463.58,Atacarejo,5,Não,4,2,4,1,4,5,Hipermercado
+1159,43,Feminino,Paulicéia,Superior incompleto,Casado(a),2300.00,D,12,268.79,Atacarejo,2,Sim,3,3,2,1,3,4,Online
+1160,26,Feminino,Taboão,Médio,Casado(a),2060.00,D,7,403.57,Online,9,Não,4,1,4,4,3,5,Online
+1161,64,Feminino,Taboão,Superior incompleto,Solteiro(a),1840.00,D,6,471.40,Atacarejo,41,Não,5,2,4,3,5,6,Atacarejo
+1162,26,Masculino,Demarchi,Fundamental,União estável,3920.00,C,12,539.29,Hiper,31,Sim,3,3,3,3,3,4,Bairro
+1163,29,Masculino,Paulicéia,Superior completo,Solteiro(a),5770.00,C,13,556.73,Bairro,50,Sim,2,3,4,4,2,5,Online
+1164,25,Feminino,Bairro Assunção,Superior completo,Solteiro(a),2010.00,D,10,173.60,Online,7,Não,2,1,3,4,3,5,Bairro
+1165,45,Masculino,Jardim do Mar,Fundamental,Casado(a),1970.00,D,6,445.80,Bairro,19,Não,3,1,2,1,2,0,Online
+1166,39,Masculino,Nova Petrópolis,Médio,Solteiro(a),1630.00,D,13,291.23,Online,11,Sim,2,1,2,3,1,2,Bairro
+1167,53,Feminino,Taboão,Médio,Casado(a),1800.00,D,8,511.72,Atacarejo,45,Sim,5,4,4,3,4,6,Hipermercado
+1168,52,Feminino,Bairro Assunção,Pós-graduação,Casado(a),6130.00,B,7,507.10,Atacarejo,64,Sim,4,4,4,2,4,8,Conveniência
+1169,41,Feminino,Centro,Pós-graduação,União estável,2340.00,D,8,302.32,Bairro,4,Não,3,1,3,1,3,2,Online
+1170,63,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3780.00,C,13,505.39,Online,71,Sim,3,5,3,1,3,2,Bairro
+1171,53,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),1300.00,D,15,307.70,Hiper,40,Não,5,1,3,2,4,4,Online
+1172,48,Masculino,Baeta Neves,Pós-graduação,Casado(a),7940.00,B,16,657.30,Online,55,Sim,5,3,5,4,4,8,Atacarejo
+1173,39,Feminino,Demarchi,Pós-graduação,Casado(a),3640.00,C,5,529.86,Hiper,51,Não,3,1,3,3,3,5,Hipermercado
+1174,35,Feminino,Centro,Pós-graduação,Casado(a),5110.00,C,10,652.90,Online,5,Sim,4,5,3,3,5,10,Bairro
+1175,37,Masculino,Paulicéia,Fundamental,Casado(a),2470.00,D,12,365.16,Atacarejo,30,Sim,4,1,2,3,3,3,Atacarejo
+1176,60,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),4410.00,C,7,419.30,Bairro,8,Não,4,4,4,2,3,4,Online
+1177,57,Feminino,Rudge Ramos,Superior incompleto,União estável,2070.00,D,8,232.28,Online,15,Sim,4,3,3,3,3,2,Online
+1178,27,Feminino,Jardim do Mar,Superior incompleto,Divorciado(a),1620.00,D,10,404.37,Bairro,54,Sim,5,3,4,4,4,8,Online
+1179,28,Feminino,Centro,Superior completo,Casado(a),1300.00,D,7,309.48,Atacarejo,4,Sim,4,2,5,2,3,6,Online
+1180,57,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),6760.00,B,15,792.22,Hiper,66,Sim,3,1,5,3,2,5,Hipermercado
+1181,61,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),5520.00,C,7,551.27,Atacarejo,7,Não,3,3,3,4,4,6,Online
+1182,55,Feminino,Centro,Pós-graduação,Casado(a),6640.00,B,11,614.73,Online,54,Sim,2,3,2,1,2,4,Hipermercado
+1183,24,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),2850.00,D,7,474.55,Bairro,13,Não,4,1,4,3,3,4,Atacarejo
+1184,55,Feminino,Baeta Neves,Superior completo,Casado(a),4610.00,C,15,564.42,Bairro,46,Sim,4,2,4,3,3,7,Hipermercado
+1185,65,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),2260.00,D,13,515.06,Online,35,Sim,3,1,4,2,3,6,Conveniência
+1186,30,Feminino,Taboão,Superior incompleto,Solteiro(a),4590.00,C,15,650.61,Atacarejo,12,Não,4,2,5,2,3,5,Conveniência
+1187,20,Masculino,Taboão,Pós-graduação,Solteiro(a),3090.00,C,6,401.16,Bairro,9,Sim,3,3,3,2,3,4,Bairro
+1188,44,Masculino,Taboão,Fundamental,Solteiro(a),1840.00,D,9,399.65,Atacarejo,48,Sim,3,1,3,2,3,3,Atacarejo
+1189,52,Feminino,Nova Petrópolis,Pós-graduação,Divorciado(a),2470.00,D,11,662.30,Online,64,Sim,5,1,4,1,3,6,Bairro
+1190,23,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),3050.00,C,6,206.15,Online,67,Sim,3,2,3,4,3,6,Hipermercado
+1191,55,Feminino,Centro,Superior incompleto,Casado(a),1820.00,D,9,302.34,Bairro,52,Sim,4,1,4,2,3,6,Hipermercado
+1192,32,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),1700.00,D,15,414.63,Bairro,21,Sim,4,1,5,4,3,8,Conveniência
+1193,36,Feminino,Ferrazópolis,Médio,Casado(a),1970.00,D,6,448.51,Online,50,Não,3,2,3,4,2,3,Bairro
+1194,36,Masculino,Demarchi,Pós-graduação,Solteiro(a),4060.00,C,11,513.07,Bairro,54,Sim,4,3,5,3,4,6,Conveniência
+1195,54,Feminino,Paulicéia,Médio,Casado(a),2230.00,D,9,475.96,Hiper,10,Não,3,1,4,3,3,5,Online
+1196,24,Feminino,Paulicéia,Superior completo,Solteiro(a),1970.00,D,5,361.19,Bairro,5,Sim,4,2,2,3,2,1,Conveniência
+1197,19,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),13150.00,A,11,903.93,Bairro,47,Sim,5,2,5,3,4,7,Hipermercado
+1198,63,Masculino,Rudge Ramos,Fundamental,Casado(a),1970.00,D,10,483.87,Hiper,43,Sim,5,2,2,3,3,4,Conveniência
+1199,61,Feminino,Nova Petrópolis,Médio,Solteiro(a),4760.00,C,9,540.43,Atacarejo,57,Sim,5,4,5,4,5,9,Conveniência
+1200,29,Masculino,Ferrazópolis,Pós-graduação,Casado(a),1370.00,D,8,458.47,Online,58,Sim,4,1,3,5,3,2,Bairro

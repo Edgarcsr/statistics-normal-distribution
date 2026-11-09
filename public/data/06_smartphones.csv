@@ -1,0 +1,1201 @@
+﻿id,idade,genero,regiao,escolaridade,estado_civil,renda_mensal,classe_social,frequencia_uso_mes,gasto_mensal,canal_preferido,tempo_cliente_meses,programa_fidelidade,satisf_qualidade,satisf_preco,confianca_marca,influencia_redes_sociais,intencao_compra_futura,nps_recomendacao,marca_atual
+1,50,Masculino,Paulicéia,Fundamental,Casado(a),2160.00,D,1,699.56,Operadora,2,Sim,4,3,4,3,3,8,Samsung
+2,34,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2960.00,D,0,526.07,Operadora,61,Sim,5,1,5,4,3,5,Motorola
+3,51,Masculino,Centro,Médio,Casado(a),1940.00,D,0,668.47,Loja física,64,Não,3,3,4,2,3,8,Apple
+4,19,Masculino,Nova Petrópolis,Médio,Casado(a),1800.00,D,0,796.10,Loja física,10,Não,3,2,4,4,3,3,Apple
+5,38,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),3240.00,C,0,721.08,Operadora,16,Não,3,3,4,3,4,4,Outro
+6,39,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2490.00,D,1,765.11,Loja física,26,Não,5,1,5,5,3,7,Samsung
+7,27,Masculino,Baeta Neves,Superior incompleto,Casado(a),3930.00,C,0,763.12,Marketplace,42,Não,3,4,3,5,3,4,Motorola
+8,49,Masculino,Bairro Assunção,Pós-graduação,Casado(a),4200.00,C,2,536.52,Operadora,70,Não,2,4,2,3,4,3,Apple
+9,62,Masculino,Jardim do Mar,Médio,Casado(a),2090.00,D,1,200.00,Marketplace,20,Não,3,2,2,4,3,4,Xiaomi
+10,27,Feminino,Paulicéia,Fundamental,Solteiro(a),3410.00,C,1,843.93,Loja física,12,Não,5,4,5,4,4,7,Apple
+11,38,Feminino,Paulicéia,Superior incompleto,União estável,3150.00,C,2,687.60,E-commerce,6,Não,3,5,5,3,3,6,Xiaomi
+12,70,Feminino,Ferrazópolis,Superior completo,Casado(a),4000.00,C,1,229.69,Marketplace,47,Não,4,4,4,2,4,6,Xiaomi
+13,41,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2460.00,D,0,410.98,Loja física,2,Sim,4,1,4,2,3,7,Motorola
+14,70,Feminino,Paulicéia,Superior completo,Solteiro(a),6000.00,B,0,666.56,Marketplace,26,Não,4,4,3,2,4,6,Outro
+15,47,Feminino,Nova Petrópolis,Médio,Casado(a),2610.00,D,0,388.43,Marketplace,36,Sim,4,3,4,3,3,5,Outro
+16,58,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),4420.00,C,1,766.95,Loja física,47,Não,3,3,3,2,2,3,Motorola
+17,39,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2610.00,D,1,671.78,Operadora,13,Não,4,2,4,3,3,6,Xiaomi
+18,51,Feminino,Rudge Ramos,Pós-graduação,União estável,2630.00,D,1,635.31,E-commerce,31,Não,4,1,3,2,4,5,Xiaomi
+19,34,Feminino,Jardim do Mar,Superior completo,Solteiro(a),1540.00,D,2,410.62,Loja física,34,Não,4,2,5,5,4,8,Samsung
+20,27,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),3500.00,C,1,366.72,Loja física,66,Não,4,2,5,3,3,4,Xiaomi
+21,53,Masculino,Centro,Fundamental,Solteiro(a),1470.00,D,0,685.85,Marketplace,28,Não,4,1,5,2,3,6,Samsung
+22,46,Feminino,Baeta Neves,Pós-graduação,Divorciado(a),2300.00,D,1,274.43,Loja física,64,Sim,4,3,5,4,4,7,Outro
+23,35,Masculino,Paulicéia,Superior incompleto,Casado(a),4020.00,C,2,261.62,Loja física,4,Sim,5,1,4,2,4,5,Samsung
+24,43,Feminino,Taboão,Pós-graduação,União estável,4460.00,C,0,595.94,E-commerce,16,Não,5,4,4,4,4,5,Xiaomi
+25,64,Masculino,Baeta Neves,Pós-graduação,Viúvo(a),2610.00,D,3,475.47,E-commerce,38,Não,5,2,5,2,5,7,Apple
+26,28,Masculino,Rudge Ramos,Superior completo,Casado(a),1300.00,D,0,484.54,Loja física,72,Sim,4,3,3,5,4,6,Samsung
+27,66,Masculino,Jardim do Mar,Pós-graduação,Casado(a),2260.00,D,1,671.07,E-commerce,53,Não,5,2,5,2,5,9,Motorola
+28,58,Masculino,Demarchi,Fundamental,Casado(a),6080.00,B,3,872.27,Marketplace,48,Sim,3,3,4,2,3,6,Outro
+29,60,Feminino,Bairro Assunção,Fundamental,Solteiro(a),2490.00,D,2,621.91,E-commerce,4,Não,3,2,3,4,2,2,Outro
+30,29,Masculino,Demarchi,Médio,Casado(a),1700.00,D,2,329.18,Marketplace,33,Não,4,1,4,4,3,6,Motorola
+31,59,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),5390.00,C,0,604.11,Operadora,64,Não,3,3,4,1,3,5,Apple
+32,23,Feminino,Bairro Assunção,Pós-graduação,Viúvo(a),2400.00,D,1,528.15,Operadora,10,Não,5,1,5,5,4,8,Outro
+33,60,Feminino,Ferrazópolis,Fundamental,Viúvo(a),1500.00,D,2,812.94,Operadora,38,Não,5,1,5,3,5,9,Xiaomi
+34,65,Outro,Bairro Assunção,Superior incompleto,Casado(a),3400.00,C,0,336.00,Operadora,46,Não,5,3,5,3,4,6,Xiaomi
+35,65,Feminino,Paulicéia,Superior incompleto,Casado(a),3190.00,C,2,406.57,Loja física,16,Sim,4,3,5,3,3,4,Motorola
+36,63,Masculino,Paulicéia,Médio,Solteiro(a),1470.00,D,0,831.57,E-commerce,35,Não,4,3,5,2,5,7,Motorola
+37,49,Masculino,Demarchi,Fundamental,Casado(a),1950.00,D,1,776.22,Operadora,26,Não,4,1,4,4,4,5,Motorola
+38,54,Masculino,Jardim do Mar,Pós-graduação,Casado(a),2300.00,D,1,492.84,Operadora,62,Não,5,1,4,2,4,6,Xiaomi
+39,54,Feminino,Paulicéia,Médio,Solteiro(a),3000.00,C,0,523.73,Marketplace,29,Sim,5,3,5,5,3,7,Outro
+40,25,Feminino,Taboão,Superior completo,Casado(a),2740.00,D,0,763.01,Loja física,44,Sim,5,1,5,5,4,8,Xiaomi
+41,41,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),5650.00,C,1,929.60,Operadora,22,Não,4,3,3,4,3,6,Outro
+42,19,Feminino,Paulicéia,Fundamental,Solteiro(a),1300.00,D,1,435.65,Marketplace,33,Não,4,1,3,5,3,1,Apple
+43,31,Feminino,Baeta Neves,Fundamental,Solteiro(a),2410.00,D,1,921.60,Operadora,45,Não,4,2,4,3,4,6,Motorola
+44,25,Feminino,Demarchi,Superior completo,Divorciado(a),2220.00,D,2,417.60,E-commerce,63,Não,3,1,3,4,2,3,Xiaomi
+45,62,Feminino,Baeta Neves,Pós-graduação,Viúvo(a),5310.00,C,1,722.73,Operadora,60,Sim,5,2,5,3,4,7,Samsung
+46,54,Feminino,Centro,Fundamental,Casado(a),1300.00,D,1,706.46,E-commerce,10,Não,3,1,2,2,2,0,Motorola
+47,37,Masculino,Paulicéia,Superior incompleto,Casado(a),4720.00,C,1,548.49,Operadora,12,Não,3,1,4,3,2,5,Samsung
+48,24,Feminino,Demarchi,Médio,Solteiro(a),3450.00,C,0,1009.81,Loja física,24,Sim,5,3,4,5,5,10,Xiaomi
+49,68,Feminino,Bairro Assunção,Médio,Solteiro(a),2960.00,D,1,718.49,Marketplace,48,Não,5,2,5,3,4,7,Apple
+50,42,Feminino,Paulicéia,Superior incompleto,Solteiro(a),5720.00,C,2,584.76,Operadora,34,Não,5,2,2,4,3,6,Xiaomi
+51,70,Masculino,Nova Petrópolis,Pós-graduação,União estável,3180.00,C,2,913.01,Loja física,12,Sim,5,4,5,4,5,6,Motorola
+52,33,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),5060.00,C,1,551.69,Operadora,27,Não,5,2,4,3,4,5,Apple
+53,47,Feminino,Demarchi,Pós-graduação,União estável,4970.00,C,2,353.95,E-commerce,40,Sim,4,4,4,2,3,5,Apple
+54,21,Feminino,Bairro Assunção,Pós-graduação,Casado(a),2990.00,D,2,580.85,Operadora,35,Não,5,2,5,5,5,9,Motorola
+55,49,Feminino,Taboão,Pós-graduação,Solteiro(a),7490.00,B,4,701.36,Operadora,27,Sim,5,4,4,4,4,6,Motorola
+56,56,Feminino,Demarchi,Fundamental,Casado(a),2720.00,D,1,465.41,Loja física,31,Não,5,2,5,3,5,7,Samsung
+57,60,Masculino,Paulicéia,Médio,Casado(a),2340.00,D,2,338.44,Operadora,51,Sim,3,1,1,3,2,2,Outro
+58,66,Masculino,Taboão,Superior incompleto,Solteiro(a),4480.00,C,0,363.71,Operadora,30,Não,3,2,3,3,3,5,Apple
+59,27,Masculino,Baeta Neves,Superior incompleto,União estável,2230.00,D,3,200.00,Marketplace,44,Não,5,1,5,5,4,7,Xiaomi
+60,36,Feminino,Jardim do Mar,Médio,União estável,1470.00,D,0,645.36,Loja física,49,Não,5,4,5,4,4,7,Samsung
+61,46,Masculino,Centro,Pós-graduação,União estável,4250.00,C,1,693.99,E-commerce,42,Não,3,4,4,3,3,4,Outro
+62,52,Feminino,Bairro Assunção,Médio,Casado(a),2960.00,D,1,678.44,Marketplace,40,Sim,5,3,3,3,4,6,Outro
+63,26,Masculino,Centro,Médio,Casado(a),2410.00,D,0,529.21,E-commerce,18,Não,3,1,3,5,3,3,Apple
+64,21,Outro,Centro,Pós-graduação,Casado(a),3220.00,C,2,326.94,Marketplace,14,Sim,4,3,4,3,4,5,Motorola
+65,43,Feminino,Bairro Assunção,Médio,Casado(a),1990.00,D,1,558.07,Marketplace,54,Não,4,1,4,4,4,8,Xiaomi
+66,27,Feminino,Baeta Neves,Superior incompleto,Casado(a),1830.00,D,0,295.33,E-commerce,57,Sim,4,4,3,3,4,6,Xiaomi
+67,43,Masculino,Demarchi,Médio,Casado(a),3980.00,C,0,379.52,Loja física,46,Sim,4,3,4,2,3,4,Motorola
+68,18,Feminino,Paulicéia,Médio,Solteiro(a),2430.00,D,0,200.00,Operadora,64,Não,5,2,4,4,4,4,Apple
+69,43,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2920.00,D,0,743.61,E-commerce,42,Não,5,1,5,2,5,9,Samsung
+70,64,Masculino,Ferrazópolis,Superior completo,Casado(a),1830.00,D,0,225.48,Marketplace,6,Não,3,3,4,3,3,5,Outro
+71,44,Feminino,Jardim do Mar,Pós-graduação,Casado(a),5100.00,C,1,760.11,Operadora,60,Não,4,3,5,2,3,7,Outro
+72,23,Masculino,Rudge Ramos,Pós-graduação,Casado(a),2430.00,D,1,228.79,E-commerce,72,Não,5,1,3,5,3,1,Apple
+73,25,Feminino,Paulicéia,Pós-graduação,União estável,2640.00,D,1,365.21,Operadora,55,Não,5,1,4,4,3,4,Apple
+74,55,Masculino,Centro,Superior completo,Casado(a),4310.00,C,1,835.34,Marketplace,56,Não,3,4,4,4,3,6,Samsung
+75,19,Feminino,Centro,Superior completo,Solteiro(a),2090.00,D,0,600.99,Operadora,65,Sim,2,2,1,4,2,1,Samsung
+76,22,Masculino,Ferrazópolis,Fundamental,Solteiro(a),2030.00,D,1,722.67,E-commerce,32,Não,3,1,4,4,2,5,Samsung
+77,20,Feminino,Demarchi,Médio,Casado(a),2390.00,D,3,359.46,Marketplace,1,Sim,3,2,4,4,4,7,Motorola
+78,59,Masculino,Baeta Neves,Superior incompleto,Casado(a),3280.00,C,2,273.61,Marketplace,57,Não,4,4,4,2,4,7,Xiaomi
+79,27,Masculino,Nova Petrópolis,Médio,Solteiro(a),2500.00,D,0,622.96,Marketplace,33,Sim,5,2,5,4,5,9,Outro
+80,70,Feminino,Rudge Ramos,Superior completo,Solteiro(a),4060.00,C,2,200.00,Loja física,20,Não,3,4,3,2,3,3,Motorola
+81,69,Feminino,Bairro Assunção,Fundamental,Viúvo(a),3740.00,C,1,413.18,Loja física,45,Não,4,2,3,3,4,6,Samsung
+82,55,Masculino,Baeta Neves,Superior completo,Solteiro(a),3760.00,C,1,412.50,Loja física,16,Não,5,4,4,3,5,8,Apple
+83,57,Feminino,Rudge Ramos,Superior completo,Viúvo(a),6670.00,B,2,1050.18,Marketplace,70,Sim,3,2,3,3,3,7,Samsung
+84,23,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),2960.00,D,1,417.99,Marketplace,6,Sim,5,2,4,5,3,3,Outro
+85,41,Feminino,Jardim do Mar,Médio,Casado(a),2490.00,D,2,568.22,Loja física,36,Não,5,2,5,4,4,7,Xiaomi
+86,41,Feminino,Paulicéia,Fundamental,Casado(a),6080.00,B,3,449.99,E-commerce,54,Sim,5,2,4,4,3,6,Motorola
+87,29,Feminino,Paulicéia,Médio,Solteiro(a),1710.00,D,1,672.52,Marketplace,18,Não,3,1,3,5,3,5,Apple
+88,36,Feminino,Centro,Superior completo,Casado(a),2390.00,D,2,642.31,Marketplace,52,Não,4,4,4,3,3,5,Apple
+89,32,Masculino,Ferrazópolis,Fundamental,Casado(a),1820.00,D,1,356.74,Loja física,5,Sim,4,1,5,4,2,4,Outro
+90,44,Feminino,Rudge Ramos,Superior incompleto,União estável,5910.00,C,2,951.49,Marketplace,10,Não,5,2,5,3,4,7,Apple
+91,20,Masculino,Demarchi,Superior incompleto,Casado(a),3260.00,C,1,864.53,Loja física,41,Não,4,2,4,4,4,8,Motorola
+92,21,Masculino,Centro,Fundamental,Casado(a),2980.00,D,1,420.04,Marketplace,24,Não,4,3,4,4,3,5,Outro
+93,57,Outro,Jardim do Mar,Superior incompleto,Solteiro(a),2650.00,D,1,651.47,Marketplace,27,Sim,2,2,3,1,2,2,Xiaomi
+94,66,Masculino,Bairro Assunção,Fundamental,Solteiro(a),1660.00,D,1,361.64,E-commerce,52,Não,2,1,5,3,3,5,Outro
+95,47,Masculino,Demarchi,Superior incompleto,Solteiro(a),1850.00,D,2,200.00,E-commerce,61,Sim,5,1,5,3,3,5,Xiaomi
+96,30,Masculino,Taboão,Superior completo,Solteiro(a),2630.00,D,1,589.36,Operadora,19,Sim,5,1,4,2,4,7,Motorola
+97,37,Masculino,Paulicéia,Superior incompleto,Casado(a),4380.00,C,1,486.67,E-commerce,43,Não,4,3,5,4,4,9,Xiaomi
+98,55,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2170.00,D,2,200.00,E-commerce,36,Não,5,1,5,2,4,5,Outro
+99,62,Masculino,Demarchi,Médio,Solteiro(a),3220.00,C,1,572.65,E-commerce,12,Sim,4,1,4,3,2,3,Samsung
+100,43,Feminino,Baeta Neves,Superior completo,Casado(a),1300.00,D,1,543.33,Marketplace,5,Não,5,2,5,4,5,9,Samsung
+101,52,Masculino,Baeta Neves,Pós-graduação,Casado(a),3140.00,C,2,1025.49,Loja física,52,Sim,5,2,5,4,4,8,Motorola
+102,63,Feminino,Jardim do Mar,Médio,Casado(a),2020.00,D,0,474.94,Loja física,22,Sim,5,2,5,5,4,7,Xiaomi
+103,43,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),3990.00,C,1,315.05,Operadora,34,Não,5,3,4,3,4,7,Samsung
+104,56,Masculino,Bairro Assunção,Pós-graduação,Casado(a),8060.00,B,1,661.42,E-commerce,15,Sim,3,4,3,2,3,6,Outro
+105,18,Feminino,Bairro Assunção,Superior completo,Solteiro(a),4510.00,C,0,834.02,Marketplace,14,Não,3,3,4,5,3,4,Apple
+106,70,Masculino,Taboão,Superior incompleto,Casado(a),2540.00,D,1,918.30,Loja física,71,Não,4,2,4,3,4,4,Outro
+107,46,Masculino,Bairro Assunção,Superior incompleto,Casado(a),1580.00,D,1,658.90,E-commerce,58,Não,5,1,4,3,3,5,Outro
+108,62,Feminino,Demarchi,Pós-graduação,Casado(a),4660.00,C,0,749.19,Operadora,54,Sim,5,1,5,4,3,5,Xiaomi
+109,42,Masculino,Paulicéia,Superior incompleto,Solteiro(a),3000.00,C,0,436.85,Loja física,16,Sim,5,3,4,3,4,7,Samsung
+110,32,Feminino,Centro,Médio,Solteiro(a),2620.00,D,2,374.42,Loja física,42,Não,4,1,3,3,3,3,Motorola
+111,51,Masculino,Centro,Fundamental,Solteiro(a),1790.00,D,0,562.67,Loja física,68,Não,4,1,5,4,4,10,Xiaomi
+112,18,Masculino,Taboão,Fundamental,Casado(a),2780.00,D,0,572.18,Loja física,10,Não,5,3,5,3,4,6,Xiaomi
+113,27,Feminino,Centro,Fundamental,Solteiro(a),1870.00,D,1,200.00,Marketplace,18,Não,4,1,2,3,3,3,Apple
+114,41,Feminino,Centro,Superior completo,Casado(a),1770.00,D,2,200.11,Operadora,41,Não,5,2,5,4,3,6,Apple
+115,27,Feminino,Jardim do Mar,Médio,Solteiro(a),4250.00,C,0,459.14,Marketplace,62,Não,2,2,3,3,2,2,Apple
+116,35,Feminino,Nova Petrópolis,Pós-graduação,União estável,3960.00,C,2,536.98,E-commerce,51,Não,3,3,4,2,3,5,Samsung
+117,42,Feminino,Taboão,Superior completo,Solteiro(a),5430.00,C,2,578.56,Loja física,18,Não,5,4,5,5,4,7,Motorola
+118,21,Masculino,Ferrazópolis,Médio,Solteiro(a),3290.00,C,1,638.10,E-commerce,8,Não,5,5,5,3,3,8,Motorola
+119,68,Masculino,Paulicéia,Superior incompleto,Solteiro(a),4410.00,C,1,606.72,Loja física,67,Não,3,1,4,2,2,4,Samsung
+120,50,Masculino,Paulicéia,Pós-graduação,Casado(a),10270.00,B,1,1082.14,E-commerce,46,Sim,5,3,3,4,4,6,Samsung
+121,20,Masculino,Baeta Neves,Superior completo,Solteiro(a),4120.00,C,0,834.73,Loja física,47,Não,5,1,4,5,4,8,Outro
+122,70,Masculino,Centro,Fundamental,Divorciado(a),1370.00,D,0,200.00,Marketplace,55,Não,4,1,5,3,3,7,Samsung
+123,40,Feminino,Demarchi,Fundamental,Solteiro(a),1400.00,D,1,440.67,Operadora,38,Não,4,2,4,3,3,7,Apple
+124,37,Masculino,Bairro Assunção,Médio,Casado(a),2140.00,D,3,546.40,E-commerce,39,Sim,5,2,4,3,4,5,Motorola
+125,59,Feminino,Bairro Assunção,Médio,Solteiro(a),1380.00,D,1,539.70,Marketplace,58,Não,3,3,4,3,3,3,Motorola
+126,26,Feminino,Paulicéia,Fundamental,União estável,1300.00,D,1,370.09,Loja física,37,Não,2,2,2,5,2,4,Xiaomi
+127,68,Feminino,Bairro Assunção,Pós-graduação,Divorciado(a),7100.00,B,5,532.20,Loja física,58,Não,3,4,3,2,4,6,Motorola
+128,43,Feminino,Demarchi,Fundamental,Solteiro(a),3220.00,C,1,457.97,Operadora,24,Não,2,4,4,4,4,6,Xiaomi
+129,58,Masculino,Taboão,Pós-graduação,Solteiro(a),5470.00,C,1,618.00,E-commerce,2,Sim,3,3,2,3,2,1,Motorola
+130,50,Masculino,Demarchi,Superior completo,Solteiro(a),2430.00,D,0,484.90,E-commerce,28,Sim,4,3,3,3,3,4,Xiaomi
+131,68,Feminino,Ferrazópolis,Pós-graduação,Casado(a),2640.00,D,1,801.31,E-commerce,7,Não,3,1,4,4,3,7,Xiaomi
+132,67,Masculino,Demarchi,Superior incompleto,Solteiro(a),2710.00,D,0,304.22,Loja física,57,Não,2,3,3,4,2,2,Motorola
+133,63,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),6040.00,B,2,755.04,Operadora,47,Não,4,3,3,3,4,8,Samsung
+134,22,Masculino,Rudge Ramos,Pós-graduação,Casado(a),3040.00,C,1,200.00,E-commerce,20,Não,4,3,4,4,4,6,Samsung
+135,70,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),5610.00,C,0,499.79,E-commerce,46,Não,5,2,4,3,4,6,Xiaomi
+136,22,Feminino,Baeta Neves,Superior incompleto,Casado(a),5420.00,C,0,562.13,E-commerce,57,Não,5,3,5,3,4,7,Xiaomi
+137,29,Feminino,Jardim do Mar,Superior completo,Casado(a),2600.00,D,2,454.29,E-commerce,10,Sim,5,2,5,4,4,7,Outro
+138,61,Masculino,Rudge Ramos,Superior completo,Solteiro(a),2040.00,D,1,590.74,Operadora,21,Sim,1,2,2,3,1,0,Outro
+139,56,Masculino,Taboão,Superior completo,Divorciado(a),7570.00,B,3,963.77,Loja física,36,Sim,3,4,5,1,4,10,Samsung
+140,63,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),4870.00,C,0,200.00,E-commerce,58,Não,3,2,4,2,2,5,Motorola
+141,70,Feminino,Rudge Ramos,Superior completo,Casado(a),2340.00,D,0,365.69,Operadora,68,Sim,3,2,4,2,3,6,Apple
+142,53,Masculino,Taboão,Médio,Solteiro(a),1840.00,D,0,695.59,Marketplace,53,Sim,5,1,4,3,3,5,Motorola
+143,39,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),5650.00,C,1,739.09,E-commerce,10,Não,4,2,3,4,3,5,Apple
+144,60,Masculino,Centro,Pós-graduação,Casado(a),3490.00,C,3,499.26,Loja física,69,Não,3,2,2,4,3,4,Samsung
+145,24,Feminino,Taboão,Pós-graduação,Casado(a),2050.00,D,0,401.44,Operadora,40,Sim,5,1,4,5,3,6,Xiaomi
+146,19,Feminino,Ferrazópolis,Superior completo,Casado(a),1710.00,D,2,200.00,E-commerce,25,Sim,2,3,3,3,2,2,Xiaomi
+147,67,Feminino,Bairro Assunção,Médio,Divorciado(a),3810.00,C,1,543.24,Operadora,10,Não,3,3,3,4,3,4,Apple
+148,66,Masculino,Rudge Ramos,Pós-graduação,Casado(a),5070.00,C,0,232.87,E-commerce,5,Sim,4,3,5,3,4,8,Samsung
+149,31,Masculino,Rudge Ramos,Médio,Casado(a),5000.00,C,1,559.92,Loja física,59,Sim,3,2,3,4,3,6,Outro
+150,53,Masculino,Jardim do Mar,Pós-graduação,Casado(a),1300.00,D,3,756.41,Loja física,21,Não,5,3,5,4,5,8,Samsung
+151,22,Masculino,Nova Petrópolis,Fundamental,Casado(a),2130.00,D,1,627.96,Operadora,13,Não,5,2,5,3,4,7,Motorola
+152,66,Feminino,Demarchi,Superior completo,União estável,2390.00,D,1,262.26,Loja física,16,Não,4,2,5,3,4,7,Outro
+153,43,Feminino,Baeta Neves,Superior incompleto,União estável,1470.00,D,0,437.56,Loja física,19,Não,4,2,3,3,3,5,Samsung
+154,43,Feminino,Nova Petrópolis,Pós-graduação,Divorciado(a),3320.00,C,1,794.58,E-commerce,17,Não,3,3,2,3,4,5,Outro
+155,39,Feminino,Nova Petrópolis,Superior completo,União estável,3680.00,C,1,486.21,Loja física,65,Não,4,3,4,3,3,5,Samsung
+156,62,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),4820.00,C,3,695.12,Operadora,51,Não,3,3,3,3,2,2,Samsung
+157,63,Feminino,Demarchi,Pós-graduação,Solteiro(a),8590.00,B,3,980.79,E-commerce,10,Não,5,3,3,3,4,7,Outro
+158,66,Feminino,Rudge Ramos,Médio,Solteiro(a),1730.00,D,0,460.62,Operadora,2,Sim,5,1,5,1,4,7,Xiaomi
+159,63,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),4340.00,C,2,481.75,Marketplace,71,Não,3,1,2,3,2,2,Xiaomi
+160,25,Masculino,Baeta Neves,Médio,Divorciado(a),1840.00,D,0,919.99,Loja física,30,Não,3,1,4,3,3,5,Apple
+161,66,Feminino,Demarchi,Fundamental,Solteiro(a),1350.00,D,0,743.98,Operadora,35,Não,4,3,5,2,4,9,Outro
+162,18,Masculino,Jardim do Mar,Superior incompleto,Casado(a),4340.00,C,0,642.94,Loja física,13,Não,5,3,5,3,4,8,Apple
+163,62,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),4790.00,C,0,599.77,Marketplace,71,Não,5,1,4,5,4,8,Xiaomi
+164,36,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3210.00,C,2,635.34,Operadora,69,Não,4,2,4,3,4,5,Xiaomi
+165,55,Feminino,Paulicéia,Superior incompleto,Solteiro(a),3730.00,C,2,1046.04,Marketplace,17,Sim,5,2,5,3,4,7,Apple
+166,32,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),2880.00,D,0,574.94,Operadora,2,Sim,4,2,2,3,3,3,Apple
+167,45,Feminino,Nova Petrópolis,Superior completo,União estável,3730.00,C,3,809.73,Marketplace,30,Não,4,4,3,3,4,9,Motorola
+168,19,Feminino,Paulicéia,Pós-graduação,Solteiro(a),3500.00,C,1,317.12,E-commerce,65,Não,2,3,4,5,3,5,Outro
+169,43,Outro,Jardim do Mar,Médio,Casado(a),2240.00,D,0,558.03,Marketplace,35,Não,3,3,5,4,4,6,Apple
+170,69,Masculino,Baeta Neves,Superior incompleto,Casado(a),4380.00,C,1,955.98,Marketplace,49,Sim,4,3,2,3,3,4,Samsung
+171,69,Feminino,Rudge Ramos,Pós-graduação,União estável,3040.00,C,2,755.82,Operadora,33,Sim,4,3,3,3,4,6,Samsung
+172,56,Feminino,Centro,Fundamental,União estável,3720.00,C,0,898.92,Operadora,50,Sim,5,4,4,4,4,8,Outro
+173,33,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),6100.00,B,1,653.88,E-commerce,4,Sim,4,3,4,3,3,5,Outro
+174,27,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),3430.00,C,0,447.85,Operadora,6,Não,4,1,5,5,3,8,Xiaomi
+175,27,Feminino,Taboão,Pós-graduação,Casado(a),3580.00,C,2,755.81,E-commerce,61,Não,2,2,4,5,3,5,Motorola
+176,69,Feminino,Paulicéia,Superior completo,Solteiro(a),3170.00,C,0,341.74,E-commerce,49,Sim,4,5,4,2,4,7,Samsung
+177,23,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2160.00,D,1,790.43,Operadora,37,Não,3,2,2,4,3,4,Samsung
+178,29,Feminino,Paulicéia,Superior completo,União estável,3510.00,C,1,806.20,Operadora,30,Sim,4,3,4,5,4,6,Outro
+179,34,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),2310.00,D,1,963.60,Operadora,49,Sim,5,1,5,4,5,7,Xiaomi
+180,61,Feminino,Nova Petrópolis,Médio,Solteiro(a),1730.00,D,0,338.90,E-commerce,45,Não,5,1,3,2,3,5,Samsung
+181,25,Masculino,Taboão,Pós-graduação,Casado(a),2180.00,D,1,273.33,Operadora,35,Sim,4,2,4,5,4,6,Xiaomi
+182,33,Feminino,Ferrazópolis,Superior incompleto,Casado(a),2260.00,D,0,621.49,Operadora,17,Sim,4,3,4,3,3,4,Xiaomi
+183,66,Masculino,Demarchi,Pós-graduação,Solteiro(a),2610.00,D,2,555.58,Marketplace,70,Não,4,1,3,3,3,5,Samsung
+184,42,Masculino,Bairro Assunção,Pós-graduação,Casado(a),2090.00,D,2,244.66,Marketplace,19,Sim,4,1,5,3,4,6,Samsung
+185,21,Masculino,Centro,Fundamental,Casado(a),1460.00,D,0,661.70,Operadora,21,Não,5,2,5,5,3,6,Xiaomi
+186,40,Feminino,Centro,Superior incompleto,Solteiro(a),2650.00,D,2,932.10,Marketplace,15,Não,5,2,4,3,3,5,Apple
+187,22,Feminino,Baeta Neves,Fundamental,Casado(a),1780.00,D,0,906.55,Marketplace,35,Não,5,1,4,5,4,6,Samsung
+188,42,Feminino,Ferrazópolis,Superior completo,Casado(a),3500.00,C,1,569.88,Marketplace,40,Não,5,2,5,4,3,5,Motorola
+189,43,Masculino,Rudge Ramos,Pós-graduação,Casado(a),5610.00,C,3,342.03,Operadora,34,Sim,3,4,4,2,4,5,Motorola
+190,46,Feminino,Demarchi,Fundamental,Casado(a),2530.00,D,0,362.71,Loja física,21,Não,4,2,5,5,3,6,Outro
+191,31,Masculino,Baeta Neves,Fundamental,Casado(a),1300.00,D,1,241.91,Loja física,32,Não,5,1,5,4,4,9,Xiaomi
+192,19,Masculino,Paulicéia,Superior incompleto,Divorciado(a),4030.00,C,0,372.93,E-commerce,11,Não,3,3,3,4,4,7,Apple
+193,37,Masculino,Centro,Superior incompleto,Solteiro(a),2610.00,D,0,518.73,Marketplace,38,Não,3,3,3,4,2,2,Apple
+194,68,Feminino,Centro,Superior incompleto,Casado(a),3470.00,C,2,320.09,Loja física,36,Sim,2,3,3,5,2,3,Outro
+195,31,Feminino,Jardim do Mar,Superior incompleto,Casado(a),3170.00,C,3,200.00,E-commerce,37,Não,3,2,3,4,3,4,Xiaomi
+196,47,Feminino,Paulicéia,Fundamental,Divorciado(a),2480.00,D,0,269.33,Operadora,68,Não,4,2,5,4,3,4,Apple
+197,66,Feminino,Nova Petrópolis,Superior completo,Viúvo(a),7800.00,B,1,1184.60,Loja física,44,Não,5,2,5,4,4,7,Xiaomi
+198,43,Feminino,Taboão,Pós-graduação,Casado(a),3360.00,C,1,684.10,Operadora,64,Não,3,1,3,4,2,2,Outro
+199,27,Feminino,Demarchi,Médio,Solteiro(a),3640.00,C,1,368.80,Operadora,68,Não,5,4,4,5,4,8,Motorola
+200,28,Feminino,Bairro Assunção,Fundamental,Solteiro(a),2100.00,D,1,607.79,Operadora,70,Não,4,2,4,5,4,7,Xiaomi
+201,32,Masculino,Paulicéia,Fundamental,Casado(a),2200.00,D,0,456.94,E-commerce,59,Sim,3,1,3,5,3,6,Outro
+202,32,Outro,Bairro Assunção,Superior completo,Casado(a),2640.00,D,0,466.94,E-commerce,45,Sim,5,3,5,4,4,8,Samsung
+203,57,Masculino,Bairro Assunção,Superior incompleto,Casado(a),1510.00,D,0,377.27,Loja física,27,Não,5,1,3,3,4,7,Apple
+204,69,Feminino,Baeta Neves,Superior completo,Casado(a),4600.00,C,0,927.07,Marketplace,34,Não,4,3,4,4,4,5,Motorola
+205,69,Feminino,Centro,Superior completo,Casado(a),4840.00,C,1,429.60,Operadora,36,Não,4,5,5,4,5,10,Apple
+206,21,Masculino,Nova Petrópolis,Superior completo,Casado(a),1300.00,D,3,509.23,Marketplace,53,Não,5,4,5,4,5,8,Motorola
+207,65,Feminino,Bairro Assunção,Superior completo,Solteiro(a),3400.00,C,1,411.67,Loja física,47,Sim,4,2,5,2,4,7,Motorola
+208,58,Masculino,Demarchi,Fundamental,Solteiro(a),2460.00,D,0,214.54,E-commerce,35,Não,5,5,5,3,4,8,Motorola
+209,24,Feminino,Paulicéia,Pós-graduação,Casado(a),3290.00,C,2,766.87,E-commerce,41,Sim,3,3,3,5,2,3,Apple
+210,69,Masculino,Centro,Superior incompleto,União estável,3810.00,C,2,841.55,E-commerce,54,Sim,4,3,3,2,3,5,Xiaomi
+211,33,Masculino,Rudge Ramos,Pós-graduação,Viúvo(a),2870.00,D,1,521.80,E-commerce,26,Sim,4,2,5,3,4,6,Xiaomi
+212,48,Feminino,Ferrazópolis,Superior completo,Casado(a),3510.00,C,0,789.32,E-commerce,27,Não,5,2,4,4,4,9,Outro
+213,18,Feminino,Jardim do Mar,Pós-graduação,Casado(a),7070.00,B,3,711.49,Loja física,69,Não,5,4,4,5,5,7,Apple
+214,50,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),1740.00,D,0,601.14,Marketplace,66,Não,4,1,3,3,4,4,Outro
+215,35,Outro,Baeta Neves,Fundamental,Divorciado(a),2700.00,D,1,546.16,Marketplace,59,Sim,5,2,5,5,5,7,Outro
+216,47,Feminino,Jardim do Mar,Superior completo,Divorciado(a),2770.00,D,0,289.92,Loja física,2,Sim,3,2,2,3,2,1,Samsung
+217,51,Feminino,Rudge Ramos,Médio,Casado(a),2050.00,D,1,391.04,Operadora,70,Sim,3,1,4,3,3,3,Samsung
+218,42,Feminino,Nova Petrópolis,Médio,Solteiro(a),4470.00,C,2,616.51,Operadora,47,Sim,4,2,4,4,4,7,Xiaomi
+219,51,Outro,Nova Petrópolis,Superior completo,Divorciado(a),3370.00,C,2,629.49,E-commerce,16,Não,3,3,5,4,4,6,Motorola
+220,38,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),3210.00,C,1,200.00,Marketplace,41,Sim,4,3,5,5,4,6,Motorola
+221,38,Feminino,Paulicéia,Superior incompleto,Casado(a),2920.00,D,2,445.37,Loja física,56,Sim,5,3,4,3,4,4,Apple
+222,36,Masculino,Baeta Neves,Superior completo,Divorciado(a),1870.00,D,0,747.56,Loja física,72,Não,5,2,5,3,4,9,Outro
+223,68,Masculino,Nova Petrópolis,Fundamental,Viúvo(a),4310.00,C,0,556.01,Operadora,5,Sim,3,2,3,5,2,4,Xiaomi
+224,18,Feminino,Baeta Neves,Pós-graduação,Casado(a),4130.00,C,1,219.11,Loja física,26,Não,2,2,3,3,2,1,Outro
+225,25,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2200.00,D,2,696.54,Loja física,55,Sim,3,2,4,5,3,5,Outro
+226,23,Masculino,Ferrazópolis,Superior completo,União estável,2350.00,D,3,644.32,Operadora,6,Não,4,2,5,5,4,7,Motorola
+227,52,Masculino,Paulicéia,Superior completo,Casado(a),3370.00,C,0,392.37,Loja física,9,Sim,5,2,4,4,4,6,Xiaomi
+228,59,Feminino,Nova Petrópolis,Pós-graduação,União estável,5670.00,C,2,347.98,Marketplace,6,Não,3,2,1,4,2,2,Apple
+229,38,Feminino,Baeta Neves,Superior completo,Solteiro(a),2070.00,D,0,643.17,E-commerce,24,Sim,5,1,4,3,3,3,Xiaomi
+230,59,Feminino,Demarchi,Médio,Casado(a),1840.00,D,0,381.02,Operadora,53,Sim,5,2,4,3,4,5,Samsung
+231,26,Masculino,Centro,Pós-graduação,Casado(a),4290.00,C,3,200.00,Loja física,60,Não,4,2,3,5,3,4,Samsung
+232,29,Feminino,Demarchi,Superior incompleto,Solteiro(a),2060.00,D,1,200.00,Marketplace,3,Sim,4,2,3,3,2,4,Apple
+233,59,Feminino,Baeta Neves,Superior incompleto,União estável,2560.00,D,1,457.68,Loja física,57,Sim,5,5,4,5,5,7,Apple
+234,53,Feminino,Taboão,Médio,Solteiro(a),3000.00,C,1,919.65,E-commerce,53,Não,3,2,5,5,3,6,Outro
+235,33,Feminino,Baeta Neves,Fundamental,Solteiro(a),1300.00,D,1,603.46,Loja física,3,Não,5,2,2,3,3,2,Apple
+236,60,Masculino,Taboão,Fundamental,União estável,3460.00,C,3,233.30,Loja física,44,Não,5,2,5,4,3,5,Motorola
+237,67,Masculino,Taboão,Médio,Casado(a),2030.00,D,2,319.28,E-commerce,69,Sim,4,2,4,5,3,6,Motorola
+238,33,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),8210.00,B,1,1181.31,E-commerce,22,Sim,4,2,5,5,2,5,Motorola
+239,30,Masculino,Centro,Superior incompleto,Casado(a),6150.00,B,3,443.53,Marketplace,69,Não,5,3,4,1,5,8,Xiaomi
+240,63,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),7280.00,B,2,982.19,Loja física,14,Não,5,1,5,4,4,8,Apple
+241,20,Masculino,Taboão,Fundamental,Solteiro(a),1420.00,D,1,244.90,Operadora,17,Não,4,2,4,5,4,7,Motorola
+242,28,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1300.00,D,0,342.06,Operadora,52,Não,4,1,4,5,3,4,Xiaomi
+243,51,Feminino,Paulicéia,Médio,Casado(a),2310.00,D,1,200.00,Loja física,70,Sim,4,1,4,4,3,6,Outro
+244,45,Masculino,Demarchi,Superior completo,Casado(a),4670.00,C,2,530.47,Loja física,70,Não,3,4,4,4,4,7,Xiaomi
+245,20,Masculino,Rudge Ramos,Superior completo,União estável,4170.00,C,0,565.66,Loja física,9,Sim,5,2,5,5,4,7,Apple
+246,27,Feminino,Jardim do Mar,Superior incompleto,União estável,2440.00,D,1,383.90,Marketplace,67,Não,3,1,3,5,3,4,Motorola
+247,65,Feminino,Baeta Neves,Médio,União estável,1300.00,D,0,888.12,Operadora,36,Não,4,2,4,5,4,8,Samsung
+248,22,Masculino,Nova Petrópolis,Médio,União estável,2450.00,D,0,724.41,Marketplace,60,Sim,5,2,5,5,4,8,Outro
+249,36,Masculino,Baeta Neves,Médio,Solteiro(a),1300.00,D,0,235.70,E-commerce,64,Não,5,2,5,3,5,8,Xiaomi
+250,19,Feminino,Jardim do Mar,Superior completo,Casado(a),3250.00,C,2,302.30,Marketplace,7,Não,3,5,4,5,4,6,Apple
+251,31,Masculino,Paulicéia,Superior completo,Solteiro(a),2990.00,D,0,721.78,Marketplace,12,Não,4,2,5,5,3,5,Apple
+252,30,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),1680.00,D,0,200.00,Marketplace,26,Sim,4,1,5,3,3,7,Motorola
+253,59,Masculino,Paulicéia,Pós-graduação,Solteiro(a),8480.00,B,2,704.93,Operadora,69,Não,3,4,4,3,3,4,Apple
+254,44,Masculino,Centro,Fundamental,Viúvo(a),2300.00,D,1,672.35,Loja física,67,Não,4,1,5,1,3,6,Outro
+255,48,Masculino,Paulicéia,Superior completo,Solteiro(a),4440.00,C,1,495.72,Marketplace,40,Não,4,1,5,3,4,8,Apple
+256,59,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),4820.00,C,1,442.58,E-commerce,59,Não,4,2,3,2,3,5,Outro
+257,19,Masculino,Bairro Assunção,Fundamental,Divorciado(a),1420.00,D,2,289.19,Marketplace,71,Não,5,2,5,3,4,8,Outro
+258,25,Feminino,Ferrazópolis,Superior incompleto,Casado(a),2940.00,D,0,294.83,Operadora,24,Não,3,3,4,5,2,2,Xiaomi
+259,31,Masculino,Paulicéia,Médio,União estável,1300.00,D,0,644.16,E-commerce,57,Não,4,1,4,3,2,4,Motorola
+260,57,Masculino,Bairro Assunção,Superior completo,Viúvo(a),3180.00,C,0,508.31,E-commerce,37,Não,3,3,5,2,4,6,Apple
+261,32,Masculino,Jardim do Mar,Fundamental,Casado(a),1530.00,D,1,322.05,Loja física,40,Não,3,1,4,3,3,5,Samsung
+262,23,Masculino,Rudge Ramos,Médio,Casado(a),2200.00,D,1,450.65,Loja física,20,Não,4,4,5,5,4,5,Apple
+263,67,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),3670.00,C,0,703.24,Operadora,67,Não,3,2,3,5,3,5,Xiaomi
+264,34,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2140.00,D,2,327.10,Marketplace,48,Sim,3,3,4,4,4,7,Motorola
+265,25,Feminino,Demarchi,Superior completo,Solteiro(a),4470.00,C,0,650.97,Operadora,34,Sim,5,3,4,5,4,6,Samsung
+266,48,Feminino,Baeta Neves,Fundamental,Solteiro(a),2830.00,D,4,262.56,Marketplace,50,Não,2,2,4,5,3,6,Apple
+267,58,Feminino,Taboão,Superior completo,Casado(a),3190.00,C,0,905.72,E-commerce,6,Sim,5,1,4,3,4,7,Xiaomi
+268,35,Masculino,Nova Petrópolis,Pós-graduação,União estável,10910.00,B,2,1100.41,Marketplace,69,Sim,5,5,5,2,4,9,Outro
+269,44,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),1910.00,D,1,200.00,Marketplace,26,Sim,4,1,4,5,3,6,Apple
+270,36,Outro,Nova Petrópolis,Médio,Casado(a),1380.00,D,1,308.42,Operadora,1,Não,5,3,5,3,4,7,Motorola
+271,69,Feminino,Centro,Fundamental,Viúvo(a),4730.00,C,1,463.80,Loja física,64,Não,5,2,2,1,4,4,Motorola
+272,67,Masculino,Baeta Neves,Superior completo,Divorciado(a),5250.00,C,1,595.99,Loja física,19,Sim,4,1,5,3,4,10,Xiaomi
+273,41,Feminino,Baeta Neves,Pós-graduação,União estável,5930.00,C,4,1149.24,Operadora,54,Não,4,4,4,5,5,7,Outro
+274,41,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),5340.00,C,1,602.32,E-commerce,34,Sim,5,2,3,5,4,6,Outro
+275,38,Masculino,Nova Petrópolis,Fundamental,Casado(a),4060.00,C,0,506.17,E-commerce,25,Sim,4,3,3,2,3,5,Apple
+276,45,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),1970.00,D,1,242.42,Loja física,48,Não,3,1,3,3,2,4,Xiaomi
+277,57,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),3550.00,C,3,565.03,E-commerce,28,Sim,4,1,4,2,2,4,Outro
+278,56,Feminino,Centro,Pós-graduação,Casado(a),5190.00,C,2,467.21,Marketplace,58,Não,4,1,3,2,3,5,Xiaomi
+279,43,Masculino,Ferrazópolis,Fundamental,Solteiro(a),1300.00,D,0,200.00,Operadora,37,Não,3,1,3,3,2,6,Motorola
+280,31,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),1960.00,D,1,296.04,Operadora,7,Sim,3,1,4,3,2,4,Samsung
+281,41,Feminino,Ferrazópolis,Médio,Casado(a),5540.00,C,0,623.46,Operadora,12,Não,3,5,3,2,4,6,Outro
+282,70,Masculino,Demarchi,Superior completo,Solteiro(a),2090.00,D,1,360.14,Operadora,38,Sim,3,3,3,2,3,3,Samsung
+283,29,Feminino,Jardim do Mar,Fundamental,Casado(a),2630.00,D,1,451.26,Loja física,35,Sim,3,4,4,4,4,6,Motorola
+284,19,Feminino,Rudge Ramos,Superior completo,Divorciado(a),2960.00,D,1,741.66,Operadora,58,Sim,5,3,5,4,5,8,Samsung
+285,28,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2570.00,D,2,226.12,Loja física,27,Sim,5,2,5,3,4,6,Xiaomi
+286,18,Feminino,Taboão,Superior completo,Casado(a),1640.00,D,2,478.58,Marketplace,10,Não,4,3,4,4,3,4,Samsung
+287,61,Feminino,Centro,Superior completo,Casado(a),4270.00,C,1,785.40,Loja física,14,Sim,3,2,5,1,4,9,Outro
+288,30,Feminino,Nova Petrópolis,Fundamental,Casado(a),1300.00,D,1,702.64,Marketplace,32,Não,5,3,5,4,4,9,Apple
+289,67,Masculino,Paulicéia,Pós-graduação,Divorciado(a),3390.00,C,1,532.07,Marketplace,72,Não,3,3,4,3,4,8,Samsung
+290,57,Feminino,Baeta Neves,Superior incompleto,Divorciado(a),2820.00,D,0,651.17,Operadora,22,Não,4,2,3,4,4,6,Xiaomi
+291,38,Feminino,Paulicéia,Médio,Solteiro(a),2720.00,D,2,745.06,Loja física,13,Não,4,2,3,1,2,4,Motorola
+292,53,Masculino,Paulicéia,Pós-graduação,Solteiro(a),6440.00,B,3,589.62,E-commerce,20,Não,5,4,3,4,4,4,Xiaomi
+293,43,Masculino,Baeta Neves,Superior completo,Casado(a),2150.00,D,2,324.33,Loja física,60,Sim,3,4,5,2,3,3,Samsung
+294,28,Masculino,Bairro Assunção,Superior completo,Solteiro(a),4520.00,C,0,502.03,Loja física,21,Não,5,1,5,4,3,6,Motorola
+295,21,Masculino,Centro,Superior incompleto,Casado(a),4880.00,C,0,510.75,Loja física,34,Sim,2,4,3,4,2,3,Motorola
+296,44,Feminino,Jardim do Mar,Médio,Casado(a),1800.00,D,5,211.41,E-commerce,7,Não,3,2,3,2,2,3,Apple
+297,26,Masculino,Taboão,Pós-graduação,Solteiro(a),1590.00,D,0,374.90,Loja física,57,Não,5,2,4,5,4,7,Outro
+298,34,Masculino,Paulicéia,Superior incompleto,Solteiro(a),2340.00,D,0,628.02,E-commerce,9,Não,5,2,3,4,4,6,Samsung
+299,52,Masculino,Demarchi,Superior completo,Solteiro(a),5550.00,C,0,624.25,Operadora,45,Não,5,4,4,5,4,6,Motorola
+300,38,Feminino,Taboão,Médio,Solteiro(a),4310.00,C,1,663.07,Operadora,67,Não,5,1,3,4,4,5,Samsung
+301,61,Feminino,Rudge Ramos,Pós-graduação,Casado(a),2780.00,D,2,289.01,Marketplace,56,Não,3,1,3,3,4,6,Motorola
+302,46,Feminino,Demarchi,Médio,Casado(a),2710.00,D,1,637.80,Loja física,57,Não,3,2,3,3,3,6,Motorola
+303,66,Masculino,Bairro Assunção,Superior completo,União estável,4840.00,C,1,278.01,E-commerce,70,Não,5,1,4,2,3,5,Outro
+304,52,Feminino,Nova Petrópolis,Superior incompleto,União estável,4580.00,C,1,548.50,Loja física,13,Não,5,3,4,1,3,7,Motorola
+305,55,Masculino,Ferrazópolis,Superior completo,Casado(a),4640.00,C,2,812.88,Operadora,42,Sim,4,4,4,2,3,4,Apple
+306,38,Masculino,Rudge Ramos,Médio,Casado(a),4640.00,C,0,538.41,Marketplace,39,Não,4,3,4,4,3,4,Outro
+307,41,Masculino,Centro,Superior completo,Casado(a),4500.00,C,0,426.78,Operadora,56,Não,5,3,5,3,4,8,Samsung
+308,60,Masculino,Centro,Superior completo,Solteiro(a),3340.00,C,3,839.65,Marketplace,55,Não,5,2,4,4,4,8,Xiaomi
+309,34,Feminino,Paulicéia,Médio,Casado(a),2710.00,D,0,328.81,Marketplace,17,Não,4,4,5,4,5,7,Xiaomi
+310,21,Feminino,Centro,Médio,Divorciado(a),2540.00,D,2,414.21,Marketplace,23,Sim,3,3,4,5,4,4,Apple
+311,42,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),3810.00,C,0,471.36,Operadora,36,Não,4,4,5,3,5,8,Xiaomi
+312,55,Masculino,Baeta Neves,Fundamental,Solteiro(a),1300.00,D,0,273.48,E-commerce,6,Sim,4,2,5,2,3,7,Samsung
+313,46,Masculino,Centro,Fundamental,Solteiro(a),1720.00,D,2,722.87,E-commerce,68,Não,4,1,4,5,2,4,Samsung
+314,48,Feminino,Paulicéia,Fundamental,Casado(a),2650.00,D,1,200.00,Loja física,35,Não,4,1,4,4,4,4,Samsung
+315,22,Feminino,Baeta Neves,Superior completo,Casado(a),4330.00,C,0,486.93,E-commerce,41,Não,5,4,5,5,5,8,Motorola
+316,55,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),5740.00,C,0,560.14,Marketplace,63,Sim,2,2,5,2,2,5,Motorola
+317,52,Masculino,Bairro Assunção,Pós-graduação,Casado(a),1300.00,D,2,529.88,Marketplace,68,Sim,5,1,3,1,2,4,Motorola
+318,64,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),6720.00,B,3,539.25,E-commerce,21,Não,5,1,5,5,3,6,Motorola
+319,57,Feminino,Taboão,Médio,Casado(a),2820.00,D,1,656.57,E-commerce,46,Não,5,3,4,2,4,7,Motorola
+320,52,Feminino,Baeta Neves,Superior incompleto,Casado(a),1480.00,D,2,500.95,Operadora,41,Não,4,3,3,2,4,7,Motorola
+321,64,Feminino,Bairro Assunção,Fundamental,Casado(a),1780.00,D,1,200.00,Operadora,50,Sim,3,4,4,4,3,5,Apple
+322,33,Feminino,Bairro Assunção,Pós-graduação,Casado(a),1670.00,D,0,302.37,Loja física,12,Sim,5,2,4,2,4,6,Apple
+323,28,Feminino,Taboão,Médio,União estável,2740.00,D,1,430.31,Marketplace,12,Não,3,2,3,5,3,5,Samsung
+324,31,Feminino,Baeta Neves,Médio,Casado(a),2000.00,D,0,683.68,Operadora,12,Não,3,1,4,4,2,3,Samsung
+325,30,Outro,Paulicéia,Fundamental,Casado(a),1680.00,D,0,762.72,Operadora,9,Não,5,3,5,4,4,7,Apple
+326,35,Feminino,Jardim do Mar,Médio,Solteiro(a),6700.00,B,2,926.11,Marketplace,55,Sim,4,3,3,4,5,5,Apple
+327,61,Masculino,Rudge Ramos,Pós-graduação,União estável,4970.00,C,3,494.35,Operadora,50,Não,4,3,4,2,4,3,Apple
+328,24,Feminino,Demarchi,Superior incompleto,Casado(a),4130.00,C,2,636.93,Operadora,18,Não,4,2,5,3,4,6,Samsung
+329,45,Masculino,Rudge Ramos,Médio,Casado(a),2270.00,D,4,558.77,Loja física,35,Sim,4,2,4,4,3,5,Samsung
+330,62,Feminino,Paulicéia,Médio,Solteiro(a),2750.00,D,3,200.00,Marketplace,25,Sim,3,2,4,2,3,7,Outro
+331,50,Masculino,Paulicéia,Superior incompleto,Casado(a),2800.00,D,0,386.16,Loja física,48,Não,2,1,2,3,2,3,Samsung
+332,26,Feminino,Centro,Pós-graduação,Solteiro(a),5160.00,C,1,983.35,E-commerce,65,Sim,3,1,2,5,2,4,Samsung
+333,70,Masculino,Baeta Neves,Superior completo,Casado(a),5430.00,C,1,411.16,E-commerce,38,Sim,4,4,2,4,3,3,Outro
+334,25,Masculino,Centro,Superior incompleto,Solteiro(a),2770.00,D,0,594.68,Marketplace,47,Não,5,2,5,3,4,8,Motorola
+335,43,Feminino,Paulicéia,Pós-graduação,Casado(a),2440.00,D,1,527.11,Operadora,42,Não,5,1,5,4,4,7,Motorola
+336,23,Feminino,Taboão,Fundamental,Casado(a),3790.00,C,1,409.98,E-commerce,36,Não,5,4,5,5,4,5,Outro
+337,29,Masculino,Taboão,Pós-graduação,Casado(a),3580.00,C,3,716.84,Marketplace,45,Não,3,3,5,5,3,4,Apple
+338,42,Feminino,Demarchi,Médio,Solteiro(a),1300.00,D,1,310.39,E-commerce,37,Não,4,2,4,5,3,4,Motorola
+339,36,Masculino,Jardim do Mar,Fundamental,Casado(a),6590.00,B,2,1038.34,E-commerce,1,Sim,5,1,4,3,3,5,Samsung
+340,66,Feminino,Rudge Ramos,Superior incompleto,União estável,3660.00,C,0,1075.28,E-commerce,17,Não,5,2,3,1,4,4,Apple
+341,39,Masculino,Bairro Assunção,Médio,Casado(a),2570.00,D,1,478.73,Operadora,33,Não,3,2,3,4,2,3,Outro
+342,21,Feminino,Nova Petrópolis,Superior completo,Casado(a),1300.00,D,0,881.11,Operadora,34,Não,5,1,5,5,4,8,Xiaomi
+343,23,Feminino,Centro,Pós-graduação,Casado(a),4780.00,C,1,673.22,Marketplace,11,Sim,4,3,3,5,3,3,Xiaomi
+344,70,Feminino,Ferrazópolis,Superior completo,Casado(a),1900.00,D,1,200.00,E-commerce,53,Sim,4,1,3,3,3,5,Motorola
+345,49,Feminino,Centro,Superior completo,Viúvo(a),7320.00,B,2,686.31,E-commerce,11,Não,3,3,3,4,3,4,Apple
+346,64,Feminino,Centro,Superior incompleto,Casado(a),1300.00,D,0,387.62,E-commerce,42,Não,4,2,5,3,5,7,Motorola
+347,33,Feminino,Paulicéia,Médio,Solteiro(a),3510.00,C,0,921.24,E-commerce,27,Sim,3,4,4,4,3,5,Apple
+348,44,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),6330.00,B,1,731.29,Operadora,52,Não,3,3,3,5,3,3,Samsung
+349,35,Masculino,Ferrazópolis,Médio,Solteiro(a),2710.00,D,1,200.00,E-commerce,31,Não,4,2,4,4,2,5,Xiaomi
+350,54,Feminino,Rudge Ramos,Médio,Solteiro(a),2770.00,D,1,623.66,E-commerce,54,Não,4,2,5,5,3,4,Samsung
+351,37,Feminino,Jardim do Mar,Médio,Casado(a),2810.00,D,0,577.11,E-commerce,43,Sim,5,3,4,5,4,8,Apple
+352,24,Masculino,Centro,Superior completo,Solteiro(a),1330.00,D,1,413.14,E-commerce,23,Não,5,2,4,4,3,7,Apple
+353,49,Masculino,Ferrazópolis,Superior completo,Solteiro(a),2540.00,D,0,457.22,E-commerce,68,Sim,3,2,3,4,3,6,Samsung
+354,56,Feminino,Nova Petrópolis,Médio,Casado(a),3000.00,C,1,820.01,Marketplace,47,Sim,5,3,5,4,5,10,Motorola
+355,61,Feminino,Nova Petrópolis,Superior completo,União estável,5040.00,C,1,682.07,E-commerce,1,Não,4,4,4,4,4,6,Xiaomi
+356,62,Masculino,Rudge Ramos,Superior completo,Solteiro(a),5090.00,C,1,645.69,Marketplace,40,Não,3,2,3,3,2,3,Outro
+357,24,Masculino,Centro,Superior completo,Solteiro(a),1870.00,D,1,325.00,Operadora,54,Não,4,1,2,3,2,2,Apple
+358,19,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),4610.00,C,2,348.92,Loja física,26,Não,4,4,5,5,4,6,Samsung
+359,62,Masculino,Centro,Superior incompleto,Solteiro(a),4180.00,C,0,632.33,Marketplace,56,Não,4,4,3,4,3,5,Motorola
+360,52,Masculino,Rudge Ramos,Superior completo,Solteiro(a),1310.00,D,1,213.54,Marketplace,27,Sim,2,4,3,3,2,4,Xiaomi
+361,31,Masculino,Nova Petrópolis,Médio,Solteiro(a),1300.00,D,0,401.30,Loja física,41,Sim,2,4,3,5,3,5,Samsung
+362,22,Masculino,Baeta Neves,Superior completo,Casado(a),4440.00,C,1,200.00,Operadora,71,Não,5,3,4,5,5,6,Xiaomi
+363,32,Feminino,Paulicéia,Fundamental,Solteiro(a),2120.00,D,1,494.78,Marketplace,1,Sim,4,3,5,4,3,7,Outro
+364,24,Masculino,Rudge Ramos,Fundamental,União estável,3420.00,C,1,503.16,E-commerce,60,Não,3,5,3,4,4,6,Apple
+365,29,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),8170.00,B,3,889.67,Loja física,16,Sim,5,4,5,4,4,6,Samsung
+366,28,Feminino,Nova Petrópolis,Superior completo,Divorciado(a),5320.00,C,2,735.88,Marketplace,49,Não,4,5,5,5,4,7,Outro
+367,61,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),3080.00,C,2,596.18,Marketplace,1,Não,3,4,4,3,4,8,Apple
+368,25,Feminino,Taboão,Superior incompleto,Solteiro(a),2170.00,D,0,596.73,Loja física,49,Não,4,1,3,4,3,5,Outro
+369,65,Masculino,Centro,Superior incompleto,Solteiro(a),2950.00,D,0,458.62,Operadora,42,Não,5,2,4,1,4,8,Outro
+370,61,Feminino,Bairro Assunção,Fundamental,Casado(a),3100.00,C,1,681.24,Operadora,69,Não,2,1,1,4,1,2,Outro
+371,68,Masculino,Ferrazópolis,Fundamental,Casado(a),4240.00,C,0,606.04,Marketplace,19,Não,5,3,3,4,4,5,Apple
+372,19,Masculino,Baeta Neves,Fundamental,União estável,1300.00,D,0,200.00,Marketplace,10,Não,5,1,3,5,4,5,Samsung
+373,56,Masculino,Ferrazópolis,Fundamental,Solteiro(a),2480.00,D,1,670.60,E-commerce,22,Não,5,1,4,3,3,5,Apple
+374,20,Feminino,Baeta Neves,Médio,Casado(a),3480.00,C,2,496.55,Loja física,16,Sim,4,3,4,3,3,3,Apple
+375,53,Feminino,Paulicéia,Médio,Casado(a),4640.00,C,1,536.18,E-commerce,62,Não,4,2,4,4,4,8,Xiaomi
+376,56,Feminino,Baeta Neves,Superior incompleto,União estável,5280.00,C,0,977.44,Operadora,60,Não,3,2,4,5,3,6,Apple
+377,45,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),1680.00,D,3,356.31,Operadora,2,Não,3,3,4,3,3,4,Xiaomi
+378,28,Masculino,Bairro Assunção,Pós-graduação,Casado(a),1550.00,D,1,535.00,E-commerce,58,Sim,5,1,5,4,4,7,Outro
+379,35,Masculino,Bairro Assunção,Superior incompleto,União estável,3410.00,C,1,740.43,Loja física,64,Não,3,3,4,3,3,3,Motorola
+380,67,Masculino,Jardim do Mar,Fundamental,Solteiro(a),5370.00,C,1,543.95,E-commerce,64,Não,4,4,3,4,3,6,Motorola
+381,39,Masculino,Paulicéia,Médio,Casado(a),2790.00,D,0,722.52,Loja física,61,Não,5,1,5,5,3,6,Samsung
+382,35,Outro,Baeta Neves,Fundamental,Solteiro(a),2130.00,D,0,426.43,E-commerce,62,Sim,2,3,2,3,1,2,Motorola
+383,56,Feminino,Baeta Neves,Pós-graduação,Divorciado(a),2210.00,D,3,739.33,Marketplace,43,Sim,3,1,3,3,2,3,Outro
+384,65,Feminino,Bairro Assunção,Superior completo,União estável,2530.00,D,2,355.43,Operadora,11,Sim,4,2,5,3,3,8,Apple
+385,28,Masculino,Baeta Neves,Fundamental,Solteiro(a),1380.00,D,0,259.35,Operadora,3,Não,4,3,3,3,4,4,Outro
+386,38,Masculino,Centro,Superior completo,União estável,2780.00,D,0,573.37,Loja física,12,Não,5,1,5,2,4,6,Motorola
+387,43,Masculino,Rudge Ramos,Superior completo,Viúvo(a),2400.00,D,2,268.30,Loja física,48,Não,4,3,5,4,4,6,Xiaomi
+388,19,Masculino,Ferrazópolis,Superior completo,Solteiro(a),3780.00,C,0,867.49,Operadora,19,Sim,4,3,3,5,4,7,Apple
+389,45,Feminino,Bairro Assunção,Superior completo,Casado(a),5700.00,C,0,598.19,E-commerce,56,Sim,3,3,5,5,4,5,Apple
+390,70,Masculino,Rudge Ramos,Superior completo,Solteiro(a),3120.00,C,1,815.89,E-commerce,24,Não,1,4,2,3,3,1,Motorola
+391,26,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),2650.00,D,1,273.10,Loja física,11,Não,4,3,4,4,3,4,Motorola
+392,66,Masculino,Baeta Neves,Superior completo,Casado(a),2680.00,D,1,682.08,E-commerce,12,Não,3,2,3,2,2,4,Xiaomi
+393,38,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),7790.00,B,4,783.21,E-commerce,69,Sim,4,1,4,5,3,6,Samsung
+394,37,Feminino,Bairro Assunção,Superior incompleto,Casado(a),1670.00,D,3,285.14,Operadora,29,Sim,4,4,4,2,5,6,Outro
+395,22,Feminino,Centro,Médio,Solteiro(a),2470.00,D,0,571.41,Operadora,24,Não,3,1,2,5,3,1,Samsung
+396,27,Masculino,Rudge Ramos,Fundamental,Casado(a),1300.00,D,0,495.31,E-commerce,53,Não,5,1,5,5,4,9,Outro
+397,44,Feminino,Ferrazópolis,Médio,Solteiro(a),1300.00,D,0,577.16,Loja física,6,Não,5,4,3,4,4,5,Samsung
+398,46,Masculino,Baeta Neves,Pós-graduação,Casado(a),3000.00,C,0,371.32,E-commerce,46,Não,4,3,3,5,3,5,Xiaomi
+399,37,Feminino,Jardim do Mar,Superior completo,Solteiro(a),3210.00,C,1,200.00,Operadora,54,Não,4,3,4,2,3,6,Apple
+400,60,Feminino,Paulicéia,Superior completo,Solteiro(a),2250.00,D,0,560.51,E-commerce,58,Sim,3,2,5,2,3,5,Apple
+401,23,Masculino,Centro,Superior incompleto,Solteiro(a),1660.00,D,1,256.43,Loja física,69,Sim,3,3,3,4,3,4,Motorola
+402,36,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),2010.00,D,2,401.54,Marketplace,5,Sim,2,4,4,3,3,6,Apple
+403,31,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),2370.00,D,0,572.62,Loja física,18,Sim,2,1,2,5,2,2,Samsung
+404,44,Feminino,Paulicéia,Pós-graduação,Solteiro(a),3300.00,C,3,541.96,Marketplace,1,Não,4,2,4,1,3,3,Samsung
+405,57,Feminino,Paulicéia,Superior completo,Casado(a),6420.00,B,1,603.47,E-commerce,9,Não,2,3,3,3,3,4,Outro
+406,37,Masculino,Bairro Assunção,Pós-graduação,Casado(a),5190.00,C,0,553.36,Loja física,66,Sim,5,1,4,4,3,5,Motorola
+407,21,Feminino,Jardim do Mar,Médio,Solteiro(a),2230.00,D,1,743.31,Loja física,36,Sim,4,2,4,5,3,6,Apple
+408,42,Feminino,Bairro Assunção,Médio,Solteiro(a),1390.00,D,1,556.12,E-commerce,25,Sim,3,3,4,3,5,9,Motorola
+409,23,Masculino,Taboão,Fundamental,Divorciado(a),1300.00,D,2,658.98,Operadora,25,Não,3,2,4,4,3,4,Samsung
+410,63,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),4850.00,C,0,294.33,Operadora,14,Não,2,3,2,3,3,4,Xiaomi
+411,40,Masculino,Centro,Pós-graduação,Solteiro(a),9780.00,B,1,780.40,Loja física,9,Sim,4,4,5,4,4,5,Apple
+412,20,Feminino,Baeta Neves,Superior completo,Solteiro(a),2610.00,D,1,457.98,Operadora,16,Não,5,1,3,5,3,3,Xiaomi
+413,24,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),1520.00,D,1,481.32,E-commerce,4,Sim,3,1,4,4,3,7,Outro
+414,19,Feminino,Taboão,Pós-graduação,União estável,4400.00,C,0,1003.20,E-commerce,30,Não,4,3,5,5,3,6,Xiaomi
+415,52,Masculino,Demarchi,Superior incompleto,Casado(a),4920.00,C,2,579.30,Marketplace,2,Sim,3,3,3,1,3,6,Xiaomi
+416,53,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),4310.00,C,1,423.85,Marketplace,50,Sim,2,4,4,3,2,4,Outro
+417,45,Feminino,Baeta Neves,Superior completo,Casado(a),3100.00,C,0,613.36,Operadora,51,Não,5,4,5,4,4,8,Motorola
+418,55,Feminino,Demarchi,Médio,Solteiro(a),1850.00,D,0,200.00,Marketplace,30,Não,2,1,1,4,2,2,Apple
+419,44,Masculino,Paulicéia,Pós-graduação,Casado(a),2380.00,D,0,200.00,Marketplace,37,Não,2,1,4,2,2,1,Apple
+420,34,Feminino,Demarchi,Superior incompleto,Casado(a),3300.00,C,1,236.42,E-commerce,47,Não,3,4,4,4,3,6,Outro
+421,26,Feminino,Taboão,Médio,Casado(a),1550.00,D,1,372.19,E-commerce,33,Sim,5,1,4,4,4,8,Motorola
+422,45,Masculino,Paulicéia,Fundamental,Solteiro(a),2590.00,D,1,611.92,Operadora,4,Não,4,3,4,5,5,9,Samsung
+423,68,Masculino,Rudge Ramos,Médio,Solteiro(a),1910.00,D,1,701.27,E-commerce,47,Não,5,1,5,1,4,5,Apple
+424,35,Masculino,Paulicéia,Fundamental,Solteiro(a),3260.00,C,1,875.53,E-commerce,48,Sim,5,5,4,4,4,7,Xiaomi
+425,68,Masculino,Taboão,Fundamental,Casado(a),2030.00,D,0,652.04,Loja física,23,Não,4,2,3,3,3,4,Motorola
+426,19,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),3090.00,C,1,210.60,Operadora,25,Sim,3,4,5,5,4,7,Samsung
+427,33,Masculino,Centro,Superior incompleto,União estável,3300.00,C,2,528.01,Marketplace,41,Não,5,3,5,4,5,8,Motorola
+428,67,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),6710.00,B,2,1093.49,Loja física,28,Não,5,4,5,3,4,7,Xiaomi
+429,24,Masculino,Taboão,Médio,Solteiro(a),3260.00,C,2,203.80,Marketplace,57,Não,3,4,4,5,4,5,Outro
+430,29,Masculino,Ferrazópolis,Fundamental,Casado(a),2180.00,D,0,502.86,Loja física,46,Não,5,2,4,4,4,6,Apple
+431,63,Masculino,Paulicéia,Fundamental,Casado(a),2450.00,D,0,475.30,Loja física,31,Não,4,1,5,3,3,7,Samsung
+432,50,Masculino,Ferrazópolis,Fundamental,Casado(a),1380.00,D,1,609.15,E-commerce,35,Sim,4,1,4,4,3,6,Motorola
+433,68,Feminino,Paulicéia,Pós-graduação,Divorciado(a),3520.00,C,0,200.00,Operadora,64,Não,5,2,4,3,4,7,Motorola
+434,28,Feminino,Bairro Assunção,Fundamental,Casado(a),3980.00,C,1,658.95,Operadora,56,Não,3,2,3,2,3,6,Motorola
+435,47,Feminino,Paulicéia,Médio,Solteiro(a),2680.00,D,1,225.82,E-commerce,62,Sim,5,3,4,2,4,6,Samsung
+436,19,Masculino,Paulicéia,Médio,Solteiro(a),1620.00,D,0,617.76,Loja física,34,Sim,3,1,3,5,4,6,Apple
+437,42,Masculino,Demarchi,Superior completo,União estável,4450.00,C,0,300.14,Operadora,58,Sim,4,3,3,3,4,5,Outro
+438,63,Masculino,Ferrazópolis,Pós-graduação,Casado(a),4200.00,C,2,548.40,E-commerce,58,Não,3,1,5,1,3,6,Xiaomi
+439,22,Feminino,Baeta Neves,Médio,Casado(a),1300.00,D,2,200.00,Marketplace,49,Não,4,1,5,4,3,6,Xiaomi
+440,31,Feminino,Centro,Superior incompleto,Casado(a),1820.00,D,1,246.39,Operadora,27,Não,5,2,5,4,5,7,Samsung
+441,50,Feminino,Centro,Superior completo,Casado(a),1900.00,D,2,491.99,E-commerce,53,Não,2,2,3,3,2,2,Xiaomi
+442,66,Masculino,Demarchi,Superior completo,Solteiro(a),2180.00,D,1,253.44,E-commerce,69,Não,2,1,4,4,2,3,Outro
+443,41,Feminino,Baeta Neves,Superior completo,Casado(a),2340.00,D,0,632.79,E-commerce,46,Sim,5,3,3,3,4,6,Motorola
+444,35,Feminino,Centro,Médio,Solteiro(a),3200.00,C,1,572.47,Marketplace,8,Sim,3,4,4,4,3,5,Apple
+445,49,Feminino,Ferrazópolis,Superior completo,Casado(a),2100.00,D,0,427.02,Marketplace,23,Sim,4,2,3,4,2,4,Samsung
+446,20,Feminino,Centro,Fundamental,Casado(a),1300.00,D,3,200.00,Marketplace,6,Sim,5,1,5,5,5,9,Motorola
+447,61,Feminino,Centro,Médio,Casado(a),3730.00,C,1,634.69,Loja física,26,Sim,5,3,4,4,3,5,Xiaomi
+448,64,Masculino,Rudge Ramos,Superior incompleto,Casado(a),2890.00,D,2,665.29,Marketplace,69,Sim,3,2,4,5,4,7,Apple
+449,66,Masculino,Rudge Ramos,Superior completo,Solteiro(a),5090.00,C,1,749.03,Operadora,20,Não,4,4,5,3,4,8,Motorola
+450,45,Masculino,Paulicéia,Superior incompleto,Divorciado(a),3000.00,C,0,291.35,E-commerce,61,Não,4,2,5,2,4,8,Xiaomi
+451,66,Feminino,Centro,Médio,Solteiro(a),14560.00,A,2,1258.75,Operadora,61,Sim,4,5,3,3,4,7,Apple
+452,52,Masculino,Baeta Neves,Superior incompleto,Casado(a),2710.00,D,1,411.37,Marketplace,56,Não,3,1,4,3,3,7,Apple
+453,20,Feminino,Centro,Fundamental,Casado(a),1380.00,D,2,476.55,Loja física,46,Sim,4,4,4,5,4,7,Xiaomi
+454,60,Feminino,Ferrazópolis,Médio,Casado(a),2980.00,D,0,746.74,E-commerce,46,Não,3,1,4,3,3,4,Outro
+455,20,Masculino,Demarchi,Superior incompleto,Solteiro(a),2210.00,D,0,547.60,Marketplace,35,Não,4,2,5,5,4,9,Motorola
+456,43,Masculino,Jardim do Mar,Médio,Solteiro(a),2890.00,D,2,398.74,Loja física,26,Não,4,1,4,4,4,6,Apple
+457,66,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),2670.00,D,0,603.36,Operadora,29,Não,4,2,5,3,3,8,Xiaomi
+458,32,Masculino,Jardim do Mar,Fundamental,Solteiro(a),3630.00,C,0,496.02,Operadora,13,Sim,2,3,2,3,2,2,Motorola
+459,62,Feminino,Ferrazópolis,Superior completo,Casado(a),6010.00,B,1,930.74,Operadora,56,Não,4,3,4,4,5,10,Apple
+460,61,Feminino,Taboão,Pós-graduação,Divorciado(a),2930.00,D,0,258.18,Marketplace,50,Sim,5,1,5,2,4,6,Samsung
+461,28,Feminino,Ferrazópolis,Superior completo,Casado(a),4110.00,C,1,334.30,E-commerce,12,Não,5,3,5,3,4,9,Outro
+462,49,Feminino,Bairro Assunção,Superior incompleto,Divorciado(a),4290.00,C,0,505.49,Loja física,72,Não,3,4,4,4,4,9,Motorola
+463,50,Masculino,Paulicéia,Fundamental,Casado(a),3630.00,C,1,200.00,Marketplace,38,Não,4,2,5,3,4,10,Xiaomi
+464,54,Feminino,Paulicéia,Pós-graduação,Solteiro(a),2000.00,D,2,353.32,Marketplace,30,Não,4,1,4,3,4,8,Apple
+465,18,Masculino,Paulicéia,Médio,Divorciado(a),2720.00,D,1,500.52,Loja física,65,Sim,3,2,3,3,3,5,Outro
+466,32,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),2140.00,D,1,720.72,E-commerce,62,Não,4,2,4,4,4,7,Xiaomi
+467,42,Feminino,Paulicéia,Fundamental,Solteiro(a),1750.00,D,0,340.38,Loja física,53,Não,4,2,5,3,3,6,Outro
+468,64,Masculino,Rudge Ramos,Superior completo,Divorciado(a),3590.00,C,0,670.23,E-commerce,64,Não,2,3,2,3,3,2,Xiaomi
+469,19,Feminino,Jardim do Mar,Pós-graduação,União estável,2450.00,D,3,593.64,E-commerce,59,Não,5,1,4,5,5,8,Outro
+470,44,Feminino,Paulicéia,Superior incompleto,Casado(a),2830.00,D,1,463.84,Loja física,31,Sim,4,4,5,3,5,10,Motorola
+471,26,Masculino,Demarchi,Pós-graduação,Casado(a),4900.00,C,2,444.86,Marketplace,39,Sim,5,2,3,4,2,5,Motorola
+472,54,Feminino,Taboão,Fundamental,Casado(a),2650.00,D,0,360.68,Loja física,32,Sim,5,1,5,2,4,7,Xiaomi
+473,46,Masculino,Demarchi,Fundamental,Solteiro(a),1810.00,D,1,355.54,E-commerce,42,Sim,5,2,5,4,4,7,Motorola
+474,46,Feminino,Paulicéia,Superior incompleto,Solteiro(a),3080.00,C,3,447.09,Marketplace,19,Não,4,2,5,3,4,9,Samsung
+475,57,Feminino,Jardim do Mar,Superior completo,Solteiro(a),3690.00,C,2,365.72,Loja física,38,Não,3,2,3,1,2,3,Xiaomi
+476,21,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),3330.00,C,0,696.80,Loja física,3,Não,3,4,4,4,3,4,Outro
+477,18,Feminino,Rudge Ramos,Superior completo,Solteiro(a),1860.00,D,1,418.19,E-commerce,18,Não,4,2,4,4,3,7,Apple
+478,41,Masculino,Paulicéia,Superior incompleto,Casado(a),2460.00,D,0,810.25,E-commerce,51,Não,3,1,4,3,3,5,Motorola
+479,32,Feminino,Ferrazópolis,Pós-graduação,Casado(a),3440.00,C,0,283.57,Loja física,57,Sim,2,2,2,5,3,4,Apple
+480,59,Feminino,Rudge Ramos,Superior completo,Viúvo(a),6880.00,B,1,873.10,Marketplace,65,Sim,3,3,3,2,2,3,Outro
+481,27,Feminino,Paulicéia,Superior incompleto,Casado(a),1850.00,D,0,230.03,Loja física,57,Não,5,1,5,5,4,8,Motorola
+482,64,Feminino,Ferrazópolis,Pós-graduação,Casado(a),4390.00,C,2,502.65,Marketplace,7,Sim,3,2,5,3,2,3,Xiaomi
+483,36,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1720.00,D,1,371.55,Operadora,33,Sim,4,2,3,3,2,3,Motorola
+484,65,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),2460.00,D,0,400.69,Operadora,17,Não,3,3,3,4,2,3,Motorola
+485,21,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3490.00,C,2,799.15,Loja física,72,Não,4,2,4,4,3,5,Samsung
+486,37,Outro,Centro,Superior incompleto,Solteiro(a),2110.00,D,2,477.17,Operadora,66,Não,4,1,4,3,3,6,Motorola
+487,60,Masculino,Baeta Neves,Superior completo,Solteiro(a),5310.00,C,1,994.18,E-commerce,29,Sim,3,2,4,3,3,7,Apple
+488,30,Feminino,Centro,Pós-graduação,Casado(a),2360.00,D,0,778.65,E-commerce,37,Não,4,2,3,5,3,5,Apple
+489,66,Feminino,Ferrazópolis,Médio,Casado(a),2620.00,D,2,404.91,E-commerce,37,Sim,3,2,4,1,3,5,Outro
+490,23,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),2910.00,D,0,702.84,Marketplace,3,Não,3,1,2,4,2,2,Xiaomi
+491,30,Masculino,Nova Petrópolis,Superior completo,Divorciado(a),3000.00,C,1,258.13,Operadora,66,Não,4,3,4,5,3,3,Xiaomi
+492,70,Feminino,Centro,Médio,Casado(a),1470.00,D,5,446.35,Operadora,31,Não,5,1,5,3,4,6,Motorola
+493,29,Masculino,Rudge Ramos,Superior completo,Solteiro(a),1650.00,D,1,382.83,E-commerce,14,Não,3,1,5,5,3,6,Motorola
+494,51,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),4590.00,C,0,706.05,Loja física,55,Sim,4,4,2,4,3,4,Motorola
+495,64,Feminino,Centro,Médio,Casado(a),4760.00,C,1,793.10,Operadora,64,Sim,5,4,3,4,3,3,Xiaomi
+496,42,Feminino,Paulicéia,Superior completo,Divorciado(a),1800.00,D,1,237.37,Loja física,25,Não,4,1,3,3,4,6,Apple
+497,40,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),1300.00,D,2,479.01,Loja física,16,Não,3,2,4,4,3,7,Outro
+498,55,Feminino,Demarchi,Superior incompleto,Casado(a),3550.00,C,0,782.63,Marketplace,47,Não,3,1,4,3,3,4,Samsung
+499,32,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2730.00,D,1,596.07,E-commerce,33,Não,2,3,3,4,3,5,Xiaomi
+500,27,Feminino,Centro,Médio,Casado(a),3390.00,C,1,626.24,E-commerce,31,Não,4,4,5,4,4,9,Samsung
+501,29,Feminino,Baeta Neves,Superior completo,Solteiro(a),3570.00,C,1,716.05,Marketplace,49,Não,3,3,2,4,2,2,Samsung
+502,49,Feminino,Rudge Ramos,Fundamental,Solteiro(a),3090.00,C,0,200.00,Marketplace,11,Não,3,1,3,3,2,3,Samsung
+503,68,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),5870.00,C,1,250.52,Loja física,71,Não,4,4,5,2,4,7,Apple
+504,53,Masculino,Rudge Ramos,Médio,Casado(a),1950.00,D,1,786.25,Marketplace,31,Não,4,2,4,2,3,4,Motorola
+505,64,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),6550.00,B,1,802.91,Loja física,46,Não,2,3,2,4,3,2,Outro
+506,30,Feminino,Bairro Assunção,Fundamental,Casado(a),4790.00,C,0,668.97,Operadora,5,Não,4,4,3,3,4,5,Apple
+507,49,Masculino,Ferrazópolis,Superior completo,União estável,3400.00,C,1,539.41,E-commerce,44,Não,4,3,3,2,3,4,Xiaomi
+508,36,Feminino,Taboão,Médio,Casado(a),2200.00,D,1,492.95,Marketplace,7,Não,5,1,3,4,4,6,Samsung
+509,44,Feminino,Demarchi,Médio,Casado(a),1920.00,D,1,531.64,E-commerce,51,Não,4,3,4,3,4,8,Samsung
+510,18,Feminino,Demarchi,Médio,Solteiro(a),1300.00,D,0,518.98,Loja física,46,Não,5,1,3,5,2,1,Samsung
+511,42,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1300.00,D,0,356.57,Marketplace,22,Sim,5,1,5,4,4,6,Apple
+512,64,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),5100.00,C,3,722.74,E-commerce,60,Não,5,2,4,3,4,8,Xiaomi
+513,22,Masculino,Demarchi,Superior incompleto,Solteiro(a),2100.00,D,3,474.21,E-commerce,72,Não,3,1,3,3,2,3,Outro
+514,38,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),2880.00,D,1,364.78,Loja física,2,Não,4,1,5,3,3,7,Motorola
+515,23,Feminino,Taboão,Superior completo,Casado(a),1870.00,D,0,732.93,Operadora,5,Não,5,1,5,5,3,7,Outro
+516,37,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2880.00,D,1,316.89,Loja física,30,Não,3,1,3,2,2,4,Xiaomi
+517,62,Masculino,Baeta Neves,Superior incompleto,Viúvo(a),4950.00,C,0,458.04,Marketplace,28,Não,4,3,4,3,4,6,Xiaomi
+518,38,Masculino,Taboão,Superior incompleto,Divorciado(a),2060.00,D,0,392.09,E-commerce,27,Não,5,3,4,4,4,7,Xiaomi
+519,56,Feminino,Demarchi,Médio,Divorciado(a),6130.00,B,2,398.68,Marketplace,71,Não,4,5,5,4,3,6,Apple
+520,70,Masculino,Baeta Neves,Pós-graduação,Casado(a),3610.00,C,0,476.21,Marketplace,23,Sim,4,3,4,1,3,5,Xiaomi
+521,46,Feminino,Bairro Assunção,Superior completo,Solteiro(a),3370.00,C,1,467.77,Operadora,18,Não,5,5,5,3,4,7,Samsung
+522,45,Feminino,Paulicéia,Médio,Casado(a),3950.00,C,2,682.52,Operadora,14,Não,3,1,4,4,2,4,Apple
+523,61,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),4470.00,C,0,580.64,E-commerce,41,Não,4,5,2,4,3,4,Samsung
+524,45,Masculino,Taboão,Fundamental,Casado(a),3330.00,C,2,200.00,E-commerce,65,Sim,4,2,4,4,3,4,Apple
+525,67,Masculino,Demarchi,Médio,Casado(a),8690.00,B,3,711.94,Marketplace,40,Não,3,5,5,2,5,10,Outro
+526,45,Masculino,Nova Petrópolis,Médio,Solteiro(a),3710.00,C,4,303.71,Marketplace,38,Não,5,2,5,4,4,7,Samsung
+527,30,Masculino,Centro,Superior incompleto,Solteiro(a),2860.00,D,0,754.82,E-commerce,62,Não,5,3,5,4,4,6,Outro
+528,24,Masculino,Baeta Neves,Fundamental,Casado(a),3050.00,C,0,792.23,Operadora,47,Não,5,1,5,5,4,6,Xiaomi
+529,21,Masculino,Paulicéia,Superior completo,União estável,2010.00,D,2,595.45,Loja física,7,Sim,5,1,5,5,5,8,Samsung
+530,45,Masculino,Paulicéia,Superior completo,Solteiro(a),3490.00,C,0,668.14,E-commerce,3,Não,4,5,4,2,4,5,Apple
+531,44,Feminino,Demarchi,Superior incompleto,Solteiro(a),7670.00,B,3,813.94,Loja física,6,Não,3,2,3,5,2,5,Motorola
+532,27,Feminino,Taboão,Superior incompleto,Viúvo(a),2210.00,D,1,532.31,Operadora,51,Sim,4,2,4,4,4,8,Apple
+533,46,Masculino,Demarchi,Fundamental,Solteiro(a),3130.00,C,0,388.97,Loja física,10,Não,4,2,4,4,3,4,Samsung
+534,44,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2190.00,D,1,411.10,Loja física,6,Sim,5,2,4,3,4,5,Outro
+535,41,Feminino,Centro,Pós-graduação,União estável,2400.00,D,3,624.90,Marketplace,24,Não,3,4,3,4,4,4,Xiaomi
+536,52,Feminino,Paulicéia,Fundamental,Casado(a),1820.00,D,0,203.58,E-commerce,54,Não,3,2,4,3,3,6,Outro
+537,41,Feminino,Centro,Fundamental,Casado(a),4720.00,C,3,680.82,E-commerce,62,Não,4,2,5,5,4,7,Samsung
+538,55,Masculino,Paulicéia,Médio,Casado(a),3150.00,C,2,403.98,E-commerce,47,Não,5,2,5,2,4,8,Outro
+539,19,Feminino,Demarchi,Superior completo,Solteiro(a),2560.00,D,1,337.22,E-commerce,25,Não,4,2,4,3,3,4,Xiaomi
+540,32,Masculino,Rudge Ramos,Médio,Solteiro(a),2120.00,D,0,670.14,Marketplace,8,Não,4,2,4,2,3,4,Samsung
+541,60,Feminino,Baeta Neves,Pós-graduação,Casado(a),3430.00,C,2,635.21,Operadora,1,Não,4,3,3,2,3,4,Apple
+542,20,Feminino,Ferrazópolis,Superior incompleto,Viúvo(a),2730.00,D,0,572.88,Operadora,11,Não,4,3,3,5,3,5,Motorola
+543,51,Masculino,Nova Petrópolis,Médio,Solteiro(a),1740.00,D,0,247.23,Marketplace,46,Não,5,1,5,3,5,10,Xiaomi
+544,41,Masculino,Jardim do Mar,Superior incompleto,Viúvo(a),3510.00,C,0,548.94,Marketplace,40,Não,4,3,4,4,4,5,Samsung
+545,56,Masculino,Centro,Médio,Casado(a),4260.00,C,2,552.96,Marketplace,35,Sim,5,1,5,3,3,7,Xiaomi
+546,24,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2490.00,D,1,228.93,Loja física,44,Sim,4,2,5,4,4,8,Apple
+547,48,Feminino,Baeta Neves,Médio,Solteiro(a),1400.00,D,2,530.77,Operadora,66,Não,4,1,2,3,3,2,Motorola
+548,26,Masculino,Baeta Neves,Médio,Solteiro(a),2610.00,D,0,609.23,Loja física,18,Não,5,2,5,3,4,8,Motorola
+549,25,Masculino,Jardim do Mar,Médio,Solteiro(a),1330.00,D,0,200.00,Operadora,41,Sim,4,2,4,5,3,5,Apple
+550,68,Masculino,Bairro Assunção,Médio,Divorciado(a),1440.00,D,2,394.60,Loja física,19,Não,5,3,4,2,5,8,Outro
+551,31,Feminino,Centro,Pós-graduação,União estável,4690.00,C,1,919.81,Operadora,18,Sim,3,2,3,2,4,6,Outro
+552,56,Masculino,Paulicéia,Médio,Casado(a),1300.00,D,1,439.35,Marketplace,72,Sim,4,2,4,2,3,7,Motorola
+553,27,Feminino,Jardim do Mar,Superior completo,Casado(a),3190.00,C,2,846.93,Marketplace,56,Não,2,3,2,5,3,4,Motorola
+554,20,Masculino,Centro,Superior incompleto,Solteiro(a),3780.00,C,0,671.20,Marketplace,46,Não,5,1,5,4,4,7,Motorola
+555,44,Masculino,Paulicéia,Superior incompleto,Solteiro(a),7450.00,B,3,932.72,Operadora,62,Não,5,3,4,3,4,6,Outro
+556,37,Feminino,Jardim do Mar,Pós-graduação,Casado(a),1630.00,D,2,372.18,Operadora,27,Não,4,4,3,2,4,6,Motorola
+557,29,Masculino,Demarchi,Superior incompleto,Solteiro(a),2250.00,D,1,309.93,Operadora,20,Não,5,3,5,3,5,9,Outro
+558,21,Feminino,Demarchi,Pós-graduação,Solteiro(a),2270.00,D,1,248.30,E-commerce,6,Não,3,1,2,4,2,2,Motorola
+559,37,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),3430.00,C,1,809.41,Marketplace,43,Não,5,2,5,4,4,8,Xiaomi
+560,56,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2410.00,D,0,420.73,Operadora,43,Não,5,1,4,1,4,9,Xiaomi
+561,65,Masculino,Jardim do Mar,Médio,Casado(a),7380.00,B,2,714.50,E-commerce,30,Sim,5,4,5,4,4,5,Apple
+562,66,Masculino,Bairro Assunção,Pós-graduação,Casado(a),2530.00,D,1,870.33,Loja física,47,Não,5,2,5,1,4,7,Samsung
+563,32,Feminino,Demarchi,Pós-graduação,Casado(a),3570.00,C,0,1011.11,E-commerce,9,Não,5,1,5,3,3,8,Samsung
+564,69,Feminino,Ferrazópolis,Superior incompleto,Casado(a),4130.00,C,1,604.02,Operadora,50,Sim,4,4,2,2,3,4,Motorola
+565,39,Masculino,Centro,Médio,Divorciado(a),3130.00,C,0,200.00,Loja física,41,Não,5,3,4,3,4,8,Samsung
+566,25,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),2350.00,D,1,444.25,Marketplace,16,Não,3,2,3,5,3,3,Apple
+567,56,Masculino,Jardim do Mar,Superior completo,Casado(a),1570.00,D,0,202.65,E-commerce,45,Sim,4,2,4,3,3,6,Apple
+568,56,Feminino,Taboão,Médio,Casado(a),2330.00,D,2,204.52,Loja física,27,Não,4,1,5,2,4,7,Apple
+569,20,Feminino,Taboão,Superior incompleto,Casado(a),1300.00,D,0,654.37,E-commerce,22,Não,2,3,1,5,2,1,Apple
+570,23,Masculino,Paulicéia,Superior completo,Solteiro(a),2810.00,D,3,277.10,Loja física,33,Não,5,1,5,3,3,6,Samsung
+571,21,Masculino,Ferrazópolis,Superior completo,União estável,3330.00,C,0,329.10,Marketplace,43,Sim,2,3,2,4,3,5,Outro
+572,65,Masculino,Nova Petrópolis,Superior completo,Casado(a),2740.00,D,2,503.26,E-commerce,16,Não,5,2,4,4,3,5,Xiaomi
+573,19,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1640.00,D,3,200.00,E-commerce,33,Não,3,1,2,5,2,4,Xiaomi
+574,24,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),1560.00,D,0,321.50,Marketplace,49,Sim,4,2,5,5,4,7,Apple
+575,59,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),9930.00,B,2,727.40,E-commerce,36,Não,5,2,5,3,5,10,Motorola
+576,18,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),4150.00,C,3,365.60,Operadora,26,Não,5,2,4,4,4,7,Samsung
+577,28,Masculino,Centro,Fundamental,Solteiro(a),1300.00,D,0,342.25,Loja física,68,Sim,3,1,3,3,2,1,Apple
+578,28,Feminino,Bairro Assunção,Fundamental,Casado(a),1300.00,D,2,399.19,Operadora,22,Não,3,2,4,5,3,5,Outro
+579,31,Masculino,Rudge Ramos,Pós-graduação,Casado(a),4180.00,C,2,323.39,Loja física,66,Sim,5,4,4,3,4,6,Outro
+580,24,Masculino,Rudge Ramos,Superior completo,Casado(a),1300.00,D,2,200.00,Operadora,42,Não,4,2,5,5,4,8,Apple
+581,61,Masculino,Nova Petrópolis,Médio,Casado(a),1860.00,D,0,206.57,E-commerce,4,Não,5,1,5,4,4,7,Xiaomi
+582,25,Masculino,Demarchi,Médio,Divorciado(a),3410.00,C,1,284.83,Loja física,14,Sim,4,3,4,5,3,3,Outro
+583,34,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),4710.00,C,1,595.05,Marketplace,34,Não,4,3,5,4,4,7,Motorola
+584,58,Masculino,Ferrazópolis,Pós-graduação,Solteiro(a),4310.00,C,0,636.70,Operadora,55,Sim,4,2,3,3,3,4,Outro
+585,29,Feminino,Jardim do Mar,Superior incompleto,Divorciado(a),2640.00,D,0,409.43,Loja física,50,Não,5,1,4,3,3,5,Outro
+586,52,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),6710.00,B,2,959.39,Marketplace,59,Sim,3,4,3,2,3,5,Outro
+587,34,Feminino,Paulicéia,Médio,Solteiro(a),1460.00,D,0,666.51,Operadora,6,Sim,3,1,4,3,2,5,Motorola
+588,19,Outro,Demarchi,Superior completo,Casado(a),2110.00,D,2,200.00,Loja física,60,Não,3,2,2,5,3,4,Xiaomi
+589,53,Masculino,Jardim do Mar,Médio,Casado(a),5520.00,C,5,731.37,Operadora,44,Não,5,1,5,3,5,6,Motorola
+590,38,Outro,Nova Petrópolis,Médio,Divorciado(a),2330.00,D,1,200.00,E-commerce,18,Não,5,2,4,4,3,6,Apple
+591,60,Masculino,Rudge Ramos,Superior completo,Casado(a),4290.00,C,1,637.59,Loja física,25,Não,5,2,5,3,3,8,Motorola
+592,44,Feminino,Demarchi,Superior incompleto,Casado(a),2960.00,D,0,653.69,Marketplace,16,Sim,2,3,5,3,3,6,Xiaomi
+593,31,Masculino,Bairro Assunção,Pós-graduação,Casado(a),12020.00,A,2,1174.18,E-commerce,34,Sim,5,5,3,4,4,5,Apple
+594,39,Feminino,Taboão,Superior completo,Viúvo(a),2460.00,D,2,309.01,E-commerce,6,Não,4,2,3,4,3,3,Apple
+595,64,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),4740.00,C,1,811.20,E-commerce,19,Não,3,4,5,2,4,8,Apple
+596,26,Feminino,Centro,Superior completo,Solteiro(a),1340.00,D,1,298.34,Loja física,4,Sim,5,3,5,5,4,8,Motorola
+597,56,Feminino,Paulicéia,Pós-graduação,Solteiro(a),4270.00,C,2,666.17,Operadora,59,Não,5,3,3,3,3,4,Motorola
+598,58,Masculino,Baeta Neves,Superior completo,Solteiro(a),5680.00,C,0,437.18,E-commerce,35,Sim,3,2,3,4,3,5,Apple
+599,27,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),5010.00,C,3,765.90,E-commerce,59,Não,5,4,4,5,4,6,Xiaomi
+600,37,Masculino,Rudge Ramos,Médio,Solteiro(a),3100.00,C,0,410.06,Loja física,66,Não,3,3,3,3,3,4,Samsung
+601,47,Masculino,Ferrazópolis,Médio,Solteiro(a),3640.00,C,2,200.00,Loja física,7,Não,4,2,4,4,4,6,Apple
+602,20,Feminino,Demarchi,Superior completo,Divorciado(a),2150.00,D,1,364.08,Operadora,44,Sim,3,1,3,5,2,3,Outro
+603,33,Masculino,Demarchi,Fundamental,Solteiro(a),3070.00,C,3,643.06,Loja física,67,Não,3,2,2,3,3,3,Xiaomi
+604,65,Feminino,Bairro Assunção,Pós-graduação,Divorciado(a),9560.00,B,2,1128.88,Marketplace,48,Não,3,2,4,2,3,5,Xiaomi
+605,58,Masculino,Demarchi,Médio,Solteiro(a),1990.00,D,2,362.82,E-commerce,2,Não,4,2,3,3,3,6,Samsung
+606,41,Feminino,Taboão,Pós-graduação,União estável,7490.00,B,1,962.92,E-commerce,3,Não,2,3,4,4,2,3,Samsung
+607,22,Feminino,Centro,Médio,União estável,2440.00,D,2,389.65,Marketplace,6,Não,5,2,3,3,4,6,Outro
+608,38,Masculino,Jardim do Mar,Médio,União estável,2960.00,D,0,941.09,E-commerce,25,Não,3,2,3,3,3,5,Outro
+609,42,Feminino,Baeta Neves,Médio,Casado(a),1300.00,D,0,267.67,Operadora,56,Não,4,1,3,5,3,4,Apple
+610,50,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),1680.00,D,0,483.81,Operadora,59,Não,5,3,5,4,4,7,Xiaomi
+611,21,Feminino,Nova Petrópolis,Médio,Casado(a),2240.00,D,0,200.00,Operadora,46,Não,2,3,3,3,2,2,Xiaomi
+612,30,Feminino,Baeta Neves,Médio,Solteiro(a),4010.00,C,2,540.62,Operadora,37,Sim,5,5,5,2,5,7,Apple
+613,25,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1620.00,D,1,559.71,Operadora,53,Não,3,1,4,5,3,7,Apple
+614,40,Feminino,Bairro Assunção,Superior completo,Divorciado(a),2260.00,D,1,1095.79,Marketplace,30,Não,4,1,5,2,3,5,Motorola
+615,57,Feminino,Paulicéia,Superior incompleto,Solteiro(a),2390.00,D,2,306.54,Loja física,37,Não,4,1,4,2,3,5,Xiaomi
+616,45,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),7200.00,B,2,280.84,Operadora,25,Não,4,4,4,4,3,4,Motorola
+617,36,Masculino,Paulicéia,Superior incompleto,União estável,4350.00,C,1,854.85,Operadora,7,Não,3,1,4,5,3,6,Motorola
+618,35,Masculino,Bairro Assunção,Fundamental,Divorciado(a),1930.00,D,0,466.96,Operadora,7,Não,5,1,5,2,5,8,Motorola
+619,18,Feminino,Rudge Ramos,Pós-graduação,Casado(a),3250.00,C,0,887.73,E-commerce,8,Não,5,1,5,5,4,8,Apple
+620,58,Masculino,Jardim do Mar,Superior completo,Solteiro(a),1300.00,D,1,200.00,Operadora,7,Não,5,2,2,4,3,2,Samsung
+621,21,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),2080.00,D,0,925.16,Loja física,38,Não,4,2,5,4,4,9,Outro
+622,20,Feminino,Demarchi,Pós-graduação,Divorciado(a),2090.00,D,0,294.46,E-commerce,28,Sim,3,2,4,4,3,4,Motorola
+623,46,Masculino,Jardim do Mar,Médio,Solteiro(a),2260.00,D,2,453.63,Marketplace,41,Sim,4,2,5,5,4,8,Outro
+624,42,Masculino,Taboão,Superior completo,Casado(a),5560.00,C,1,685.42,E-commerce,26,Não,4,2,5,3,4,8,Outro
+625,18,Feminino,Ferrazópolis,Superior incompleto,Viúvo(a),2210.00,D,0,200.00,Operadora,20,Não,2,2,3,2,1,3,Outro
+626,36,Masculino,Rudge Ramos,Fundamental,Casado(a),1300.00,D,3,318.79,Marketplace,27,Sim,3,2,4,4,3,3,Motorola
+627,37,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),2920.00,D,0,200.00,Operadora,13,Não,4,2,4,4,3,4,Apple
+628,70,Masculino,Paulicéia,Fundamental,Solteiro(a),2140.00,D,0,641.08,Marketplace,62,Sim,5,1,5,4,4,7,Motorola
+629,41,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2570.00,D,1,392.63,E-commerce,51,Não,4,2,5,4,4,9,Apple
+630,62,Feminino,Nova Petrópolis,Médio,Casado(a),2580.00,D,0,200.00,Loja física,70,Não,4,3,4,3,4,6,Samsung
+631,22,Masculino,Baeta Neves,Pós-graduação,Solteiro(a),4090.00,C,2,505.41,E-commerce,25,Não,4,2,5,4,4,9,Xiaomi
+632,63,Feminino,Baeta Neves,Superior incompleto,Casado(a),1930.00,D,0,566.96,Loja física,18,Sim,5,1,5,5,4,10,Apple
+633,52,Masculino,Baeta Neves,Médio,Solteiro(a),4940.00,C,0,659.96,Marketplace,43,Não,3,4,3,3,2,3,Apple
+634,39,Feminino,Taboão,Pós-graduação,Casado(a),2390.00,D,1,880.81,E-commerce,27,Não,4,1,4,4,3,8,Outro
+635,41,Feminino,Centro,Fundamental,Casado(a),2620.00,D,1,574.22,E-commerce,70,Não,5,1,5,4,5,8,Motorola
+636,26,Masculino,Centro,Superior completo,Solteiro(a),1840.00,D,1,411.04,Marketplace,18,Não,4,1,5,5,3,6,Motorola
+637,30,Masculino,Demarchi,Superior completo,União estável,1910.00,D,0,406.42,Loja física,13,Sim,4,1,3,3,3,5,Samsung
+638,62,Feminino,Baeta Neves,Superior incompleto,Viúvo(a),5030.00,C,0,1015.44,Marketplace,31,Sim,4,4,4,4,3,7,Apple
+639,49,Feminino,Rudge Ramos,Superior incompleto,Casado(a),4100.00,C,3,320.12,Operadora,47,Não,2,4,1,4,2,3,Samsung
+640,49,Masculino,Taboão,Superior completo,Solteiro(a),5600.00,C,1,579.21,Loja física,31,Não,4,4,4,4,3,5,Samsung
+641,40,Feminino,Rudge Ramos,Superior completo,Casado(a),5030.00,C,0,776.58,Loja física,43,Não,3,2,3,4,2,2,Xiaomi
+642,47,Masculino,Rudge Ramos,Pós-graduação,Casado(a),1500.00,D,0,460.27,Loja física,69,Não,4,3,3,3,3,5,Motorola
+643,53,Feminino,Rudge Ramos,Superior incompleto,Divorciado(a),3750.00,C,3,295.13,E-commerce,38,Não,3,1,2,4,3,4,Outro
+644,69,Masculino,Ferrazópolis,Superior completo,Divorciado(a),3790.00,C,0,638.06,Loja física,9,Não,5,3,5,3,4,9,Xiaomi
+645,22,Masculino,Demarchi,Médio,Casado(a),1420.00,D,0,831.43,Loja física,52,Não,4,2,5,4,3,8,Outro
+646,30,Masculino,Jardim do Mar,Superior completo,Divorciado(a),2160.00,D,1,389.02,Operadora,20,Sim,2,3,2,4,3,3,Apple
+647,26,Masculino,Paulicéia,Pós-graduação,Solteiro(a),2080.00,D,0,348.66,Loja física,56,Não,4,2,4,3,4,6,Motorola
+648,59,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),2940.00,D,2,476.31,E-commerce,13,Sim,3,4,2,3,3,4,Samsung
+649,51,Masculino,Rudge Ramos,Superior incompleto,Casado(a),4600.00,C,1,558.89,Loja física,8,Não,4,2,5,3,4,6,Samsung
+650,18,Feminino,Centro,Superior completo,Divorciado(a),2900.00,D,0,1063.84,Marketplace,66,Sim,5,3,5,5,4,9,Outro
+651,43,Masculino,Bairro Assunção,Fundamental,Casado(a),1300.00,D,0,585.94,Loja física,13,Não,3,3,2,4,3,3,Xiaomi
+652,21,Masculino,Jardim do Mar,Pós-graduação,Casado(a),2990.00,D,0,200.00,E-commerce,55,Sim,4,2,3,4,3,4,Samsung
+653,64,Feminino,Nova Petrópolis,Fundamental,Solteiro(a),1300.00,D,2,700.29,Marketplace,1,Sim,4,1,4,2,3,3,Apple
+654,65,Feminino,Rudge Ramos,Fundamental,Solteiro(a),6780.00,B,1,609.10,Marketplace,41,Sim,3,3,4,4,3,4,Outro
+655,50,Masculino,Rudge Ramos,Fundamental,União estável,3640.00,C,1,631.29,Operadora,71,Não,4,3,3,5,3,5,Outro
+656,46,Feminino,Ferrazópolis,Médio,Solteiro(a),3780.00,C,1,838.47,Marketplace,4,Sim,5,4,4,5,4,5,Samsung
+657,57,Masculino,Taboão,Fundamental,Casado(a),1300.00,D,0,737.75,Operadora,40,Sim,4,1,5,3,3,5,Apple
+658,43,Feminino,Ferrazópolis,Pós-graduação,Viúvo(a),5560.00,C,0,752.09,Marketplace,67,Sim,4,2,2,3,3,6,Apple
+659,45,Feminino,Centro,Fundamental,Casado(a),2490.00,D,1,486.70,E-commerce,36,Não,4,3,3,3,3,5,Apple
+660,54,Outro,Taboão,Médio,Casado(a),2370.00,D,0,378.94,Operadora,43,Não,4,3,4,3,4,6,Xiaomi
+661,24,Masculino,Demarchi,Fundamental,Solteiro(a),2490.00,D,0,475.21,Loja física,53,Não,4,3,5,3,5,7,Samsung
+662,70,Masculino,Ferrazópolis,Médio,Solteiro(a),1300.00,D,0,809.93,Loja física,71,Não,4,4,4,2,4,8,Motorola
+663,50,Masculino,Jardim do Mar,Médio,Divorciado(a),2730.00,D,2,200.00,Loja física,32,Sim,4,2,3,4,4,8,Apple
+664,46,Masculino,Nova Petrópolis,Superior incompleto,Casado(a),2440.00,D,0,446.79,Marketplace,50,Sim,5,1,5,2,4,5,Motorola
+665,45,Masculino,Bairro Assunção,Superior completo,Solteiro(a),2370.00,D,1,688.30,Operadora,71,Não,5,3,5,4,5,7,Apple
+666,31,Feminino,Rudge Ramos,Superior incompleto,Divorciado(a),1770.00,D,0,957.71,E-commerce,67,Não,4,2,5,5,3,7,Samsung
+667,48,Feminino,Baeta Neves,Fundamental,Casado(a),1820.00,D,0,886.68,Marketplace,42,Não,4,4,5,4,5,8,Xiaomi
+668,43,Masculino,Ferrazópolis,Pós-graduação,Casado(a),3050.00,C,0,567.79,Marketplace,15,Não,3,2,4,4,3,6,Outro
+669,48,Feminino,Jardim do Mar,Superior completo,Solteiro(a),3970.00,C,0,714.12,Operadora,26,Não,3,4,4,3,4,6,Apple
+670,26,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1770.00,D,1,666.60,Operadora,69,Sim,4,1,4,3,3,7,Apple
+671,67,Feminino,Demarchi,Pós-graduação,Casado(a),1300.00,D,1,392.69,E-commerce,50,Não,5,3,5,4,4,6,Apple
+672,36,Masculino,Bairro Assunção,Superior completo,Casado(a),2370.00,D,1,691.13,E-commerce,29,Não,4,1,4,4,4,6,Apple
+673,65,Masculino,Paulicéia,Superior completo,Solteiro(a),3280.00,C,2,425.58,Marketplace,42,Sim,4,3,4,3,4,6,Outro
+674,33,Feminino,Bairro Assunção,Superior incompleto,Casado(a),2610.00,D,1,212.66,Loja física,16,Não,4,2,5,4,3,7,Outro
+675,48,Masculino,Taboão,Pós-graduação,Casado(a),8120.00,B,3,942.75,Loja física,53,Não,3,2,3,2,2,3,Motorola
+676,50,Feminino,Paulicéia,Superior incompleto,Solteiro(a),1890.00,D,3,444.36,Marketplace,30,Não,3,2,5,4,3,6,Outro
+677,30,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),1380.00,D,1,619.69,Marketplace,50,Sim,3,1,5,4,4,7,Xiaomi
+678,50,Feminino,Jardim do Mar,Superior incompleto,Divorciado(a),4300.00,C,1,723.58,Operadora,52,Não,5,2,4,4,4,4,Samsung
+679,39,Masculino,Baeta Neves,Médio,Casado(a),2600.00,D,0,344.16,Operadora,47,Sim,5,2,5,3,4,7,Xiaomi
+680,59,Feminino,Jardim do Mar,Pós-graduação,Casado(a),5780.00,C,0,962.20,Marketplace,36,Não,3,2,4,3,2,3,Apple
+681,59,Feminino,Paulicéia,Superior incompleto,Divorciado(a),1300.00,D,0,576.66,Loja física,22,Sim,4,2,4,3,4,7,Outro
+682,54,Feminino,Taboão,Superior incompleto,Solteiro(a),2180.00,D,1,687.69,E-commerce,3,Não,5,3,5,3,4,6,Samsung
+683,28,Masculino,Jardim do Mar,Pós-graduação,Casado(a),4280.00,C,0,356.33,Marketplace,24,Não,4,2,4,4,2,5,Samsung
+684,63,Feminino,Rudge Ramos,Médio,Solteiro(a),2000.00,D,1,341.12,Marketplace,11,Não,5,2,4,3,2,3,Apple
+685,48,Feminino,Rudge Ramos,Médio,Divorciado(a),4660.00,C,0,472.12,Marketplace,63,Sim,3,2,3,3,2,3,Apple
+686,19,Masculino,Paulicéia,Médio,Solteiro(a),1390.00,D,1,472.29,Marketplace,43,Não,5,4,5,4,5,8,Motorola
+687,24,Masculino,Ferrazópolis,Superior incompleto,União estável,6040.00,B,2,1161.60,Marketplace,27,Não,3,3,2,3,2,1,Motorola
+688,42,Masculino,Demarchi,Pós-graduação,Solteiro(a),2950.00,D,0,200.00,Operadora,31,Não,3,1,3,4,3,4,Outro
+689,31,Masculino,Taboão,Fundamental,Divorciado(a),2530.00,D,1,543.18,E-commerce,31,Não,5,4,5,3,5,7,Samsung
+690,23,Feminino,Demarchi,Médio,Solteiro(a),1520.00,D,2,277.52,Operadora,19,Não,5,2,5,5,4,8,Samsung
+691,36,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),2930.00,D,1,281.69,E-commerce,49,Não,3,1,3,3,2,3,Outro
+692,28,Feminino,Rudge Ramos,Superior completo,Solteiro(a),6540.00,B,1,658.29,E-commerce,3,Não,4,5,5,3,4,8,Xiaomi
+693,21,Masculino,Paulicéia,Pós-graduação,Solteiro(a),2390.00,D,1,638.82,Operadora,37,Não,5,2,4,4,4,8,Samsung
+694,50,Feminino,Rudge Ramos,Superior completo,Solteiro(a),3190.00,C,3,200.00,Marketplace,8,Sim,3,1,4,4,3,7,Samsung
+695,46,Masculino,Jardim do Mar,Superior incompleto,Solteiro(a),5240.00,C,1,278.46,Loja física,34,Não,3,4,4,3,3,5,Outro
+696,62,Feminino,Bairro Assunção,Médio,Solteiro(a),1820.00,D,0,319.73,Marketplace,40,Não,5,2,4,1,5,7,Xiaomi
+697,20,Masculino,Taboão,Pós-graduação,União estável,4780.00,C,1,600.85,Loja física,71,Sim,5,4,5,3,5,8,Outro
+698,33,Feminino,Rudge Ramos,Fundamental,Casado(a),1840.00,D,0,221.91,Loja física,38,Sim,3,2,4,5,3,7,Motorola
+699,28,Feminino,Ferrazópolis,Superior completo,Solteiro(a),1450.00,D,0,361.79,Marketplace,62,Não,4,1,4,5,3,4,Apple
+700,19,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),4340.00,C,1,564.19,E-commerce,31,Não,5,1,5,5,4,10,Xiaomi
+701,52,Masculino,Ferrazópolis,Médio,Divorciado(a),7900.00,B,1,935.54,Loja física,52,Não,4,2,4,3,4,7,Apple
+702,33,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),4680.00,C,1,691.71,Loja física,23,Sim,4,2,4,4,3,6,Xiaomi
+703,64,Feminino,Jardim do Mar,Médio,Casado(a),3150.00,C,0,452.61,Loja física,27,Não,3,1,4,2,3,7,Motorola
+704,28,Masculino,Jardim do Mar,Superior completo,Casado(a),2310.00,D,1,806.40,E-commerce,9,Sim,5,1,4,5,2,3,Apple
+705,21,Masculino,Ferrazópolis,Fundamental,União estável,2290.00,D,2,701.11,Marketplace,31,Não,4,2,3,5,3,5,Samsung
+706,41,Masculino,Taboão,Superior completo,Viúvo(a),4610.00,C,2,552.56,Operadora,52,Não,4,2,5,3,4,9,Motorola
+707,33,Feminino,Ferrazópolis,Fundamental,Solteiro(a),1300.00,D,1,200.00,Marketplace,37,Não,4,1,4,4,2,3,Outro
+708,19,Masculino,Demarchi,Médio,Solteiro(a),1300.00,D,0,405.34,E-commerce,42,Sim,5,1,3,4,2,1,Apple
+709,59,Feminino,Demarchi,Pós-graduação,Solteiro(a),1860.00,D,3,200.00,Marketplace,43,Não,2,2,2,4,2,2,Outro
+710,29,Feminino,Ferrazópolis,Pós-graduação,Divorciado(a),2410.00,D,3,602.62,Loja física,1,Não,3,1,5,4,3,4,Outro
+711,18,Masculino,Centro,Médio,Casado(a),1910.00,D,1,905.69,E-commerce,67,Não,4,2,5,4,3,6,Motorola
+712,36,Masculino,Jardim do Mar,Pós-graduação,União estável,2800.00,D,0,600.61,Operadora,68,Sim,4,1,5,4,3,6,Samsung
+713,49,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),3520.00,C,3,778.22,E-commerce,37,Não,5,3,4,2,4,8,Apple
+714,53,Masculino,Demarchi,Superior incompleto,Solteiro(a),1850.00,D,0,218.62,Marketplace,1,Sim,4,2,4,3,4,8,Xiaomi
+715,28,Masculino,Demarchi,Médio,Casado(a),2520.00,D,1,570.18,Operadora,10,Não,5,3,5,4,4,5,Outro
+716,20,Feminino,Centro,Médio,Solteiro(a),1930.00,D,1,468.89,Loja física,66,Sim,5,2,5,5,4,7,Samsung
+717,38,Masculino,Baeta Neves,Médio,Divorciado(a),1880.00,D,4,304.62,Operadora,52,Sim,5,1,3,4,2,2,Xiaomi
+718,21,Feminino,Demarchi,Superior incompleto,Casado(a),2540.00,D,1,476.31,E-commerce,55,Não,4,3,3,5,3,5,Xiaomi
+719,64,Masculino,Bairro Assunção,Pós-graduação,Casado(a),2920.00,D,2,230.41,E-commerce,30,Não,3,3,3,4,3,3,Samsung
+720,22,Feminino,Centro,Fundamental,Solteiro(a),3840.00,C,0,817.48,Loja física,48,Não,5,2,4,5,4,8,Apple
+721,32,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),2720.00,D,2,403.72,E-commerce,8,Não,4,2,3,4,4,4,Apple
+722,33,Masculino,Taboão,Superior incompleto,Casado(a),2540.00,D,1,269.94,E-commerce,51,Sim,4,1,4,2,4,6,Xiaomi
+723,42,Feminino,Centro,Superior completo,Casado(a),6300.00,B,2,740.12,Marketplace,69,Não,3,2,3,4,3,3,Samsung
+724,18,Feminino,Taboão,Pós-graduação,Casado(a),2330.00,D,1,694.60,Operadora,42,Não,5,3,3,5,2,2,Motorola
+725,55,Masculino,Baeta Neves,Superior incompleto,União estável,4510.00,C,4,721.55,Marketplace,36,Não,1,3,3,1,2,2,Outro
+726,70,Feminino,Demarchi,Fundamental,União estável,1960.00,D,0,202.23,Loja física,71,Sim,2,2,3,2,3,4,Outro
+727,27,Feminino,Paulicéia,Superior incompleto,Casado(a),6790.00,B,3,713.68,Loja física,1,Não,2,3,3,5,3,3,Xiaomi
+728,33,Feminino,Rudge Ramos,Superior completo,Solteiro(a),2440.00,D,2,707.48,Loja física,9,Sim,3,3,2,4,2,2,Xiaomi
+729,47,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),1690.00,D,2,200.00,Loja física,64,Não,4,3,3,3,3,6,Outro
+730,33,Feminino,Baeta Neves,Superior completo,Solteiro(a),5030.00,C,1,665.87,Marketplace,48,Não,5,3,3,2,3,4,Samsung
+731,63,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),10550.00,B,2,969.07,Operadora,34,Sim,4,2,4,2,4,8,Motorola
+732,47,Masculino,Taboão,Fundamental,Casado(a),2890.00,D,0,272.42,Marketplace,22,Não,5,2,4,1,3,5,Xiaomi
+733,62,Masculino,Taboão,Superior completo,Solteiro(a),2950.00,D,2,801.87,Loja física,9,Sim,5,1,5,3,4,7,Samsung
+734,44,Masculino,Paulicéia,Superior incompleto,Solteiro(a),1520.00,D,1,366.30,E-commerce,68,Não,4,2,4,4,2,2,Xiaomi
+735,50,Masculino,Rudge Ramos,Médio,Casado(a),2890.00,D,2,868.71,Operadora,4,Sim,5,1,4,5,3,6,Samsung
+736,55,Masculino,Bairro Assunção,Pós-graduação,Solteiro(a),8170.00,B,2,583.01,Marketplace,25,Não,5,3,4,1,3,7,Samsung
+737,25,Feminino,Demarchi,Médio,Casado(a),3160.00,C,2,200.00,Loja física,11,Sim,4,4,5,5,4,9,Xiaomi
+738,42,Feminino,Centro,Médio,Solteiro(a),2140.00,D,0,307.22,Loja física,8,Não,3,2,5,4,2,5,Motorola
+739,49,Feminino,Baeta Neves,Superior completo,Casado(a),2680.00,D,3,611.26,Loja física,10,Não,4,2,4,4,3,7,Xiaomi
+740,25,Feminino,Paulicéia,Pós-graduação,Divorciado(a),3820.00,C,2,400.60,E-commerce,50,Não,3,1,4,2,3,6,Apple
+741,40,Feminino,Baeta Neves,Superior completo,Divorciado(a),2000.00,D,1,486.70,E-commerce,10,Sim,4,1,4,4,3,6,Samsung
+742,47,Feminino,Demarchi,Superior incompleto,Solteiro(a),3240.00,C,3,526.42,E-commerce,69,Sim,4,1,4,3,4,7,Outro
+743,34,Feminino,Rudge Ramos,Fundamental,Solteiro(a),3470.00,C,1,330.91,E-commerce,35,Não,4,2,3,3,3,5,Motorola
+744,65,Masculino,Bairro Assunção,Pós-graduação,Casado(a),4820.00,C,3,1333.35,E-commerce,37,Não,5,2,5,5,4,6,Apple
+745,60,Masculino,Taboão,Superior completo,Casado(a),3620.00,C,1,550.73,Loja física,35,Não,4,2,3,5,3,4,Outro
+746,18,Feminino,Ferrazópolis,Pós-graduação,Viúvo(a),1990.00,D,1,329.40,E-commerce,12,Não,4,2,3,5,4,8,Xiaomi
+747,39,Feminino,Bairro Assunção,Médio,Solteiro(a),3010.00,C,0,1069.88,Loja física,26,Não,3,4,4,2,3,4,Samsung
+748,21,Masculino,Baeta Neves,Médio,Casado(a),1500.00,D,1,200.00,E-commerce,16,Não,2,2,4,4,3,4,Outro
+749,59,Outro,Bairro Assunção,Pós-graduação,Casado(a),5420.00,C,2,750.53,Loja física,62,Não,5,5,5,5,5,9,Samsung
+750,69,Masculino,Taboão,Superior completo,Casado(a),5010.00,C,0,527.67,E-commerce,71,Sim,5,1,5,3,5,8,Motorola
+751,28,Masculino,Rudge Ramos,Superior completo,Solteiro(a),1590.00,D,0,200.00,Operadora,70,Sim,5,2,4,3,3,7,Motorola
+752,53,Masculino,Nova Petrópolis,Superior completo,Casado(a),2220.00,D,2,655.28,Operadora,37,Não,3,1,4,3,3,3,Xiaomi
+753,66,Feminino,Baeta Neves,Médio,Solteiro(a),2520.00,D,2,464.24,Operadora,48,Sim,3,2,4,3,3,4,Outro
+754,53,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),2200.00,D,2,200.00,Marketplace,12,Sim,3,1,2,2,2,5,Samsung
+755,36,Masculino,Ferrazópolis,Fundamental,Casado(a),1670.00,D,0,889.84,Marketplace,17,Não,4,2,5,3,2,4,Samsung
+756,18,Masculino,Paulicéia,Médio,Casado(a),3180.00,C,0,528.76,Marketplace,72,Sim,4,2,4,3,4,6,Xiaomi
+757,67,Masculino,Bairro Assunção,Superior incompleto,Viúvo(a),4170.00,C,1,919.30,Operadora,58,Não,4,3,4,5,3,5,Samsung
+758,35,Feminino,Taboão,Superior incompleto,Divorciado(a),3750.00,C,1,913.91,Operadora,36,Não,5,4,5,3,5,6,Motorola
+759,70,Feminino,Taboão,Superior incompleto,Viúvo(a),4240.00,C,0,200.00,E-commerce,70,Não,2,1,3,2,2,4,Outro
+760,46,Masculino,Ferrazópolis,Fundamental,Solteiro(a),4980.00,C,0,836.51,E-commerce,36,Sim,5,2,4,3,4,5,Apple
+761,49,Masculino,Bairro Assunção,Superior completo,Casado(a),2920.00,D,3,784.26,E-commerce,4,Não,4,4,5,4,4,8,Apple
+762,27,Masculino,Jardim do Mar,Superior completo,Divorciado(a),4030.00,C,2,605.64,Marketplace,28,Não,4,4,5,2,5,7,Motorola
+763,70,Masculino,Paulicéia,Superior incompleto,Solteiro(a),1300.00,D,1,564.65,E-commerce,54,Não,1,2,1,3,1,1,Xiaomi
+764,23,Feminino,Taboão,Pós-graduação,Casado(a),1770.00,D,2,342.36,Marketplace,37,Não,3,1,3,5,2,3,Samsung
+765,49,Masculino,Paulicéia,Fundamental,Solteiro(a),3040.00,C,2,881.24,Operadora,71,Não,3,2,4,4,3,5,Xiaomi
+766,56,Masculino,Centro,Médio,União estável,2680.00,D,0,414.56,E-commerce,66,Não,5,2,5,3,4,8,Apple
+767,37,Masculino,Bairro Assunção,Superior incompleto,União estável,2720.00,D,1,824.04,Loja física,32,Não,3,2,3,2,3,5,Samsung
+768,27,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),2460.00,D,1,550.01,E-commerce,63,Não,2,1,3,4,2,3,Xiaomi
+769,49,Masculino,Rudge Ramos,Fundamental,Casado(a),1300.00,D,2,535.27,Marketplace,67,Sim,4,1,5,4,4,7,Xiaomi
+770,65,Masculino,Nova Petrópolis,Médio,Viúvo(a),1760.00,D,2,200.00,Loja física,30,Não,5,4,3,3,4,5,Apple
+771,61,Feminino,Nova Petrópolis,Médio,Solteiro(a),2620.00,D,1,878.87,Operadora,72,Não,5,2,5,3,4,8,Apple
+772,45,Masculino,Ferrazópolis,Superior incompleto,Divorciado(a),5100.00,C,1,470.12,Loja física,36,Não,4,1,4,5,3,7,Samsung
+773,57,Feminino,Nova Petrópolis,Médio,Casado(a),2920.00,D,0,960.92,E-commerce,27,Não,5,4,4,4,4,7,Outro
+774,24,Masculino,Demarchi,Médio,Solteiro(a),2140.00,D,2,545.77,Marketplace,29,Sim,3,1,3,4,3,3,Apple
+775,58,Feminino,Demarchi,Superior incompleto,Solteiro(a),2870.00,D,1,618.77,E-commerce,12,Não,4,4,5,3,4,7,Outro
+776,47,Feminino,Demarchi,Pós-graduação,Solteiro(a),2610.00,D,0,393.53,Marketplace,39,Não,4,3,5,4,4,6,Xiaomi
+777,41,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),6890.00,B,2,657.49,Marketplace,12,Não,4,1,4,2,4,5,Outro
+778,37,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),1920.00,D,2,200.00,E-commerce,41,Não,4,1,4,4,3,5,Apple
+779,33,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),5650.00,C,0,853.54,E-commerce,65,Não,3,3,3,4,3,5,Motorola
+780,61,Feminino,Nova Petrópolis,Superior completo,Casado(a),2950.00,D,1,563.45,Operadora,10,Sim,3,2,5,2,4,8,Xiaomi
+781,24,Masculino,Nova Petrópolis,Superior completo,Casado(a),2830.00,D,2,955.35,E-commerce,46,Sim,5,2,5,5,5,9,Apple
+782,63,Feminino,Nova Petrópolis,Superior completo,Solteiro(a),3260.00,C,1,461.20,Loja física,72,Sim,3,4,3,4,4,5,Motorola
+783,53,Masculino,Ferrazópolis,Médio,União estável,2920.00,D,2,971.30,Operadora,58,Sim,4,2,4,1,2,3,Outro
+784,27,Feminino,Ferrazópolis,Fundamental,Casado(a),1300.00,D,1,250.23,Marketplace,61,Não,5,1,5,5,3,4,Outro
+785,26,Feminino,Centro,Fundamental,Casado(a),2090.00,D,1,538.66,E-commerce,49,Sim,3,1,3,5,2,3,Outro
+786,37,Feminino,Taboão,Superior incompleto,Casado(a),2070.00,D,0,610.54,Operadora,28,Sim,3,1,3,4,2,4,Samsung
+787,64,Masculino,Demarchi,Fundamental,Solteiro(a),2320.00,D,0,521.42,Marketplace,30,Não,2,1,1,2,2,2,Motorola
+788,24,Masculino,Baeta Neves,Médio,Solteiro(a),1940.00,D,3,447.68,Marketplace,22,Sim,5,3,5,5,4,6,Samsung
+789,36,Masculino,Baeta Neves,Pós-graduação,Casado(a),1610.00,D,0,200.00,Loja física,36,Não,4,3,3,3,2,5,Motorola
+790,46,Masculino,Taboão,Médio,Solteiro(a),2130.00,D,2,534.37,Operadora,17,Não,5,1,4,4,3,5,Apple
+791,37,Masculino,Demarchi,Pós-graduação,Solteiro(a),5240.00,C,1,584.71,Operadora,2,Sim,5,3,4,4,5,9,Apple
+792,57,Feminino,Rudge Ramos,Médio,Solteiro(a),2430.00,D,1,884.28,Operadora,19,Não,3,1,2,2,3,4,Samsung
+793,42,Feminino,Bairro Assunção,Fundamental,União estável,1710.00,D,1,590.98,Operadora,32,Não,4,3,4,4,3,3,Outro
+794,68,Feminino,Taboão,Fundamental,Casado(a),1300.00,D,0,404.08,Operadora,22,Não,3,1,4,2,3,6,Xiaomi
+795,41,Feminino,Centro,Fundamental,Casado(a),1820.00,D,0,772.32,Operadora,60,Não,4,1,3,2,2,5,Samsung
+796,62,Feminino,Rudge Ramos,Superior completo,Casado(a),3920.00,C,0,770.50,Loja física,57,Não,4,4,3,4,4,4,Motorola
+797,53,Feminino,Rudge Ramos,Fundamental,Divorciado(a),4040.00,C,1,200.00,E-commerce,21,Não,5,2,4,3,3,4,Outro
+798,39,Feminino,Paulicéia,Fundamental,Viúvo(a),1300.00,D,0,654.18,Operadora,23,Não,5,2,4,1,4,7,Motorola
+799,32,Feminino,Paulicéia,Pós-graduação,Solteiro(a),6120.00,B,2,873.68,E-commerce,44,Não,5,2,5,4,4,7,Xiaomi
+800,57,Masculino,Demarchi,Superior completo,Solteiro(a),4390.00,C,1,691.57,Marketplace,8,Não,4,3,4,2,4,7,Xiaomi
+801,38,Feminino,Nova Petrópolis,Fundamental,Viúvo(a),2020.00,D,0,443.80,E-commerce,60,Não,3,2,3,4,3,3,Samsung
+802,61,Feminino,Centro,Fundamental,Casado(a),1680.00,D,1,362.04,Loja física,51,Não,5,3,5,3,4,8,Apple
+803,43,Masculino,Rudge Ramos,Superior completo,União estável,4780.00,C,1,374.64,Loja física,12,Não,3,2,2,4,3,2,Xiaomi
+804,48,Feminino,Paulicéia,Superior incompleto,Casado(a),3040.00,C,1,732.91,E-commerce,63,Não,4,4,4,4,3,5,Outro
+805,52,Feminino,Baeta Neves,Fundamental,Casado(a),1300.00,D,1,344.89,Operadora,3,Sim,5,2,4,3,2,4,Outro
+806,41,Feminino,Jardim do Mar,Médio,Casado(a),3650.00,C,0,449.36,Marketplace,21,Não,5,3,5,4,4,6,Outro
+807,48,Masculino,Paulicéia,Superior incompleto,União estável,3350.00,C,0,1247.83,Loja física,42,Não,4,2,4,3,4,6,Motorola
+808,53,Feminino,Paulicéia,Superior completo,Solteiro(a),6250.00,B,1,658.04,Operadora,56,Não,5,5,5,4,4,8,Motorola
+809,68,Masculino,Taboão,Superior incompleto,Solteiro(a),3700.00,C,0,381.17,Marketplace,22,Sim,3,3,4,3,4,5,Apple
+810,27,Feminino,Bairro Assunção,Pós-graduação,União estável,7210.00,B,2,953.61,Loja física,24,Não,4,1,4,5,3,5,Apple
+811,32,Feminino,Rudge Ramos,Médio,Solteiro(a),4720.00,C,1,614.76,Operadora,32,Sim,5,4,5,5,4,4,Outro
+812,33,Masculino,Taboão,Médio,União estável,1980.00,D,2,835.29,Loja física,32,Não,4,4,4,5,3,5,Xiaomi
+813,37,Masculino,Centro,Superior completo,Solteiro(a),5840.00,C,0,791.12,Marketplace,46,Não,3,2,5,4,4,9,Outro
+814,19,Masculino,Jardim do Mar,Superior completo,Viúvo(a),1910.00,D,2,557.06,E-commerce,29,Sim,5,1,4,5,4,5,Samsung
+815,48,Feminino,Centro,Superior completo,Solteiro(a),1580.00,D,2,619.63,E-commerce,1,Não,4,3,5,3,5,8,Xiaomi
+816,69,Masculino,Demarchi,Superior incompleto,Solteiro(a),2530.00,D,0,548.98,E-commerce,20,Não,3,1,3,3,3,6,Motorola
+817,49,Masculino,Paulicéia,Superior incompleto,Solteiro(a),5690.00,C,0,513.66,Loja física,47,Não,4,4,4,4,4,8,Samsung
+818,36,Feminino,Paulicéia,Superior completo,Divorciado(a),3710.00,C,2,681.21,Loja física,5,Não,5,3,3,3,3,4,Xiaomi
+819,19,Masculino,Rudge Ramos,Superior incompleto,Solteiro(a),2780.00,D,2,266.83,Operadora,69,Não,4,1,5,5,4,6,Apple
+820,31,Masculino,Ferrazópolis,Superior incompleto,Casado(a),4000.00,C,2,311.02,Marketplace,57,Não,4,3,4,4,4,6,Motorola
+821,42,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),1780.00,D,1,319.38,Loja física,21,Não,5,3,5,2,4,8,Samsung
+822,58,Feminino,Centro,Superior incompleto,Solteiro(a),2540.00,D,0,348.73,Operadora,56,Não,2,2,3,2,2,2,Samsung
+823,40,Masculino,Rudge Ramos,Médio,Casado(a),2700.00,D,1,567.50,Loja física,23,Sim,5,1,5,4,4,7,Xiaomi
+824,18,Masculino,Rudge Ramos,Pós-graduação,Casado(a),3590.00,C,0,200.00,E-commerce,17,Não,2,2,4,3,2,3,Outro
+825,45,Feminino,Ferrazópolis,Médio,Casado(a),2520.00,D,3,377.99,Operadora,18,Sim,3,3,3,4,3,5,Motorola
+826,25,Feminino,Baeta Neves,Pós-graduação,Divorciado(a),1570.00,D,1,200.00,Loja física,49,Sim,2,4,3,4,2,3,Apple
+827,42,Feminino,Jardim do Mar,Fundamental,Casado(a),1570.00,D,0,604.59,E-commerce,46,Sim,5,3,5,4,5,8,Outro
+828,23,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),2940.00,D,1,417.44,Loja física,11,Não,4,4,3,4,3,4,Motorola
+829,62,Feminino,Demarchi,Pós-graduação,União estável,2280.00,D,1,400.31,Marketplace,20,Não,4,2,3,2,3,5,Samsung
+830,51,Outro,Jardim do Mar,Fundamental,Solteiro(a),1370.00,D,1,200.00,Loja física,2,Não,4,3,4,1,4,4,Motorola
+831,61,Masculino,Bairro Assunção,Superior completo,Solteiro(a),4070.00,C,0,719.96,Operadora,68,Não,4,3,3,4,3,5,Apple
+832,46,Masculino,Rudge Ramos,Pós-graduação,Casado(a),1780.00,D,3,200.00,E-commerce,32,Não,4,4,5,3,4,9,Motorola
+833,43,Feminino,Baeta Neves,Fundamental,Divorciado(a),1300.00,D,2,357.00,E-commerce,51,Não,5,2,4,2,5,7,Outro
+834,70,Feminino,Jardim do Mar,Superior completo,Solteiro(a),2600.00,D,4,377.09,E-commerce,47,Não,4,3,4,3,4,6,Motorola
+835,57,Feminino,Paulicéia,Pós-graduação,Solteiro(a),7380.00,B,4,1149.60,E-commerce,38,Não,3,3,5,3,4,9,Xiaomi
+836,20,Masculino,Ferrazópolis,Pós-graduação,Divorciado(a),5600.00,C,1,200.00,E-commerce,21,Sim,2,2,2,4,4,3,Apple
+837,48,Masculino,Paulicéia,Pós-graduação,Casado(a),1700.00,D,0,817.79,Loja física,61,Sim,5,4,5,3,5,10,Outro
+838,65,Feminino,Taboão,Superior completo,Solteiro(a),2770.00,D,2,440.52,Loja física,57,Sim,4,2,4,4,3,4,Samsung
+839,61,Feminino,Centro,Médio,Divorciado(a),3950.00,C,1,513.08,Loja física,55,Não,4,3,4,3,4,6,Outro
+840,36,Feminino,Centro,Fundamental,União estável,4290.00,C,1,886.73,Loja física,31,Não,5,2,5,2,3,5,Motorola
+841,70,Feminino,Paulicéia,Pós-graduação,Casado(a),2680.00,D,1,731.15,Loja física,21,Sim,5,3,5,3,5,7,Motorola
+842,41,Feminino,Nova Petrópolis,Superior completo,Divorciado(a),3740.00,C,0,625.47,Loja física,52,Não,4,1,4,5,3,6,Apple
+843,27,Masculino,Bairro Assunção,Médio,Solteiro(a),1560.00,D,0,581.66,Marketplace,36,Não,5,1,5,3,5,9,Motorola
+844,34,Feminino,Bairro Assunção,Fundamental,União estável,3300.00,C,2,200.00,Marketplace,62,Sim,4,4,4,4,4,6,Samsung
+845,39,Feminino,Jardim do Mar,Fundamental,Solteiro(a),1800.00,D,1,228.70,E-commerce,1,Não,5,2,5,4,4,5,Apple
+846,64,Masculino,Jardim do Mar,Superior incompleto,União estável,2780.00,D,1,590.08,Loja física,20,Não,4,1,5,1,4,7,Apple
+847,59,Feminino,Taboão,Superior incompleto,Casado(a),1560.00,D,2,204.46,Loja física,30,Não,4,1,4,4,4,7,Outro
+848,48,Feminino,Jardim do Mar,Fundamental,Divorciado(a),3290.00,C,1,569.90,Loja física,23,Não,5,3,4,3,5,8,Samsung
+849,23,Masculino,Centro,Fundamental,Viúvo(a),2430.00,D,0,398.30,Operadora,10,Sim,4,3,4,4,3,5,Motorola
+850,29,Masculino,Paulicéia,Superior completo,Casado(a),3340.00,C,3,267.24,Loja física,54,Não,4,3,4,5,4,6,Samsung
+851,65,Feminino,Jardim do Mar,Médio,Solteiro(a),2220.00,D,0,735.81,E-commerce,66,Sim,5,1,5,3,3,3,Samsung
+852,26,Feminino,Demarchi,Médio,União estável,1850.00,D,2,630.86,E-commerce,30,Não,4,3,4,4,3,3,Motorola
+853,43,Masculino,Taboão,Médio,Casado(a),3200.00,C,0,451.01,Operadora,40,Não,2,3,3,5,2,4,Outro
+854,63,Masculino,Rudge Ramos,Pós-graduação,União estável,2930.00,D,2,877.43,Marketplace,58,Não,4,1,5,2,3,6,Xiaomi
+855,22,Feminino,Jardim do Mar,Fundamental,Solteiro(a),2950.00,D,2,200.00,Marketplace,45,Sim,3,2,4,4,3,4,Xiaomi
+856,52,Masculino,Ferrazópolis,Superior completo,Solteiro(a),5640.00,C,2,455.71,Operadora,29,Sim,3,2,2,4,2,2,Xiaomi
+857,55,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2420.00,D,2,342.98,Marketplace,59,Sim,5,2,5,3,4,9,Xiaomi
+858,43,Masculino,Ferrazópolis,Pós-graduação,Casado(a),3610.00,C,0,476.04,Marketplace,2,Sim,4,3,4,3,3,4,Outro
+859,60,Masculino,Rudge Ramos,Fundamental,Solteiro(a),1300.00,D,0,363.54,Marketplace,20,Não,4,3,3,3,3,4,Xiaomi
+860,47,Feminino,Jardim do Mar,Pós-graduação,Casado(a),3300.00,C,0,711.00,Loja física,18,Não,4,3,4,2,3,6,Apple
+861,48,Masculino,Rudge Ramos,Superior incompleto,Casado(a),2650.00,D,2,1030.65,Marketplace,49,Não,4,2,4,4,3,4,Outro
+862,63,Masculino,Bairro Assunção,Pós-graduação,União estável,4420.00,C,1,725.50,Operadora,2,Sim,4,3,5,2,4,10,Motorola
+863,58,Masculino,Rudge Ramos,Fundamental,Solteiro(a),3220.00,C,0,530.96,Operadora,12,Sim,4,4,4,3,3,5,Motorola
+864,31,Feminino,Paulicéia,Superior completo,Casado(a),3530.00,C,1,856.42,Loja física,29,Não,4,1,4,1,3,7,Samsung
+865,62,Masculino,Rudge Ramos,Pós-graduação,Viúvo(a),6310.00,B,3,732.34,Loja física,47,Não,3,4,3,3,2,4,Motorola
+866,33,Feminino,Bairro Assunção,Superior completo,Divorciado(a),3080.00,C,1,517.96,Operadora,67,Sim,4,1,3,2,3,5,Outro
+867,57,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1470.00,D,2,439.44,Operadora,27,Sim,3,2,3,1,2,4,Samsung
+868,32,Masculino,Jardim do Mar,Superior incompleto,União estável,4610.00,C,4,720.21,Marketplace,33,Não,5,4,5,2,5,7,Samsung
+869,67,Masculino,Baeta Neves,Fundamental,Divorciado(a),1450.00,D,0,600.57,Marketplace,66,Não,4,2,4,1,3,3,Outro
+870,41,Feminino,Jardim do Mar,Médio,Solteiro(a),1640.00,D,0,200.00,Loja física,39,Não,3,2,4,3,3,7,Outro
+871,64,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),2930.00,D,2,637.93,E-commerce,30,Não,4,1,4,3,3,4,Motorola
+872,69,Masculino,Nova Petrópolis,Superior completo,Divorciado(a),2090.00,D,0,534.31,E-commerce,71,Sim,5,1,3,3,4,8,Xiaomi
+873,23,Masculino,Rudge Ramos,Fundamental,União estável,1760.00,D,0,400.75,E-commerce,36,Não,4,4,4,4,3,3,Xiaomi
+874,70,Masculino,Baeta Neves,Médio,União estável,1370.00,D,1,682.26,Loja física,6,Não,5,1,4,4,4,6,Outro
+875,64,Masculino,Ferrazópolis,Superior incompleto,Casado(a),2380.00,D,0,687.67,Operadora,63,Não,5,1,3,3,4,6,Xiaomi
+876,45,Feminino,Demarchi,Médio,Casado(a),1300.00,D,1,311.52,E-commerce,29,Sim,4,1,4,5,3,5,Samsung
+877,56,Masculino,Demarchi,Fundamental,Casado(a),2940.00,D,3,472.31,Loja física,62,Não,3,4,3,1,3,5,Outro
+878,61,Feminino,Rudge Ramos,Superior completo,Solteiro(a),3640.00,C,0,684.36,Loja física,5,Sim,4,3,3,3,4,8,Samsung
+879,55,Feminino,Nova Petrópolis,Superior incompleto,Viúvo(a),1740.00,D,2,407.27,Loja física,34,Não,4,3,4,3,3,4,Outro
+880,45,Feminino,Bairro Assunção,Superior incompleto,Casado(a),1560.00,D,1,200.00,Marketplace,8,Não,2,2,5,3,3,5,Motorola
+881,70,Masculino,Taboão,Fundamental,Solteiro(a),1910.00,D,1,460.25,Marketplace,49,Não,3,2,3,4,2,4,Outro
+882,24,Masculino,Ferrazópolis,Pós-graduação,Divorciado(a),2860.00,D,0,879.71,Loja física,27,Não,5,2,4,4,4,7,Motorola
+883,39,Masculino,Rudge Ramos,Superior completo,Solteiro(a),4380.00,C,0,555.61,Loja física,58,Não,4,3,4,4,4,5,Apple
+884,25,Outro,Baeta Neves,Superior incompleto,União estável,1380.00,D,1,567.95,Loja física,53,Sim,4,3,5,5,3,8,Motorola
+885,36,Feminino,Centro,Pós-graduação,Casado(a),5320.00,C,3,1210.89,Marketplace,51,Sim,3,3,1,5,2,0,Xiaomi
+886,40,Feminino,Ferrazópolis,Superior completo,Solteiro(a),2520.00,D,1,200.00,Loja física,6,Não,5,1,4,3,4,7,Samsung
+887,47,Masculino,Centro,Médio,Casado(a),2000.00,D,0,658.39,Operadora,17,Não,4,3,5,4,4,7,Outro
+888,38,Feminino,Paulicéia,Médio,Casado(a),1380.00,D,1,259.32,Marketplace,3,Não,4,2,4,5,4,8,Xiaomi
+889,51,Masculino,Baeta Neves,Fundamental,Divorciado(a),1950.00,D,2,336.54,Operadora,46,Não,5,1,4,3,4,5,Outro
+890,22,Feminino,Bairro Assunção,Superior completo,Casado(a),1650.00,D,4,440.37,Loja física,42,Não,5,1,3,5,4,6,Samsung
+891,65,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),3970.00,C,0,327.63,E-commerce,12,Não,2,3,3,3,2,1,Apple
+892,30,Masculino,Paulicéia,Superior incompleto,Casado(a),4340.00,C,2,783.01,Operadora,40,Não,5,4,4,4,5,8,Xiaomi
+893,42,Feminino,Jardim do Mar,Superior incompleto,União estável,7240.00,B,1,446.84,Marketplace,68,Não,3,3,1,3,3,2,Samsung
+894,44,Feminino,Paulicéia,Fundamental,Casado(a),2140.00,D,1,579.99,Operadora,51,Não,2,1,3,3,3,5,Samsung
+895,56,Masculino,Jardim do Mar,Fundamental,Casado(a),2580.00,D,2,768.62,Operadora,26,Sim,5,1,5,3,4,9,Samsung
+896,32,Masculino,Bairro Assunção,Superior completo,Casado(a),3350.00,C,1,200.00,Loja física,3,Não,4,3,4,3,3,4,Xiaomi
+897,47,Feminino,Nova Petrópolis,Pós-graduação,Casado(a),7960.00,B,1,430.22,Operadora,21,Sim,3,4,5,3,3,6,Apple
+898,21,Masculino,Centro,Fundamental,Divorciado(a),2030.00,D,0,367.72,Operadora,38,Sim,5,4,5,4,5,8,Samsung
+899,35,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),1830.00,D,1,700.80,Loja física,49,Não,4,1,4,4,3,7,Apple
+900,33,Feminino,Taboão,Médio,Solteiro(a),2170.00,D,0,268.88,Marketplace,43,Não,3,2,5,4,3,6,Apple
+901,36,Masculino,Nova Petrópolis,Pós-graduação,Solteiro(a),1950.00,D,0,516.41,E-commerce,34,Sim,5,1,5,3,4,7,Motorola
+902,20,Feminino,Taboão,Superior completo,Casado(a),6180.00,B,2,330.52,Marketplace,63,Sim,2,3,4,5,2,5,Motorola
+903,52,Masculino,Paulicéia,Pós-graduação,Solteiro(a),4540.00,C,1,397.95,Marketplace,40,Não,4,2,4,2,4,5,Samsung
+904,44,Feminino,Centro,Médio,Viúvo(a),3930.00,C,1,289.77,Loja física,17,Não,3,1,4,3,2,4,Samsung
+905,40,Masculino,Taboão,Fundamental,Solteiro(a),1570.00,D,1,222.38,Marketplace,41,Não,3,2,4,4,3,5,Apple
+906,52,Feminino,Bairro Assunção,Médio,Viúvo(a),3210.00,C,2,548.70,E-commerce,44,Sim,5,2,2,4,3,4,Motorola
+907,58,Masculino,Nova Petrópolis,Fundamental,Casado(a),2210.00,D,1,453.08,Marketplace,7,Sim,3,3,2,2,2,0,Apple
+908,23,Masculino,Nova Petrópolis,Médio,Solteiro(a),1300.00,D,2,545.35,Marketplace,44,Sim,5,2,5,5,4,6,Apple
+909,39,Feminino,Paulicéia,Fundamental,Solteiro(a),1300.00,D,2,200.00,Marketplace,11,Sim,2,4,3,4,2,3,Xiaomi
+910,56,Masculino,Jardim do Mar,Fundamental,Casado(a),2670.00,D,0,805.66,E-commerce,5,Não,4,3,4,3,5,6,Outro
+911,28,Masculino,Rudge Ramos,Médio,Casado(a),6880.00,B,2,679.25,Loja física,5,Sim,3,5,4,5,4,4,Apple
+912,60,Feminino,Centro,Médio,Casado(a),3990.00,C,2,845.40,Operadora,61,Não,4,2,3,3,4,7,Xiaomi
+913,43,Masculino,Nova Petrópolis,Pós-graduação,Casado(a),4780.00,C,1,795.54,Operadora,29,Sim,4,4,4,3,4,6,Outro
+914,32,Masculino,Jardim do Mar,Médio,Casado(a),4700.00,C,1,754.49,Marketplace,57,Não,4,3,4,3,4,8,Samsung
+915,19,Feminino,Bairro Assunção,Superior completo,Solteiro(a),2190.00,D,1,794.31,Marketplace,68,Sim,4,2,5,4,4,7,Xiaomi
+916,35,Feminino,Bairro Assunção,Pós-graduação,Casado(a),4500.00,C,2,432.49,E-commerce,59,Sim,4,3,5,3,3,7,Motorola
+917,57,Masculino,Baeta Neves,Superior completo,União estável,1990.00,D,1,543.60,Marketplace,19,Não,3,2,2,3,3,2,Xiaomi
+918,67,Masculino,Baeta Neves,Superior incompleto,Solteiro(a),3090.00,C,0,200.00,Marketplace,2,Não,4,2,2,4,4,6,Outro
+919,48,Masculino,Centro,Superior completo,Casado(a),2370.00,D,0,549.39,Loja física,38,Não,5,3,4,2,5,6,Apple
+920,62,Feminino,Centro,Fundamental,Solteiro(a),3560.00,C,0,572.77,E-commerce,5,Não,2,2,4,2,2,4,Samsung
+921,19,Feminino,Taboão,Superior incompleto,União estável,1300.00,D,0,217.34,E-commerce,44,Sim,3,2,3,5,2,6,Samsung
+922,50,Feminino,Rudge Ramos,Pós-graduação,União estável,2350.00,D,1,467.03,Loja física,3,Não,3,3,5,3,3,5,Samsung
+923,68,Feminino,Paulicéia,Médio,Solteiro(a),5340.00,C,1,260.60,Marketplace,55,Não,4,2,3,4,3,5,Apple
+924,25,Feminino,Bairro Assunção,Superior incompleto,Viúvo(a),4050.00,C,2,274.32,Loja física,55,Sim,2,4,2,4,1,1,Motorola
+925,43,Feminino,Taboão,Fundamental,Solteiro(a),2300.00,D,0,487.48,Marketplace,63,Não,4,1,4,5,4,7,Outro
+926,37,Feminino,Jardim do Mar,Superior completo,Casado(a),3900.00,C,0,246.63,Operadora,33,Não,3,3,3,4,3,4,Xiaomi
+927,55,Feminino,Demarchi,Fundamental,Solteiro(a),2660.00,D,1,989.18,Operadora,34,Não,5,3,4,4,4,9,Motorola
+928,20,Outro,Jardim do Mar,Médio,Casado(a),6530.00,B,2,850.65,Loja física,25,Não,3,2,4,5,3,6,Motorola
+929,36,Masculino,Taboão,Fundamental,Casado(a),2410.00,D,1,469.99,E-commerce,33,Não,5,3,5,2,4,6,Outro
+930,38,Feminino,Bairro Assunção,Superior incompleto,Solteiro(a),3370.00,C,2,574.30,Operadora,44,Não,4,4,3,2,3,4,Motorola
+931,42,Feminino,Demarchi,Superior incompleto,União estável,2230.00,D,3,566.56,E-commerce,40,Não,4,4,4,3,4,8,Samsung
+932,20,Masculino,Taboão,Superior completo,Casado(a),3000.00,C,1,289.39,Marketplace,5,Não,5,2,4,4,3,5,Motorola
+933,59,Feminino,Ferrazópolis,Superior completo,Solteiro(a),1800.00,D,0,517.02,Marketplace,52,Não,3,2,4,3,3,7,Samsung
+934,62,Masculino,Rudge Ramos,Médio,Casado(a),2990.00,D,2,556.24,Operadora,53,Não,2,2,3,4,2,4,Motorola
+935,51,Masculino,Paulicéia,Médio,Casado(a),3180.00,C,2,308.13,Loja física,68,Não,2,3,4,2,2,3,Xiaomi
+936,41,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),4030.00,C,0,694.34,E-commerce,65,Sim,5,3,5,2,5,8,Samsung
+937,33,Feminino,Ferrazópolis,Superior completo,Solteiro(a),5350.00,C,2,565.62,E-commerce,16,Não,3,3,3,3,2,4,Samsung
+938,60,Masculino,Demarchi,Pós-graduação,Divorciado(a),7110.00,B,1,889.93,E-commerce,27,Sim,4,2,4,4,3,4,Apple
+939,63,Feminino,Jardim do Mar,Superior incompleto,União estável,5860.00,C,1,1005.81,Loja física,44,Não,5,2,5,4,5,10,Apple
+940,26,Feminino,Rudge Ramos,Superior completo,Casado(a),1770.00,D,3,407.89,Marketplace,46,Não,3,4,3,3,3,4,Motorola
+941,47,Outro,Nova Petrópolis,Superior incompleto,Casado(a),4210.00,C,0,990.25,Operadora,20,Sim,3,2,4,4,3,5,Outro
+942,43,Feminino,Ferrazópolis,Fundamental,Solteiro(a),2880.00,D,0,399.65,E-commerce,8,Não,4,2,5,3,4,8,Motorola
+943,44,Feminino,Nova Petrópolis,Fundamental,Casado(a),3410.00,C,1,309.50,Operadora,30,Sim,5,2,5,2,4,8,Xiaomi
+944,50,Feminino,Baeta Neves,Médio,Casado(a),2350.00,D,0,548.60,Loja física,46,Não,5,1,5,3,4,6,Xiaomi
+945,25,Feminino,Taboão,Médio,Solteiro(a),2420.00,D,0,215.02,Operadora,14,Não,3,3,2,4,3,1,Outro
+946,63,Masculino,Jardim do Mar,Fundamental,Solteiro(a),1720.00,D,2,582.64,Loja física,41,Sim,5,2,4,4,4,6,Outro
+947,66,Masculino,Taboão,Superior incompleto,Casado(a),5690.00,C,2,410.01,E-commerce,38,Sim,4,2,2,3,3,4,Samsung
+948,22,Feminino,Bairro Assunção,Médio,Solteiro(a),2380.00,D,1,666.92,Loja física,51,Não,4,2,4,5,3,6,Outro
+949,20,Masculino,Paulicéia,Pós-graduação,Solteiro(a),7010.00,B,4,741.94,Operadora,17,Sim,4,3,5,5,4,5,Xiaomi
+950,28,Masculino,Jardim do Mar,Médio,União estável,1410.00,D,2,842.31,E-commerce,41,Não,4,4,4,4,4,6,Samsung
+951,46,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),3910.00,C,2,900.11,Loja física,2,Não,3,1,4,3,3,3,Motorola
+952,52,Masculino,Nova Petrópolis,Fundamental,Divorciado(a),2380.00,D,0,699.22,E-commerce,56,Não,3,3,4,4,3,2,Outro
+953,44,Feminino,Baeta Neves,Superior completo,União estável,1490.00,D,1,235.90,E-commerce,39,Sim,5,1,4,4,4,9,Outro
+954,46,Masculino,Jardim do Mar,Superior incompleto,Casado(a),3940.00,C,0,352.46,Operadora,8,Não,3,5,3,4,4,5,Apple
+955,49,Masculino,Baeta Neves,Fundamental,Solteiro(a),3780.00,C,1,631.22,Loja física,1,Sim,5,5,4,4,5,8,Outro
+956,54,Feminino,Demarchi,Médio,Solteiro(a),1870.00,D,0,573.44,E-commerce,71,Não,5,4,5,1,4,8,Outro
+957,67,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),3990.00,C,1,567.12,Operadora,64,Não,4,2,4,3,4,9,Xiaomi
+958,34,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),2410.00,D,2,480.35,Loja física,22,Não,5,1,5,4,4,7,Samsung
+959,43,Feminino,Demarchi,Médio,Solteiro(a),4520.00,C,1,712.72,Marketplace,47,Não,3,3,2,4,4,4,Outro
+960,49,Masculino,Centro,Médio,Solteiro(a),1300.00,D,0,781.44,E-commerce,47,Não,5,1,5,4,2,4,Xiaomi
+961,44,Masculino,Bairro Assunção,Superior completo,Solteiro(a),1300.00,D,2,852.82,Loja física,21,Não,4,2,5,4,3,6,Samsung
+962,22,Masculino,Paulicéia,Médio,Divorciado(a),3260.00,C,0,952.66,Marketplace,17,Não,4,1,5,5,3,6,Xiaomi
+963,39,Masculino,Taboão,Superior incompleto,Casado(a),3470.00,C,0,200.00,E-commerce,18,Sim,5,2,5,4,4,7,Apple
+964,38,Feminino,Rudge Ramos,Fundamental,Solteiro(a),2870.00,D,1,200.00,Operadora,43,Não,4,3,4,3,3,4,Apple
+965,68,Masculino,Taboão,Fundamental,Solteiro(a),2760.00,D,2,601.62,Loja física,6,Não,3,2,4,2,3,4,Motorola
+966,51,Feminino,Paulicéia,Superior completo,Viúvo(a),5100.00,C,0,809.45,Operadora,45,Não,2,2,3,3,2,5,Apple
+967,54,Outro,Nova Petrópolis,Médio,Casado(a),2660.00,D,1,765.21,E-commerce,63,Sim,5,2,4,4,4,6,Outro
+968,24,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),2220.00,D,0,712.68,Marketplace,50,Não,5,1,3,3,3,3,Xiaomi
+969,69,Masculino,Jardim do Mar,Fundamental,Solteiro(a),5900.00,C,2,979.73,E-commerce,32,Sim,5,4,4,4,5,5,Samsung
+970,36,Feminino,Taboão,Médio,Casado(a),2920.00,D,1,523.16,Marketplace,44,Sim,4,3,5,4,5,9,Samsung
+971,59,Feminino,Jardim do Mar,Superior completo,União estável,2860.00,D,0,525.10,Operadora,15,Não,3,3,4,1,3,5,Motorola
+972,19,Feminino,Baeta Neves,Médio,União estável,2150.00,D,1,648.50,Operadora,36,Não,4,4,3,5,4,5,Motorola
+973,18,Masculino,Rudge Ramos,Superior incompleto,Casado(a),1560.00,D,0,619.78,Loja física,40,Não,4,2,4,5,2,5,Samsung
+974,46,Feminino,Ferrazópolis,Médio,Solteiro(a),4820.00,C,0,583.08,Loja física,31,Não,5,5,5,3,4,6,Apple
+975,54,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),2360.00,D,0,262.70,Loja física,67,Sim,5,2,5,3,4,7,Apple
+976,58,Feminino,Baeta Neves,Fundamental,Solteiro(a),2360.00,D,0,200.00,E-commerce,50,Não,5,3,4,4,3,6,Xiaomi
+977,57,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),4520.00,C,1,525.44,Operadora,5,Sim,4,1,4,4,3,4,Outro
+978,45,Outro,Demarchi,Médio,União estável,1300.00,D,1,200.00,Loja física,48,Não,5,2,3,3,4,6,Motorola
+979,37,Feminino,Paulicéia,Pós-graduação,União estável,3030.00,C,0,562.18,Marketplace,64,Sim,5,3,5,5,4,7,Outro
+980,50,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),3740.00,C,0,771.82,E-commerce,27,Não,5,2,2,3,3,4,Xiaomi
+981,52,Masculino,Taboão,Superior completo,Solteiro(a),2390.00,D,0,557.94,Operadora,66,Não,4,1,3,4,4,6,Xiaomi
+982,40,Feminino,Paulicéia,Fundamental,Casado(a),1830.00,D,0,408.02,Operadora,52,Não,4,3,3,2,2,0,Apple
+983,52,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),3840.00,C,0,745.38,Operadora,16,Não,5,4,5,5,4,8,Apple
+984,28,Feminino,Demarchi,Fundamental,União estável,3530.00,C,3,363.19,Loja física,43,Sim,5,4,5,3,4,8,Apple
+985,31,Feminino,Paulicéia,Superior incompleto,Casado(a),3070.00,C,0,661.69,Operadora,72,Não,3,5,2,3,3,6,Xiaomi
+986,59,Feminino,Bairro Assunção,Fundamental,União estável,1300.00,D,2,450.95,E-commerce,53,Sim,3,2,3,4,3,5,Samsung
+987,56,Masculino,Rudge Ramos,Médio,Solteiro(a),2020.00,D,2,355.91,E-commerce,12,Não,5,3,3,3,3,5,Apple
+988,37,Masculino,Jardim do Mar,Superior completo,Solteiro(a),2300.00,D,0,604.35,Loja física,48,Não,2,2,2,4,2,2,Apple
+989,41,Feminino,Ferrazópolis,Pós-graduação,Casado(a),2030.00,D,0,200.00,E-commerce,27,Sim,4,1,3,2,4,4,Samsung
+990,32,Outro,Nova Petrópolis,Pós-graduação,Divorciado(a),1770.00,D,0,405.55,Marketplace,34,Sim,3,2,4,3,4,7,Samsung
+991,28,Feminino,Taboão,Fundamental,Solteiro(a),2290.00,D,2,355.40,Operadora,54,Não,3,3,4,4,3,4,Apple
+992,43,Masculino,Ferrazópolis,Médio,Solteiro(a),1880.00,D,2,231.63,Operadora,52,Sim,3,1,3,2,2,2,Motorola
+993,18,Feminino,Bairro Assunção,Pós-graduação,Casado(a),4400.00,C,1,503.55,Operadora,26,Sim,4,3,5,5,4,7,Apple
+994,39,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),4590.00,C,0,737.13,Operadora,55,Não,4,3,5,4,3,6,Apple
+995,29,Feminino,Paulicéia,Pós-graduação,Solteiro(a),1300.00,D,0,288.62,E-commerce,49,Não,3,1,3,3,1,3,Apple
+996,26,Feminino,Jardim do Mar,Fundamental,Solteiro(a),4830.00,C,0,853.41,Marketplace,71,Não,2,1,2,4,2,2,Xiaomi
+997,45,Masculino,Jardim do Mar,Superior completo,Casado(a),4140.00,C,0,264.37,E-commerce,66,Sim,4,3,5,3,4,8,Xiaomi
+998,50,Masculino,Ferrazópolis,Médio,Casado(a),3310.00,C,1,575.48,E-commerce,44,Não,4,3,4,4,5,7,Xiaomi
+999,26,Feminino,Ferrazópolis,Superior incompleto,Solteiro(a),3410.00,C,0,339.38,E-commerce,38,Não,5,4,4,4,4,6,Apple
+1000,33,Masculino,Nova Petrópolis,Superior incompleto,Solteiro(a),2510.00,D,0,742.21,E-commerce,46,Não,2,2,3,3,3,4,Motorola
+1001,47,Feminino,Paulicéia,Pós-graduação,União estável,2000.00,D,0,577.37,E-commerce,48,Não,4,1,5,3,4,7,Samsung
+1002,21,Feminino,Demarchi,Pós-graduação,Casado(a),3070.00,C,1,335.67,Loja física,16,Sim,5,3,5,5,4,6,Xiaomi
+1003,41,Feminino,Paulicéia,Fundamental,Casado(a),1300.00,D,3,551.76,Operadora,72,Não,3,3,3,4,3,3,Samsung
+1004,70,Feminino,Jardim do Mar,Pós-graduação,Casado(a),8630.00,B,1,1114.38,Operadora,41,Não,4,1,4,2,3,6,Motorola
+1005,34,Feminino,Jardim do Mar,Pós-graduação,União estável,2490.00,D,0,430.21,Marketplace,12,Sim,3,1,3,5,2,3,Xiaomi
+1006,65,Feminino,Ferrazópolis,Superior completo,Solteiro(a),3850.00,C,0,548.42,E-commerce,51,Não,3,4,2,5,2,0,Motorola
+1007,60,Masculino,Ferrazópolis,Médio,Solteiro(a),1440.00,D,0,525.66,Marketplace,51,Não,5,3,5,3,4,8,Motorola
+1008,65,Masculino,Baeta Neves,Superior incompleto,Casado(a),5270.00,C,1,610.03,Loja física,32,Sim,3,3,3,3,4,6,Apple
+1009,58,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),3830.00,C,2,780.80,Loja física,72,Não,3,3,4,1,3,5,Outro
+1010,40,Masculino,Nova Petrópolis,Superior completo,Solteiro(a),5230.00,C,3,646.04,Loja física,47,Não,2,2,3,3,2,3,Motorola
+1011,22,Masculino,Demarchi,Médio,Casado(a),3800.00,C,1,694.59,E-commerce,38,Não,5,2,5,3,3,8,Xiaomi
+1012,44,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),1320.00,D,0,528.74,Loja física,10,Não,3,2,3,4,3,4,Apple
+1013,49,Feminino,Bairro Assunção,Pós-graduação,Casado(a),3280.00,C,2,558.36,Operadora,67,Não,3,3,4,2,4,4,Apple
+1014,33,Feminino,Nova Petrópolis,Médio,Solteiro(a),1980.00,D,2,519.02,Operadora,22,Não,5,2,5,4,4,9,Xiaomi
+1015,39,Feminino,Nova Petrópolis,Médio,União estável,1590.00,D,0,299.75,E-commerce,6,Sim,3,2,3,2,3,6,Apple
+1016,56,Masculino,Jardim do Mar,Superior incompleto,Casado(a),4250.00,C,1,599.45,Marketplace,52,Não,2,5,4,3,3,4,Outro
+1017,40,Masculino,Bairro Assunção,Pós-graduação,Divorciado(a),3470.00,C,0,592.28,E-commerce,70,Sim,2,1,3,5,3,4,Xiaomi
+1018,33,Masculino,Paulicéia,Fundamental,Casado(a),2350.00,D,1,499.84,Operadora,67,Não,2,3,3,3,2,4,Outro
+1019,58,Feminino,Jardim do Mar,Pós-graduação,Divorciado(a),3470.00,C,1,200.00,Operadora,40,Não,3,2,5,2,3,9,Apple
+1020,37,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),3710.00,C,1,693.06,Loja física,37,Não,4,2,3,4,3,5,Xiaomi
+1021,66,Masculino,Paulicéia,Superior completo,União estável,2810.00,D,4,575.74,Loja física,29,Sim,4,2,3,2,4,5,Motorola
+1022,63,Masculino,Demarchi,Superior incompleto,Casado(a),5050.00,C,2,837.90,E-commerce,9,Sim,5,3,4,4,4,7,Xiaomi
+1023,58,Feminino,Baeta Neves,Pós-graduação,Solteiro(a),4400.00,C,3,313.60,E-commerce,67,Sim,4,4,3,3,3,3,Samsung
+1024,25,Feminino,Taboão,Superior incompleto,Casado(a),1320.00,D,1,421.64,Loja física,29,Não,4,2,5,5,3,5,Xiaomi
+1025,69,Masculino,Baeta Neves,Médio,Divorciado(a),3080.00,C,1,602.19,Marketplace,10,Não,4,2,4,3,3,5,Samsung
+1026,23,Feminino,Jardim do Mar,Superior incompleto,Casado(a),2410.00,D,3,584.48,Marketplace,72,Não,5,1,5,5,4,8,Motorola
+1027,49,Masculino,Paulicéia,Pós-graduação,Casado(a),4560.00,C,3,795.15,Loja física,4,Não,4,2,3,4,3,6,Outro
+1028,38,Masculino,Jardim do Mar,Pós-graduação,Solteiro(a),3400.00,C,2,570.01,Loja física,18,Não,5,4,4,4,4,5,Outro
+1029,45,Feminino,Baeta Neves,Superior incompleto,Divorciado(a),3120.00,C,1,200.00,E-commerce,15,Sim,3,4,4,3,4,6,Xiaomi
+1030,46,Feminino,Rudge Ramos,Fundamental,Casado(a),2870.00,D,1,200.00,E-commerce,58,Sim,3,1,3,5,2,1,Outro
+1031,49,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),5010.00,C,1,349.13,Operadora,55,Não,3,3,4,2,3,6,Motorola
+1032,43,Masculino,Paulicéia,Superior incompleto,Divorciado(a),2860.00,D,1,285.63,E-commerce,42,Não,3,1,3,5,3,5,Motorola
+1033,65,Masculino,Rudge Ramos,Pós-graduação,Casado(a),4310.00,C,1,786.40,Loja física,36,Sim,3,3,4,2,3,6,Apple
+1034,31,Feminino,Demarchi,Médio,Solteiro(a),5160.00,C,1,898.97,Loja física,67,Sim,3,2,5,5,3,6,Xiaomi
+1035,41,Masculino,Jardim do Mar,Superior completo,Viúvo(a),4100.00,C,1,821.05,E-commerce,14,Não,4,1,5,5,3,6,Outro
+1036,28,Masculino,Demarchi,Médio,Solteiro(a),1300.00,D,1,421.87,Marketplace,40,Não,4,1,5,5,3,6,Xiaomi
+1037,21,Masculino,Paulicéia,Médio,Solteiro(a),1390.00,D,2,200.00,E-commerce,16,Sim,3,3,3,2,3,5,Xiaomi
+1038,37,Feminino,Demarchi,Pós-graduação,Casado(a),3400.00,C,0,396.36,E-commerce,59,Não,3,1,4,4,3,4,Apple
+1039,39,Masculino,Nova Petrópolis,Superior completo,Casado(a),4270.00,C,3,1036.02,E-commerce,19,Sim,5,2,5,4,4,8,Apple
+1040,24,Feminino,Jardim do Mar,Superior completo,Solteiro(a),5330.00,C,1,481.51,E-commerce,45,Não,5,3,5,5,3,7,Outro
+1041,64,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),1820.00,D,1,582.45,Loja física,72,Não,5,1,4,2,4,7,Samsung
+1042,46,Feminino,Demarchi,Superior completo,Casado(a),2280.00,D,0,471.53,Loja física,10,Não,4,1,4,4,4,6,Motorola
+1043,35,Masculino,Centro,Superior completo,Divorciado(a),3500.00,C,1,490.57,E-commerce,10,Não,5,2,4,3,4,9,Xiaomi
+1044,57,Feminino,Centro,Fundamental,Viúvo(a),1990.00,D,3,409.66,E-commerce,38,Não,4,2,4,3,3,6,Samsung
+1045,37,Masculino,Nova Petrópolis,Superior completo,Divorciado(a),3110.00,C,1,695.77,Marketplace,8,Sim,3,3,3,3,3,2,Motorola
+1046,21,Masculino,Taboão,Superior completo,Solteiro(a),2590.00,D,1,200.00,Loja física,36,Não,3,3,3,5,2,4,Motorola
+1047,49,Feminino,Demarchi,Fundamental,Casado(a),2690.00,D,1,535.51,Loja física,20,Sim,4,2,5,3,2,6,Xiaomi
+1048,62,Masculino,Nova Petrópolis,Médio,Solteiro(a),5660.00,C,2,200.00,E-commerce,61,Não,5,1,4,1,4,6,Outro
+1049,66,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),2720.00,D,0,466.82,Marketplace,27,Não,5,2,5,4,4,6,Motorola
+1050,32,Masculino,Centro,Superior completo,Solteiro(a),2550.00,D,2,629.72,E-commerce,68,Sim,5,3,5,1,4,9,Motorola
+1051,49,Masculino,Baeta Neves,Médio,Solteiro(a),2940.00,D,0,716.45,Loja física,52,Não,5,1,5,4,4,8,Samsung
+1052,59,Feminino,Baeta Neves,Superior incompleto,Solteiro(a),3120.00,C,1,640.96,Loja física,52,Não,5,4,4,3,5,9,Outro
+1053,39,Feminino,Paulicéia,Superior incompleto,Solteiro(a),8300.00,B,1,797.97,Operadora,56,Não,4,2,4,4,3,5,Outro
+1054,27,Feminino,Taboão,Médio,Solteiro(a),2030.00,D,1,607.80,Loja física,31,Não,4,3,3,5,4,4,Motorola
+1055,46,Feminino,Taboão,Superior completo,União estável,4210.00,C,3,986.47,E-commerce,37,Sim,4,3,3,2,5,8,Outro
+1056,21,Feminino,Demarchi,Superior incompleto,Divorciado(a),1960.00,D,0,576.79,Marketplace,18,Sim,4,2,4,4,3,6,Samsung
+1057,49,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),3110.00,C,1,200.00,Operadora,5,Sim,5,2,5,3,4,6,Motorola
+1058,30,Feminino,Centro,Superior incompleto,Casado(a),1720.00,D,3,553.56,E-commerce,22,Não,5,1,5,3,3,9,Apple
+1059,28,Feminino,Nova Petrópolis,Superior completo,Casado(a),3380.00,C,0,808.67,Operadora,8,Não,4,2,3,5,3,3,Xiaomi
+1060,64,Masculino,Jardim do Mar,Superior incompleto,Casado(a),1710.00,D,1,439.26,Loja física,15,Não,3,4,4,3,4,6,Apple
+1061,31,Masculino,Jardim do Mar,Médio,Casado(a),2410.00,D,1,341.15,Operadora,49,Não,5,3,5,3,4,9,Samsung
+1062,46,Masculino,Taboão,Pós-graduação,Solteiro(a),6060.00,B,2,968.77,Loja física,12,Não,4,4,5,2,4,6,Samsung
+1063,36,Masculino,Bairro Assunção,Médio,Casado(a),3230.00,C,3,507.82,Loja física,66,Sim,5,3,5,1,4,7,Motorola
+1064,60,Masculino,Bairro Assunção,Superior incompleto,Casado(a),2840.00,D,0,252.43,Operadora,7,Sim,5,1,5,4,4,6,Samsung
+1065,25,Feminino,Paulicéia,Superior incompleto,Casado(a),6310.00,B,1,752.80,Loja física,47,Sim,5,4,5,4,4,7,Outro
+1066,48,Feminino,Paulicéia,Pós-graduação,União estável,2590.00,D,3,732.52,E-commerce,42,Não,4,1,3,5,2,2,Samsung
+1067,42,Feminino,Centro,Fundamental,Divorciado(a),4510.00,C,0,661.32,Marketplace,41,Não,5,4,5,5,5,10,Motorola
+1068,67,Feminino,Jardim do Mar,Superior incompleto,Solteiro(a),2280.00,D,1,288.93,Loja física,72,Sim,3,1,1,3,2,0,Samsung
+1069,22,Feminino,Baeta Neves,Superior incompleto,Casado(a),3250.00,C,1,709.59,E-commerce,6,Não,5,2,5,4,4,8,Xiaomi
+1070,31,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),2400.00,D,1,656.12,Loja física,48,Sim,5,2,5,3,4,5,Motorola
+1071,51,Masculino,Baeta Neves,Superior incompleto,Casado(a),3350.00,C,0,307.55,Operadora,48,Não,4,2,2,3,2,2,Apple
+1072,21,Masculino,Jardim do Mar,Superior incompleto,União estável,4550.00,C,2,539.41,E-commerce,69,Sim,4,4,2,4,3,5,Motorola
+1073,49,Feminino,Demarchi,Superior incompleto,Casado(a),2320.00,D,1,201.57,Loja física,63,Sim,1,3,1,4,1,0,Outro
+1074,34,Masculino,Rudge Ramos,Superior incompleto,União estável,5280.00,C,2,741.13,Marketplace,37,Sim,5,1,4,4,3,7,Xiaomi
+1075,68,Masculino,Ferrazópolis,Fundamental,Divorciado(a),2300.00,D,0,845.49,Operadora,72,Não,3,1,3,5,2,3,Motorola
+1076,41,Feminino,Bairro Assunção,Médio,Solteiro(a),1810.00,D,0,764.61,E-commerce,47,Não,4,1,5,3,3,7,Apple
+1077,65,Masculino,Paulicéia,Fundamental,Casado(a),4720.00,C,2,598.81,Operadora,5,Não,4,4,3,1,3,5,Apple
+1078,35,Feminino,Baeta Neves,Pós-graduação,Casado(a),2520.00,D,0,200.00,Operadora,14,Não,4,1,5,3,3,5,Xiaomi
+1079,27,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),1420.00,D,1,406.00,Marketplace,51,Não,3,1,2,4,2,4,Outro
+1080,47,Masculino,Centro,Superior incompleto,Solteiro(a),1320.00,D,0,332.70,Marketplace,1,Não,3,1,5,4,2,4,Apple
+1081,68,Masculino,Baeta Neves,Médio,Casado(a),3610.00,C,1,299.24,Operadora,50,Não,3,3,4,4,3,6,Samsung
+1082,47,Feminino,Baeta Neves,Médio,Divorciado(a),1680.00,D,1,640.41,E-commerce,7,Não,4,4,3,2,3,4,Samsung
+1083,32,Feminino,Rudge Ramos,Pós-graduação,União estável,3000.00,C,1,772.77,E-commerce,71,Não,5,1,5,4,3,6,Motorola
+1084,34,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),2320.00,D,2,514.06,Marketplace,27,Sim,4,1,5,5,3,6,Motorola
+1085,30,Feminino,Rudge Ramos,Pós-graduação,Solteiro(a),5970.00,C,0,652.96,E-commerce,20,Não,4,3,5,4,4,10,Apple
+1086,66,Masculino,Centro,Superior completo,União estável,4600.00,C,0,367.12,E-commerce,71,Sim,4,4,3,2,2,4,Apple
+1087,24,Masculino,Baeta Neves,Fundamental,Casado(a),2710.00,D,2,574.95,Operadora,26,Não,4,4,5,3,4,7,Samsung
+1088,37,Masculino,Baeta Neves,Superior completo,União estável,3850.00,C,1,689.48,Loja física,29,Não,3,3,3,3,4,5,Apple
+1089,36,Masculino,Nova Petrópolis,Fundamental,Solteiro(a),1840.00,D,0,598.82,Loja física,6,Não,4,3,5,5,3,6,Outro
+1090,45,Masculino,Demarchi,Fundamental,Divorciado(a),1480.00,D,2,434.95,E-commerce,5,Não,3,2,5,3,4,7,Samsung
+1091,69,Feminino,Rudge Ramos,Médio,Solteiro(a),1630.00,D,1,850.48,Loja física,38,Sim,5,3,2,2,4,3,Motorola
+1092,45,Feminino,Taboão,Fundamental,União estável,2650.00,D,0,562.19,Operadora,15,Não,4,1,5,2,3,8,Samsung
+1093,38,Masculino,Nova Petrópolis,Superior incompleto,Viúvo(a),2270.00,D,2,434.69,E-commerce,59,Não,4,2,4,5,4,8,Apple
+1094,64,Masculino,Jardim do Mar,Médio,Casado(a),3980.00,C,1,403.28,Operadora,37,Não,4,1,5,1,3,5,Xiaomi
+1095,24,Masculino,Centro,Médio,Casado(a),2100.00,D,0,216.84,Operadora,26,Sim,4,3,4,4,3,5,Outro
+1096,56,Feminino,Jardim do Mar,Superior incompleto,Casado(a),3790.00,C,0,1030.05,Operadora,45,Sim,4,5,5,2,5,10,Xiaomi
+1097,21,Masculino,Rudge Ramos,Fundamental,Casado(a),4240.00,C,1,753.42,Marketplace,35,Sim,3,4,4,4,4,6,Apple
+1098,32,Feminino,Rudge Ramos,Médio,Divorciado(a),6100.00,B,3,973.08,Marketplace,66,Não,3,2,3,3,3,2,Samsung
+1099,49,Masculino,Baeta Neves,Superior completo,Solteiro(a),3040.00,C,1,563.57,Marketplace,64,Não,4,1,2,4,3,3,Samsung
+1100,54,Masculino,Taboão,Pós-graduação,Solteiro(a),5010.00,C,2,667.11,Marketplace,59,Não,4,5,5,1,3,4,Motorola
+1101,20,Masculino,Paulicéia,Superior completo,Solteiro(a),1350.00,D,2,258.83,Operadora,68,Sim,5,1,5,4,5,8,Xiaomi
+1102,28,Feminino,Paulicéia,Pós-graduação,Casado(a),2080.00,D,1,355.38,Loja física,30,Sim,3,1,5,3,3,4,Outro
+1103,23,Masculino,Rudge Ramos,Pós-graduação,Solteiro(a),3450.00,C,2,437.07,Marketplace,71,Sim,3,1,4,3,3,6,Motorola
+1104,70,Feminino,Taboão,Fundamental,Solteiro(a),3470.00,C,1,305.99,Loja física,51,Sim,4,3,3,3,3,5,Motorola
+1105,18,Masculino,Ferrazópolis,Fundamental,Viúvo(a),1540.00,D,1,599.58,Operadora,4,Não,5,4,5,5,4,8,Xiaomi
+1106,59,Masculino,Bairro Assunção,Fundamental,Casado(a),1600.00,D,1,1276.80,Marketplace,31,Não,4,2,5,4,3,7,Xiaomi
+1107,18,Feminino,Paulicéia,Superior completo,Casado(a),2000.00,D,2,219.91,Operadora,60,Sim,5,3,5,5,5,7,Apple
+1108,22,Masculino,Paulicéia,Superior completo,Casado(a),4160.00,C,2,722.60,Operadora,43,Sim,4,2,2,4,3,1,Samsung
+1109,70,Masculino,Demarchi,Superior incompleto,Casado(a),3300.00,C,2,411.45,Operadora,64,Não,4,3,5,3,3,7,Samsung
+1110,63,Feminino,Ferrazópolis,Superior completo,Solteiro(a),3980.00,C,3,641.72,Marketplace,53,Sim,4,3,3,3,4,5,Motorola
+1111,21,Masculino,Jardim do Mar,Médio,Solteiro(a),2600.00,D,1,869.69,Marketplace,32,Não,4,1,4,3,2,5,Motorola
+1112,48,Masculino,Demarchi,Superior completo,Casado(a),4120.00,C,1,200.00,Marketplace,10,Não,3,2,3,3,2,3,Apple
+1113,66,Masculino,Demarchi,Pós-graduação,Divorciado(a),3890.00,C,2,304.95,Operadora,44,Não,4,2,4,3,4,7,Outro
+1114,28,Feminino,Taboão,Superior completo,Casado(a),3490.00,C,1,449.09,Loja física,23,Sim,3,3,3,4,3,5,Motorola
+1115,23,Masculino,Paulicéia,Médio,União estável,2670.00,D,0,520.04,E-commerce,57,Sim,4,1,5,5,4,6,Samsung
+1116,21,Feminino,Bairro Assunção,Pós-graduação,Solteiro(a),1420.00,D,0,273.56,E-commerce,26,Sim,4,3,5,4,5,8,Motorola
+1117,36,Masculino,Ferrazópolis,Superior incompleto,Solteiro(a),3560.00,C,6,490.47,Loja física,36,Não,4,1,2,2,3,5,Outro
+1118,37,Masculino,Baeta Neves,Superior incompleto,Casado(a),2990.00,D,1,701.19,Marketplace,24,Não,3,2,2,4,3,5,Xiaomi
+1119,51,Feminino,Paulicéia,Superior completo,Solteiro(a),3370.00,C,0,242.90,Loja física,71,Não,3,1,3,4,2,3,Samsung
+1120,49,Feminino,Baeta Neves,Médio,Solteiro(a),1630.00,D,1,267.68,Marketplace,61,Não,3,3,4,4,3,3,Motorola
+1121,49,Masculino,Paulicéia,Fundamental,Casado(a),1950.00,D,2,266.90,Loja física,25,Não,3,1,4,4,3,5,Motorola
+1122,65,Feminino,Demarchi,Pós-graduação,Solteiro(a),3670.00,C,1,851.20,Operadora,71,Não,5,3,5,3,5,7,Xiaomi
+1123,30,Feminino,Nova Petrópolis,Superior incompleto,Solteiro(a),1300.00,D,0,317.86,Marketplace,62,Sim,4,3,3,3,3,4,Outro
+1124,68,Masculino,Centro,Pós-graduação,Solteiro(a),3880.00,C,1,431.40,E-commerce,22,Não,4,1,3,3,3,3,Motorola
+1125,67,Masculino,Bairro Assunção,Pós-graduação,Casado(a),3650.00,C,1,456.23,E-commerce,32,Sim,3,4,4,3,4,5,Samsung
+1126,35,Masculino,Baeta Neves,Fundamental,União estável,2590.00,D,1,491.43,Operadora,3,Sim,4,2,3,3,4,6,Outro
+1127,25,Feminino,Rudge Ramos,Superior incompleto,Casado(a),2290.00,D,0,787.18,Loja física,50,Não,5,1,5,3,4,6,Outro
+1128,20,Masculino,Centro,Médio,Casado(a),2010.00,D,2,587.45,Marketplace,55,Não,5,1,3,3,3,4,Outro
+1129,21,Masculino,Taboão,Médio,Solteiro(a),2230.00,D,2,972.74,E-commerce,5,Sim,5,4,4,5,5,7,Outro
+1130,68,Feminino,Rudge Ramos,Fundamental,Casado(a),1300.00,D,0,299.23,Loja física,31,Sim,5,1,4,2,4,8,Motorola
+1131,21,Masculino,Bairro Assunção,Superior incompleto,Casado(a),1890.00,D,1,644.93,Loja física,3,Não,4,2,5,3,3,6,Xiaomi
+1132,54,Feminino,Paulicéia,Médio,Solteiro(a),2730.00,D,2,806.97,Marketplace,38,Sim,3,2,2,4,1,2,Motorola
+1133,69,Masculino,Baeta Neves,Médio,Casado(a),1470.00,D,1,200.00,Operadora,16,Não,4,4,5,1,3,6,Xiaomi
+1134,34,Feminino,Nova Petrópolis,Superior completo,Casado(a),2840.00,D,2,213.21,Loja física,33,Não,5,1,5,3,4,7,Outro
+1135,29,Feminino,Bairro Assunção,Pós-graduação,Viúvo(a),2400.00,D,0,367.20,Marketplace,12,Sim,3,3,4,5,4,7,Motorola
+1136,66,Feminino,Rudge Ramos,Médio,Solteiro(a),1840.00,D,0,868.00,Marketplace,9,Não,5,4,4,2,4,8,Xiaomi
+1137,18,Feminino,Ferrazópolis,Pós-graduação,Solteiro(a),4110.00,C,1,598.96,Marketplace,31,Sim,3,1,4,4,3,6,Outro
+1138,67,Feminino,Paulicéia,Fundamental,Casado(a),1340.00,D,1,479.91,Operadora,56,Não,5,2,4,1,4,7,Apple
+1139,64,Masculino,Demarchi,Pós-graduação,Casado(a),3020.00,C,0,463.55,Marketplace,9,Não,4,3,5,4,5,7,Outro
+1140,38,Masculino,Rudge Ramos,Fundamental,Solteiro(a),1300.00,D,0,558.80,E-commerce,65,Sim,5,3,3,4,4,6,Motorola
+1141,18,Feminino,Jardim do Mar,Superior completo,Casado(a),2270.00,D,2,453.29,Loja física,69,Não,2,2,1,4,2,1,Outro
+1142,18,Feminino,Nova Petrópolis,Fundamental,Viúvo(a),1300.00,D,1,200.00,Loja física,37,Não,5,3,5,3,4,7,Apple
+1143,61,Masculino,Paulicéia,Médio,Solteiro(a),2770.00,D,1,200.00,Marketplace,14,Sim,4,2,4,4,3,5,Samsung
+1144,26,Feminino,Paulicéia,Médio,Casado(a),3680.00,C,2,843.88,Operadora,37,Não,3,3,4,5,2,4,Motorola
+1145,21,Feminino,Paulicéia,Fundamental,Solteiro(a),1770.00,D,1,200.00,Operadora,69,Não,5,1,5,5,4,8,Outro
+1146,66,Masculino,Jardim do Mar,Superior completo,Divorciado(a),3650.00,C,0,378.16,Marketplace,14,Não,2,2,2,4,2,1,Outro
+1147,24,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1770.00,D,0,356.97,E-commerce,12,Sim,5,2,5,5,4,8,Motorola
+1148,19,Feminino,Paulicéia,Fundamental,Solteiro(a),1490.00,D,1,379.46,Marketplace,64,Não,4,1,4,4,4,6,Samsung
+1149,30,Feminino,Jardim do Mar,Pós-graduação,Solteiro(a),4140.00,C,0,585.55,Operadora,14,Não,4,4,5,5,4,10,Motorola
+1150,62,Masculino,Ferrazópolis,Superior completo,Divorciado(a),2270.00,D,1,746.74,E-commerce,50,Sim,3,1,3,3,2,3,Samsung
+1151,70,Feminino,Centro,Superior incompleto,Casado(a),2020.00,D,3,506.43,Operadora,45,Sim,4,2,5,1,3,7,Motorola
+1152,34,Masculino,Bairro Assunção,Fundamental,União estável,1300.00,D,2,745.14,Marketplace,53,Não,5,3,5,3,4,9,Apple
+1153,57,Masculino,Paulicéia,Médio,Casado(a),1590.00,D,2,329.66,Loja física,7,Não,4,1,3,3,3,3,Apple
+1154,28,Feminino,Ferrazópolis,Pós-graduação,Casado(a),2520.00,D,2,491.07,Operadora,32,Não,5,4,4,4,3,5,Apple
+1155,40,Feminino,Bairro Assunção,Médio,Solteiro(a),1300.00,D,2,200.00,Marketplace,65,Não,5,4,4,4,4,7,Xiaomi
+1156,66,Masculino,Jardim do Mar,Pós-graduação,União estável,3610.00,C,2,404.00,Loja física,69,Não,3,4,5,2,4,6,Apple
+1157,69,Feminino,Rudge Ramos,Fundamental,Casado(a),2700.00,D,0,522.72,Marketplace,9,Não,2,2,4,3,3,5,Samsung
+1158,55,Masculino,Centro,Superior incompleto,Solteiro(a),2000.00,D,1,200.00,Loja física,61,Não,3,1,4,1,3,5,Outro
+1159,60,Masculino,Taboão,Médio,Solteiro(a),2580.00,D,1,543.44,Loja física,32,Não,4,1,4,2,3,6,Samsung
+1160,20,Feminino,Nova Petrópolis,Superior incompleto,Casado(a),1980.00,D,1,200.00,Operadora,16,Não,4,2,5,4,3,8,Samsung
+1161,30,Masculino,Baeta Neves,Superior incompleto,Casado(a),4990.00,C,1,429.61,Marketplace,65,Não,4,2,3,1,3,4,Outro
+1162,62,Feminino,Bairro Assunção,Médio,Casado(a),1300.00,D,0,655.66,Marketplace,50,Não,5,2,4,2,4,5,Outro
+1163,60,Masculino,Baeta Neves,Fundamental,Solteiro(a),3320.00,C,1,310.30,Operadora,13,Sim,4,3,5,4,3,9,Motorola
+1164,64,Masculino,Rudge Ramos,Superior incompleto,Casado(a),3450.00,C,0,292.39,E-commerce,48,Sim,3,3,4,2,4,7,Motorola
+1165,42,Feminino,Paulicéia,Superior completo,Viúvo(a),1900.00,D,1,614.83,Operadora,57,Não,3,1,4,5,3,6,Apple
+1166,21,Masculino,Nova Petrópolis,Médio,Casado(a),2150.00,D,2,550.06,Marketplace,57,Não,5,1,4,5,4,4,Apple
+1167,47,Feminino,Demarchi,Pós-graduação,Casado(a),3880.00,C,2,204.65,Loja física,55,Não,5,4,5,2,5,7,Outro
+1168,32,Feminino,Demarchi,Superior completo,Casado(a),4880.00,C,2,607.66,Operadora,12,Não,5,2,4,5,4,6,Apple
+1169,38,Masculino,Bairro Assunção,Superior incompleto,Casado(a),3000.00,C,0,424.63,Loja física,30,Não,4,3,4,4,5,8,Xiaomi
+1170,70,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),1800.00,D,0,427.32,Loja física,39,Não,4,2,5,3,4,7,Motorola
+1171,67,Feminino,Bairro Assunção,Pós-graduação,Casado(a),3960.00,C,1,608.29,Marketplace,56,Sim,4,3,5,4,4,6,Outro
+1172,43,Feminino,Ferrazópolis,Médio,Casado(a),3380.00,C,3,393.45,E-commerce,35,Sim,4,3,5,3,4,6,Xiaomi
+1173,59,Masculino,Paulicéia,Pós-graduação,Casado(a),9120.00,B,1,1606.12,Marketplace,32,Não,5,2,3,3,3,5,Outro
+1174,31,Masculino,Ferrazópolis,Superior incompleto,Casado(a),1810.00,D,0,379.95,E-commerce,11,Sim,5,2,4,3,4,7,Motorola
+1175,46,Feminino,Bairro Assunção,Médio,Casado(a),5290.00,C,2,724.35,Marketplace,34,Não,3,2,2,4,3,3,Samsung
+1176,21,Feminino,Rudge Ramos,Pós-graduação,Divorciado(a),3410.00,C,1,200.00,Marketplace,56,Sim,3,3,3,3,3,4,Outro
+1177,48,Feminino,Rudge Ramos,Superior incompleto,Solteiro(a),1300.00,D,1,277.44,Loja física,1,Não,4,2,4,4,4,5,Xiaomi
+1178,18,Feminino,Rudge Ramos,Médio,União estável,4520.00,C,1,603.23,E-commerce,3,Sim,3,1,3,5,3,3,Apple
+1179,50,Masculino,Centro,Médio,Casado(a),1760.00,D,2,200.00,Marketplace,53,Sim,3,3,4,3,4,7,Outro
+1180,32,Masculino,Rudge Ramos,Médio,Casado(a),3390.00,C,3,474.99,Marketplace,6,Não,4,5,5,5,5,10,Outro
+1181,25,Feminino,Baeta Neves,Superior incompleto,Casado(a),1620.00,D,1,488.23,E-commerce,42,Não,4,2,3,4,3,5,Xiaomi
+1182,48,Masculino,Demarchi,Superior completo,Viúvo(a),5290.00,C,1,310.36,E-commerce,52,Sim,4,2,5,2,3,7,Outro
+1183,33,Feminino,Nova Petrópolis,Pós-graduação,Solteiro(a),3800.00,C,3,394.55,E-commerce,57,Não,3,2,5,4,4,7,Motorola
+1184,46,Feminino,Jardim do Mar,Médio,Divorciado(a),1880.00,D,0,375.81,Operadora,67,Não,2,1,4,3,2,4,Apple
+1185,70,Masculino,Taboão,Superior incompleto,União estável,2080.00,D,1,616.90,E-commerce,43,Não,4,4,4,4,5,8,Outro
+1186,31,Masculino,Demarchi,Superior completo,Solteiro(a),2180.00,D,2,610.64,Operadora,6,Sim,4,1,5,3,3,6,Samsung
+1187,68,Feminino,Baeta Neves,Médio,União estável,1930.00,D,3,500.29,Marketplace,4,Não,5,3,5,4,5,9,Motorola
+1188,22,Feminino,Paulicéia,Superior completo,União estável,1380.00,D,2,407.50,Loja física,40,Não,4,1,2,5,3,2,Samsung
+1189,44,Masculino,Rudge Ramos,Médio,Casado(a),1430.00,D,2,754.51,E-commerce,8,Sim,4,3,3,4,3,4,Motorola
+1190,29,Masculino,Demarchi,Médio,Solteiro(a),5740.00,C,0,1081.68,Loja física,45,Não,4,4,3,4,4,6,Motorola
+1191,51,Masculino,Taboão,Médio,Solteiro(a),2100.00,D,3,833.45,Loja física,10,Sim,3,3,3,3,3,5,Apple
+1192,48,Feminino,Baeta Neves,Superior completo,Casado(a),3560.00,C,2,610.23,Marketplace,33,Não,4,3,3,4,3,5,Motorola
+1193,65,Masculino,Demarchi,Superior completo,Solteiro(a),2600.00,D,1,411.04,Loja física,71,Não,3,4,3,4,2,2,Apple
+1194,19,Feminino,Taboão,Médio,Solteiro(a),3710.00,C,2,604.45,Operadora,35,Sim,4,1,4,5,3,6,Outro
+1195,46,Feminino,Jardim do Mar,Superior completo,Casado(a),4580.00,C,2,341.36,Loja física,2,Sim,4,1,4,2,3,7,Xiaomi
+1196,25,Masculino,Bairro Assunção,Superior incompleto,Solteiro(a),2020.00,D,2,292.79,Marketplace,33,Não,3,1,3,4,2,2,Outro
+1197,44,Feminino,Baeta Neves,Superior completo,Solteiro(a),2140.00,D,1,419.64,E-commerce,51,Sim,5,1,4,3,4,5,Apple
+1198,58,Feminino,Rudge Ramos,Pós-graduação,Casado(a),2210.00,D,2,497.54,E-commerce,61,Não,3,1,3,2,3,3,Motorola
+1199,35,Masculino,Demarchi,Médio,Casado(a),1640.00,D,2,637.57,Operadora,62,Não,4,1,5,5,4,6,Samsung
+1200,19,Masculino,Rudge Ramos,Pós-graduação,Casado(a),4090.00,C,0,945.23,Loja física,66,Não,5,5,5,4,5,8,Xiaomi
