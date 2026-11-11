@@ -12,6 +12,8 @@
 
 # Distribuição normal: gasto mensal de clientes
 
+🔗 **Site no ar: https://edgarcsr.github.io/statistics-normal-distribution/**
+
 Trabalho de estatística sobre **distribuição normal**. O site responde, para cada setor pesquisado, a pergunta:
 
 > Qual a chance de um cliente gastar mais que um valor X por mês?
