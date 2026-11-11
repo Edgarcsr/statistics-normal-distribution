@@ -9,7 +9,7 @@ import type { Carta } from '@/lib/magic'
 
 const CUSTOS = [1, 2, 3, 4, 5, 6, 7] as const
 const QUANTAS = 6
-// Regra empírica (slide 12): 95% dos valores ficam a até 2σ da média.
+// Regra empírica: 95% dos valores ficam a até 2σ da média.
 const LIMITE_Z = 2
 
 // Para cada custo de mana, quais criaturas estão muito acima do padrão?
