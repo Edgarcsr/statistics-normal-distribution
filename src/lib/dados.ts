@@ -1,15 +1,22 @@
-// Lê um CSV da pasta public/data e devolve só a coluna "gasto_mensal".
-export const carregarGastos = async (arquivo: string): Promise<number[]> => {
-  const resposta = await fetch(`/data/${arquivo}`)
+// Lê um CSV da pasta public/data e devolve só uma coluna, como números.
+export const carregarColuna = async (
+  arquivo: string,
+  coluna: string
+): Promise<number[]> => {
+  const resposta = await fetch(`${import.meta.env.BASE_URL}data/${arquivo}`)
   const texto = await resposta.text()
   const [cabecalho, ...linhas] = texto.trim().split('\n')
 
   // O arquivo começa com um caractere invisível (BOM); removemos antes de procurar a coluna.
   const colunas = cabecalho.replace('﻿', '').split(',')
-  const posicao = colunas.indexOf('gasto_mensal')
+  const posicao = colunas.indexOf(coluna)
 
   return linhas.map((linha) => Number(linha.split(',')[posicao]))
 }
+
+// Os CSVs dos setores guardam o gasto na coluna "gasto_mensal".
+export const carregarGastos = (arquivo: string): Promise<number[]> =>
+  carregarColuna(arquivo, 'gasto_mensal')
 
 // Média: soma de tudo dividida pela quantidade.
 export const media = (valores: number[]): number => {

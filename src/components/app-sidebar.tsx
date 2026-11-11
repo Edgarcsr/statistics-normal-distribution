@@ -1,23 +1,8 @@
 import { Link } from '@tanstack/react-router'
-import {
-  BarChart3,
-  Calculator,
-  ChevronRight,
-  FlaskConical,
-  LayoutGrid,
-  Search,
-  Sigma,
-  Table2,
-} from 'lucide-react'
-import type { LucideIcon } from 'lucide-react'
+import { BookOpen, Search, Sigma } from 'lucide-react'
 import type { ComponentProps } from 'react'
 
 import { SeletorIdioma } from '@/components/seletor-idioma'
-import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-} from '@/components/ui/collapsible'
 import { Kbd, KbdGroup } from '@/components/ui/kbd'
 import {
   Sidebar,
@@ -29,85 +14,31 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-  SidebarMenuSub,
-  SidebarMenuSubButton,
-  SidebarMenuSubItem,
   SidebarRail,
   SidebarSeparator,
 } from '@/components/ui/sidebar'
 import { useI18n } from '@/lib/i18n'
-import type { TextKey } from '@/lib/i18n'
+import { SECOES_MAGIC } from '@/lib/magic-secoes'
 import { MODIFIER_KEY_LABEL } from '@/lib/platform'
 import { SETORES } from '@/lib/setores'
-
-interface NavItem {
-  label: TextKey
-  icon: LucideIcon
-  active?: boolean
-  items?: readonly TextKey[]
-}
-
-export const NAV_ITEMS: readonly NavItem[] = [
-  { label: 'overview', icon: LayoutGrid, active: true },
-  {
-    label: 'probability',
-    icon: Calculator,
-    items: ['betweenTwo', 'tailProb'],
-  },
-  { label: 'zTable', icon: Table2 },
-  {
-    label: 'sampling',
-    icon: FlaskConical,
-    items: ['clt', 'ci'],
-  },
-  { label: 'reports', icon: BarChart3 },
-]
+import { COR_DUELO, MODOS_XADREZ } from '@/lib/xadrez'
 
 interface AppSidebarProps extends ComponentProps<typeof Sidebar> {
   // id do problema aberto (ex.: "cafeterias")
   selecionado: string
+  // true quando a página de documentação está aberta
+  docsAtivo?: boolean
+  // id da seção de Magic aberta
+  magicSelecionado?: string
+  xadrezSelecionado?: string
   onSearch: () => void
-}
-
-const NavEntry = ({ label, icon: Icon, active, items }: NavItem) => {
-  const { t } = useI18n()
-  if (!items) {
-    return (
-      <SidebarMenuItem>
-        <SidebarMenuButton isActive={active} tooltip={t(label)}>
-          <Icon />
-          <span>{t(label)}</span>
-        </SidebarMenuButton>
-      </SidebarMenuItem>
-    )
-  }
-
-  return (
-    <Collapsible className="group/collapsible" render={<SidebarMenuItem />}>
-      <CollapsibleTrigger render={<SidebarMenuButton tooltip={t(label)} />}>
-        <Icon />
-        <span>{t(label)}</span>
-        <ChevronRight className="ml-auto transition-transform duration-200 group-data-open/collapsible:rotate-90" />
-      </CollapsibleTrigger>
-      <CollapsibleContent>
-        <SidebarMenuSub>
-          {items.map((item) => (
-            <SidebarMenuSubItem key={item}>
-              <SidebarMenuSubButton
-                render={<button aria-label={t(item)} type="button" />}
-              >
-                <span>{t(item)}</span>
-              </SidebarMenuSubButton>
-            </SidebarMenuSubItem>
-          ))}
-        </SidebarMenuSub>
-      </CollapsibleContent>
-    </Collapsible>
-  )
 }
 
 export const AppSidebar = ({
   selecionado,
+  docsAtivo = false,
+  magicSelecionado = '',
+  xadrezSelecionado = '',
   onSearch,
   ...props
 }: AppSidebarProps) => {
@@ -136,9 +67,16 @@ export const AppSidebar = ({
         <SidebarGroup>
           <SidebarGroupLabel>{t('platform')}</SidebarGroupLabel>
           <SidebarMenu>
-            {NAV_ITEMS.map((item) => (
-              <NavEntry key={item.label} {...item} />
-            ))}
+            <SidebarMenuItem>
+              <SidebarMenuButton
+                isActive={docsAtivo}
+                render={<Link to="/docs" />}
+                tooltip={t('docs')}
+              >
+                <BookOpen />
+                <span>{t('docs')}</span>
+              </SidebarMenuButton>
+            </SidebarMenuItem>
           </SidebarMenu>
         </SidebarGroup>
 
@@ -169,6 +107,81 @@ export const AppSidebar = ({
                 </SidebarMenuButton>
               </SidebarMenuItem>
             ))}
+          </SidebarMenu>
+        </SidebarGroup>
+
+        <SidebarGroup>
+          <SidebarGroupLabel className="group-data-[collapsible=icon]:hidden">
+            {t('magic')}
+          </SidebarGroupLabel>
+          <SidebarMenu>
+            {SECOES_MAGIC.map((secao) => (
+              <SidebarMenuItem key={secao.id}>
+                <SidebarMenuButton
+                  isActive={secao.id === magicSelecionado}
+                  render={
+                    <Link params={{ secao: secao.id }} to="/magic/$secao" />
+                  }
+                  tooltip={t(secao.id)}
+                >
+                  <span className="flex size-4 shrink-0 items-center justify-center">
+                    <span
+                      className="size-2 rounded-full"
+                      style={{ backgroundColor: secao.cor }}
+                    />
+                  </span>
+                  <span className="group-data-[collapsible=icon]:hidden">
+                    {t(secao.id)}
+                  </span>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
+            ))}
+          </SidebarMenu>
+        </SidebarGroup>
+
+        <SidebarGroup>
+          <SidebarGroupLabel className="group-data-[collapsible=icon]:hidden">
+            {t('xadrez')}
+          </SidebarGroupLabel>
+          <SidebarMenu>
+            {MODOS_XADREZ.map((modo) => (
+              <SidebarMenuItem key={modo.id}>
+                <SidebarMenuButton
+                  isActive={modo.id === xadrezSelecionado}
+                  render={
+                    <Link params={{ modo: modo.id }} to="/xadrez/$modo" />
+                  }
+                  tooltip={t(modo.id)}
+                >
+                  <span className="flex size-4 shrink-0 items-center justify-center">
+                    <span
+                      className="size-2 rounded-full"
+                      style={{ backgroundColor: modo.cor }}
+                    />
+                  </span>
+                  <span className="group-data-[collapsible=icon]:hidden">
+                    {t(modo.id)}
+                  </span>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
+            ))}
+            <SidebarMenuItem>
+              <SidebarMenuButton
+                isActive={xadrezSelecionado === 'duelo'}
+                render={<Link to="/xadrez/duelo" />}
+                tooltip={t('duelo')}
+              >
+                <span className="flex size-4 shrink-0 items-center justify-center">
+                  <span
+                    className="size-2 rounded-full"
+                    style={{ backgroundColor: COR_DUELO }}
+                  />
+                </span>
+                <span className="group-data-[collapsible=icon]:hidden">
+                  {t('duelo')}
+                </span>
+              </SidebarMenuButton>
+            </SidebarMenuItem>
           </SidebarMenu>
         </SidebarGroup>
       </SidebarContent>

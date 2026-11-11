@@ -10,11 +10,32 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as DocsRouteImport } from './routes/docs'
+import { Route as MagicIndexRouteImport } from './routes/magic.index'
+import { Route as MagicSecaoRouteImport } from './routes/magic.$secao'
 import { Route as ProblemaSetorRouteImport } from './routes/problema.$setor'
+import { Route as XadrezIndexRouteImport } from './routes/xadrez.index'
+import { Route as XadrezModoRouteImport } from './routes/xadrez.$modo'
+import { Route as XadrezDueloRouteImport } from './routes/xadrez.duelo'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DocsRoute = DocsRouteImport.update({
+  id: '/docs',
+  path: '/docs',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MagicIndexRoute = MagicIndexRouteImport.update({
+  id: '/magic/',
+  path: '/magic/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MagicSecaoRoute = MagicSecaoRouteImport.update({
+  id: '/magic/$secao',
+  path: '/magic/$secao',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ProblemaSetorRoute = ProblemaSetorRouteImport.update({
@@ -22,31 +43,95 @@ const ProblemaSetorRoute = ProblemaSetorRouteImport.update({
   path: '/problema/$setor',
   getParentRoute: () => rootRouteImport,
 } as any)
+const XadrezIndexRoute = XadrezIndexRouteImport.update({
+  id: '/xadrez/',
+  path: '/xadrez/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const XadrezModoRoute = XadrezModoRouteImport.update({
+  id: '/xadrez/$modo',
+  path: '/xadrez/$modo',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const XadrezDueloRoute = XadrezDueloRouteImport.update({
+  id: '/xadrez/duelo',
+  path: '/xadrez/duelo',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/docs': typeof DocsRoute
+  '/magic/$secao': typeof MagicSecaoRoute
   '/problema/$setor': typeof ProblemaSetorRoute
+  '/xadrez/$modo': typeof XadrezModoRoute
+  '/xadrez/duelo': typeof XadrezDueloRoute
+  '/magic/': typeof MagicIndexRoute
+  '/xadrez/': typeof XadrezIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/docs': typeof DocsRoute
+  '/magic/$secao': typeof MagicSecaoRoute
   '/problema/$setor': typeof ProblemaSetorRoute
+  '/xadrez/$modo': typeof XadrezModoRoute
+  '/xadrez/duelo': typeof XadrezDueloRoute
+  '/magic': typeof MagicIndexRoute
+  '/xadrez': typeof XadrezIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/docs': typeof DocsRoute
+  '/magic/$secao': typeof MagicSecaoRoute
   '/problema/$setor': typeof ProblemaSetorRoute
+  '/xadrez/$modo': typeof XadrezModoRoute
+  '/xadrez/duelo': typeof XadrezDueloRoute
+  '/magic/': typeof MagicIndexRoute
+  '/xadrez/': typeof XadrezIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/problema/$setor'
+  fullPaths:
+    | '/'
+    | '/docs'
+    | '/magic/$secao'
+    | '/problema/$setor'
+    | '/xadrez/$modo'
+    | '/xadrez/duelo'
+    | '/magic/'
+    | '/xadrez/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/problema/$setor'
-  id: '__root__' | '/' | '/problema/$setor'
+  to:
+    | '/'
+    | '/docs'
+    | '/magic/$secao'
+    | '/problema/$setor'
+    | '/xadrez/$modo'
+    | '/xadrez/duelo'
+    | '/magic'
+    | '/xadrez'
+  id:
+    | '__root__'
+    | '/'
+    | '/docs'
+    | '/magic/$secao'
+    | '/problema/$setor'
+    | '/xadrez/$modo'
+    | '/xadrez/duelo'
+    | '/magic/'
+    | '/xadrez/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  DocsRoute: typeof DocsRoute
+  MagicSecaoRoute: typeof MagicSecaoRoute
   ProblemaSetorRoute: typeof ProblemaSetorRoute
+  XadrezModoRoute: typeof XadrezModoRoute
+  XadrezDueloRoute: typeof XadrezDueloRoute
+  MagicIndexRoute: typeof MagicIndexRoute
+  XadrezIndexRoute: typeof XadrezIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -58,6 +143,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/docs': {
+      id: '/docs'
+      path: '/docs'
+      fullPath: '/docs'
+      preLoaderRoute: typeof DocsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/magic/': {
+      id: '/magic/'
+      path: '/magic'
+      fullPath: '/magic/'
+      preLoaderRoute: typeof MagicIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/magic/$secao': {
+      id: '/magic/$secao'
+      path: '/magic/$secao'
+      fullPath: '/magic/$secao'
+      preLoaderRoute: typeof MagicSecaoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/problema/$setor': {
       id: '/problema/$setor'
       path: '/problema/$setor'
@@ -65,12 +171,39 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ProblemaSetorRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/xadrez/': {
+      id: '/xadrez/'
+      path: '/xadrez'
+      fullPath: '/xadrez/'
+      preLoaderRoute: typeof XadrezIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/xadrez/$modo': {
+      id: '/xadrez/$modo'
+      path: '/xadrez/$modo'
+      fullPath: '/xadrez/$modo'
+      preLoaderRoute: typeof XadrezModoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/xadrez/duelo': {
+      id: '/xadrez/duelo'
+      path: '/xadrez/duelo'
+      fullPath: '/xadrez/duelo'
+      preLoaderRoute: typeof XadrezDueloRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  DocsRoute: DocsRoute,
+  MagicSecaoRoute: MagicSecaoRoute,
   ProblemaSetorRoute: ProblemaSetorRoute,
+  XadrezModoRoute: XadrezModoRoute,
+  XadrezDueloRoute: XadrezDueloRoute,
+  MagicIndexRoute: MagicIndexRoute,
+  XadrezIndexRoute: XadrezIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

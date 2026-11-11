@@ -1,31 +1,16 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { useEffect, useState } from 'react'
 
-import { AppSidebar } from '@/components/app-sidebar'
-import { CommandMenu } from '@/components/command-menu'
+import { AppShell } from '@/components/app-shell'
 import { Grafico } from '@/components/grafico'
+import { Resultado } from '@/components/resultado'
 import { Card, CardContent } from '@/components/ui/card'
 import { Input } from '@/components/ui/input'
-import { Separator } from '@/components/ui/separator'
-import {
-  SidebarInset,
-  SidebarProvider,
-  SidebarTrigger,
-} from '@/components/ui/sidebar'
 import { carregarGastos, desvioPadrao, escoreZ, media } from '@/lib/dados'
 import { useI18n } from '@/lib/i18n'
 import { cdf } from '@/lib/normal'
 import { buscarSetor } from '@/lib/setores'
 import type { Setor } from '@/lib/setores'
-
-const Resultado = ({ rotulo, valor }: { rotulo: string; valor: string }) => (
-  <Card className="border-border rounded-2xl border ring-0">
-    <CardContent className="flex flex-col gap-2">
-      <span className="text-muted-foreground text-sm">{rotulo}</span>
-      <span className="text-2xl tabular-nums">{valor}</span>
-    </CardContent>
-  </Card>
-)
 
 // Conteúdo do problema. Recebe o setor e refaz tudo quando ele muda.
 const Problema = ({ setor }: { setor: Setor }) => {
@@ -74,10 +59,14 @@ const Problema = ({ setor }: { setor: Setor }) => {
       ) : (
         <>
           <div className="grid gap-4 sm:grid-cols-4">
-            <Resultado rotulo={t('mean')} valor={`R$ ${num(mu)}`} />
-            <Resultado rotulo={t('sd')} valor={`R$ ${num(sigma)}`} />
-            <Resultado rotulo={t('zScore')} valor={num(z)} />
-            <Resultado rotulo={`P(X > ${limite})`} valor={pct(probAcima)} />
+            <Resultado prefixo="R$ " rotulo={t('mean')} valor={mu} />
+            <Resultado prefixo="R$ " rotulo={t('sd')} valor={sigma} />
+            <Resultado rotulo={t('zScore')} valor={z} />
+            <Resultado
+              rotulo={`P(X > ${limite})`}
+              sufixo="%"
+              valor={probAcima * 100}
+            />
           </div>
 
           <Card className="border-border rounded-2xl border ring-0">
@@ -120,30 +109,12 @@ const Problema = ({ setor }: { setor: Setor }) => {
 const Pagina = () => {
   const { setor: id } = Route.useParams()
   const setor = buscarSetor(id)
-  const [buscaAberta, setBuscaAberta] = useState(false)
   const { t } = useI18n()
 
   return (
-    <SidebarProvider
-      style={{ '--sidebar-width': '17rem' } as React.CSSProperties}
-    >
-      <AppSidebar
-        onSearch={() => setBuscaAberta(true)}
-        selecionado={setor.id}
-      />
-      <CommandMenu onOpenChange={setBuscaAberta} open={buscaAberta} />
-      <SidebarInset>
-        <header className="flex h-14 shrink-0 items-center gap-2 px-4">
-          <SidebarTrigger aria-label={t('toggleSidebar')} className="-ml-1" />
-          <Separator
-            className="mx-2 data-[orientation=vertical]:h-4"
-            orientation="vertical"
-          />
-          <span className="text-sm">{t(setor.id)}</span>
-        </header>
-        <Problema key={setor.id} setor={setor} />
-      </SidebarInset>
-    </SidebarProvider>
+    <AppShell selecionado={setor.id} titulo={t(setor.id)}>
+      <Problema key={setor.id} setor={setor} />
+    </AppShell>
   )
 }
 

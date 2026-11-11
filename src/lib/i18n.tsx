@@ -5,16 +5,17 @@ import type { ReactNode } from 'react'
 // Para adicionar um texto: crie a chave em "pt" e em "en".
 const pt = {
   platform: 'Plataforma',
-  overview: 'Visão geral',
-  probability: 'Probabilidade',
-  betweenTwo: 'Entre dois valores',
-  tailProb: 'Probabilidade de cauda',
-  zTable: 'Tabela Z',
-  sampling: 'Amostragem',
-  clt: 'Teorema central do limite',
-  ci: 'Intervalo de confiança',
-  reports: 'Relatórios',
   problems: 'Problemas',
+  docs: 'Documentação',
+  magic: 'Magic',
+  poder: 'Poder das criaturas',
+  custo: 'Custo de mana',
+  tlc: 'Limite central',
+  xadrez: 'Xadrez',
+  classico: 'Clássico',
+  rapido: 'Rápido',
+  blitz: 'Blitz',
+  duelo: 'Duelo de Elo',
   search: 'Buscar',
   noResults: 'Nada encontrado',
   navigation: 'Navegação',
@@ -47,16 +48,17 @@ const pt = {
 
 const en: typeof pt = {
   platform: 'Platform',
-  overview: 'Overview',
-  probability: 'Probability',
-  betweenTwo: 'Between two values',
-  tailProb: 'Tail probability',
-  zTable: 'Z-table',
-  sampling: 'Sampling',
-  clt: 'Central limit theorem',
-  ci: 'Confidence interval',
-  reports: 'Reports',
   problems: 'Problems',
+  docs: 'Documentation',
+  magic: 'Magic',
+  poder: 'Creature power',
+  custo: 'Mana cost',
+  tlc: 'Central limit',
+  xadrez: 'Chess',
+  classico: 'Classical',
+  rapido: 'Rapid',
+  blitz: 'Blitz',
+  duelo: 'Elo duel',
   search: 'Search',
   noResults: 'No results',
   navigation: 'Navigation',
@@ -106,6 +108,8 @@ interface I18nValue {
   mudarIdioma: (lang: Language) => void
   // Texto traduzido pela chave.
   t: (key: TextKey) => string
+  // Código do idioma para formatar números (ex.: pt-BR).
+  locale: string
   // Número formatado (vírgula em português, ponto em inglês).
   num: (valor: number, casas?: number) => string
   // Porcentagem formatada, ex.: 0.1429 → "14,29%".
@@ -121,6 +125,7 @@ export const I18nProvider = ({ children }: { children: ReactNode }) => {
     const locale = LOCALES[lang]
     return {
       lang,
+      locale,
       num: (valor, casas = 2) =>
         valor.toLocaleString(locale, {
           maximumFractionDigits: casas,

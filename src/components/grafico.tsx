@@ -7,20 +7,35 @@ interface GraficoProps {
   cor: string
   sigma: number
   limite: number
+  // Texto de acessibilidade do gráfico (padrão: o de gastos).
+  titulo?: string
+  // Quantidade de barras do histograma.
+  caixas?: number
+  // false esconde a linha e a área do limite (usado na demonstração do TLC).
+  mostrarLimite?: boolean
 }
 
 const LARGURA = 700
 const ALTURA = 300
 // Espaço embaixo para os números do eixo X.
 const MARGEM = 30
-// Quantidade de barras do histograma.
-const CAIXAS = 24
+// Quantidade padrão de barras do histograma.
+const CAIXAS_PADRAO = 24
 // Quantidade de pontos para desenhar a curva.
 const PONTOS = 120
 
 // Histograma dos dados reais + curva normal por cima.
 // A área colorida é a probabilidade P(X > limite).
-export const Grafico = ({ gastos, mu, sigma, limite, cor }: GraficoProps) => {
+export const Grafico = ({
+  gastos,
+  mu,
+  sigma,
+  limite,
+  cor,
+  titulo,
+  caixas: CAIXAS = CAIXAS_PADRAO,
+  mostrarLimite = true,
+}: GraficoProps) => {
   const { t } = useI18n()
 
   // Eixo X: de μ − 3,5σ até μ + 3,5σ.
@@ -67,7 +82,7 @@ export const Grafico = ({ gastos, mu, sigma, limite, cor }: GraficoProps) => {
 
   return (
     <svg className="w-full" viewBox={`0 0 ${LARGURA} ${ALTURA}`}>
-      <title>{t('chartTitle')}</title>
+      <title>{titulo ?? t('chartTitle')}</title>
 
       {densidades.map((d, i) => (
         <rect
@@ -81,7 +96,9 @@ export const Grafico = ({ gastos, mu, sigma, limite, cor }: GraficoProps) => {
         />
       ))}
 
-      <polygon fill={cor} fillOpacity={0.35} points={pontosArea.join(' ')} />
+      {mostrarLimite ? (
+        <polygon fill={cor} fillOpacity={0.35} points={pontosArea.join(' ')} />
+      ) : null}
       <polyline
         fill="none"
         points={curva}
@@ -90,14 +107,16 @@ export const Grafico = ({ gastos, mu, sigma, limite, cor }: GraficoProps) => {
       />
 
       {/* Linha vertical no valor escolhido */}
-      <line
-        stroke={cor}
-        strokeWidth={2}
-        x1={telaX(limite)}
-        x2={telaX(limite)}
-        y1={0}
-        y2={telaY(0)}
-      />
+      {mostrarLimite ? (
+        <line
+          stroke={cor}
+          strokeWidth={2}
+          x1={telaX(limite)}
+          x2={telaX(limite)}
+          y1={0}
+          y2={telaY(0)}
+        />
+      ) : null}
 
       {marcas.map((k) => (
         <text
@@ -108,7 +127,7 @@ export const Grafico = ({ gastos, mu, sigma, limite, cor }: GraficoProps) => {
           x={telaX(mu + k * sigma)}
           y={ALTURA - 8}
         >
-          {Math.round(mu + k * sigma)}
+          {Number((mu + k * sigma).toFixed(sigma < 1 ? 1 : 0))}
         </text>
       ))}
     </svg>

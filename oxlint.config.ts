@@ -10,6 +10,14 @@ export default defineConfig({
     ...(core.ignorePatterns ?? []),
     'src/components/ui/**',
     'src/hooks/**',
+    'src/lib/highlighter.tsx',
     '.claude/**',
+  ],
+  overrides: [
+    {
+      // Os "?raw" do Vite importam o texto do arquivo, o lint não enxerga o export.
+      files: ['src/routes/docs.tsx'],
+      rules: { 'import/default': 'off' },
+    },
   ],
 })

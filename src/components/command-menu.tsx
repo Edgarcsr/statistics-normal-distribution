@@ -1,7 +1,7 @@
 import { useNavigate } from '@tanstack/react-router'
+import { BookOpen } from 'lucide-react'
 import { useEffect } from 'react'
 
-import { NAV_ITEMS } from '@/components/app-sidebar'
 import {
   Command,
   CommandDialog,
@@ -12,7 +12,9 @@ import {
   CommandList,
 } from '@/components/ui/command'
 import { useI18n } from '@/lib/i18n'
+import { SECOES_MAGIC } from '@/lib/magic-secoes'
 import { SETORES } from '@/lib/setores'
+import { COR_DUELO, MODOS_XADREZ } from '@/lib/xadrez'
 
 interface CommandMenuProps {
   open: boolean
@@ -47,12 +49,15 @@ export const CommandMenu = ({ open, onOpenChange }: CommandMenuProps) => {
         <CommandList className="max-h-96">
           <CommandEmpty>{t('noResults')}</CommandEmpty>
           <CommandGroup heading={t('navigation')}>
-            {NAV_ITEMS.map(({ label, icon: Icon }) => (
-              <CommandItem key={label} onSelect={() => onOpenChange(false)}>
-                <Icon />
-                {t(label)}
-              </CommandItem>
-            ))}
+            <CommandItem
+              onSelect={() => {
+                navigate({ to: '/docs' })
+                onOpenChange(false)
+              }}
+            >
+              <BookOpen />
+              {t('docs')}
+            </CommandItem>
           </CommandGroup>
           <CommandGroup heading={t('problems')}>
             {SETORES.map((setor) => (
@@ -73,6 +78,55 @@ export const CommandMenu = ({ open, onOpenChange }: CommandMenuProps) => {
                 {t(setor.id)}
               </CommandItem>
             ))}
+          </CommandGroup>
+          <CommandGroup heading={t('magic')}>
+            {SECOES_MAGIC.map((secao) => (
+              <CommandItem
+                key={secao.id}
+                onSelect={() => {
+                  navigate({
+                    params: { secao: secao.id },
+                    to: '/magic/$secao',
+                  })
+                  onOpenChange(false)
+                }}
+              >
+                <span
+                  className="size-2 rounded-full"
+                  style={{ backgroundColor: secao.cor }}
+                />
+                {t(secao.id)}
+              </CommandItem>
+            ))}
+          </CommandGroup>
+          <CommandGroup heading={t('xadrez')}>
+            {MODOS_XADREZ.map((modo) => (
+              <CommandItem
+                key={modo.id}
+                onSelect={() => {
+                  navigate({ params: { modo: modo.id }, to: '/xadrez/$modo' })
+                  onOpenChange(false)
+                }}
+              >
+                <span
+                  className="size-2 rounded-full"
+                  style={{ backgroundColor: modo.cor }}
+                />
+                {t(modo.id)}
+              </CommandItem>
+            ))}
+            <CommandItem
+              onSelect={() => {
+                navigate({ to: '/xadrez/duelo' })
+                onOpenChange(false)
+              }}
+            >
+              <span
+                className="size-2 rounded-full"
+                style={{ backgroundColor: COR_DUELO }}
+              />
+              {t('duelo')}
+            </CommandItem>
           </CommandGroup>
         </CommandList>
       </Command>
