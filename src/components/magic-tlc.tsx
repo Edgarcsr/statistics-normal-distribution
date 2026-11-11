@@ -13,8 +13,8 @@ const REPETICOES = 1000
 const BARRAS_MAXIMAS = 24
 const LARGURA_DO_INTERVALO = 7
 
-// Teorema do Limite Central (slide 17): as MÉDIAS de amostras formam um sino,
-// mesmo que o poder individual seja torto. O erro padrão é σ/√n (slide 18).
+// Teorema do Limite Central: as MÉDIAS de amostras formam um sino,
+// mesmo que o poder individual seja torto. O erro padrão é σ/√n.
 export const MagicTlc = ({ cartas, cor }: { cartas: Carta[]; cor: string }) => {
   const [n, setN] = useState<number>(5)
   const [rodada, setRodada] = useState(0)

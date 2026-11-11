@@ -12,6 +12,8 @@ export default defineConfig({
     'src/hooks/**',
     'src/lib/highlighter.tsx',
     '.claude/**',
+    // Gerador do banner: dither com bitwise, fora do app.
+    'assets/banner/**',
   ],
   overrides: [
     {

@@ -5,7 +5,6 @@ import { AppShell } from '@/components/app-shell'
 import { MagicCusto } from '@/components/magic-custo'
 import { MagicPoder } from '@/components/magic-poder'
 import { MagicTlc } from '@/components/magic-tlc'
-import { Badge } from '@/components/ui/badge'
 import { useI18n } from '@/lib/i18n'
 import { carregarCartas } from '@/lib/magic'
 import type { Carta } from '@/lib/magic'
@@ -27,10 +26,7 @@ const Magic = () => {
   return (
     <AppShell magicSelecionado={secao.id} titulo={t(secao.id)}>
       <div className="mx-auto flex w-full max-w-4xl flex-col gap-6 p-8">
-        <div className="flex items-center gap-3">
-          <h1 className="text-3xl font-normal">{t(secao.id)}</h1>
-          <Badge variant="secondary">{secao.slides}</Badge>
-        </div>
+        <h1 className="text-3xl font-normal">{t(secao.id)}</h1>
         <p className="text-muted-foreground leading-relaxed">
           {secao.descricao}
         </p>

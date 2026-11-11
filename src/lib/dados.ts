@@ -27,7 +27,8 @@ export const media = (valores: number[]): number => {
   return soma / valores.length
 }
 
-// Desvio padrão amostral: raiz da média dos quadrados das distâncias até a média.
+// Desvio padrão amostral: raiz da soma dos quadrados das distâncias
+// até a média, depois de dividir essa soma por n − 1.
 export const desvioPadrao = (valores: number[]): number => {
   const mu = media(valores)
   let soma = 0

@@ -1,11 +1,11 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { ChevronDown } from 'lucide-react'
+import { useEffect, useState } from 'react'
 import type { ReactNode } from 'react'
 
 import { AppShell } from '@/components/app-shell'
 import { DocCode, trecho } from '@/components/doc-code'
 import graficoFonte from '@/components/grafico.tsx?raw'
-import { Badge } from '@/components/ui/badge'
 import { BlurFade } from '@/components/ui/blur-fade'
 import { Card, CardContent } from '@/components/ui/card'
 import {
@@ -13,7 +13,7 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from '@/components/ui/collapsible'
-import { NumberTicker } from '@/components/ui/number-ticker'
+import { carregarGastos, desvioPadrao, escoreZ, media } from '@/lib/dados'
 import dadosFonte from '@/lib/dados.ts?raw'
 import { useI18n } from '@/lib/i18n'
 import i18nFonte from '@/lib/i18n.tsx?raw'
@@ -38,12 +38,20 @@ const ARQ = {
 } as const
 
 const CODIGO_SPLIT = "split(',')"
+const ARQUIVO_CAFETERIAS = '01_cafeterias.csv'
+const LIMITE_CAFETERIAS = 300
+const CASAS_INTEIRO = 0
+const CASAS_CURTO = 2
+const CASAS_Z = 4
+const CASAS_PHI = 3
+const CASAS_PROBABILIDADE = 1
 
 const SECOES = [
   { id: 'visao-geral', titulo: 'Visão geral' },
   { id: 'dados', titulo: 'Lendo os dados' },
-  { id: 'normal', titulo: 'A curva normal' },
+  { id: 'desvio', titulo: 'Desvio padrão' },
   { id: 'escore-z', titulo: 'Escore Z' },
+  { id: 'normal', titulo: 'A curva normal' },
   { id: 'probabilidade', titulo: 'A probabilidade' },
   { id: 'grafico', titulo: 'O gráfico' },
   { id: 'pagina', titulo: 'A página' },
@@ -55,21 +63,22 @@ const SECOES = [
 
 const FLUXO = [
   ['carregarGastos', 'lê o CSV do setor e devolve a lista de gastos.'],
-  ['media e desvioPadrao', 'estimam μ e σ a partir dessa lista.'],
+  ['media', 'estima μ, a soma dos gastos dividida por n.'],
+  ['desvioPadrao', 'estima σ amostral: √(Σ(x − μ)² / (n − 1)).'],
   ['escoreZ', 'converte o valor digitado em Z = (x − μ) / σ.'],
-  ['cdf', 'devolve a área acumulada Φ; a chance de gastar mais é 1 − Φ.'],
+  ['cdf', 'devolve Φ(Z), a área à esquerda; a chance de gastar mais é 1 − Φ.'],
   ['Grafico', 'desenha o histograma real e a curva normal por cima.'],
 ] as const
 
 const ARQUIVOS = [
-  [ARQ.dados, 'CSV, média, desvio padrão e Z', 'slides 14–15'],
-  [ARQ.normal, 'densidade (pdf) e área acumulada (cdf)', 'slides 7, 15, 20'],
-  [ARQ.grafico, 'histograma + curva em SVG', 'slides 7, 10, 13'],
-  [ARQ.problema, 'a tela de cada problema', 'slides 14–16'],
-  [ARQ.magic, 'cartas de Magic: Z por custo e TLC', 'slides 12, 14, 17–18'],
-  [ARQ.xadrez, 'modos de xadrez e modelos de Elo', 'slides 14–15'],
-  [ARQ.setores, 'os 5 setores e seus CSVs', '—'],
-  [ARQ.i18n, 'textos em português e inglês', '—'],
+  [ARQ.dados, 'CSV, média, desvio padrão e Z'],
+  [ARQ.normal, 'densidade (pdf) e área acumulada (cdf)'],
+  [ARQ.grafico, 'histograma + curva em SVG'],
+  [ARQ.problema, 'a tela de cada problema'],
+  [ARQ.magic, 'cartas de Magic: Z por custo e TLC'],
+  [ARQ.xadrez, 'modos de xadrez e modelos de Elo'],
+  [ARQ.setores, 'os 5 setores e seus CSVs'],
+  [ARQ.i18n, 'textos em português e inglês'],
 ] as const
 
 const PERGUNTAS: readonly { pergunta: string; resposta: ReactNode }[] = [
@@ -79,9 +88,9 @@ const PERGUNTAS: readonly { pergunta: string; resposta: ReactNode }[] = [
       'Porque estamos estimando σ a partir de uma amostra. A média da amostra já "gastou" um grau de liberdade, e dividir por n subestimaria a dispersão. Com n − 1 (correção de Bessel) a estimativa fica sem viés. Com 1200 clientes a diferença é minúscula, mas o correto para amostra é n − 1.',
   },
   {
-    pergunta: 'Por que não usar a tabela Z como na aula?',
+    pergunta: 'Por que o código não usa uma tabela Z?',
     resposta:
-      'A tabela é só um jeito de consultar Φ(z), que não tem fórmula fechada. O código calcula Φ direto com a aproximação clássica da função erro (Abramowitz & Stegun, erro máximo ≈ 1,5·10⁻⁷). O resultado bate com a tabela: Φ(2) = 0,9772, o mesmo do slide 16.',
+      'A tabela é só um jeito de consultar Φ(z), a área à esquerda de z, e essa função não tem fórmula fechada. O código calcula Φ direto com a aproximação clássica da função erro (Abramowitz & Stegun, erro máximo ≈ 1,5·10⁻⁷). Para z = 2, o resultado é 0,9772, o mesmo valor da tabela.',
   },
   {
     pergunta: 'Os gastos realmente seguem uma distribuição normal?',
@@ -91,7 +100,7 @@ const PERGUNTAS: readonly { pergunta: string; resposta: ReactNode }[] = [
   {
     pergunta: 'Isso é o Teorema do Limite Central?',
     resposta:
-      'Não diretamente. O TLC (slide 17) diz que a média de amostras grandes é aproximadamente normal. Aqui supomos que o gasto de cada cliente já é normal e usamos σ, não o erro padrão σ/√n (slide 18).',
+      'Não diretamente. O TLC diz que a média de amostras grandes é aproximadamente normal. Aqui supomos que o gasto de cada cliente já é normal e usamos σ, não o erro padrão σ/√n.',
   },
   {
     pergunta: 'Por que P(X > x) e não P(X = x)?',
@@ -101,12 +110,12 @@ const PERGUNTAS: readonly { pergunta: string; resposta: ReactNode }[] = [
   {
     pergunta: 'Por que 1 − Φ(Z)?',
     resposta:
-      'Φ(z) é a área à esquerda de z (slide 15) e a área total é 1 (slide 10). Então a área à direita é o que sobra: P(Z > a) = 1 − Φ(a).',
+      'Φ(z) é a área à esquerda de z e a área total é 1. Então a área à direita é o que sobra: P(Z > a) = 1 − Φ(a).',
   },
   {
     pergunta: 'Por que o eixo do gráfico vai de μ − 3,5σ a μ + 3,5σ?',
     resposta:
-      'A regra empírica (slide 13) diz que 99,73% da área está em 3σ. Usar 3,5σ cobre praticamente tudo e deixa uma folga visual nas pontas.',
+      'A regra empírica diz que 99,73% da área está em 3σ. Usar 3,5σ cobre praticamente tudo e deixa uma folga visual nas pontas.',
   },
   {
     pergunta: 'Por que as barras são "densidade" e não contagem?',
@@ -128,68 +137,160 @@ const Texto = ({ children }: { children: ReactNode }) => (
 interface SecaoProps {
   id: string
   titulo: string
-  // Slides da aula relacionados a esta seção.
-  slides?: string
   atraso?: number
   children: ReactNode
 }
 
-const Secao = ({ id, titulo, slides, atraso = 0, children }: SecaoProps) => (
+const Secao = ({ id, titulo, atraso = 0, children }: SecaoProps) => (
   <BlurFade delay={atraso} inView>
     <section className="flex scroll-mt-6 flex-col gap-4" id={id}>
-      <div className="flex items-center gap-3">
-        <h2 className="text-2xl font-normal">{titulo}</h2>
-        {slides ? <Badge variant="secondary">{slides}</Badge> : null}
-      </div>
+      <h2 className="text-2xl font-normal">{titulo}</h2>
       {children}
     </section>
   </BlurFade>
 )
 
-// Reproduz o Exemplo 1 da aula (slide 16) usando as funções do próprio app.
-const ExemploDaAula = () => {
-  const { locale } = useI18n()
-  const z = (104 - 100) / 2
-  const probAcima = 1 - cdf(104, 100, 2)
+interface ContaCafeterias {
+  acima: number
+  mu: number
+  n: number
+  phi: number
+  probAcima: number
+  sigma: number
+  soma: number
+  somaQuadrados: number
+  variancia: number
+  z: number
+}
+
+// Mesmas funções da tela, para o exemplo não divergir do app.
+const contaCafeterias = (gastos: readonly number[]): ContaCafeterias => {
+  const n = gastos.length
+  let soma = 0
+  for (const gasto of gastos) {
+    soma += gasto
+  }
+  const mu = media(gastos)
+  let somaQuadrados = 0
+  for (const gasto of gastos) {
+    somaQuadrados += (gasto - mu) ** 2
+  }
+  const sigma = desvioPadrao(gastos)
+  const phi = cdf(LIMITE_CAFETERIAS, mu, sigma)
+  let acima = 0
+  for (const gasto of gastos) {
+    if (gasto > LIMITE_CAFETERIAS) {
+      acima += 1
+    }
+  }
+  return {
+    acima,
+    mu,
+    n,
+    phi,
+    probAcima: 1 - phi,
+    sigma,
+    soma,
+    somaQuadrados,
+    variancia: somaQuadrados / (n - 1),
+    z: escoreZ(LIMITE_CAFETERIAS, mu, sigma),
+  }
+}
+
+interface LinhaDaConta {
+  conta: string
+  valor: string
+}
+
+const ExemploCafeterias = () => {
+  const { num } = useI18n()
+  const [conta, setConta] = useState<ContaCafeterias | null>(null)
+  const [erro, setErro] = useState(false)
+
+  useEffect(() => {
+    const baixar = async () => {
+      try {
+        const gastos = await carregarGastos(ARQUIVO_CAFETERIAS)
+        setConta(contaCafeterias(gastos))
+      } catch {
+        setErro(true)
+      }
+    }
+    baixar()
+  }, [])
+
+  if (erro) {
+    return (
+      <p className="text-muted-foreground text-sm">
+        Não foi possível ler {ARQUIVO_CAFETERIAS}.
+      </p>
+    )
+  }
+
+  if (!conta) {
+    return (
+      <p className="text-muted-foreground text-sm">Carregando o exemplo…</p>
+    )
+  }
+
+  const linhas: readonly LinhaDaConta[] = [
+    { conta: 'n', valor: num(conta.n, CASAS_INTEIRO) },
+    { conta: 'Σx', valor: num(conta.soma, CASAS_CURTO) },
+    { conta: 'μ = Σx / n', valor: num(conta.mu, CASAS_CURTO) },
+    { conta: 'Σ(x − μ)²', valor: num(conta.somaQuadrados, CASAS_CURTO) },
+    {
+      conta: 'σ² = Σ(x − μ)² / (n − 1)',
+      valor: num(conta.variancia, CASAS_CURTO),
+    },
+    { conta: 'σ', valor: num(conta.sigma, CASAS_CURTO) },
+    {
+      conta: `Z = (${LIMITE_CAFETERIAS} − μ) / σ`,
+      valor: `${num(conta.z, CASAS_CURTO)} (${num(conta.z, CASAS_Z)})`,
+    },
+    {
+      conta: 'Φ(Z), área à esquerda',
+      valor: num(conta.phi, CASAS_PHI),
+    },
+    {
+      conta: `P(X > ${LIMITE_CAFETERIAS}) = 1 − Φ(Z)`,
+      valor: `${num(conta.probAcima * 100, CASAS_PROBABILIDADE)}%`,
+    },
+    {
+      conta: 'proporção real',
+      valor: `${num(conta.acima, CASAS_INTEIRO)}/${num(conta.n, CASAS_INTEIRO)} (${num((conta.acima / conta.n) * 100, CASAS_CURTO)}%)`,
+    },
+  ]
 
   return (
     <Card className="border-border relative overflow-hidden rounded-2xl border ring-0">
       <CardContent className="flex flex-col gap-4">
         <p className="text-muted-foreground text-sm">
-          Teste ao vivo, calculado agora com <Cod>cdf</Cod>: peça de 100 mm, σ =
-          2 mm, rejeitada acima de 104 mm.
+          {ARQUIVO_CAFETERIAS}, x = {LIMITE_CAFETERIAS}. μ, σ, Z e Φ saem de{' '}
+          <Cod>media</Cod>, <Cod>desvioPadrao</Cod>, <Cod>escoreZ</Cod> e{' '}
+          <Cod>cdf</Cod>.
         </p>
-        <div className="grid gap-4 sm:grid-cols-3">
-          <div className="flex flex-col gap-1">
-            <span className="text-muted-foreground text-sm">Z</span>
-            <span className="text-2xl tabular-nums">
-              <NumberTicker decimalPlaces={2} locale={locale} value={z} />
-            </span>
-          </div>
-          <div className="flex flex-col gap-1">
-            <span className="text-muted-foreground text-sm">Φ(2)</span>
-            <span className="text-2xl tabular-nums">
-              <NumberTicker
-                decimalPlaces={4}
-                locale={locale}
-                value={cdf(2, 0, 1)}
-              />
-            </span>
-          </div>
-          <div className="flex flex-col gap-1">
-            <span className="text-muted-foreground text-sm">P(X &gt; 104)</span>
-            <span className="text-2xl tabular-nums">
-              <NumberTicker
-                decimalPlaces={2}
-                locale={locale}
-                value={probAcima * 100}
-              />
-              %
-            </span>
-          </div>
+        <div className="border-border overflow-x-auto rounded-xl border">
+          <table className="w-full text-left text-sm">
+            <thead className="text-muted-foreground">
+              <tr>
+                <th className="px-4 py-2 font-normal">Conta</th>
+                <th className="px-4 py-2 font-normal">Valor</th>
+              </tr>
+            </thead>
+            <tbody>
+              {linhas.map((linha) => (
+                <tr key={linha.conta} className="border-border border-t">
+                  <td className="px-4 py-2">{linha.conta}</td>
+                  <td className="px-4 py-2 tabular-nums">{linha.valor}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
         <p className="text-muted-foreground text-sm">
-          Resultado do slide: 0,9772 e 2,28%.
+          O modelo dá {num(conta.probAcima * 100, CASAS_PROBABILIDADE)}% e a
+          pesquisa dá {num((conta.acima / conta.n) * 100, CASAS_CURTO)}% (
+          {num(conta.acima, CASAS_INTEIRO)} de {num(conta.n, CASAS_INTEIRO)}).
         </p>
       </CardContent>
     </Card>
@@ -219,13 +320,13 @@ const Pergunta = ({
 const Documentacao = () => {
   const { t } = useI18n()
 
-  const carregar = trecho(dadosFonte, 'export const carregarGastos', '}')
-  const estatisticas = trecho(
+  const carregar = trecho(
     dadosFonte,
-    '// Média: soma',
-    'export const desvioPadrao'
+    'export const carregarColuna',
+    "carregarColuna(arquivo, 'gasto_mensal')"
   )
-  const desvio = trecho(dadosFonte, 'export const desvioPadrao', '}')
+  const mediaCodigo = trecho(dadosFonte, '// Média: soma', '}')
+  const desvio = trecho(dadosFonte, '// Desvio padrão amostral', '}')
   const z = trecho(dadosFonte, '// Escore Z', '(x - mu) / sigma')
   const erf = trecho(normalFonte, '// Abramowitz', '}')
   const pdf = trecho(normalFonte, 'export const pdf', '}')
@@ -269,10 +370,11 @@ const Documentacao = () => {
           <header className="flex flex-col gap-4">
             <h1 className="text-3xl font-normal">Como o app funciona</h1>
             <Texto>
-              Esta página explica o código do app, arquivo por arquivo, ligando
-              cada parte ao que foi visto na Aula 09. Os blocos de código são
-              lidos dos próprios arquivos do projeto, então sempre refletem o
-              que está rodando.
+              Esta página explica o código do app na ordem da conta feita na
+              mão: ler os dados, achar a média, achar o desvio padrão, calcular
+              Z, consultar Φ(Z) e responder a probabilidade. Os blocos de código
+              são lidos dos próprios arquivos do projeto, então sempre refletem
+              o que está rodando.
             </Texto>
             <nav aria-label="Nesta página" className="flex flex-wrap gap-2">
               {SECOES.map(({ id, titulo }) => (
@@ -313,18 +415,14 @@ const Documentacao = () => {
                 <tr>
                   <th className="px-4 py-2 font-normal">Arquivo</th>
                   <th className="px-4 py-2 font-normal">O que faz</th>
-                  <th className="px-4 py-2 font-normal">Aula</th>
                 </tr>
               </thead>
               <tbody>
-                {ARQUIVOS.map(([arquivo, funcao, slides]) => (
+                {ARQUIVOS.map(([arquivo, funcao]) => (
                   <tr key={arquivo} className="border-border border-t">
                     <td className="px-4 py-2 font-mono text-xs">{arquivo}</td>
                     <td className="text-muted-foreground px-4 py-2">
                       {funcao}
-                    </td>
-                    <td className="text-muted-foreground px-4 py-2">
-                      {slides}
                     </td>
                   </tr>
                 ))}
@@ -333,7 +431,7 @@ const Documentacao = () => {
           </div>
         </Secao>
 
-        <Secao id="dados" slides="slides 14–15" titulo="Lendo os dados">
+        <Secao id="dados" titulo="Lendo os dados">
           <Texto>
             O CSV fica em <Cod>public/data</Cod>, então o navegador o baixa com{' '}
             <Cod>fetch</Cod>. Só nos interessa a coluna <Cod>gasto_mensal</Cod>:
@@ -348,31 +446,60 @@ const Documentacao = () => {
             primeiraLinha={carregar.primeiraLinha}
           />
           <Texto>
-            A média é a soma dividida pela quantidade. O desvio padrão é a raiz
-            da média dos quadrados das distâncias até a média, com{' '}
-            <Cod>n − 1</Cod> no denominador porque σ está sendo estimado de uma
-            amostra.
-          </Texto>
-          <DocCode
-            arquivo={ARQ.dados}
-            codigo={`${estatisticas.codigo.split('\n').slice(0, -1).join('\n')}\n${desvio.codigo}`}
-            destacar={['- 1)']}
-            primeiraLinha={estatisticas.primeiraLinha}
-          />
-          <Texto>
             Essas contas lidam bem com o formato simples dos nossos CSVs. Ele
             separa por vírgula sem aspas, então o <Cod>{CODIGO_SPLIT}</Cod>{' '}
             basta.
           </Texto>
+          <Texto>
+            A média μ é a soma dos gastos dividida pela quantidade de clientes.
+          </Texto>
+          <DocCode
+            arquivo={ARQ.dados}
+            codigo={mediaCodigo.codigo}
+            primeiraLinha={mediaCodigo.primeiraLinha}
+          />
         </Secao>
 
-        <Secao id="normal" slides="slides 7 e 15" titulo="A curva normal">
+        <Secao id="desvio" titulo="Desvio padrão">
           <Texto>
-            A função de densidade do slide 7,{' '}
-            <Cod>f(x) = 1/(σ√2π) · e^(−½ z²)</Cod>, vira três linhas. O{' '}
-            <Cod>z</Cod> é o valor já padronizado, e a divisão por{' '}
-            <Cod>sd * √2π</Cod> é a constante de normalização que garante área
-            total igual a 1.
+            O desvio padrão amostral σ é a raiz quadrada da soma dos quadrados
+            das distâncias até a média, depois de dividir essa soma por{' '}
+            <Cod>n − 1</Cod>: √(Σ(x − μ)² / (n − 1)). O <Cod>n − 1</Cod> entra
+            porque σ está sendo estimado de uma amostra.
+          </Texto>
+          <DocCode
+            arquivo={ARQ.dados}
+            codigo={desvio.codigo}
+            destacar={['- 1)']}
+            primeiraLinha={desvio.primeiraLinha}
+          />
+        </Secao>
+
+        <Secao id="escore-z" titulo="Escore Z">
+          <Texto>
+            Z diz quantos desvios padrão um valor está acima (+) ou abaixo (−)
+            da média: Z = (x − μ) / σ. Padronizar transforma qualquer X ~ N(μ,
+            σ²) em Z ~ N(0, 1). É esse Z que se procura na tabela, no passo
+            seguinte.
+          </Texto>
+          <DocCode
+            arquivo={ARQ.dados}
+            codigo={z.codigo}
+            primeiraLinha={z.primeiraLinha}
+          />
+        </Secao>
+
+        <Secao id="normal" titulo="A curva normal">
+          <Texto>
+            Com o Z calculado, o passo seguinte é consultar a tabela Z. O que a
+            tabela devolve é Φ(Z), a função de distribuição acumulada (cdf): a
+            área sob a curva à esquerda de Z.
+          </Texto>
+          <Texto>
+            A altura da curva em cada ponto é outra conta, a densidade (pdf),{' '}
+            <Cod>f(x) = 1/(σ√2π) · e^(−½ z²)</Cod>. O <Cod>z</Cod> é o valor já
+            padronizado, e a divisão por <Cod>σ√2π</Cod> faz a área total valer
+            1. O gráfico usa essa altura; a tabela não.
           </Texto>
           <DocCode
             arquivo={ARQ.normal}
@@ -381,10 +508,10 @@ const Documentacao = () => {
             primeiraLinha={pdf.primeiraLinha}
           />
           <Texto>
-            Já a área acumulada Φ(z) não tem fórmula fechada, e é por isso que
-            existe a tabela Z. No código usamos a função erro (<Cod>erf</Cod>),
-            calculada por uma aproximação polinomial publicada por Abramowitz e
-            Stegun, e a relação Φ(z) = ½(1 + erf(z/√2)).
+            Φ(z) não tem fórmula fechada, e é por isso que a tabela existe. O
+            computador não guarda a tabela: calcula o mesmo valor com a função
+            erro (<Cod>erf</Cod>), pela aproximação de Abramowitz e Stegun, e a
+            relação Φ(z) = ½(1 + erf(z/√2)).
           </Texto>
           <DocCode
             arquivo={ARQ.normal}
@@ -397,32 +524,14 @@ const Documentacao = () => {
             destacar={['erf(']}
             primeiraLinha={cdfCodigo.primeiraLinha}
           />
-          <ExemploDaAula />
         </Secao>
 
-        <Secao id="escore-z" slides="slide 14" titulo="Escore Z">
+        <Secao id="probabilidade" titulo="A probabilidade">
           <Texto>
-            Z diz quantos desvios padrão um valor está acima (+) ou abaixo (−)
-            da média. Padronizar transforma qualquer X ~ N(μ, σ²) em Z ~ N(0,
-            1), que é o que a tabela cobre.
-          </Texto>
-          <DocCode
-            arquivo={ARQ.dados}
-            codigo={z.codigo}
-            primeiraLinha={z.primeiraLinha}
-          />
-        </Secao>
-
-        <Secao
-          id="probabilidade"
-          slides="slides 15 e 16"
-          titulo="A probabilidade"
-        >
-          <Texto>
-            Com μ e σ estimados, a resposta da tela é{' '}
-            <Cod>1 − cdf(limite, mu, sigma)</Cod>, ou seja, 1 − Φ(Z). Logo
-            abaixo, o app ainda conta quantos clientes reais gastaram mais que o
-            limite, para comparar o modelo com a realidade.
+            A pergunta da tela é a área à direita do valor: P(X &gt; x) = 1 −
+            Φ(Z). No código isso é <Cod>1 − cdf(limite, mu, sigma)</Cod>. Logo
+            abaixo, o app conta quantos clientes reais gastaram mais que o
+            limite e compara essa proporção com a probabilidade do modelo.
           </Texto>
           <DocCode
             arquivo={ARQ.problema}
@@ -431,24 +540,28 @@ const Documentacao = () => {
             primeiraLinha={calculo.primeiraLinha}
           />
           <Texto>
-            Para o caso &ldquo;entre dois valores&rdquo; (slide 15, Φ(b) − Φ(a))
-            já existe <Cod>probabilityBetween</Cod>, mas ela ainda não está
-            ligada a nenhuma tela.
+            Para o caso &ldquo;entre dois valores&rdquo;, Φ(b) − Φ(a), já existe{' '}
+            <Cod>probabilityBetween</Cod>, mas ela ainda não está ligada a
+            nenhuma tela.
           </Texto>
           <DocCode
             arquivo={ARQ.normal}
             codigo={entre.codigo}
             primeiraLinha={entre.primeiraLinha}
           />
+          <Texto>
+            A mesma conta, com as cafeterias e x = {LIMITE_CAFETERIAS}. Os
+            valores estão arredondados; Z aparece com duas e com quatro casas.
+          </Texto>
+          <ExemploCafeterias />
         </Secao>
 
-        <Secao id="grafico" slides="slides 7, 10 e 13" titulo="O gráfico">
+        <Secao id="grafico" titulo="O gráfico">
           <Texto>
             O gráfico é um SVG desenhado à mão, sem biblioteca. Primeiro
-            decidimos o intervalo (μ ± 3,5σ, a regra empírica do slide 13 com
-            folga), dividimos em 24 caixas e contamos quantos clientes caem em
-            cada uma. A altura das barras é uma densidade, na mesma escala da
-            curva.
+            decidimos o intervalo (μ ± 3,5σ, a regra empírica com uma folga),
+            dividimos em 24 caixas e contamos quantos clientes caem em cada uma.
+            A altura das barras é uma densidade, na mesma escala da curva.
           </Texto>
           <DocCode
             arquivo={ARQ.grafico}
@@ -497,11 +610,7 @@ const Documentacao = () => {
           </Texto>
         </Secao>
 
-        <Secao
-          id="magic"
-          slides="slides 12, 14, 17 e 18"
-          titulo="Magic e Scryfall"
-        >
+        <Secao id="magic" titulo="Magic e Scryfall">
           <Texto>
             As páginas de Magic usam as criaturas de papel da Scryfall. O script{' '}
             <Cod>scripts/scryfall.ts</Cod> baixa o arquivo oficial de cartas
@@ -540,7 +649,7 @@ const Documentacao = () => {
           </Texto>
         </Secao>
 
-        <Secao id="xadrez" slides="slides 14 e 15" titulo="Xadrez e FIDE">
+        <Secao id="xadrez" titulo="Xadrez e FIDE">
           <Texto>
             Os ratings vêm da lista pública da FIDE. <Cod>scripts/fide.ts</Cod>{' '}
             lê o XML (cerca de 860 MB) aos pedaços, fica só com jogadores ativos
