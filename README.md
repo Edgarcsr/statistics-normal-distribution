@@ -18,6 +18,13 @@ Trabalho de estatística sobre **distribuição normal**. O site responde, para 
 
 > Qual a chance de um cliente gastar mais que um valor X por mês?
 
+## Integrantes do grupo
+
+- Nicholas Birochi, RA 081230038
+- Henrico Birochi, RA 081230027
+- Vítor Agostino Braghittoni, RA 081230024
+- Edgar Camacho Seabra Ribeiro, RA 081230039
+
 ## Como funciona
 
 1. Lê a coluna `gasto_mensal` do CSV do setor (1200 clientes cada).
